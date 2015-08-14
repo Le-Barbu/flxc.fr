@@ -4,14 +4,413 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-06-08T12:36:59+00:00</updated>
-<id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
-<link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
+<updated>2015-08-09T00:00:10+00:00</updated>
+<id>http://localhost/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
+<link href="http://localhost/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
-<link href="http://flxc.fr/rss" rel="alternate"/>
+<link href="http://localhost/rss" rel="alternate"/>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/3029</id>
+	<id>tag:localhost,2015-08-14:/3184</id>
+	<link href="http://mememaster.tumblr.com/post/126613326424" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/0838cf75238b50ae17effa4d4a223de2/tumblr_n28jwuCiM81tnb73vo1_500.jpg"><br><br></body></html>
+]]></content>
+	<updated>2015-08-13T20:49:54+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-08-13T20:49:54+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2015-08-14:/3180</id>
+	<link href="http://mememaster.tumblr.com/post/126619317904" rel="alternate" type="text/html"/>
+	<title type="html">toothlessloveshiccup:
+
+semperannoying:
+
+A friendly walrus on a...</title>
+	<summary type="html"><![CDATA[    toothlessloveshiccup:
+
+semperannoying:
+
+A friendly walrus on a Russian submarine.
+
+That officer ...]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/0a43d86a4c8df13d27ba63e0304fbb66/tumblr_n5uyojsN0L1qaj2cmo2_500.jpg"><br><br><img src="http://41.media.tumblr.com/1d9bad59f2c2fd0f3433ff89c37fb579/tumblr_n5uyojsN0L1qaj2cmo1_500.jpg"><br><br><img src="http://36.media.tumblr.com/99c25d2c2088c61413cfdc60fe0d5011/tumblr_n5uyojsN0L1qaj2cmo3_500.jpg"><br><br><img src="http://40.media.tumblr.com/5132d6549c1f896384e08f282fcba57e/tumblr_n5uyojsN0L1qaj2cmo4_500.jpg"><br><br><p><a href="http://toothlessloveshiccup.tumblr.com/post/126455170795" target="_blank" rel="noreferrer">toothlessloveshiccup</a>:</p>
+<blockquote>
+<p><a href="http://semperannoying.tumblr.com/post/86354263916" target="_blank" rel="noreferrer">semperannoying</a>:</p>
+<blockquote>
+<p>A friendly walrus on a Russian submarine.</p>
+</blockquote>
+<p>That officer looks so fucking amused.</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-08-13T22:17:34+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-08-13T22:17:34+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2015-08-14:/3246</id>
+	<link href="http://kawaiidesune.tumblr.com/post/126627495128" rel="alternate" type="text/html"/>
+	<title type="html">nosealviewing:
+
+June 2015
+Closed - (Reedited)</title>
+	<summary type="html"><![CDATA[nosealviewing:
+
+June 2015
+Closed - (Reedited)
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/c6cbdc37eb052f3d95c5bf804f0bd7ce/tumblr_npllvhAzST1s4m55fo1_500.jpg"><br><br><p><a href="http://nosealviewing.tumblr.com/post/122502249404" rel="noreferrer" target="_blank">nosealviewing</a>:</p>
+<blockquote>
+<p>June 2015</p>
+<p>Closed - (Reedited)<br></p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-08-14T00:21:55+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://kawaiidesune.tumblr.com/</id>
+		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
+		<updated>2015-08-14T00:21:55+00:00</updated>
+		<title>Kawaii desu ne</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2015-08-14:/3245</id>
+	<link href="http://kawaiidesune.tumblr.com/post/126627561233" rel="alternate" type="text/html"/>
+	<title type="html">girlsapling:
+
+twinkabuse:
+
+181m:
+
+Don’t tell me this is...</title>
+	<summary type="html"><![CDATA[     girlsapling:
+
+twinkabuse:
+
+181m:
+
+Don’t tell me this is real.
+
+it actually is. as someone who d...]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/975e81f6b5afdaa81b80a48d38ddd38d/tumblr_nix00kcUxr1u9o7gzo1_400.gif"><br><br><img src="http://33.media.tumblr.com/e2d33eb9438671582c1c29ded39d0ceb/tumblr_nix00kcUxr1u9o7gzo2_400.gif"><br><br><img src="http://38.media.tumblr.com/af5701a93212aab95057d3c36046acc4/tumblr_nix00kcUxr1u9o7gzo3_400.gif"><br><br><img src="http://38.media.tumblr.com/10dec8c0d466c6602a804dcfb5cbdcac/tumblr_nix00kcUxr1u9o7gzo4_400.gif"><br><br><img src="http://33.media.tumblr.com/95b830613fab753b4c59de74552955d0/tumblr_nix00kcUxr1u9o7gzo5_400.gif"><br><br><p><a href="http://girlsapling.tumblr.com/post/125933554183" rel="noreferrer" target="_blank">girlsapling</a>:</p>
+<blockquote>
+<p><a href="http://twinkabuse.tumblr.com/post/125932910318" rel="noreferrer" target="_blank">twinkabuse</a>:</p>
+<blockquote>
+<p><a href="http://181m.tumblr.com/post/125928597695" rel="noreferrer" target="_blank">181m</a>:</p>
+<blockquote>
+<p>Don&rsquo;t tell me this is real.</p>
+</blockquote>
+<p>it actually is. as someone who dedicated his entire life to making family oriented films for many generations of children filled with magic, love, fantasy, and innocence. of course he&rsquo;s disgusted with how otaku culture has heavily influenced most, if not all anime.</p>
+</blockquote>
+<p>YES MIYAZAKI GO OFFFFFF</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-08-14T00:22:55+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://kawaiidesune.tumblr.com/</id>
+		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
+		<updated>2015-08-14T00:22:55+00:00</updated>
+		<title>Kawaii desu ne</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2015-08-10:/3026</id>
+	<link href="http://mememaster.tumblr.com/post/126370006224" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/2d3831eb296ce5e2c7580b5d1a757b6e/tumblr_nrxibru1we1qb5gkjo1_500.png"><br><br></body></html>
+]]></content>
+	<updated>2015-08-10T21:53:06+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-08-10T21:53:06+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2015-08-10:/3018</id>
+	<link href="http://mememaster.tumblr.com/post/126372087619" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[     ]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/fa87c5fc8becdc6df2cec967744ffeb9/tumblr_nfz3gkVmum1qb6v6ro1_500.gif"><br><br><img src="http://38.media.tumblr.com/d3cceb4ed3da0be9fce3267f19031661/tumblr_nfz3gkVmum1qb6v6ro2_500.gif"><br><br><img src="http://33.media.tumblr.com/2f4eba3b2c4f73001410a1cc79855de5/tumblr_nfz3gkVmum1qb6v6ro3_500.gif"><br><br><img src="http://31.media.tumblr.com/855e8d8857ffca69198f757b15fd7c53/tumblr_nfz3gkVmum1qb6v6ro4_500.gif"><br><br><img src="http://33.media.tumblr.com/4e92cf12c461146ba212ff478b884782/tumblr_nfz3gkVmum1qb6v6ro5_500.gif"><br><br></body></html>
+]]></content>
+	<updated>2015-08-10T22:21:05+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-08-10T22:21:05+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2015-08-11:/3049</id>
+	<link href="http://kawaiidesune.tumblr.com/post/126381298328" rel="alternate" type="text/html"/>
+	<title type="html">supgina:
+
+Breakfast Across the Globe
+
+BY FAR THE SEXIEST POST ON...</title>
+	<summary type="html"><![CDATA[          supgina:
+
+Breakfast Across the Globe
+
+BY FAR THE SEXIEST POST ON THIS SITE]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/1af2d7798bd5095cbc040d89d54f4f3a/tumblr_np1jgbxgwx1rnvh7no7_500.png"><br><br><img src="http://36.media.tumblr.com/a174979170f96bff5383121af554836f/tumblr_np1jgbxgwx1rnvh7no6_500.png"><br><br><img src="http://40.media.tumblr.com/b865c8889b2016d74aec4bead6ca53c8/tumblr_np1jgbxgwx1rnvh7no10_500.png"><br><br><img src="http://40.media.tumblr.com/a5990352256ce9700988712c223aa9e6/tumblr_np1jgbxgwx1rnvh7no1_500.png"><br><br><img src="http://41.media.tumblr.com/799e5084e061a3177b1746242169f605/tumblr_np1jgbxgwx1rnvh7no2_500.png"><br><br><img src="http://41.media.tumblr.com/aedaf8ec79641f8f3e26e8ff42be0284/tumblr_np1jgbxgwx1rnvh7no3_500.png"><br><br><img src="http://40.media.tumblr.com/ea56c4fb1cdcbd3edae95e39b74dd7d1/tumblr_np1jgbxgwx1rnvh7no4_500.png"><br><br><img src="http://40.media.tumblr.com/ba6cc93f80ed25ec6af32776fe9f2664/tumblr_np1jgbxgwx1rnvh7no5_500.png"><br><br><img src="http://41.media.tumblr.com/230fa08734c063cb1f8df27b34b4cd1a/tumblr_np1jgbxgwx1rnvh7no9_500.png"><br><br><img src="http://40.media.tumblr.com/cb1250e46c74000930216767e709b6b7/tumblr_np1jgbxgwx1rnvh7no8_500.png"><br><br><p><a href="http://supgina.tumblr.com/post/120261401860" rel="noreferrer" target="_blank">supgina</a>:</p>
+<blockquote>
+<blockquote><p>Breakfast Across the Globe</p></blockquote>
+
+<p>BY FAR THE SEXIEST POST ON THIS SITE</p><figure data-orig-width="500" data-orig-height="185"><img src="https://31.media.tumblr.com/20fb1fd1f49eb9622ca709bf2799dc6b/tumblr_inline_np5wy7A7nV1qa93tl_500.gif" alt="image" data-orig-width="500" data-orig-height="185"></figure></blockquote></body></html>
+]]></content>
+	<updated>2015-08-11T00:30:30+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://kawaiidesune.tumblr.com/</id>
+		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
+		<updated>2015-08-11T00:30:30+00:00</updated>
+		<title>Kawaii desu ne</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2015-08-11:/3054</id>
+	<link href="http://mememaster.tumblr.com/post/126380337619" rel="alternate" type="text/html"/>
+	<title type="html">fartgallery:
+
+leakinginklikeblood:
+
+lifemadesimple:
+
+Plate...</title>
+	<summary type="html"><![CDATA[fartgallery:
+
+leakinginklikeblood:
+
+lifemadesimple:
+
+Plate Etiquette 
+
+I did not know this.  
+
+
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/55c9f5ff5ff8cb7a5441d999b0acf189/tumblr_mt9y2buUJ71rjwciio1_500.jpg"><br><br><p><a href="http://fartgallery.ca/post/124270280487/leakinginklikeblood-lifemadesimple-plate" target="_blank" rel="noreferrer">fartgallery</a>:</p>
+
+<blockquote><p><a href="http://leakinginklikeblood.tumblr.com/post/72246787640/lifemadesimple-plate-etiquette-i-did-not" target="_blank" rel="noreferrer">leakinginklikeblood</a>:</p>
+<blockquote>
+<p><a href="http://lifemadesimple.tumblr.com/post/61499956475/plate-etiquette" target="_blank" rel="noreferrer">lifemadesimple</a>:</p>
+<blockquote>
+<p>Plate Etiquette&nbsp;</p>
+</blockquote>
+<p>I did not know this. &nbsp;</p>
+</blockquote>
+
+<figure data-orig-height="400" data-orig-width="292"><img data-orig-height="400" data-orig-width="292" alt="image" src="https://41.media.tumblr.com/5d130a9faea52daa95c16076b93929f6/tumblr_inline_nrlfbetKnP1qfjami_540.png"></figure></blockquote></body></html>
+]]></content>
+	<updated>2015-08-11T00:16:37+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-08-11T00:16:37+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2015-08-11:/3051</id>
+	<link href="http://mememaster.tumblr.com/post/126382358859" rel="alternate" type="text/html"/>
+	<title type="html">warrior-princess-4ever:
+
+homfrog:
+
+What they say: There is a skeleton inside you.
+The truth: You are...</title>
+	<summary type="html"><![CDATA[warrior-princess-4ever:
+
+homfrog:
+
+What they say: There is a skeleton inside you.
+The truth: You are...]]></summary>
+	<content type="html"><![CDATA[<html><body><p><a href="http://warrior-princess-4ever.tumblr.com/post/104933439948" target="_blank" rel="noreferrer">warrior-princess-4ever</a>:</p>
+<blockquote>
+<p><a href="http://homfrog.tumblr.com/post/104873703175" target="_blank" rel="noreferrer">homfrog</a>:</p>
+<blockquote>
+<p><strong>What they say:</strong><br> There is a skeleton inside you.</p>
+<p><strong>The truth:</strong><br> You are inside your skeleton. You are a brain.</p>
+</blockquote>
+<p>What the fuck</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-08-11T00:45:44+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-08-11T00:45:44+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2015-08-11:/3088</id>
+	<link href="http://blog.howtommy.net/?d=2015/08/05/10/15/53-la-souris-ergonomique-on-sy-fait-bien" rel="alternate" type="text/html"/>
+	<title type="html">La souris ergonomique ? On s'y fait bien. - HowTommy</title>
+	<summary type="html"><![CDATA[(Permalink)]]></summary>
+	<content type="html"><![CDATA[<html><body><p>(<a href="http://sebsauvage.net/links/?M4QT7Q" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-08-11T11:29:11+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://sebsauvage.net/links/</id>
+		<link rel="self" href="http://sebsauvage.net/links/"/>
+		<updated>2015-08-11T11:29:11+00:00</updated>
+		<title>Liens en vrac de sebsauvage</title></source>
+
+	<category term="hardware"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2015-08-11:/3089</id>
+	<link href="http://kidiscience.cafe-sciences.org/articles/info-ou-intox-il-faut-attendre-deux-heures-avant-daller-nager-apres-avoir-mange/" rel="alternate" type="text/html"/>
+	<title type="html">Info ou intox : Il faut attendre deux heures avant d’aller nager après avoir mangé. | Kidi'science</title>
+	<summary type="html"><![CDATA[(Permalink)]]></summary>
+	<content type="html"><![CDATA[<html><body><p>(<a href="http://sebsauvage.net/links/?fOBXsA" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-08-11T11:25:29+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://sebsauvage.net/links/</id>
+		<link rel="self" href="http://sebsauvage.net/links/"/>
+		<updated>2015-08-11T11:25:29+00:00</updated>
+		<title>Liens en vrac de sebsauvage</title></source>
+
+	<category term="science"/>
+
+	<category term="santé"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2015-08-13:/3170</id>
+	<link href="http://leviosaaa.com/" rel="alternate" type="text/html"/>
+	<title type="html">Wingardium Leviosaaa ! </title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-08-13T04:16:57+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://localhost/rss</id>
+		<link rel="self" href="http://localhost/rss"/>
+		<updated>2015-08-13T04:16:57+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2015-08-13:/3108</id>
+	<link href="http://localghost.org/posts/a-traffic-analysis-of-windows-10" rel="alternate" type="text/html"/>
+	<title type="html">A Traffic Analysis of Windows 10 - root@localghost:~#</title>
+	<summary type="html"><![CDATA[Vous avez déjà lu des tonnes d'articles disant que Windows 10 est un spyware ? C'est peut-être en *d...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Vous avez d&eacute;j&agrave; lu des tonnes d'articles disant que Windows 10 est un spyware ? C'est peut-&ecirc;tre en *dessous* de la v&eacute;rit&eacute;.<br>
+Un gars s'est "amus&eacute;" &agrave; sniffer le trafic r&eacute;seau d'un Windows pour voir ce qu'il faisait.<br>
+TOUTE TOUCHE TAP&Eacute;E AU CLAVIER est stock&eacute;e dans un fichier... envoy&eacute; toutes les 30 minutes aux serveurs de Microsoft.<br>
+Tout num&eacute;ro de t&eacute;l&eacute;phone ou titre de film tap&eacute; dans la recherche, M&Ecirc;ME LOCALE, est envoy&eacute; &agrave; Microsoft.<br>
+D&egrave;s que la webcam est allum&eacute;e, les premiers 35 Mo de la capture sont envoy&eacute;s aussi aux serveurs Microsoft.<br>
+Tout ce qui est dit au microphone est &eacute;galement envoy&eacute;, m&ecirc;me quand Cortana est d&eacute;sactiv&eacute;.<br><br>
+Je n'ai pas pu v&eacute;rifier la v&eacute;racit&eacute; de tout cela, mais si cela s'av&egrave;re, alors Windows 10 est un spyware bien plus abominable que ce que Google et Apple ont pu r&eacute;aliser.<br>
+Je le r&eacute;p&egrave;te: Cet article est &agrave; prendre avec des pincettes et tout cela devra &ecirc;tre v&eacute;rifi&eacute;.<br>(<a href="http://sebsauvage.net/links/?LegfyA" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-08-12T21:06:16+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://sebsauvage.net/links/</id>
+		<link rel="self" href="http://sebsauvage.net/links/"/>
+		<updated>2015-08-12T21:06:16+00:00</updated>
+		<title>Liens en vrac de sebsauvage</title></source>
+
+	<category term="windows"/>
+
+	<category term="microsoft"/>
+
+	<category term="privacy"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2015-08-11:/3079</id>
+	<link href="http://mememaster.tumblr.com/post/126386063574" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/2319a0b145397337ec6bb5ada046e969/tumblr_npdrqbvDi21qjnhqgo1_500.jpg"><br><br></body></html>
+]]></content>
+	<updated>2015-08-11T01:38:53+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-08-11T01:38:53+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2015-08-11:/3074</id>
+	<link href="http://mememaster.tumblr.com/post/126387283254" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/ef5be338599ba98d6a1defe5d4b1b086/tumblr_mj22wmUa9K1rb4vc5o1_500.jpg"><br><br></body></html>
+]]></content>
+	<updated>2015-08-11T01:55:48+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-08-11T01:55:48+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2015-08-10:/3029</id>
 	<link href="http://oursuperadventure.com/page/204" rel="alternate" type="text/html"/>
 	<title type="html">oursuperadventure -BOOTY BOOTY BOOTY</title>
 	<summary type="html"><![CDATA[]]></summary>
@@ -19,8 +418,8 @@
 	<updated>2015-08-10T23:53:32+00:00</updated>
 	<author><name></name></author>
 	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
+		<id>http://localhost/rss</id>
+		<link rel="self" href="http://localhost/rss"/>
 		<updated>2015-08-10T23:53:32+00:00</updated>
 		<title>Published articles</title></source>
 
@@ -28,7 +427,7 @@
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/3028</id>
+	<id>tag:localhost,2015-08-10:/3028</id>
 	<link href="http://www.pasbanal.com/Les-10-plus-gros-mensonges-en-audio_132.php" rel="alternate" type="text/html"/>
 	<title type="html">Les 10 plus gros mensonges en audio par Pierre Pesty c'est Pasbanal</title>
 	<summary type="html"><![CDATA[]]></summary>
@@ -36,8 +435,8 @@
 	<updated>2015-08-10T22:29:34+00:00</updated>
 	<author><name></name></author>
 	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
+		<id>http://localhost/rss</id>
+		<link rel="self" href="http://localhost/rss"/>
 		<updated>2015-08-10T22:29:34+00:00</updated>
 		<title>Published articles</title></source>
 
@@ -45,7 +444,7 @@
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/2974</id>
+	<id>tag:localhost,2015-08-10:/2974</id>
 	<link href="http://www.djtuto.fr/fermeture-de-soundcloud-avenir-de-la-musique-en-ligne/" rel="alternate" type="text/html"/>
 	<title type="html">Fermeture de Soundcloud et musique en ligne - Djtuto.fr</title>
 	<summary type="html"><![CDATA[Ah et merde. C'est d'autant plus dommage que SoundCloud contenait aussi des tonnes de production ori...]]></summary>
@@ -67,7 +466,7 @@ C'est pas comme si mettre un pauvre MP3 sur son site c'&eacute;tait compliqu&eac
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/3013</id>
+	<id>tag:localhost,2015-08-10:/3013</id>
 	<link href="http://mememaster.tumblr.com/post/126364659259" rel="alternate" type="text/html"/>
 	<title type="html">square-r00t:/looks at stuff waiting to be done//glances at videogames/
 videogames: ( ͡° ͜ʖ ͡°) 
@@ -92,7 +491,7 @@ videogames: ( ͡° ͜ʖ ͡°) 
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/3011</id>
+	<id>tag:localhost,2015-08-10:/3011</id>
 	<link href="http://mememaster.tumblr.com/post/126364775719" rel="alternate" type="text/html"/>
 	<title type="html">toastoat:
 
@@ -118,7 +517,7 @@ my cousin’s cat looks unreal like what is this shit. Who authorized this
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/3008</id>
+	<id>tag:localhost,2015-08-10:/3008</id>
 	<link href="http://mememaster.tumblr.com/post/126364850564" rel="alternate" type="text/html"/>
 	<title type="html">tokomon:
 
@@ -166,7 +565,7 @@ And yet you offer yours.
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/2999</id>
+	<id>tag:localhost,2015-08-10:/2999</id>
 	<link href="http://kawaiidesune.tumblr.com/post/126357544643" rel="alternate" type="text/html"/>
 	<title type="html">Photo</title>
 	<summary type="html"><![CDATA[  ]]></summary>
@@ -184,7 +583,7 @@ And yet you offer yours.
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/2930</id>
+	<id>tag:localhost,2015-08-10:/2930</id>
 	<link href="http://mememaster.tumblr.com/post/126337383494" rel="alternate" type="text/html"/>
 	<title type="html">solarsenpai:grapejellyking:
 
@@ -222,7 +621,7 @@ idk but somehow i understand it
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/2929</id>
+	<id>tag:localhost,2015-08-10:/2929</id>
 	<link href="http://mememaster.tumblr.com/post/126337426064" rel="alternate" type="text/html"/>
 	<title type="html">kittensandcoffee:
 
@@ -251,7 +650,7 @@ MY ENTIRE LIFE.
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/2952</id>
+	<id>tag:localhost,2015-08-10:/2952</id>
 	<link href="http://kawaiidesune.tumblr.com/post/126337965193" rel="alternate" type="text/html"/>
 	<title type="html">&quot;It’s not that I hate people. I just feel better when they’re not around.&quot;</title>
 	<summary type="html"><![CDATA[“It’s not that I hate people. I just feel better when they’re not around.” - Unknown (via onlinecoun...]]></summary>
@@ -269,7 +668,7 @@ MY ENTIRE LIFE.
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/2949</id>
+	<id>tag:localhost,2015-08-10:/2949</id>
 	<link href="http://kawaiidesune.tumblr.com/post/126338176188" rel="alternate" type="text/html"/>
 	<title type="html">Photo</title>
 	<summary type="html"><![CDATA[         ]]></summary>
@@ -287,7 +686,7 @@ MY ENTIRE LIFE.
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/2962</id>
+	<id>tag:localhost,2015-08-10:/2962</id>
 	<link href="http://mememaster.tumblr.com/post/126338284589" rel="alternate" type="text/html"/>
 	<title type="html">attackonmyjoy:
 
@@ -311,7 +710,7 @@ This is some grand theft auto shit.]]></summary>
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/2973</id>
+	<id>tag:localhost,2015-08-10:/2973</id>
 	<link href="http://mememaster.tumblr.com/post/126340398434" rel="alternate" type="text/html"/>
 	<title type="html">cat holder</title>
 	<summary type="html"><![CDATA[cat holder]]></summary>
@@ -329,7 +728,7 @@ This is some grand theft auto shit.]]></summary>
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/2977</id>
+	<id>tag:localhost,2015-08-10:/2977</id>
 	<link href="http://mememaster.tumblr.com/post/126340904844" rel="alternate" type="text/html"/>
 	<title type="html">corgisandboobs:
 
@@ -363,7 +762,7 @@ This is some grand theft auto shit.]]></summary>
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/2982</id>
+	<id>tag:localhost,2015-08-10:/2982</id>
 	<link href="http://mememaster.tumblr.com/post/126345365834" rel="alternate" type="text/html"/>
 	<title type="html">Photo</title>
 	<summary type="html"><![CDATA[]]></summary>
@@ -381,7 +780,7 @@ This is some grand theft auto shit.]]></summary>
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/2993</id>
+	<id>tag:localhost,2015-08-10:/2993</id>
 	<link href="http://mememaster.tumblr.com/post/126350528089" rel="alternate" type="text/html"/>
 	<title type="html">Photo</title>
 	<summary type="html"><![CDATA[  ]]></summary>
@@ -399,7 +798,7 @@ This is some grand theft auto shit.]]></summary>
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/2988</id>
+	<id>tag:localhost,2015-08-10:/2988</id>
 	<link href="http://mememaster.tumblr.com/post/126351739154" rel="alternate" type="text/html"/>
 	<title type="html">metalnugget:
 
@@ -431,7 +830,7 @@ IM SO FUCKIGN EMBARASSED I WAS TRYING TO HELP A GUY OUT ON FACEBOOK AND I M...]]
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-09:/2856</id>
+	<id>tag:localhost,2015-08-09:/2856</id>
 	<link href="http://la-bas.org/la-bas-magazine/long-courrier/apprenez-la-langue-de-bois" rel="alternate" type="text/html"/>
 	<title type="html">APPRENEZ LA LANGUE DE BOIS !</title>
 	<summary type="html"><![CDATA[Grâce à Là-bas, devenez énarque en trois minutes. Avec un peu d'effort, vous parviendrez très vite à...]]></summary>
@@ -451,7 +850,7 @@ IM SO FUCKIGN EMBARASSED I WAS TRYING TO HELP A GUY OUT ON FACEBOOK AND I M...]]
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/2878</id>
+	<id>tag:localhost,2015-08-10:/2878</id>
 	<link href="http://xkcd.com/1562/" rel="alternate" type="text/html"/>
 	<title type="html">I in Team</title>
 	<summary type="html"><![CDATA[]]></summary>
@@ -469,7 +868,7 @@ IM SO FUCKIGN EMBARASSED I WAS TRYING TO HELP A GUY OUT ON FACEBOOK AND I M...]]
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-10:/2898</id>
+	<id>tag:localhost,2015-08-10:/2898</id>
 	<link href="http://mememaster.tumblr.com/post/126306995974" rel="alternate" type="text/html"/>
 	<title type="html">derkreisel:
 
@@ -495,7 +894,7 @@ IM SO FUCKIGN EMBARASSED I WAS TRYING TO HELP A GUY OUT ON FACEBOOK AND I M...]]
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-09:/2851</id>
+	<id>tag:localhost,2015-08-09:/2851</id>
 	<link href="https://vimeo.com/117907264" rel="alternate" type="text/html"/>
 	<title type="html">&quot;Où est Charlie ?&quot;, L'1consolable on Vimeo</title>
 	<summary type="html"><![CDATA[]]></summary>
@@ -503,8 +902,8 @@ IM SO FUCKIGN EMBARASSED I WAS TRYING TO HELP A GUY OUT ON FACEBOOK AND I M...]]
 	<updated>2015-08-09T22:57:43+00:00</updated>
 	<author><name></name></author>
 	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
+		<id>http://localhost/rss</id>
+		<link rel="self" href="http://localhost/rss"/>
 		<updated>2015-08-09T22:57:43+00:00</updated>
 		<title>Published articles</title></source>
 
@@ -512,17 +911,17 @@ IM SO FUCKIGN EMBARASSED I WAS TRYING TO HELP A GUY OUT ON FACEBOOK AND I M...]]
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-07-31:/394</id>
+	<id>tag:localhost,2015-07-31:/394</id>
 	<link href="http://www.youtube.com/watch?v=8d81ohMjaxg" rel="alternate" type="text/html"/>
 	<title type="html">LE FOSSOYEUR DE FILMS - Les rock movies (feat. Waxx)</title>
 	<summary type="html"><![CDATA[]]></summary>
 	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-03T02:59:35+00:00</updated>
+	<updated>2015-08-13T21:48:09+00:00</updated>
 	<author><name>Le Fossoyeur de Films</name></author>
 	<source>
 		<id>http://www.youtube.com/channel/UCwbV8cTR4yBgFdfa_BXV2OA</id>
 		<link rel="self" href="http://www.youtube.com/channel/UCwbV8cTR4yBgFdfa_BXV2OA"/>
-		<updated>2015-08-03T02:59:35+00:00</updated>
+		<updated>2015-08-13T21:48:09+00:00</updated>
 		<title>Le Fossoyeur de Films</title></source>
 
 
@@ -534,7 +933,7 @@ IM SO FUCKIGN EMBARASSED I WAS TRYING TO HELP A GUY OUT ON FACEBOOK AND I M...]]
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-01:/726</id>
+	<id>tag:localhost,2015-08-01:/726</id>
 	<link href="http://www.youtube.com/watch?v=atfIIDZRk9E" rel="alternate" type="text/html"/>
 	<title type="html">Everything Wrong With Fifty Shades Of Grey In 18 Minutes Or Less</title>
 	<summary type="html"><![CDATA[]]></summary>
@@ -556,17 +955,17 @@ IM SO FUCKIGN EMBARASSED I WAS TRYING TO HELP A GUY OUT ON FACEBOOK AND I M...]]
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-04:/2089</id>
+	<id>tag:localhost,2015-08-04:/2089</id>
 	<link href="http://www.youtube.com/watch?v=OR2TI0hfg7A" rel="alternate" type="text/html"/>
 	<title type="html">Everything Wrong With Chappie In 16 Minutes Or Less</title>
 	<summary type="html"><![CDATA[]]></summary>
 	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-04T19:16:30+00:00</updated>
+	<updated>2015-08-14T01:06:36+00:00</updated>
 	<author><name>CinemaSins</name></author>
 	<source>
 		<id>http://www.youtube.com/channel/UCYUQQgogVeQY8cMQamhHJcg</id>
 		<link rel="self" href="http://www.youtube.com/channel/UCYUQQgogVeQY8cMQamhHJcg"/>
-		<updated>2015-08-04T19:16:30+00:00</updated>
+		<updated>2015-08-14T01:06:36+00:00</updated>
 		<title>CinemaSins</title></source>
 
 
@@ -578,7 +977,7 @@ IM SO FUCKIGN EMBARASSED I WAS TRYING TO HELP A GUY OUT ON FACEBOOK AND I M...]]
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-09:/2826</id>
+	<id>tag:localhost,2015-08-09:/2826</id>
 	<link href="http://mememaster.tumblr.com/post/126274523469" rel="alternate" type="text/html"/>
 	<title type="html">elkhoof:
 
@@ -602,7 +1001,7 @@ My cat’s first car ride]]></summary>
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-09:/2833</id>
+	<id>tag:localhost,2015-08-09:/2833</id>
 	<link href="http://mememaster.tumblr.com/post/126278946144" rel="alternate" type="text/html"/>
 	<title type="html">bunsen:
 
@@ -656,7 +1055,7 @@ My cat’s first car ride]]></summary>
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-09:/2843</id>
+	<id>tag:localhost,2015-08-09:/2843</id>
 	<link href="http://mememaster.tumblr.com/post/126283876154" rel="alternate" type="text/html"/>
 	<title type="html">Photo</title>
 	<summary type="html"><![CDATA[]]></summary>
@@ -674,7 +1073,7 @@ My cat’s first car ride]]></summary>
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-09:/2841</id>
+	<id>tag:localhost,2015-08-09:/2841</id>
 	<link href="http://mememaster.tumblr.com/post/126284018329" rel="alternate" type="text/html"/>
 	<title type="html">Photo</title>
 	<summary type="html"><![CDATA[]]></summary>
@@ -692,7 +1091,7 @@ My cat’s first car ride]]></summary>
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-09:/2838</id>
+	<id>tag:localhost,2015-08-09:/2838</id>
 	<link href="http://mememaster.tumblr.com/post/126284582379" rel="alternate" type="text/html"/>
 	<title type="html">Photo</title>
 	<summary type="html"><![CDATA[]]></summary>
@@ -710,7 +1109,7 @@ My cat’s first car ride]]></summary>
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-09:/2814</id>
+	<id>tag:localhost,2015-08-09:/2814</id>
 	<link href="http://mememaster.tumblr.com/post/126254133964" rel="alternate" type="text/html"/>
 	<title type="html">2hunna:
 
@@ -748,7 +1147,7 @@ if you write in cursive i hate you
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-09:/2823</id>
+	<id>tag:localhost,2015-08-09:/2823</id>
 	<link href="http://mememaster.tumblr.com/post/126268131469" rel="alternate" type="text/html"/>
 	<title type="html">wrongiest:
 
@@ -794,7 +1193,7 @@ Fu...]]></summary>
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-09:/2821</id>
+	<id>tag:localhost,2015-08-09:/2821</id>
 	<link href="http://mememaster.tumblr.com/post/126268860964" rel="alternate" type="text/html"/>
 	<title type="html">warm</title>
 	<summary type="html"><![CDATA[warm]]></summary>
@@ -812,7 +1211,7 @@ Fu...]]></summary>
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-09:/2808</id>
+	<id>tag:localhost,2015-08-09:/2808</id>
 	<link href="http://mememaster.tumblr.com/post/126249456319" rel="alternate" type="text/html"/>
 	<title type="html">tylerchokely:
 
@@ -856,7 +1255,7 @@ i hate when babies cry like grow the fuck up and pay taxes 
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-09:/2799</id>
+	<id>tag:localhost,2015-08-09:/2799</id>
 	<link href="http://mememaster.tumblr.com/post/126249851264" rel="alternate" type="text/html"/>
 	<title type="html">glitch in the matrix</title>
 	<summary type="html"><![CDATA[          glitch in the matrix]]></summary>
@@ -874,7 +1273,7 @@ i hate when babies cry like grow the fuck up and pay taxes 
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-09:/2797</id>
+	<id>tag:localhost,2015-08-09:/2797</id>
 	<link href="http://www.arretsurimages.net/breves/2015-08-06/Adieux-Jon-Stewart-ses-plus-belles-attaques-contre-Fox-News-id19132" rel="alternate" type="text/html"/>
 	<title type="html">Adieux Jon Stewart : ses plus belles attaques contre Fox News - Arrêt sur images</title>
 	<summary type="html"><![CDATA[]]></summary>
@@ -882,8 +1281,8 @@ i hate when babies cry like grow the fuck up and pay taxes 
 	<updated>2015-08-09T12:16:07+00:00</updated>
 	<author><name></name></author>
 	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
+		<id>http://localhost/rss</id>
+		<link rel="self" href="http://localhost/rss"/>
 		<updated>2015-08-09T12:16:07+00:00</updated>
 		<title>Published articles</title></source>
 
@@ -891,7 +1290,7 @@ i hate when babies cry like grow the fuck up and pay taxes 
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-08:/2755</id>
+	<id>tag:localhost,2015-08-08:/2755</id>
 	<link href="http://mememaster.tumblr.com/post/126203486774" rel="alternate" type="text/html"/>
 	<title type="html">Photo</title>
 	<summary type="html"><![CDATA[]]></summary>
@@ -909,7 +1308,7 @@ i hate when babies cry like grow the fuck up and pay taxes 
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-08:/2751</id>
+	<id>tag:localhost,2015-08-08:/2751</id>
 	<link href="http://mememaster.tumblr.com/post/126203836914" rel="alternate" type="text/html"/>
 	<title type="html">9gag:
 
@@ -935,7 +1334,7 @@ During final exams. #9gag
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-08:/2750</id>
+	<id>tag:localhost,2015-08-08:/2750</id>
 	<link href="http://mememaster.tumblr.com/post/126203954239" rel="alternate" type="text/html"/>
 	<title type="html">skypestripper:
 
@@ -1005,7 +1404,7 @@ hearing a story thats obviously made up
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-08:/2773</id>
+	<id>tag:localhost,2015-08-08:/2773</id>
 	<link href="http://kawaiidesune.tumblr.com/post/126206920278" rel="alternate" type="text/html"/>
 	<title type="html">moon-sylph:
 
@@ -1058,7 +1457,7 @@ pale/pl...]]></summary>
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-08:/2766</id>
+	<id>tag:localhost,2015-08-08:/2766</id>
 	<link href="http://kawaiidesune.tumblr.com/post/126207515328" rel="alternate" type="text/html"/>
 	<title type="html">uhadme-atsex:
 
@@ -1084,7 +1483,7 @@ seriously! fuck.
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-09:/2794</id>
+	<id>tag:localhost,2015-08-09:/2794</id>
 	<link href="http://mememaster.tumblr.com/post/126211188429" rel="alternate" type="text/html"/>
 	<title type="html">alien: wow human, you don't have a skeleton and yet you manage to stay in a fairly consistent shape. what's your secret?</title>
 	<summary type="html"><![CDATA[alien: wow human, you don't have a skeleton and yet you manage to stay in a fairly consistent shape....]]></summary>
@@ -1104,7 +1503,7 @@ alien: :OOOOOO holy shit</p></body></html>
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-09:/2791</id>
+	<id>tag:localhost,2015-08-09:/2791</id>
 	<link href="http://mememaster.tumblr.com/post/126211270024" rel="alternate" type="text/html"/>
 	<title type="html">Photo</title>
 	<summary type="html"><![CDATA[]]></summary>
@@ -1122,7 +1521,7 @@ alien: :OOOOOO holy shit</p></body></html>
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-09:/2788</id>
+	<id>tag:localhost,2015-08-09:/2788</id>
 	<link href="http://mememaster.tumblr.com/post/126216464179" rel="alternate" type="text/html"/>
 	<title type="html">jaxblade:bigsmellybutt:
 
@@ -1148,7 +1547,7 @@ these are great and i thought the first two were part of the same...]]></summary
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-09:/2780</id>
+	<id>tag:localhost,2015-08-09:/2780</id>
 	<link href="https://vimeo.com/120456353" rel="alternate" type="text/html"/>
 	<title type="html">Dix secondes de Charb on Vimeo</title>
 	<summary type="html"><![CDATA[]]></summary>
@@ -1156,8 +1555,8 @@ these are great and i thought the first two were part of the same...]]></summary
 	<updated>2015-08-09T00:08:35+00:00</updated>
 	<author><name></name></author>
 	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
+		<id>http://localhost/rss</id>
+		<link rel="self" href="http://localhost/rss"/>
 		<updated>2015-08-09T00:08:35+00:00</updated>
 		<title>Published articles</title></source>
 
@@ -1165,7 +1564,7 @@ these are great and i thought the first two were part of the same...]]></summary
 </entry>
 
 <entry>
-	<id>tag:flxc.fr,2015-08-09:/2779</id>
+	<id>tag:localhost,2015-08-09:/2779</id>
 	<link href="https://vimeo.com/120496557" rel="alternate" type="text/html"/>
 	<title type="html">Marc Nammour, avec Valentin Durup on Vimeo</title>
 	<summary type="html"><![CDATA[]]></summary>
@@ -1173,282 +1572,10 @@ these are great and i thought the first two were part of the same...]]></summary
 	<updated>2015-08-09T00:00:10+00:00</updated>
 	<author><name></name></author>
 	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
+		<id>http://localhost/rss</id>
+		<link rel="self" href="http://localhost/rss"/>
 		<updated>2015-08-09T00:00:10+00:00</updated>
 		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-08:/2777</id>
-	<link href="https://vimeo.com/121669609" rel="alternate" type="text/html"/>
-	<title type="html">Les Conti ont gagné mais ils ont tout perdu on Vimeo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-08T23:30:46+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-08-08T23:30:46+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-08:/2758</id>
-	<link href="https://vimeo.com/121669613" rel="alternate" type="text/html"/>
-	<title type="html">Gérard contre Gérard, ou le retour de la lutte des classes on Vimeo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-08T23:15:57+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-08-08T23:15:57+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-08:/2757</id>
-	<link href="https://vimeo.com/122089878" rel="alternate" type="text/html"/>
-	<title type="html">DIDIER PORTE EN GRÈVE DE LA FAIM on Vimeo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-08T22:59:45+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-08-08T22:59:45+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-08:/2756</id>
-	<link href="https://vimeo.com/122309513" rel="alternate" type="text/html"/>
-	<title type="html">FILOCHE : Syriza ou Podemos ? (07’51) on Vimeo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-08T22:54:42+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-08-08T22:54:42+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-08:/2741</id>
-	<link href="http://mememaster.tumblr.com/post/126204415969" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/97d4291db8609260860a5a36946655f8/tumblr_npg9l8m8Od1qjnhqgo1_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-08-08T22:10:03+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-08-08T22:10:03+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-04:/2152</id>
-	<link href="https://vimeo.com/122327944" rel="alternate" type="text/html"/>
-	<title type="html">FILOCHE  ne respecte pas les milliardaires (08’36)</title>
-	<summary type="html"><![CDATA[Notre émission «VIVE L'ENTREPRISE ! Spéciale Gérard FILOCHE » est à écouter intégralement sur la-bas...]]></summary>
-	<content type="html"><![CDATA[<html><body><p></p><p></p><p>Notre &eacute;mission &laquo;VIVE L'ENTREPRISE ! Sp&eacute;ciale G&eacute;rard FILOCHE &raquo; est &agrave; &eacute;couter int&eacute;gralement sur <a href="http://la-bas.org/re-ecouter/les-emissions/2014-15/vive-l-entreprise-speciale-gerard-filoche" target="_blank" rel="noreferrer">la-bas.org/re-ecouter/les-emissions/2014-15/vive-l-entreprise-speciale-gerard-filoche</a></p> <p>(vid&eacute;o : <a href="http://www.nouveauxmessagers.com" target="_blank" rel="noreferrer">nouveauxmessagers.com</a>)</p><p><strong>Cast:</strong> <a href="https://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></p><p><strong>Tags:</strong>  <a href="https://vimeo.com/tag:Daniel+Mermet" rel="noreferrer" target="_blank">Daniel Mermet</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+si+j%26%23039%3By+suis" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+Hebdo" rel="noreferrer" target="_blank">L&agrave;-bas Hebdo</a>,  <a href="https://vimeo.com/tag:G%26eacute%3Brard+Filoche" rel="noreferrer" target="_blank">G&eacute;rard Filoche</a>,  <a href="https://vimeo.com/tag:aust%26eacute%3Brit%26eacute%3B" rel="noreferrer" target="_blank">aust&eacute;rit&eacute;</a>  and <a href="https://vimeo.com/tag:Emmanuel+Macron" rel="noreferrer" target="_blank">Emmanuel Macron</a></p></body></html>
-]]></content>
-	<updated>2015-03-16T15:40:31+00:00</updated>
-	<author><name>Là-bas si j\'y suis</name></author>
-	<source>
-		<id>https://vimeo.com/labas/videos</id>
-		<link rel="self" href="https://vimeo.com/labas/videos"/>
-		<updated>2015-03-16T15:40:31+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-04:/2151</id>
-	<link href="https://vimeo.com/122330334" rel="alternate" type="text/html"/>
-	<title type="html">FILOCHE et la théorie du siphonnement (05'04)</title>
-	<summary type="html"><![CDATA[Notre émission «VIVE L'ENTREPRISE ! Spéciale Gérard FILOCHE » est à écouter intégralement sur la-bas...]]></summary>
-	<content type="html"><![CDATA[<html><body><p></p><p></p><p>Notre &eacute;mission &laquo;VIVE L'ENTREPRISE ! Sp&eacute;ciale G&eacute;rard FILOCHE &raquo; est &agrave; &eacute;couter int&eacute;gralement sur <a href="http://la-bas.org/re-ecouter/les-emissions/2014-15/vive-l-entreprise-speciale-gerard-filoche" target="_blank" rel="noreferrer">la-bas.org/re-ecouter/les-emissions/2014-15/vive-l-entreprise-speciale-gerard-filoche</a></p> <p>(vid&eacute;o : <a href="http://www.nouveauxmessagers.com" target="_blank" rel="noreferrer">nouveauxmessagers.com</a>)</p><p><strong>Cast:</strong> <a href="https://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></p><p><strong>Tags:</strong>  <a href="https://vimeo.com/tag:Daniel+Mermet" rel="noreferrer" target="_blank">Daniel Mermet</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+si+j%26%23039%3By+suis" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+Hebdo" rel="noreferrer" target="_blank">L&agrave;-bas Hebdo</a>,  <a href="https://vimeo.com/tag:G%26eacute%3Brard+Filoche" rel="noreferrer" target="_blank">G&eacute;rard Filoche</a>,  <a href="https://vimeo.com/tag:aust%26eacute%3Brit%26eacute%3B" rel="noreferrer" target="_blank">aust&eacute;rit&eacute;</a>  and <a href="https://vimeo.com/tag:Emmanuel+Macron" rel="noreferrer" target="_blank">Emmanuel Macron</a></p></body></html>
-]]></content>
-	<updated>2015-03-16T15:59:51+00:00</updated>
-	<author><name>Là-bas si j\'y suis</name></author>
-	<source>
-		<id>https://vimeo.com/labas/videos</id>
-		<link rel="self" href="https://vimeo.com/labas/videos"/>
-		<updated>2015-03-16T15:59:51+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-04:/2150</id>
-	<link href="https://vimeo.com/122334314" rel="alternate" type="text/html"/>
-	<title type="html">FILOCHE l'affirme, le chômage est voulu (06'20)</title>
-	<summary type="html"><![CDATA[Notre émission «VIVE L'ENTREPRISE ! Spéciale Gérard FILOCHE » est à écouter intégralement sur la-bas...]]></summary>
-	<content type="html"><![CDATA[<html><body><p></p><p></p><p>Notre &eacute;mission &laquo;VIVE L'ENTREPRISE ! Sp&eacute;ciale G&eacute;rard FILOCHE &raquo; est &agrave; &eacute;couter int&eacute;gralement sur <a href="http://la-bas.org/re-ecouter/les-emissions/2014-15/vive-l-entreprise-speciale-gerard-filoche" target="_blank" rel="noreferrer">la-bas.org/re-ecouter/les-emissions/2014-15/vive-l-entreprise-speciale-gerard-filoche</a></p> <p>(vid&eacute;o : <a href="http://www.nouveauxmessagers.com" target="_blank" rel="noreferrer">nouveauxmessagers.com</a>)</p><p><strong>Cast:</strong> <a href="https://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></p><p><strong>Tags:</strong>  <a href="https://vimeo.com/tag:Daniel+Mermet" rel="noreferrer" target="_blank">Daniel Mermet</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+si+j%26%23039%3By+suis" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+Hebdo" rel="noreferrer" target="_blank">L&agrave;-bas Hebdo</a>,  <a href="https://vimeo.com/tag:G%26eacute%3Brard+Filoche" rel="noreferrer" target="_blank">G&eacute;rard Filoche</a>,  <a href="https://vimeo.com/tag:aust%26eacute%3Brit%26eacute%3B" rel="noreferrer" target="_blank">aust&eacute;rit&eacute;</a>  and <a href="https://vimeo.com/tag:Emmanuel+Macron" rel="noreferrer" target="_blank">Emmanuel Macron</a></p></body></html>
-]]></content>
-	<updated>2015-03-16T16:36:36+00:00</updated>
-	<author><name>Là-bas si j\'y suis</name></author>
-	<source>
-		<id>https://vimeo.com/labas/videos</id>
-		<link rel="self" href="https://vimeo.com/labas/videos"/>
-		<updated>2015-03-16T16:36:36+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-04:/2149</id>
-	<link href="https://vimeo.com/122430971" rel="alternate" type="text/html"/>
-	<title type="html">FILOCHE et le Code du travail, une histoire d'amour (07'45)</title>
-	<summary type="html"><![CDATA[Notre émission «VIVE L'ENTREPRISE ! Spéciale Gérard FILOCHE » est à écouter intégralement sur la-bas...]]></summary>
-	<content type="html"><![CDATA[<html><body><p></p><p></p><p>Notre &eacute;mission &laquo;VIVE L'ENTREPRISE ! Sp&eacute;ciale G&eacute;rard FILOCHE &raquo; est &agrave; &eacute;couter int&eacute;gralement sur <a href="http://la-bas.org/re-ecouter/les-emissions/2014-15/vive-l-entreprise-speciale-gerard-filoche" target="_blank" rel="noreferrer">la-bas.org/re-ecouter/les-emissions/2014-15/vive-l-entreprise-speciale-gerard-filoche</a></p> <p>(vid&eacute;o : <a href="http://www.nouveauxmessagers.com" target="_blank" rel="noreferrer">nouveauxmessagers.com</a>)</p><p><strong>Cast:</strong> <a href="https://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></p><p><strong>Tags:</strong>  <a href="https://vimeo.com/tag:Daniel+Mermet" rel="noreferrer" target="_blank">Daniel Mermet</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+si+j%26%23039%3By+suis" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+Hebdo" rel="noreferrer" target="_blank">L&agrave;-bas Hebdo</a>,  <a href="https://vimeo.com/tag:G%26eacute%3Brard+Filoche" rel="noreferrer" target="_blank">G&eacute;rard Filoche</a>,  <a href="https://vimeo.com/tag:aust%26eacute%3Brit%26eacute%3B" rel="noreferrer" target="_blank">aust&eacute;rit&eacute;</a>  and <a href="https://vimeo.com/tag:Emmanuel+Macron" rel="noreferrer" target="_blank">Emmanuel Macron</a></p></body></html>
-]]></content>
-	<updated>2015-03-17T14:14:04+00:00</updated>
-	<author><name>Là-bas si j\'y suis</name></author>
-	<source>
-		<id>https://vimeo.com/labas/videos</id>
-		<link rel="self" href="https://vimeo.com/labas/videos"/>
-		<updated>2015-03-17T14:14:04+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-04:/2147</id>
-	<link href="https://vimeo.com/122831742" rel="alternate" type="text/html"/>
-	<title type="html">Les Tambours de la Maison Ronde</title>
-	<summary type="html"><![CDATA[Lire notre article "RADIO FRANCE EN LUTTE !" sur la-bas.org/la-bas-magazine/long-courrier/radio-fran...]]></summary>
-	<content type="html"><![CDATA[<html><body><p></p><p></p><p>Lire notre article "RADIO FRANCE EN LUTTE !" sur <a href="http://la-bas.org/la-bas-magazine/long-courrier/radio-france-en-lutte" target="_blank" rel="noreferrer">la-bas.org/la-bas-magazine/long-courrier/radio-france-en-lutte</a></p><p><strong>Cast:</strong> <a href="https://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></p><p><strong>Tags:</strong>  <a href="https://vimeo.com/tag:Radio+France" rel="noreferrer" target="_blank">Radio France</a>,  <a href="https://vimeo.com/tag:gr%26egrave%3Bve" rel="noreferrer" target="_blank">gr&egrave;ve</a>,  <a href="https://vimeo.com/tag:Mathieu+Gallet" rel="noreferrer" target="_blank">Mathieu Gallet</a>  and <a href="https://vimeo.com/tag:Orchestre+National+de+France" rel="noreferrer" target="_blank">Orchestre National de France</a></p></body></html>
-]]></content>
-	<updated>2015-03-21T12:14:45+00:00</updated>
-	<author><name>Là-bas si j\'y suis</name></author>
-	<source>
-		<id>https://vimeo.com/labas/videos</id>
-		<link rel="self" href="https://vimeo.com/labas/videos"/>
-		<updated>2015-03-21T12:14:45+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-08:/2740</id>
-	<link href="http://la-bas.org/la-bas-magazine/long-courrier/radio-france-en-lutte" rel="alternate" type="text/html"/>
-	<title type="html">RADIO FRANCE EN LUTTE - Là-bas si j'y suis</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-08T22:12:48+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-08-08T22:12:48+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-04:/2145</id>
-	<link href="https://vimeo.com/123941637" rel="alternate" type="text/html"/>
-	<title type="html">Didier Super : « Manipulez-nous mieux ! »</title>
-	<summary type="html"><![CDATA[Didier Super devant le public de Lieu-Dit, pour l'émission "Là-bas si j'y suis", animée par Daniel M...]]></summary>
-	<content type="html"><![CDATA[<html><body><p></p><p></p><p>Didier Super devant le public de Lieu-Dit, pour l'&eacute;mission "L&agrave;-bas si j'y suis", anim&eacute;e par Daniel Mermet.</p> <p>L'&eacute;mission int&eacute;grale &laquo; Manipulez-nous mieux ! &raquo; est &agrave; &eacute;couter sur <a href="http://la-bas.org/la-bas-magazine/long-courrier/manipulez-nous-mieux" target="_blank" rel="noreferrer">la-bas.org/la-bas-magazine/long-courrier/manipulez-nous-mieux</a></p><p><strong>Cast:</strong> <a href="https://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></p><p><strong>Tags:</strong>  <a href="https://vimeo.com/tag:Didier+Super" rel="noreferrer" target="_blank">Didier Super</a>,  <a href="https://vimeo.com/tag:Daniel+Mermet" rel="noreferrer" target="_blank">Daniel Mermet</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+si+j%26%23039%3By+suis" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a>  and <a href="https://vimeo.com/tag:L%26agrave%3B-Bas+Hebdo" rel="noreferrer" target="_blank">L&agrave;-Bas Hebdo</a></p></body></html>
-]]></content>
-	<updated>2015-04-02T13:17:47+00:00</updated>
-	<author><name>Là-bas si j\'y suis</name></author>
-	<source>
-		<id>https://vimeo.com/labas/videos</id>
-		<link rel="self" href="https://vimeo.com/labas/videos"/>
-		<updated>2015-04-02T13:17:47+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-04:/2144</id>
-	<link href="https://vimeo.com/123952149" rel="alternate" type="text/html"/>
-	<title type="html">Didier Porte nous parle passion</title>
-	<summary type="html"><![CDATA[Cette semaine Didier PORTE nous parle passion ! Passion de transmettre et passion d’enseigner ? Le p...]]></summary>
-	<content type="html"><![CDATA[<html><body><p></p><p></p><p>Cette semaine Didier PORTE nous parle passion ! Passion de transmettre et passion d&rsquo;enseigner ? Le plus beau m&eacute;tier du monde, bien s&ucirc;r. Cela vous a peut-&ecirc;tre &eacute;chapp&eacute;, mais le Minist&egrave;re de l'&Eacute;ducation Nationale a diffus&eacute; une s&eacute;rie de clips intitul&eacute;e &laquo; Parlons Passion &raquo;, qui vous propose les t&eacute;moignages enthousiasmants et &eacute;mouvants de vrais professeurs...</p> <p>&laquo; Didier Porte nous f&acirc;che avec tout le monde &raquo;, &agrave; retrouver dans L&Agrave;-BAS Hebdo n&deg;11, &laquo; Manipulez-nous mieux &raquo; du jeudi 02 avril 2015</p> <p>vid&eacute;o : <a href="http://www.nouveauxmessagers.com" target="_blank" rel="noreferrer">nouveauxmessagers.com</a></p><p><strong>Cast:</strong> <a href="https://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></p><p><strong>Tags:</strong>  <a href="https://vimeo.com/tag:Didier+PORTE" rel="noreferrer" target="_blank">Didier PORTE</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+si+j%26%23039%3By+suis" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a>,  <a href="https://vimeo.com/tag:Daniel+MERMET" rel="noreferrer" target="_blank">Daniel MERMET</a>  and <a href="https://vimeo.com/tag:L%26agrave%3B-bas+Hebdo" rel="noreferrer" target="_blank">L&agrave;-bas Hebdo</a></p></body></html>
-]]></content>
-	<updated>2015-04-02T15:08:03+00:00</updated>
-	<author><name>Là-bas si j\'y suis</name></author>
-	<source>
-		<id>https://vimeo.com/labas/videos</id>
-		<link rel="self" href="https://vimeo.com/labas/videos"/>
-		<updated>2015-04-02T15:08:03+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-04:/2143</id>
-	<link href="https://vimeo.com/123973210" rel="alternate" type="text/html"/>
-	<title type="html">Didier SUPER en a rien à foutre</title>
-	<summary type="html"><![CDATA[Cette semaine, une chanson de Didier SUPER par jour, en vidéo ! Mercredi : Didier se fout de tout......]]></summary>
-	<content type="html"><![CDATA[<html><body><p></p><p></p><p>Cette semaine, une chanson de Didier SUPER par jour, en vid&eacute;o !</p> <p>Mercredi : Didier se fout de tout... ou presque.</p> <p>Notre &eacute;mission L&Agrave;-BAS Hebdo n&deg;11 : &laquo; Manipulez-nous mieux ! &raquo;, &agrave; &eacute;couter sur <a href="http://la-bas.org/re-ecouter/les-emissions/2014-15/manipulez-nous-mieux" target="_blank" rel="noreferrer">la-bas.org/re-ecouter/les-emissions/2014-15/manipulez-nous-mieux</a>, avec aussi Nonna MAYER, C&eacute;line BRACONNIER, G&eacute;rard MORDILLAT, Herv&eacute; KEMPF et Didier PORTE.</p> <p>Pour conna&icirc;tre toutes les dates de Didier Super en concert, rendez-vous sur <a href="http://www.didiersuper.com" target="_blank" rel="noreferrer">didiersuper.com</a></p> <p>Vid&eacute;o : <a href="http://www.nouveauxmessagers.com" target="_blank" rel="noreferrer">nouveauxmessagers.com</a></p><p><strong>Cast:</strong> <a href="https://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></p><p><strong>Tags:</strong>  <a href="https://vimeo.com/tag:Daniel+Mermet" rel="noreferrer" target="_blank">Daniel Mermet</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+si+j%26%23039%3By+suis" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+Hebdo" rel="noreferrer" target="_blank">L&agrave;-bas Hebdo</a>  and <a href="https://vimeo.com/tag:Didier+Super" rel="noreferrer" target="_blank">Didier Super</a></p></body></html>
-]]></content>
-	<updated>2015-04-02T18:42:53+00:00</updated>
-	<author><name>Là-bas si j\'y suis</name></author>
-	<source>
-		<id>https://vimeo.com/labas/videos</id>
-		<link rel="self" href="https://vimeo.com/labas/videos"/>
-		<updated>2015-04-02T18:42:53+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-01:/781</id>
-	<link href="http://feedproxy.google.com/~r/thedoghousediaries/feed/~3/-v-_1J-sBxs/" rel="alternate" type="text/html"/>
-	<title type="html">If Math Were Like Language</title>
-	<summary type="html"><![CDATA[
-								
-									
-									
-									What did we miss?! Let us know on our  Facebook page.]]></summary>
-	<content type="html"><![CDATA[<html><body><p><img src="http://thedoghousediaries.com/dhdcomics/2015-06-08-2.png" width="800" height="600" alt="If Math Were Like Language" title="379009 &lt; what is that calculator language for?"></p>
-									<p>What did we miss?! Let us know on our <a href="https://www.facebook.com/thedoghousediaries" rel="noreferrer" target="_blank"> Facebook page</a>.</p><img src="http://thedoghousediaries.com/dhdcomics/2015-06-08-2.png" height="1" width="1"><img src="http://feeds.feedburner.com/~r/thedoghousediaries/feed/~4/-v-_1J-sBxs" height="1" width="1" alt=""></body></html>
-]]></content>
-	<updated>2015-06-08T12:36:59+00:00</updated>
-	<author><name>DOGHOUSE DIARIES</name></author>
-	<source>
-		<id>http://thedoghousediaries.com</id>
-		<link rel="self" href="http://thedoghousediaries.com"/>
-		<updated>2015-06-08T12:36:59+00:00</updated>
-		<title>DOGHOUSE</title></source>
-
-	<category term="uncategorized"/>
 
 
 </entry>
