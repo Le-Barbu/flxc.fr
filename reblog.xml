@@ -4,11 +4,375 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-06-08T12:36:59+00:00</updated>
+<updated>2015-08-09T00:08:35+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-21:/3180</id>
+	<link href="http://www.youtube.com/watch?v=HHoJSgq6mqc" rel="alternate" type="text/html"/>
+	<title type="html">Guide to the Lord of the Rings</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-08-21T19:37:24+00:00</updated>
+	<author><name>Neil Cicierega</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCDrJor35jYVnuC3JgRzheIw</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCDrJor35jYVnuC3JgRzheIw"/>
+		<updated>2015-08-21T19:37:24+00:00</updated>
+		<title>Neil Cicierega</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/HHoJSgq6mqc?version=3"/>
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-21:/3332</id>
+	<link href="http://www.youtube.com/watch?v=Hqv3XUrE-qU" rel="alternate" type="text/html"/>
+	<title type="html">Quand on est dans les bouchons - Palmashow</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-08-21T19:28:51+00:00</updated>
+	<author><name>Palmashow</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCoZoRz4-y6r87ptDp4Jk74g</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCoZoRz4-y6r87ptDp4Jk74g"/>
+		<updated>2015-08-21T19:28:51+00:00</updated>
+		<title>Palmashow</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/Hqv3XUrE-qU?version=3"/>
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-21:/3378</id>
+	<link href="http://www.theregister.co.uk/2015/08/17/tracking_supercookies_spreading/" rel="alternate" type="text/html"/>
+	<title type="html">Anti-privacy unkillable super-cookies spreading around the world – study • The Register</title>
+	<summary type="html"><![CDATA[Raison de plus d'utiliser un VPN même en 3G: Un bon paquet d'opérateurs GSM interceptent les entêtes...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Raison de plus d'utiliser un VPN m&ecirc;me en 3G: Un bon paquet d'op&eacute;rateurs GSM interceptent les ent&ecirc;tes HTTP que votre t&eacute;l&eacute;phone envoit et y injectent un cookie, un identifiant unique qui permet de vous suivre &agrave; la trace. Le truc, c'est que vous n'avez aucun contr&ocirc;le sur ce cookie et aucun moyen de le supprimer puisque ce dernier est ins&eacute;r&eacute; directement par le r&eacute;seau de votre op&eacute;rateur, apr&egrave;s que la requ&ecirc;te HTTP ait quitt&eacute; votre t&eacute;l&eacute;phone.<br>
+La solution ? Ne surfer qu'en HTTPS (en priant pour que l'op&eacute;rateur ne fasse pas un joli MITM non d&eacute;tect&eacute;), ou passer par des VPN (Oui le VPN peut &ecirc;tre int&eacute;ressant m&ecirc;me en 3G pour diff&eacute;rences raisons: <a href="http://sebsauvage.net/links/?86I6iQ" rel="noreferrer" target="_blank">http://sebsauvage.net/links/?86I6iQ</a>).<br><br>
+EDIT: En plus des cookies, certains FAI injectent des publicit&eacute;s dans des sites qui ne leur appartiennent pas (<a href="http://sebsauvage.net/links/?Q8POCQ" rel="noreferrer" target="_blank">http://sebsauvage.net/links/?Q8POCQ</a>) ou &nbsp;injectent leur javascript dans toutes les pages que vous visitez:<br><a href="https://reflets.info/sfr-modifie-le-source-html-des-pages-que-vous-visitez-en-3g/" rel="noreferrer" target="_blank">https://reflets.info/sfr-modifie-le-source-html-des-pages-que-vous-visitez-en-3g/</a><br><a href="https://reflets.info/sfr-man-in-the-middle-oui-cest-particulierement-grave/" rel="noreferrer" target="_blank">https://reflets.info/sfr-man-in-the-middle-oui-cest-particulierement-grave/</a><br>
+ou encore mettent en place des proxy-cache transparents:<br><a href="https://reflets.info/3g-sfr-oui-sfr-altere-bien-mon-experience-utilisateur-et-pire-encore-il-altere-mes-usages-professionnels/" rel="noreferrer" target="_blank">https://reflets.info/3g-sfr-oui-sfr-altere-bien-mon-experience-utilisateur-et-pire-encore-il-altere-mes-usages-professionnels/</a><br>(<a href="http://sebsauvage.net/links/?SSmSGA" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-08-18T11:43:34+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://sebsauvage.net/links/</id>
+		<link rel="self" href="http://sebsauvage.net/links/"/>
+		<updated>2015-08-18T11:43:34+00:00</updated>
+		<title>Liens en vrac de sebsauvage</title></source>
+
+	<category term="privacy"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-21:/3376</id>
+	<link href="http://www.gnomelibre.fr/2015/08/la-fondation-apache-doit-elle-reconnaitre-lechec-dopenoffice/" rel="alternate" type="text/html"/>
+	<title type="html">Okki : La fondation Apache doit-elle reconnaître l’échec d’OpenOffice</title>
+	<summary type="html"><![CDATA[Je ne peux qu'approuver ! L'existence parallèle d'OpenOffice et LibreOffice ne fait qu'apporter de l...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Je ne peux qu'approuver ! L'existence parall&egrave;le d'OpenOffice et LibreOffice ne fait qu'apporter de la confusion. Le projet LibreOffice &eacute;tant nettement plus vivant, il serait bon qu'Apache recommande de passer &agrave; LibreOffice.<br>
+(Et ce n'est pas la faute d'Apache, c'est la faute Oracle qui a encore foutu sa merde.)<br>(<a href="http://sebsauvage.net/links/?eht7ww" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-08-18T12:07:06+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://sebsauvage.net/links/</id>
+		<link rel="self" href="http://sebsauvage.net/links/"/>
+		<updated>2015-08-18T12:07:06+00:00</updated>
+		<title>Liens en vrac de sebsauvage</title></source>
+
+	<category term="openoffice"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-21:/3366</id>
+	<link href="https://reflets.info/le-mousquetaire-est-une-ordure/" rel="alternate" type="text/html"/>
+	<title type="html">Le mousquetaire est une ordure</title>
+	<summary type="html"><![CDATA[Oh que c'est laid. Non seulement l'amendement 103 permettant aux supermarchés de donner les invendus...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Oh que c'est laid. Non seulement l'amendement 103 permettant aux supermarch&eacute;s de donner les invendus au lieu de les jeter a &eacute;t&eacute; censur&eacute;, mais en prime certains supermarch&eacute;s font du z&egrave;le pour s'assurer que les plus d&eacute;munis n'aient rien et passent pour des criminels. &nbsp;:-(<br>(<a href="http://sebsauvage.net/links/?ruSDaw" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-08-20T10:59:42+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://sebsauvage.net/links/</id>
+		<link rel="self" href="http://sebsauvage.net/links/"/>
+		<updated>2015-08-20T10:59:42+00:00</updated>
+		<title>Liens en vrac de sebsauvage</title></source>
+
+	<category term="economy"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-21:/3364</id>
+	<link href="http://go.theregister.com/feed/www.theregister.co.uk/2015/08/21/spotify_worse_than_the_nsa/" rel="alternate" type="text/html"/>
+	<title type="html">Spotify now officially even worse than the NSA</title>
+	<summary type="html"><![CDATA[Les nouvelles conditions d'utilisation de Spotify ? Le droit de collecter tous vos déplacements (GPS...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Les nouvelles conditions d'utilisation de Spotify ? Le droit de collecter tous vos d&eacute;placements (GPS), vos mouvements (acc&eacute;l&eacute;rom&egrave;tres et autres capteurs), vos informations personnelles (nom, pr&eacute;nom, num&eacute;ros de t&eacute;l&eacute;phone, photos de profil, email, date de naissance, lieu de naissance, sexe, liste des amis avec leurs noms, photos de profil, etc.), ainsi que: logins et mots de passe (si vous vous connectez par Facebook), ah et puis diverses autres choses, comme tous les "like" Facebook que vous avez faits.<br>
+Mais c'est pas grave hein, parce que Spotify c'est un service qui est tellement "cool".<br><br>
+Surtout continuez &agrave; utiliser Spotify, Facebook, Whatsapp, Snapchat, Windows 10 et toutes ces sangsues "trop cools" qui vivent coll&eacute;es aux jugulaires de votre vie priv&eacute;e. Faudra pas venir pleurer le jour o&ugrave; &ccedil;a va p&eacute;ter.<br>(<a href="http://sebsauvage.net/links/?xzvtnw" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-08-21T11:35:48+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://sebsauvage.net/links/</id>
+		<link rel="self" href="http://sebsauvage.net/links/"/>
+		<updated>2015-08-21T11:35:48+00:00</updated>
+		<title>Liens en vrac de sebsauvage</title></source>
+
+	<category term="minitel2.0"/>
+
+	<category term="privacy"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-21:/3175</id>
+	<link href="http://xkcd.com/1564/" rel="alternate" type="text/html"/>
+	<title type="html">Every Seven Seconds</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://imgs.xkcd.com/comics/every_seven_seconds.png" title="Every few months, I think about sex every seven seconds and how weird and implausible it would be." alt="Every few months, I think about sex every seven seconds and how weird and implausible it would be."></body></html>
+]]></content>
+	<updated>2015-08-14T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://xkcd.com/</id>
+		<link rel="self" href="http://xkcd.com/"/>
+		<updated>2015-08-14T04:00:00+00:00</updated>
+		<title>xkcd.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-21:/3173</id>
+	<link href="http://xkcd.com/1566/" rel="alternate" type="text/html"/>
+	<title type="html">Board Game</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://imgs.xkcd.com/comics/board_game.png" title="Yes, it took a lot of work to make the cards and pieces, but it's worth it--the players are way more thorough than the tax prep people ever were." alt="Yes, it took a lot of work to make the cards and pieces, but it's worth it--the players are way more thorough than the tax prep people ever were."></body></html>
+]]></content>
+	<updated>2015-08-19T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://xkcd.com/</id>
+		<link rel="self" href="http://xkcd.com/"/>
+		<updated>2015-08-19T04:00:00+00:00</updated>
+		<title>xkcd.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-21:/3172</id>
+	<link href="http://xkcd.com/1567/" rel="alternate" type="text/html"/>
+	<title type="html">Kitchen Tips</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://imgs.xkcd.com/comics/kitchen_tips.png" title="Household tip: Tired of buying so much toilet paper? Try unspooling the paper from the roll before using it. A single roll can last for multiple days that way, and it's much easier on your plumbing." alt="Household tip: Tired of buying so much toilet paper? Try unspooling the paper from the roll before using it. A single roll can last for multiple days that way, and it's much easier on your plumbing."></body></html>
+]]></content>
+	<updated>2015-08-21T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://xkcd.com/</id>
+		<link rel="self" href="http://xkcd.com/"/>
+		<updated>2015-08-21T04:00:00+00:00</updated>
+		<title>xkcd.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-21:/3398</id>
+	<link href="http://la-bas.org/la-bas-magazine/long-courrier/qui-veut-gagner-cent-mille-euros-tout-en-detruisant-le-capitalisme" rel="alternate" type="text/html"/>
+	<title type="html">QUI VEUT GAGNER CENT MILLE EUROS TOUT EN DÉTRUISANT LE CAPITALISME ?</title>
+	<summary type="html"><![CDATA[
+
+"Si Wikileaks révelait des secrets nords-coréens, Julian Assange se verrait attribuer le Prix Nobe...]]></summary>
+	<content type="html"><![CDATA[<html><body><div><dl><dt><img src="http://la-bas.org/IMG/jpg/assange.jpg" width="1680" height="1050" alt="JPEG - 257.6&nbsp;ko"></dt>
+<dt><strong>"Si Wikileaks r&eacute;velait des secrets nords-cor&eacute;ens, Julian Assange se verrait attribuer le Prix Nobel de la Paix..."
+</strong></dt>
+</dl><p>C'est facile, il vous suffit de faire parvenir le texte du TAFTA &agrave; <a href="https://wikileaks.org/index.fr.html" rel="noreferrer" target="_blank">Wikileaks</a>. L'organisation de Julian Assange vient de lancer un appel pour r&eacute;colter 100.000 euros comme prime &agrave; celui qui fera fuiter le texte du TAFTA. Et &ccedil;a marche, le jour m&ecirc;me plus de 21.000 euros &eacute;taient d&eacute;j&agrave; vers&eacute;s. Des personnalit&eacute;s comme Yanis Varoufakis, l'ex-ministre grec des finances, ou Daniel Ellsberg, qui avait divulgu&eacute; les <a href="http://la-bas.org/re-ecouter/les-emissions/2013-14/mai-542/la-verite-mais-pourquoi-faire" rel="noreferrer" target="_blank">"Pentagon Papers"</a> &agrave; la presse am&eacute;ricaine en 1971, s'associent &agrave; l'op&eacute;ration. Mais pourquoi faut-il percer ce secret ?</p></div>
+		<div><p><a href="http://la-bas.org/spip.php?page=recherche&amp;recherche=TAFTA" rel="noreferrer" target="_blank">TAFTA</a> (ou TTIP) c'est le petit nom du Trait&eacute; de commerce transatlantique qui va faire de l'Europe et des &Eacute;tats-Unis un seul grand super march&eacute; commun pour 820 millions d'heureux consommateurs. Finies les barri&egrave;res douani&egrave;res et les diff&eacute;rentes r&eacute;glementations, nous roulerons bient&ocirc;t nos caddies dans la plus grande zone de libre-&eacute;change au monde. Engag&eacute;es en juillet 2013, les n&eacute;gociations devraient passer &agrave; la vitesse sup&eacute;rieure cet automne, selon la Commissaire europ&eacute;enne au commerce, C&eacute;cilia Malmstr&ouml;m. Pour ces veinards d'europ&eacute;ens, <a href="http://la-bas.org/spip.php?page=recherche&amp;recherche=TAFTA" rel="noreferrer" target="_blank">TAFTA</a> va &ecirc;tre &agrave; l'&eacute;conomie ce que l'<a href="http://la-bas.org/re-ecouter/les-emissions/2012-13/mars-528/regis-debray-la-france-doit-quitter-l-otan" rel="noreferrer" target="_blank">OTAN</a> est &agrave; la d&eacute;fense.</p> <p>Mais pourquoi ce merveilleux projet s'&eacute;labore-t-il dans le plus grand secret ? Car hormis les grandes lignes connues, on nage dans l'opacit&eacute;. Qui a choisi les n&eacute;gociateurs, quelle est leur l&eacute;gitimit&eacute; ? Comment, dans nos grandes d&eacute;mocraties avec nos vigilants &eacute;lus, avec nos puissants et si courageux m&eacute;dias, avec nos experts et nos chercheurs, comment de telles n&eacute;gociations peuvent-elles rester secr&egrave;tes ?</p> <p>Une <a href="http://www.humanite.fr/traite-transatlantique-7-francais-sur-10-exigent-la-transparence-532587" rel="noreferrer" target="_blank">enqu&ecirc;te</a> publi&eacute;e lors des &eacute;lections europ&eacute;ennes de mai 2014 peut fournir quelques indications. L'&eacute;tude montre d'abord qu'une majorit&eacute; de fran&ccedil;ais n'ont jamais entendu parler de ce trait&eacute; (55%). Seuls 16% &laquo; savent tr&egrave;s bien de quoi il s'agit &raquo;. Mais pour une majorit&eacute; (63%) ce sont les &Eacute;tats-Unis qui vont en profiter. Par contre c'est &laquo; plut&ocirc;t une menace pour l'Europe (45%) &raquo;. Et encore plus clairement, c'est &agrave; 55% &laquo; plut&ocirc;t une menace pour la France &raquo;. Seulement 28% estiment que c'est une chance pour la France.</p>
+<blockquote> <p><strong>Nous avions consacr&eacute; deux &eacute;mission de L&agrave;-bas si j'y suis &agrave; ce sujet :</strong><br><img src="http://la-bas.org/local/cache-vignettes/L8xH11/puce-32883.gif" width="8" height="11" alt="-"><a href="http://la-bas.org/re-ecouter/les-emissions/2014-15/18-avril-journee-mondiale-contre-tafta" rel="noreferrer" target="_blank"><i>L&agrave;-bas Hebdo</i> du 17 avril 2015 : "18 avril : journ&eacute;e mondiale contre TAFTA", Rencontre avec Raoul Marc JENNAR</a><br><img src="http://la-bas.org/local/cache-vignettes/L8xH11/puce-32883.gif" width="8" height="11" alt="-"><a href="http://la-bas.org/re-ecouter/les-emissions/2013-14/avril-541/tafta-dracula" rel="noreferrer" target="_blank"><i>L&agrave;-bas si j'y suis</i> du 23 avril 2014 : "Tafta Dracula", un reportage de Gaylord Van Wymeersch</a></p>
+</blockquote><p><span>
+<img src="http://la-bas.org/local/cache-vignettes/L300xH303/arton3625-d3bc7.png" width="300" height="303" alt=""></span>Tout se passe donc comme si <a href="http://la-bas.org/spip.php?page=recherche&amp;recherche=TAFTA" rel="noreferrer" target="_blank">TAFTA</a>, malgr&eacute; l'apathie dominante, craignait de ne pas rencontrer la franche adh&eacute;sion des citoyens.</p> <p>Car des voix s'&eacute;l&egrave;vent. &laquo; Citizen before corporation, people before profit &raquo; ("Le citoyen avant les entreprises, le peuple avant le profit"), le mouvement contre le TAFTA est actif un peu partout. Pour beaucoup, <a href="http://la-bas.org/spip.php?page=recherche&amp;recherche=TAFTA" rel="noreferrer" target="_blank">TAFTA</a> servira surtout les int&eacute;r&ecirc;ts des multinationales. &laquo; <i>Le secret entourant le TAFTA (TTIP) constitue une menace pour l'avenir de la d&eacute;mocratie europ&eacute;enne,</i> <i>dit Julian Assange dans un communiqu&eacute;,</i> certains int&eacute;r&ecirc;ts en profitent sans limite. Le <a href="http://la-bas.org/spip.php?page=recherche&amp;recherche=TAFTA" rel="noreferrer" target="_blank">TAFTA</a> a un impact sur les vies de tous les Europ&eacute;ens et entra&icirc;ne l'Europe dans un conflit de long terme avec l'Asie. Il est temps de mettre fin au secret. &raquo;</p> <p>En r&eacute;alit&eacute; <a href="http://la-bas.org/spip.php?page=recherche&amp;recherche=TAFTA" rel="noreferrer" target="_blank">TAFTA</a> et les trait&eacute;s qui lui ressemblent ne sont que des vampires qui la nuit viennent sucer le bon sang rouge du peuple endormi. Mais il suffit d'allumer la lumi&egrave;re, il suffit de se r&eacute;veiller, et les vampires tremblant de peur disparaissent avec des grognements lamentables.</p> <p><strong>Alors, comme dit Julian Assange : &laquo; APPRENEZ , D&Eacute;FIEZ, AGISSEZ, MAINTENANT ! &raquo; Nous vous proposons de le retrouver dans cet entretien de mars 2013 &agrave; l'ambassade d'&Eacute;quateur &agrave; Londres o&ugrave; il vit toujours reclus.</strong> Il accordait tr&egrave;s peu d'entretien et avec Giv Anquetil nous &eacute;tions heureux d'avoir r&eacute;ussi ce scoop. Hostile &agrave; Julian Assange et &agrave; Wikileaks (tout comme &agrave; Edward Snowden) la direction de France Inter avait farouchement interdit toute forme de promotion sur l'antenne. Malheureusement, l'&eacute;mission fut un gros succ&egrave;s !</p>
+<h3>&Agrave; &eacute;couter : Entretien avec Julian Assange</h3><span title="PD9waHAgaWYoIWludHZhbCgnMCcpIE9SIHRyeXBob25fY2FuX3BsYXkoJ2h0dHA6Ly9hdWRpb2JhbmsudHJ5cGhvbi5ldS9jYXN0cy94eGxuamljeS5tcDMnKSkgeyA/Pg=="></span>
+<dl><dt> <div> <audio data-id="1982e77f9b8b75e99a0c5adbdadb3f82" data-mejsoptions='{"alwaysShowControls": true,"loop":false,"audioWidth":"100%","duration":"2784"}' data-mejsplugins="null" controls="controls" preload="none"><source type="audio/ogg" src="http://audiobank.tryphon.eu/casts/xxlnjicy.ogg"></source><source type="audio/mpeg" src="http://audiobank.tryphon.eu/casts/xxlnjicy.mp3"></source></audio></div><span> <div title="PHNjcmlwdD4vKjwhW0NEQVRBWyovdmFyIG1lanNwYXRoPSdwbHVnaW5zL2Rpc3QvcGx1Z2lucy9wbGF5ZXIvbGliL21lanMvbWVkaWFlbGVtZW50LWFuZC1wbGF5ZXIubWluLmpzPzE0MzMyNTE0OTEnLG1lanNjc3M9J3BsdWdpbnMvZGlzdC9wbHVnaW5zL3BsYXllci9saWIvbWVqcy9tZWRpYWVsZW1lbnRwbGF5ZXIubWluLmNzcz8xNDMzMjUxNDkxJzsKCXZhciBtZWpzbG9hZGVyOyAoZnVuY3Rpb24oKXt2YXIgYT1tZWpzbG9hZGVyOyJ1bmRlZmluZWQiPT10eXBlb2YgYSYmKG1lanNsb2FkZXI9YT17Z3M6bnVsbCxwbHVnOnt9LGNzczp7fSxpbml0Om51bGwsYzowLGNzc2xvYWQ6bnVsbH0pO2EuaW5pdHx8KGEuY3NzbG9hZD1mdW5jdGlvbihiKXtpZigidW5kZWZpbmVkIj09dHlwZW9mIGEuY3NzW2JdKXthLmNzc1tiXT0hMDt2YXIgYz1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCJsaW5rIik7Yy5ocmVmPWI7Yy5yZWw9InN0eWxlc2hlZXQiO2MudHlwZT0idGV4dC9jc3MiO2RvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCJoZWFkIilbMF0uYXBwZW5kQ2hpbGQoYyl9fSxhLmluaXQ9ZnVuY3Rpb24oKXshMD09PWEuZ3MmJmZ1bmN0aW9uKGIpe2pRdWVyeSgiYXVkaW8ubWVqcyx2aWRlby5tZWpzIikubm90KCIuZG9uZSIpLmVhY2goZnVuY3Rpb24oKXtmdW5jdGlvbiBjKCl7dmFyIGU9ITAsaDtmb3IoaCBpbiBkLmNzcylhLmNzc2xvYWQoZC5jc3NbaF0pO2Zvcih2YXIgZiBpbiBkLnBsdWdpbnMpInVuZGVmaW5lZCI9PSB0eXBlb2YgYS5wbHVnW2ZdPyhlPSExLGEucGx1Z1tmXT0hMSxqUXVlcnkuZ2V0U2NyaXB0KGQucGx1Z2luc1tmXSxmdW5jdGlvbigpe2EucGx1Z1tmXT0hMDtjKCl9KSk6MD09YS5wbHVnW2ZdJiYoZT0hMSk7ZSYmbmV3IE1lZGlhRWxlbWVudFBsYXllcigiIyIrYixqUXVlcnkuZXh0ZW5kKGQub3B0aW9ucyx7c3VjY2VzczpmdW5jdGlvbihhKXtmdW5jdGlvbiBiKCl7alF1ZXJ5KGEpLmNsb3Nlc3QoIi5tZWpzLWlubmVyIikucmVtb3ZlQ2xhc3MoYS5wYXVzZWQ/InBsYXlpbmciOiJwYXVzZWQiKS5hZGRDbGFzcyhhLnBhdXNlZD8icGF1c2VkIjoicGxheWluZyIpfWIoKTthLmFkZEV2ZW50TGlzdGVuZXIoInBsYXkiLGIsITEpO2EuYWRkRXZlbnRMaXN0ZW5lcigicGxheWluZyIsYiwhMSk7YS5hZGRFdmVudExpc3RlbmVyKCJwYXVzZSIsYiwhMSk7YS5hZGRFdmVudExpc3RlbmVyKCJwYXVzZWQiLGIsITEpO2cuYXR0cigiYXV0b3BsYXkiKSYmYS5wbGF5KCl9fSkpfXZhciBnPWpRdWVyeSh0aGlzKS5hZGRDbGFzcygiZG9uZSIpLCBiOyhiPWcuYXR0cigiaWQiKSl8fChiPSJtZWpzLSIrZy5hdHRyKCJkYXRhLWlkIikrIi0iK2EuYysrLGcuYXR0cigiaWQiLGIpKTt2YXIgZD17b3B0aW9uczp7fSxwbHVnaW5zOnt9LGNzczpbXX0sZSxoO2ZvcihlIGluIGQpaWYoaD1nLmF0dHIoImRhdGEtbWVqcyIrZSkpZFtlXT1qUXVlcnkucGFyc2VKU09OKGgpO2MoKX0pfShqUXVlcnkpfSk7YS5nc3x8KCJ1bmRlZmluZWQiIT09dHlwZW9mIG1lanNjc3MmJmEuY3NzbG9hZChtZWpzY3NzKSxhLmdzPWpRdWVyeS5nZXRTY3JpcHQobWVqc3BhdGgsZnVuY3Rpb24oKXthLmdzPSEwO2EuaW5pdCgpO2pRdWVyeShhLmluaXQpO29uQWpheExvYWQoYS5pbml0KX0pKX0pKCk7LypdXT4qLzwvc2NyaXB0Pg=="></div> </span>
+</dt>
+<dt><strong>Entretien avec Julian Assange (03/2013)
+</strong></dt>
+<dd><a href="http://audiobank.tryphon.eu/casts/xxlnjicy.mp3" rel="noreferrer" target="_blank">T&eacute;l&eacute;charger le MP3</a>
+<span>-
+<a href="http://la-bas.org/spip.php?page=player&amp;id_document=34825" target="_blank" title="Ouvrir dans une fen&ecirc;tre" rel="noreferrer"><i></i></a></span>
+</dd>
+</dl><span title="PD9waHAgfSBlbHNlIHsgPz4="></span>
+<span title="PD9waHAgfSA/Pg=="></span> <p><i>Nouvelle version d'un entretien de <strong>Daniel Mermet</strong> et <strong>Giv Anquetil</strong> avec <strong>Julian Assange</strong> et <strong>J&eacute;r&eacute;mie Zimmermann</strong> de la <a href="https://www.laquadrature.net/" rel="noreferrer" target="_blank">Quadrature du Net</a>, diffus&eacute; pour la premi&egrave;re fois les 20 et 21 mars 2013.</i></p> <p><strong>Programmation musicale :</strong><br><img src="http://la-bas.org/local/cache-vignettes/L8xH11/puce-32883.gif" width="8" height="11" alt="-"><strong>The New Puritans</strong> : "Fire Power"<br><img src="http://la-bas.org/local/cache-vignettes/L8xH11/puce-32883.gif" width="8" height="11" alt="-"><strong>Sonic Disobedience</strong> : "Wikileaks samba"<br><img src="http://la-bas.org/local/cache-vignettes/L8xH11/puce-32883.gif" width="8" height="11" alt="-"><strong>Cause</strong> : "Interference"</p>
+<div><br>
+Reportage : <strong>Daniel MERMET</strong> et <strong>Giv ANQUETIL</strong><br>
+R&eacute;alisation : <strong>Bertrand CHAUMETON</strong> et <strong>Franck HADERER</strong></div><p>N'oubliez pas que le r&eacute;pondeur attend vos messages au <strong>01 85 08 37 37</strong>.</p></div>
+		<div><p><span>
+<img src="http://la-bas.org/IMG/jpg/livre-julian-assange_med_hr.jpg" width="100" height="152" alt=""></span></p>
+<h5>&Agrave; lire :</h5> <p><img src="http://la-bas.org/squelettes-dist/puce.gif" width="8" height="11" alt="-"> "Menaces sur nos libert&eacute;s : comment internet nous surveille", de Julian Assange avec Jacob Appelbaum, Andy M&uuml;ller-Maguhn et J&eacute;r&eacute;mie Zimmermann (Robert Laffont, 2013)</p> <p><img src="http://la-bas.org/squelettes-dist/puce.gif" width="8" height="11" alt="-"> "Hackers : au c&oelig;ur de la r&eacute;sistance num&eacute;rique", de Amaelle Guiton (Au Diable Vauvert, 2013)</p>
+<h5>A &eacute;couter sur TAFTA :</h5> <p><img src="http://la-bas.org/squelettes-dist/puce.gif" width="8" height="11" alt="-"><a href="http://la-bas.org/re-ecouter/les-emissions/2014-15/18-avril-journee-mondiale-contre-tafta" rel="noreferrer" target="_blank">18 avril : journ&eacute;e mondiale contre TAFTA, notre &eacute;mission L&agrave;-bas HEBDO du 17 avril 2015</a></p> <p><img src="http://la-bas.org/squelettes-dist/puce.gif" width="8" height="11" alt="-"><a href="http://la-bas.org/re-ecouter/les-emissions/2013-14/avril-541/tafta-dracula" rel="noreferrer" target="_blank">"TAFTA Dracula !", un reportage de Gaylord Van Wymeersch dans L&agrave;-bas si j'y suis du 23 avril 2015</a></p></div></body></html>
+]]></content>
+	<updated>2015-08-21T10:53:36+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://la-bas.org/</id>
+		<link rel="self" href="http://la-bas.org/"/>
+		<updated>2015-08-21T10:53:36+00:00</updated>
+		<title>Là-bas si j'y suis</title></source>
+
+	<category term="résistance"/>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="62605167"
+		href="http://audiobank.tryphon.eu/casts/usce52uy.mp3"/>
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-11:/3088</id>
+	<link href="http://blog.howtommy.net/?d=2015/08/05/10/15/53-la-souris-ergonomique-on-sy-fait-bien" rel="alternate" type="text/html"/>
+	<title type="html">La souris ergonomique ? On s'y fait bien. - HowTommy</title>
+	<summary type="html"><![CDATA[(Permalink)]]></summary>
+	<content type="html"><![CDATA[<html><body><p>(<a href="http://sebsauvage.net/links/?M4QT7Q" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-08-11T11:29:11+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://sebsauvage.net/links/</id>
+		<link rel="self" href="http://sebsauvage.net/links/"/>
+		<updated>2015-08-11T11:29:11+00:00</updated>
+		<title>Liens en vrac de sebsauvage</title></source>
+
+	<category term="hardware"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-11:/3089</id>
+	<link href="http://kidiscience.cafe-sciences.org/articles/info-ou-intox-il-faut-attendre-deux-heures-avant-daller-nager-apres-avoir-mange/" rel="alternate" type="text/html"/>
+	<title type="html">Info ou intox : Il faut attendre deux heures avant d’aller nager après avoir mangé. | Kidi'science</title>
+	<summary type="html"><![CDATA[(Permalink)]]></summary>
+	<content type="html"><![CDATA[<html><body><p>(<a href="http://sebsauvage.net/links/?fOBXsA" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-08-11T11:25:29+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://sebsauvage.net/links/</id>
+		<link rel="self" href="http://sebsauvage.net/links/"/>
+		<updated>2015-08-11T11:25:29+00:00</updated>
+		<title>Liens en vrac de sebsauvage</title></source>
+
+	<category term="science"/>
+
+	<category term="santé"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-13:/3170</id>
+	<link href="http://leviosaaa.com/" rel="alternate" type="text/html"/>
+	<title type="html">Wingardium Leviosaaa ! </title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-08-13T04:16:57+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-08-13T04:16:57+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-13:/3108</id>
+	<link href="http://localghost.org/posts/a-traffic-analysis-of-windows-10" rel="alternate" type="text/html"/>
+	<title type="html">A Traffic Analysis of Windows 10 - root@localghost:~#</title>
+	<summary type="html"><![CDATA[Vous avez déjà lu des tonnes d'articles disant que Windows 10 est un spyware ? C'est peut-être en *d...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Vous avez d&eacute;j&agrave; lu des tonnes d'articles disant que Windows 10 est un spyware ? C'est peut-&ecirc;tre en *dessous* de la v&eacute;rit&eacute;.<br>
+Un gars s'est "amus&eacute;" &agrave; sniffer le trafic r&eacute;seau d'un Windows pour voir ce qu'il faisait.<br>
+TOUTE TOUCHE TAP&Eacute;E AU CLAVIER est stock&eacute;e dans un fichier... envoy&eacute; toutes les 30 minutes aux serveurs de Microsoft.<br>
+Tout num&eacute;ro de t&eacute;l&eacute;phone ou titre de film tap&eacute; dans la recherche, M&Ecirc;ME LOCALE, est envoy&eacute; &agrave; Microsoft.<br>
+D&egrave;s que la webcam est allum&eacute;e, les premiers 35 Mo de la capture sont envoy&eacute;s aussi aux serveurs Microsoft.<br>
+Tout ce qui est dit au microphone est &eacute;galement envoy&eacute;, m&ecirc;me quand Cortana est d&eacute;sactiv&eacute;.<br><br>
+Je n'ai pas pu v&eacute;rifier la v&eacute;racit&eacute; de tout cela, mais si cela s'av&egrave;re, alors Windows 10 est un spyware bien plus abominable que ce que Google et Apple ont pu r&eacute;aliser.<br>
+Je le r&eacute;p&egrave;te: Cet article est &agrave; prendre avec des pincettes et tout cela devra &ecirc;tre v&eacute;rifi&eacute;.<br>(<a href="http://sebsauvage.net/links/?LegfyA" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-08-12T21:06:16+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://sebsauvage.net/links/</id>
+		<link rel="self" href="http://sebsauvage.net/links/"/>
+		<updated>2015-08-12T21:06:16+00:00</updated>
+		<title>Liens en vrac de sebsauvage</title></source>
+
+	<category term="windows"/>
+
+	<category term="microsoft"/>
+
+	<category term="privacy"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-11:/3079</id>
+	<link href="http://mememaster.tumblr.com/post/126386063574" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/2319a0b145397337ec6bb5ada046e969/tumblr_npdrqbvDi21qjnhqgo1_500.jpg"><br><br></body></html>
+]]></content>
+	<updated>2015-08-11T01:38:53+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-08-11T01:38:53+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-11:/3074</id>
+	<link href="http://mememaster.tumblr.com/post/126387283254" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/ef5be338599ba98d6a1defe5d4b1b086/tumblr_mj22wmUa9K1rb4vc5o1_500.jpg"><br><br></body></html>
+]]></content>
+	<updated>2015-08-11T01:55:48+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-08-11T01:55:48+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-08-10:/3029</id>
@@ -1160,295 +1524,6 @@ these are great and i thought the first two were part of the same...]]></summary
 		<link rel="self" href="http://flxc.fr/rss"/>
 		<updated>2015-08-09T00:08:35+00:00</updated>
 		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-09:/2779</id>
-	<link href="https://vimeo.com/120496557" rel="alternate" type="text/html"/>
-	<title type="html">Marc Nammour, avec Valentin Durup on Vimeo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-09T00:00:10+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-08-09T00:00:10+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-08:/2777</id>
-	<link href="https://vimeo.com/121669609" rel="alternate" type="text/html"/>
-	<title type="html">Les Conti ont gagné mais ils ont tout perdu on Vimeo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-08T23:30:46+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-08-08T23:30:46+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-08:/2758</id>
-	<link href="https://vimeo.com/121669613" rel="alternate" type="text/html"/>
-	<title type="html">Gérard contre Gérard, ou le retour de la lutte des classes on Vimeo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-08T23:15:57+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-08-08T23:15:57+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-08:/2757</id>
-	<link href="https://vimeo.com/122089878" rel="alternate" type="text/html"/>
-	<title type="html">DIDIER PORTE EN GRÈVE DE LA FAIM on Vimeo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-08T22:59:45+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-08-08T22:59:45+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-08:/2756</id>
-	<link href="https://vimeo.com/122309513" rel="alternate" type="text/html"/>
-	<title type="html">FILOCHE : Syriza ou Podemos ? (07’51) on Vimeo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-08T22:54:42+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-08-08T22:54:42+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-08:/2741</id>
-	<link href="http://mememaster.tumblr.com/post/126204415969" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/97d4291db8609260860a5a36946655f8/tumblr_npg9l8m8Od1qjnhqgo1_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-08-08T22:10:03+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-08-08T22:10:03+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-04:/2152</id>
-	<link href="https://vimeo.com/122327944" rel="alternate" type="text/html"/>
-	<title type="html">FILOCHE  ne respecte pas les milliardaires (08’36)</title>
-	<summary type="html"><![CDATA[Notre émission «VIVE L'ENTREPRISE ! Spéciale Gérard FILOCHE » est à écouter intégralement sur la-bas...]]></summary>
-	<content type="html"><![CDATA[<html><body><p></p><p></p><p>Notre &eacute;mission &laquo;VIVE L'ENTREPRISE ! Sp&eacute;ciale G&eacute;rard FILOCHE &raquo; est &agrave; &eacute;couter int&eacute;gralement sur <a href="http://la-bas.org/re-ecouter/les-emissions/2014-15/vive-l-entreprise-speciale-gerard-filoche" target="_blank" rel="noreferrer">la-bas.org/re-ecouter/les-emissions/2014-15/vive-l-entreprise-speciale-gerard-filoche</a></p> <p>(vid&eacute;o : <a href="http://www.nouveauxmessagers.com" target="_blank" rel="noreferrer">nouveauxmessagers.com</a>)</p><p><strong>Cast:</strong> <a href="https://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></p><p><strong>Tags:</strong>  <a href="https://vimeo.com/tag:Daniel+Mermet" rel="noreferrer" target="_blank">Daniel Mermet</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+si+j%26%23039%3By+suis" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+Hebdo" rel="noreferrer" target="_blank">L&agrave;-bas Hebdo</a>,  <a href="https://vimeo.com/tag:G%26eacute%3Brard+Filoche" rel="noreferrer" target="_blank">G&eacute;rard Filoche</a>,  <a href="https://vimeo.com/tag:aust%26eacute%3Brit%26eacute%3B" rel="noreferrer" target="_blank">aust&eacute;rit&eacute;</a>  and <a href="https://vimeo.com/tag:Emmanuel+Macron" rel="noreferrer" target="_blank">Emmanuel Macron</a></p></body></html>
-]]></content>
-	<updated>2015-03-16T15:40:31+00:00</updated>
-	<author><name>Là-bas si j\'y suis</name></author>
-	<source>
-		<id>https://vimeo.com/labas/videos</id>
-		<link rel="self" href="https://vimeo.com/labas/videos"/>
-		<updated>2015-03-16T15:40:31+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-04:/2151</id>
-	<link href="https://vimeo.com/122330334" rel="alternate" type="text/html"/>
-	<title type="html">FILOCHE et la théorie du siphonnement (05'04)</title>
-	<summary type="html"><![CDATA[Notre émission «VIVE L'ENTREPRISE ! Spéciale Gérard FILOCHE » est à écouter intégralement sur la-bas...]]></summary>
-	<content type="html"><![CDATA[<html><body><p></p><p></p><p>Notre &eacute;mission &laquo;VIVE L'ENTREPRISE ! Sp&eacute;ciale G&eacute;rard FILOCHE &raquo; est &agrave; &eacute;couter int&eacute;gralement sur <a href="http://la-bas.org/re-ecouter/les-emissions/2014-15/vive-l-entreprise-speciale-gerard-filoche" target="_blank" rel="noreferrer">la-bas.org/re-ecouter/les-emissions/2014-15/vive-l-entreprise-speciale-gerard-filoche</a></p> <p>(vid&eacute;o : <a href="http://www.nouveauxmessagers.com" target="_blank" rel="noreferrer">nouveauxmessagers.com</a>)</p><p><strong>Cast:</strong> <a href="https://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></p><p><strong>Tags:</strong>  <a href="https://vimeo.com/tag:Daniel+Mermet" rel="noreferrer" target="_blank">Daniel Mermet</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+si+j%26%23039%3By+suis" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+Hebdo" rel="noreferrer" target="_blank">L&agrave;-bas Hebdo</a>,  <a href="https://vimeo.com/tag:G%26eacute%3Brard+Filoche" rel="noreferrer" target="_blank">G&eacute;rard Filoche</a>,  <a href="https://vimeo.com/tag:aust%26eacute%3Brit%26eacute%3B" rel="noreferrer" target="_blank">aust&eacute;rit&eacute;</a>  and <a href="https://vimeo.com/tag:Emmanuel+Macron" rel="noreferrer" target="_blank">Emmanuel Macron</a></p></body></html>
-]]></content>
-	<updated>2015-03-16T15:59:51+00:00</updated>
-	<author><name>Là-bas si j\'y suis</name></author>
-	<source>
-		<id>https://vimeo.com/labas/videos</id>
-		<link rel="self" href="https://vimeo.com/labas/videos"/>
-		<updated>2015-03-16T15:59:51+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-04:/2150</id>
-	<link href="https://vimeo.com/122334314" rel="alternate" type="text/html"/>
-	<title type="html">FILOCHE l'affirme, le chômage est voulu (06'20)</title>
-	<summary type="html"><![CDATA[Notre émission «VIVE L'ENTREPRISE ! Spéciale Gérard FILOCHE » est à écouter intégralement sur la-bas...]]></summary>
-	<content type="html"><![CDATA[<html><body><p></p><p></p><p>Notre &eacute;mission &laquo;VIVE L'ENTREPRISE ! Sp&eacute;ciale G&eacute;rard FILOCHE &raquo; est &agrave; &eacute;couter int&eacute;gralement sur <a href="http://la-bas.org/re-ecouter/les-emissions/2014-15/vive-l-entreprise-speciale-gerard-filoche" target="_blank" rel="noreferrer">la-bas.org/re-ecouter/les-emissions/2014-15/vive-l-entreprise-speciale-gerard-filoche</a></p> <p>(vid&eacute;o : <a href="http://www.nouveauxmessagers.com" target="_blank" rel="noreferrer">nouveauxmessagers.com</a>)</p><p><strong>Cast:</strong> <a href="https://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></p><p><strong>Tags:</strong>  <a href="https://vimeo.com/tag:Daniel+Mermet" rel="noreferrer" target="_blank">Daniel Mermet</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+si+j%26%23039%3By+suis" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+Hebdo" rel="noreferrer" target="_blank">L&agrave;-bas Hebdo</a>,  <a href="https://vimeo.com/tag:G%26eacute%3Brard+Filoche" rel="noreferrer" target="_blank">G&eacute;rard Filoche</a>,  <a href="https://vimeo.com/tag:aust%26eacute%3Brit%26eacute%3B" rel="noreferrer" target="_blank">aust&eacute;rit&eacute;</a>  and <a href="https://vimeo.com/tag:Emmanuel+Macron" rel="noreferrer" target="_blank">Emmanuel Macron</a></p></body></html>
-]]></content>
-	<updated>2015-03-16T16:36:36+00:00</updated>
-	<author><name>Là-bas si j\'y suis</name></author>
-	<source>
-		<id>https://vimeo.com/labas/videos</id>
-		<link rel="self" href="https://vimeo.com/labas/videos"/>
-		<updated>2015-03-16T16:36:36+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-04:/2149</id>
-	<link href="https://vimeo.com/122430971" rel="alternate" type="text/html"/>
-	<title type="html">FILOCHE et le Code du travail, une histoire d'amour (07'45)</title>
-	<summary type="html"><![CDATA[Notre émission «VIVE L'ENTREPRISE ! Spéciale Gérard FILOCHE » est à écouter intégralement sur la-bas...]]></summary>
-	<content type="html"><![CDATA[<html><body><p></p><p></p><p>Notre &eacute;mission &laquo;VIVE L'ENTREPRISE ! Sp&eacute;ciale G&eacute;rard FILOCHE &raquo; est &agrave; &eacute;couter int&eacute;gralement sur <a href="http://la-bas.org/re-ecouter/les-emissions/2014-15/vive-l-entreprise-speciale-gerard-filoche" target="_blank" rel="noreferrer">la-bas.org/re-ecouter/les-emissions/2014-15/vive-l-entreprise-speciale-gerard-filoche</a></p> <p>(vid&eacute;o : <a href="http://www.nouveauxmessagers.com" target="_blank" rel="noreferrer">nouveauxmessagers.com</a>)</p><p><strong>Cast:</strong> <a href="https://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></p><p><strong>Tags:</strong>  <a href="https://vimeo.com/tag:Daniel+Mermet" rel="noreferrer" target="_blank">Daniel Mermet</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+si+j%26%23039%3By+suis" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+Hebdo" rel="noreferrer" target="_blank">L&agrave;-bas Hebdo</a>,  <a href="https://vimeo.com/tag:G%26eacute%3Brard+Filoche" rel="noreferrer" target="_blank">G&eacute;rard Filoche</a>,  <a href="https://vimeo.com/tag:aust%26eacute%3Brit%26eacute%3B" rel="noreferrer" target="_blank">aust&eacute;rit&eacute;</a>  and <a href="https://vimeo.com/tag:Emmanuel+Macron" rel="noreferrer" target="_blank">Emmanuel Macron</a></p></body></html>
-]]></content>
-	<updated>2015-03-17T14:14:04+00:00</updated>
-	<author><name>Là-bas si j\'y suis</name></author>
-	<source>
-		<id>https://vimeo.com/labas/videos</id>
-		<link rel="self" href="https://vimeo.com/labas/videos"/>
-		<updated>2015-03-17T14:14:04+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-04:/2147</id>
-	<link href="https://vimeo.com/122831742" rel="alternate" type="text/html"/>
-	<title type="html">Les Tambours de la Maison Ronde</title>
-	<summary type="html"><![CDATA[Lire notre article "RADIO FRANCE EN LUTTE !" sur la-bas.org/la-bas-magazine/long-courrier/radio-fran...]]></summary>
-	<content type="html"><![CDATA[<html><body><p></p><p></p><p>Lire notre article "RADIO FRANCE EN LUTTE !" sur <a href="http://la-bas.org/la-bas-magazine/long-courrier/radio-france-en-lutte" target="_blank" rel="noreferrer">la-bas.org/la-bas-magazine/long-courrier/radio-france-en-lutte</a></p><p><strong>Cast:</strong> <a href="https://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></p><p><strong>Tags:</strong>  <a href="https://vimeo.com/tag:Radio+France" rel="noreferrer" target="_blank">Radio France</a>,  <a href="https://vimeo.com/tag:gr%26egrave%3Bve" rel="noreferrer" target="_blank">gr&egrave;ve</a>,  <a href="https://vimeo.com/tag:Mathieu+Gallet" rel="noreferrer" target="_blank">Mathieu Gallet</a>  and <a href="https://vimeo.com/tag:Orchestre+National+de+France" rel="noreferrer" target="_blank">Orchestre National de France</a></p></body></html>
-]]></content>
-	<updated>2015-03-21T12:14:45+00:00</updated>
-	<author><name>Là-bas si j\'y suis</name></author>
-	<source>
-		<id>https://vimeo.com/labas/videos</id>
-		<link rel="self" href="https://vimeo.com/labas/videos"/>
-		<updated>2015-03-21T12:14:45+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-08:/2740</id>
-	<link href="http://la-bas.org/la-bas-magazine/long-courrier/radio-france-en-lutte" rel="alternate" type="text/html"/>
-	<title type="html">RADIO FRANCE EN LUTTE - Là-bas si j'y suis</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-08T22:12:48+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-08-08T22:12:48+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-04:/2145</id>
-	<link href="https://vimeo.com/123941637" rel="alternate" type="text/html"/>
-	<title type="html">Didier Super : « Manipulez-nous mieux ! »</title>
-	<summary type="html"><![CDATA[Didier Super devant le public de Lieu-Dit, pour l'émission "Là-bas si j'y suis", animée par Daniel M...]]></summary>
-	<content type="html"><![CDATA[<html><body><p></p><p></p><p>Didier Super devant le public de Lieu-Dit, pour l'&eacute;mission "L&agrave;-bas si j'y suis", anim&eacute;e par Daniel Mermet.</p> <p>L'&eacute;mission int&eacute;grale &laquo; Manipulez-nous mieux ! &raquo; est &agrave; &eacute;couter sur <a href="http://la-bas.org/la-bas-magazine/long-courrier/manipulez-nous-mieux" target="_blank" rel="noreferrer">la-bas.org/la-bas-magazine/long-courrier/manipulez-nous-mieux</a></p><p><strong>Cast:</strong> <a href="https://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></p><p><strong>Tags:</strong>  <a href="https://vimeo.com/tag:Didier+Super" rel="noreferrer" target="_blank">Didier Super</a>,  <a href="https://vimeo.com/tag:Daniel+Mermet" rel="noreferrer" target="_blank">Daniel Mermet</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+si+j%26%23039%3By+suis" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a>  and <a href="https://vimeo.com/tag:L%26agrave%3B-Bas+Hebdo" rel="noreferrer" target="_blank">L&agrave;-Bas Hebdo</a></p></body></html>
-]]></content>
-	<updated>2015-04-02T13:17:47+00:00</updated>
-	<author><name>Là-bas si j\'y suis</name></author>
-	<source>
-		<id>https://vimeo.com/labas/videos</id>
-		<link rel="self" href="https://vimeo.com/labas/videos"/>
-		<updated>2015-04-02T13:17:47+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-04:/2144</id>
-	<link href="https://vimeo.com/123952149" rel="alternate" type="text/html"/>
-	<title type="html">Didier Porte nous parle passion</title>
-	<summary type="html"><![CDATA[Cette semaine Didier PORTE nous parle passion ! Passion de transmettre et passion d’enseigner ? Le p...]]></summary>
-	<content type="html"><![CDATA[<html><body><p></p><p></p><p>Cette semaine Didier PORTE nous parle passion ! Passion de transmettre et passion d&rsquo;enseigner ? Le plus beau m&eacute;tier du monde, bien s&ucirc;r. Cela vous a peut-&ecirc;tre &eacute;chapp&eacute;, mais le Minist&egrave;re de l'&Eacute;ducation Nationale a diffus&eacute; une s&eacute;rie de clips intitul&eacute;e &laquo; Parlons Passion &raquo;, qui vous propose les t&eacute;moignages enthousiasmants et &eacute;mouvants de vrais professeurs...</p> <p>&laquo; Didier Porte nous f&acirc;che avec tout le monde &raquo;, &agrave; retrouver dans L&Agrave;-BAS Hebdo n&deg;11, &laquo; Manipulez-nous mieux &raquo; du jeudi 02 avril 2015</p> <p>vid&eacute;o : <a href="http://www.nouveauxmessagers.com" target="_blank" rel="noreferrer">nouveauxmessagers.com</a></p><p><strong>Cast:</strong> <a href="https://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></p><p><strong>Tags:</strong>  <a href="https://vimeo.com/tag:Didier+PORTE" rel="noreferrer" target="_blank">Didier PORTE</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+si+j%26%23039%3By+suis" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a>,  <a href="https://vimeo.com/tag:Daniel+MERMET" rel="noreferrer" target="_blank">Daniel MERMET</a>  and <a href="https://vimeo.com/tag:L%26agrave%3B-bas+Hebdo" rel="noreferrer" target="_blank">L&agrave;-bas Hebdo</a></p></body></html>
-]]></content>
-	<updated>2015-04-02T15:08:03+00:00</updated>
-	<author><name>Là-bas si j\'y suis</name></author>
-	<source>
-		<id>https://vimeo.com/labas/videos</id>
-		<link rel="self" href="https://vimeo.com/labas/videos"/>
-		<updated>2015-04-02T15:08:03+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-04:/2143</id>
-	<link href="https://vimeo.com/123973210" rel="alternate" type="text/html"/>
-	<title type="html">Didier SUPER en a rien à foutre</title>
-	<summary type="html"><![CDATA[Cette semaine, une chanson de Didier SUPER par jour, en vidéo ! Mercredi : Didier se fout de tout......]]></summary>
-	<content type="html"><![CDATA[<html><body><p></p><p></p><p>Cette semaine, une chanson de Didier SUPER par jour, en vid&eacute;o !</p> <p>Mercredi : Didier se fout de tout... ou presque.</p> <p>Notre &eacute;mission L&Agrave;-BAS Hebdo n&deg;11 : &laquo; Manipulez-nous mieux ! &raquo;, &agrave; &eacute;couter sur <a href="http://la-bas.org/re-ecouter/les-emissions/2014-15/manipulez-nous-mieux" target="_blank" rel="noreferrer">la-bas.org/re-ecouter/les-emissions/2014-15/manipulez-nous-mieux</a>, avec aussi Nonna MAYER, C&eacute;line BRACONNIER, G&eacute;rard MORDILLAT, Herv&eacute; KEMPF et Didier PORTE.</p> <p>Pour conna&icirc;tre toutes les dates de Didier Super en concert, rendez-vous sur <a href="http://www.didiersuper.com" target="_blank" rel="noreferrer">didiersuper.com</a></p> <p>Vid&eacute;o : <a href="http://www.nouveauxmessagers.com" target="_blank" rel="noreferrer">nouveauxmessagers.com</a></p><p><strong>Cast:</strong> <a href="https://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></p><p><strong>Tags:</strong>  <a href="https://vimeo.com/tag:Daniel+Mermet" rel="noreferrer" target="_blank">Daniel Mermet</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+si+j%26%23039%3By+suis" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+Hebdo" rel="noreferrer" target="_blank">L&agrave;-bas Hebdo</a>  and <a href="https://vimeo.com/tag:Didier+Super" rel="noreferrer" target="_blank">Didier Super</a></p></body></html>
-]]></content>
-	<updated>2015-04-02T18:42:53+00:00</updated>
-	<author><name>Là-bas si j\'y suis</name></author>
-	<source>
-		<id>https://vimeo.com/labas/videos</id>
-		<link rel="self" href="https://vimeo.com/labas/videos"/>
-		<updated>2015-04-02T18:42:53+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-01:/781</id>
-	<link href="http://feedproxy.google.com/~r/thedoghousediaries/feed/~3/-v-_1J-sBxs/" rel="alternate" type="text/html"/>
-	<title type="html">If Math Were Like Language</title>
-	<summary type="html"><![CDATA[
-								
-									
-									
-									What did we miss?! Let us know on our  Facebook page.]]></summary>
-	<content type="html"><![CDATA[<html><body><p><img src="http://thedoghousediaries.com/dhdcomics/2015-06-08-2.png" width="800" height="600" alt="If Math Were Like Language" title="379009 &lt; what is that calculator language for?"></p>
-									<p>What did we miss?! Let us know on our <a href="https://www.facebook.com/thedoghousediaries" rel="noreferrer" target="_blank"> Facebook page</a>.</p><img src="http://thedoghousediaries.com/dhdcomics/2015-06-08-2.png" height="1" width="1"><img src="http://feeds.feedburner.com/~r/thedoghousediaries/feed/~4/-v-_1J-sBxs" height="1" width="1" alt=""></body></html>
-]]></content>
-	<updated>2015-06-08T12:36:59+00:00</updated>
-	<author><name>DOGHOUSE DIARIES</name></author>
-	<source>
-		<id>http://thedoghousediaries.com</id>
-		<link rel="self" href="http://thedoghousediaries.com"/>
-		<updated>2015-06-08T12:36:59+00:00</updated>
-		<title>DOGHOUSE</title></source>
-
-	<category term="uncategorized"/>
 
 
 </entry>
