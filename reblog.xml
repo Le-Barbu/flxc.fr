@@ -4,11 +4,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-10T18:59:45+00:00</updated>
+<updated>2015-08-10T20:42:37+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-26:/3760</id>
+	<link href="http://dontwastethecrumbs.com/2013/09/dairy-alternative-homemade-rice-milk-2/" rel="alternate" type="text/html"/>
+	<title type="html">Dairy Alternative: Homemade Rice Milk</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-08-26T15:24:49+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-08-26T15:24:49+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-26:/3747</id>
+	<link href="http://mememaster.tumblr.com/post/127581123939/lubricates-chinesebbq-ohhhh-my-godddddddd-oh" rel="alternate" type="text/html"/>
+	<title type="html">[ Comedy Blog ] — lubricates: chinesebbq: Ohhhh my godddddddd oh...</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-08-26T14:24:46+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-08-26T14:24:46+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-08-09:/2861</id>
@@ -1493,72 +1527,6 @@ my cousin’s cat looks unreal like what is this shit. Who authorized this
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-08-10T20:42:37+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-10:/3008</id>
-	<link href="http://mememaster.tumblr.com/post/126364850564" rel="alternate" type="text/html"/>
-	<title type="html">tokomon:
-
-pussyriot:
-
-x3:
-
-your opinion doesn’t matter when you’re ugly
-
-And yet you offer yours.</title>
-	<summary type="html"><![CDATA[tokomon:
-
-pussyriot:
-
-x3:
-
-your opinion doesn’t matter when you’re ugly
-
-And yet you offer yours.
-
-
-]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://tokomon.tumblr.com/post/68516607645" target="_blank" rel="noreferrer">tokomon</a>:</p>
-<blockquote>
-<p><a href="http://pussyriot.tumblr.com/post/68415331662" target="_blank" rel="noreferrer">pussyriot</a>:</p>
-<blockquote>
-<p><a href="http://x3.tumblr.com/post/68414463143" target="_blank" rel="noreferrer">x3</a>:</p>
-<blockquote>
-<p>your opinion doesn&rsquo;t matter when you&rsquo;re ugly</p>
-</blockquote>
-<p>And yet you offer yours.</p>
-</blockquote>
-<p><img src="http://media.tumblr.com/82e520adb116f911746d2c75db441aec/tumblr_inline_mx1ztbpghG1qc7g7w.gif" alt="image"></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-08-10T20:43:36+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-08-10T20:43:36+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-10:/2999</id>
-	<link href="http://kawaiidesune.tumblr.com/post/126357544643" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[  ]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/0d98d136698e698166d954fb053992d9/tumblr_n931u30sZK1qb0ihdo1_500.jpg"><br><br><img src="http://41.media.tumblr.com/41470c1a775f6b8f74890ca97ec70c09/tumblr_n931u30sZK1qb0ihdo2_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-08-10T18:59:45+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://kawaiidesune.tumblr.com/</id>
-		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
-		<updated>2015-08-10T18:59:45+00:00</updated>
-		<title>Kawaii desu ne</title></source>
 
 
 </entry>
