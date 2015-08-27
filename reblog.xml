@@ -4,11 +4,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-10T20:42:37+00:00</updated>
+<updated>2015-08-10T20:41:02+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-27:/3784</id>
+	<link href="http://www.youtube.com/watch?v=QTytBC17d94" rel="alternate" type="text/html"/>
+	<title type="html">Harry the Handsome Butcher 2 - Cyanide &amp; Happiness Shorts</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-08-27T07:13:45+00:00</updated>
+	<author><name>ExplosmEntertainment</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw"/>
+		<updated>2015-08-27T07:13:45+00:00</updated>
+		<title>ExplosmEntertainment</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/QTytBC17d94?version=3"/>
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-08-26:/3760</id>
@@ -1500,32 +1522,6 @@ videogames: ( ͡° ͜ʖ ͡°) 
 		<id>http://mememaster.tumblr.com/</id>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-08-10T20:41:02+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-10:/3011</id>
-	<link href="http://mememaster.tumblr.com/post/126364775719" rel="alternate" type="text/html"/>
-	<title type="html">toastoat:
-
-my cousin’s cat looks unreal like what is this shit....</title>
-	<summary type="html"><![CDATA[        toastoat:
-
-my cousin’s cat looks unreal like what is this shit. Who authorized this
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/dedcbb31534439d332362cd505ddf614/tumblr_nqusrmz8Ld1sg72gko1_500.jpg"><br><br><img src="http://36.media.tumblr.com/078b4e3fd86df08018d83cdbf1a2c6ad/tumblr_nqusrmz8Ld1sg72gko2_500.jpg"><br><br><img src="http://40.media.tumblr.com/d0c744d38ebae0d89c27ec813a8c95a7/tumblr_nqusrmz8Ld1sg72gko3_500.jpg"><br><br><img src="http://41.media.tumblr.com/beacf764d92a3aad022cfdebe0008ba0/tumblr_nqusrmz8Ld1sg72gko4_500.jpg"><br><br><img src="http://41.media.tumblr.com/ea69d54e7b00dc6037affd504ee9dd8e/tumblr_nqusrmz8Ld1sg72gko5_500.jpg"><br><br><img src="http://41.media.tumblr.com/de5e491ded18810dbb72888ecd95fe05/tumblr_nqusrmz8Ld1sg72gko6_500.jpg"><br><br><img src="http://40.media.tumblr.com/a4819280694c175c71b5f69945357147/tumblr_nqusrmz8Ld1sg72gko7_500.jpg"><br><br><img src="http://40.media.tumblr.com/f809215e04a8a99d168b861401a28341/tumblr_nqusrmz8Ld1sg72gko8_500.jpg"><br><br><p><a href="http://toastoat.tumblr.com/post/123020033710" target="_blank" rel="noreferrer">toastoat</a>:</p>
-<blockquote>
-<p>my cousin&rsquo;s cat looks unreal like what is this shit. Who authorized this</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-08-10T20:42:37+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-08-10T20:42:37+00:00</updated>
 		<title>Comedy Blog</title></source>
 
 
