@@ -4,11 +4,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-21T10:53:36+00:00</updated>
+<updated>2015-08-21T04:00:00+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-27:/3942</id>
+	<link href="https://www.youtube.com/watch?v=SqeUBCmVxNQ" rel="alternate" type="text/html"/>
+	<title type="html">bézu chante la bézumania - YouTube</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-08-27T15:01:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-08-27T15:01:03+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-08-27:/3930</id>
@@ -1526,58 +1543,6 @@ Surtout continuez &agrave; utiliser Spotify, Facebook, Whatsapp, Snapchat, Windo
 		<updated>2015-08-21T04:00:00+00:00</updated>
 		<title>xkcd.com</title></source>
 
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-21:/3398</id>
-	<link href="http://la-bas.org/la-bas-magazine/long-courrier/qui-veut-gagner-cent-mille-euros-tout-en-detruisant-le-capitalisme" rel="alternate" type="text/html"/>
-	<title type="html">QUI VEUT GAGNER CENT MILLE EUROS TOUT EN DÉTRUISANT LE CAPITALISME ?</title>
-	<summary type="html"><![CDATA[
-
-"Si Wikileaks révelait des secrets nords-coréens, Julian Assange se verrait attribuer le Prix Nobe...]]></summary>
-	<content type="html"><![CDATA[<html><body><div><dl><dt><img src="http://la-bas.org/IMG/jpg/assange.jpg" width="1680" height="1050" alt="JPEG - 257.6&nbsp;ko"></dt>
-<dt><strong>"Si Wikileaks r&eacute;velait des secrets nords-cor&eacute;ens, Julian Assange se verrait attribuer le Prix Nobel de la Paix..."
-</strong></dt>
-</dl><p>C'est facile, il vous suffit de faire parvenir le texte du TAFTA &agrave; <a href="https://wikileaks.org/index.fr.html" rel="noreferrer" target="_blank">Wikileaks</a>. L'organisation de Julian Assange vient de lancer un appel pour r&eacute;colter 100.000 euros comme prime &agrave; celui qui fera fuiter le texte du TAFTA. Et &ccedil;a marche, le jour m&ecirc;me plus de 21.000 euros &eacute;taient d&eacute;j&agrave; vers&eacute;s. Des personnalit&eacute;s comme Yanis Varoufakis, l'ex-ministre grec des finances, ou Daniel Ellsberg, qui avait divulgu&eacute; les <a href="http://la-bas.org/re-ecouter/les-emissions/2013-14/mai-542/la-verite-mais-pourquoi-faire" rel="noreferrer" target="_blank">"Pentagon Papers"</a> &agrave; la presse am&eacute;ricaine en 1971, s'associent &agrave; l'op&eacute;ration. Mais pourquoi faut-il percer ce secret ?</p></div>
-		<div><p><a href="http://la-bas.org/spip.php?page=recherche&amp;recherche=TAFTA" rel="noreferrer" target="_blank">TAFTA</a> (ou TTIP) c'est le petit nom du Trait&eacute; de commerce transatlantique qui va faire de l'Europe et des &Eacute;tats-Unis un seul grand super march&eacute; commun pour 820 millions d'heureux consommateurs. Finies les barri&egrave;res douani&egrave;res et les diff&eacute;rentes r&eacute;glementations, nous roulerons bient&ocirc;t nos caddies dans la plus grande zone de libre-&eacute;change au monde. Engag&eacute;es en juillet 2013, les n&eacute;gociations devraient passer &agrave; la vitesse sup&eacute;rieure cet automne, selon la Commissaire europ&eacute;enne au commerce, C&eacute;cilia Malmstr&ouml;m. Pour ces veinards d'europ&eacute;ens, <a href="http://la-bas.org/spip.php?page=recherche&amp;recherche=TAFTA" rel="noreferrer" target="_blank">TAFTA</a> va &ecirc;tre &agrave; l'&eacute;conomie ce que l'<a href="http://la-bas.org/re-ecouter/les-emissions/2012-13/mars-528/regis-debray-la-france-doit-quitter-l-otan" rel="noreferrer" target="_blank">OTAN</a> est &agrave; la d&eacute;fense.</p> <p>Mais pourquoi ce merveilleux projet s'&eacute;labore-t-il dans le plus grand secret ? Car hormis les grandes lignes connues, on nage dans l'opacit&eacute;. Qui a choisi les n&eacute;gociateurs, quelle est leur l&eacute;gitimit&eacute; ? Comment, dans nos grandes d&eacute;mocraties avec nos vigilants &eacute;lus, avec nos puissants et si courageux m&eacute;dias, avec nos experts et nos chercheurs, comment de telles n&eacute;gociations peuvent-elles rester secr&egrave;tes ?</p> <p>Une <a href="http://www.humanite.fr/traite-transatlantique-7-francais-sur-10-exigent-la-transparence-532587" rel="noreferrer" target="_blank">enqu&ecirc;te</a> publi&eacute;e lors des &eacute;lections europ&eacute;ennes de mai 2014 peut fournir quelques indications. L'&eacute;tude montre d'abord qu'une majorit&eacute; de fran&ccedil;ais n'ont jamais entendu parler de ce trait&eacute; (55%). Seuls 16% &laquo; savent tr&egrave;s bien de quoi il s'agit &raquo;. Mais pour une majorit&eacute; (63%) ce sont les &Eacute;tats-Unis qui vont en profiter. Par contre c'est &laquo; plut&ocirc;t une menace pour l'Europe (45%) &raquo;. Et encore plus clairement, c'est &agrave; 55% &laquo; plut&ocirc;t une menace pour la France &raquo;. Seulement 28% estiment que c'est une chance pour la France.</p>
-<blockquote> <p><strong>Nous avions consacr&eacute; deux &eacute;mission de L&agrave;-bas si j'y suis &agrave; ce sujet :</strong><br><img src="http://la-bas.org/local/cache-vignettes/L8xH11/puce-32883.gif" width="8" height="11" alt="-"><a href="http://la-bas.org/re-ecouter/les-emissions/2014-15/18-avril-journee-mondiale-contre-tafta" rel="noreferrer" target="_blank"><i>L&agrave;-bas Hebdo</i> du 17 avril 2015 : "18 avril : journ&eacute;e mondiale contre TAFTA", Rencontre avec Raoul Marc JENNAR</a><br><img src="http://la-bas.org/local/cache-vignettes/L8xH11/puce-32883.gif" width="8" height="11" alt="-"><a href="http://la-bas.org/re-ecouter/les-emissions/2013-14/avril-541/tafta-dracula" rel="noreferrer" target="_blank"><i>L&agrave;-bas si j'y suis</i> du 23 avril 2014 : "Tafta Dracula", un reportage de Gaylord Van Wymeersch</a></p>
-</blockquote><p><span>
-<img src="http://la-bas.org/local/cache-vignettes/L300xH303/arton3625-d3bc7.png" width="300" height="303" alt=""></span>Tout se passe donc comme si <a href="http://la-bas.org/spip.php?page=recherche&amp;recherche=TAFTA" rel="noreferrer" target="_blank">TAFTA</a>, malgr&eacute; l'apathie dominante, craignait de ne pas rencontrer la franche adh&eacute;sion des citoyens.</p> <p>Car des voix s'&eacute;l&egrave;vent. &laquo; Citizen before corporation, people before profit &raquo; ("Le citoyen avant les entreprises, le peuple avant le profit"), le mouvement contre le TAFTA est actif un peu partout. Pour beaucoup, <a href="http://la-bas.org/spip.php?page=recherche&amp;recherche=TAFTA" rel="noreferrer" target="_blank">TAFTA</a> servira surtout les int&eacute;r&ecirc;ts des multinationales. &laquo; <i>Le secret entourant le TAFTA (TTIP) constitue une menace pour l'avenir de la d&eacute;mocratie europ&eacute;enne,</i> <i>dit Julian Assange dans un communiqu&eacute;,</i> certains int&eacute;r&ecirc;ts en profitent sans limite. Le <a href="http://la-bas.org/spip.php?page=recherche&amp;recherche=TAFTA" rel="noreferrer" target="_blank">TAFTA</a> a un impact sur les vies de tous les Europ&eacute;ens et entra&icirc;ne l'Europe dans un conflit de long terme avec l'Asie. Il est temps de mettre fin au secret. &raquo;</p> <p>En r&eacute;alit&eacute; <a href="http://la-bas.org/spip.php?page=recherche&amp;recherche=TAFTA" rel="noreferrer" target="_blank">TAFTA</a> et les trait&eacute;s qui lui ressemblent ne sont que des vampires qui la nuit viennent sucer le bon sang rouge du peuple endormi. Mais il suffit d'allumer la lumi&egrave;re, il suffit de se r&eacute;veiller, et les vampires tremblant de peur disparaissent avec des grognements lamentables.</p> <p><strong>Alors, comme dit Julian Assange : &laquo; APPRENEZ , D&Eacute;FIEZ, AGISSEZ, MAINTENANT ! &raquo; Nous vous proposons de le retrouver dans cet entretien de mars 2013 &agrave; l'ambassade d'&Eacute;quateur &agrave; Londres o&ugrave; il vit toujours reclus.</strong> Il accordait tr&egrave;s peu d'entretien et avec Giv Anquetil nous &eacute;tions heureux d'avoir r&eacute;ussi ce scoop. Hostile &agrave; Julian Assange et &agrave; Wikileaks (tout comme &agrave; Edward Snowden) la direction de France Inter avait farouchement interdit toute forme de promotion sur l'antenne. Malheureusement, l'&eacute;mission fut un gros succ&egrave;s !</p>
-<h3>&Agrave; &eacute;couter : Entretien avec Julian Assange</h3><span title="PD9waHAgaWYoIWludHZhbCgnMCcpIE9SIHRyeXBob25fY2FuX3BsYXkoJ2h0dHA6Ly9hdWRpb2JhbmsudHJ5cGhvbi5ldS9jYXN0cy94eGxuamljeS5tcDMnKSkgeyA/Pg=="></span>
-<dl><dt> <div> <audio data-id="1982e77f9b8b75e99a0c5adbdadb3f82" data-mejsoptions='{"alwaysShowControls": true,"loop":false,"audioWidth":"100%","duration":"2784"}' data-mejsplugins="null" controls="controls" preload="none"><source type="audio/ogg" src="http://audiobank.tryphon.eu/casts/xxlnjicy.ogg"></source><source type="audio/mpeg" src="http://audiobank.tryphon.eu/casts/xxlnjicy.mp3"></source></audio></div><span> <div title="PHNjcmlwdD4vKjwhW0NEQVRBWyovdmFyIG1lanNwYXRoPSdwbHVnaW5zL2Rpc3QvcGx1Z2lucy9wbGF5ZXIvbGliL21lanMvbWVkaWFlbGVtZW50LWFuZC1wbGF5ZXIubWluLmpzPzE0MzMyNTE0OTEnLG1lanNjc3M9J3BsdWdpbnMvZGlzdC9wbHVnaW5zL3BsYXllci9saWIvbWVqcy9tZWRpYWVsZW1lbnRwbGF5ZXIubWluLmNzcz8xNDMzMjUxNDkxJzsKCXZhciBtZWpzbG9hZGVyOyAoZnVuY3Rpb24oKXt2YXIgYT1tZWpzbG9hZGVyOyJ1bmRlZmluZWQiPT10eXBlb2YgYSYmKG1lanNsb2FkZXI9YT17Z3M6bnVsbCxwbHVnOnt9LGNzczp7fSxpbml0Om51bGwsYzowLGNzc2xvYWQ6bnVsbH0pO2EuaW5pdHx8KGEuY3NzbG9hZD1mdW5jdGlvbihiKXtpZigidW5kZWZpbmVkIj09dHlwZW9mIGEuY3NzW2JdKXthLmNzc1tiXT0hMDt2YXIgYz1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCJsaW5rIik7Yy5ocmVmPWI7Yy5yZWw9InN0eWxlc2hlZXQiO2MudHlwZT0idGV4dC9jc3MiO2RvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCJoZWFkIilbMF0uYXBwZW5kQ2hpbGQoYyl9fSxhLmluaXQ9ZnVuY3Rpb24oKXshMD09PWEuZ3MmJmZ1bmN0aW9uKGIpe2pRdWVyeSgiYXVkaW8ubWVqcyx2aWRlby5tZWpzIikubm90KCIuZG9uZSIpLmVhY2goZnVuY3Rpb24oKXtmdW5jdGlvbiBjKCl7dmFyIGU9ITAsaDtmb3IoaCBpbiBkLmNzcylhLmNzc2xvYWQoZC5jc3NbaF0pO2Zvcih2YXIgZiBpbiBkLnBsdWdpbnMpInVuZGVmaW5lZCI9PSB0eXBlb2YgYS5wbHVnW2ZdPyhlPSExLGEucGx1Z1tmXT0hMSxqUXVlcnkuZ2V0U2NyaXB0KGQucGx1Z2luc1tmXSxmdW5jdGlvbigpe2EucGx1Z1tmXT0hMDtjKCl9KSk6MD09YS5wbHVnW2ZdJiYoZT0hMSk7ZSYmbmV3IE1lZGlhRWxlbWVudFBsYXllcigiIyIrYixqUXVlcnkuZXh0ZW5kKGQub3B0aW9ucyx7c3VjY2VzczpmdW5jdGlvbihhKXtmdW5jdGlvbiBiKCl7alF1ZXJ5KGEpLmNsb3Nlc3QoIi5tZWpzLWlubmVyIikucmVtb3ZlQ2xhc3MoYS5wYXVzZWQ/InBsYXlpbmciOiJwYXVzZWQiKS5hZGRDbGFzcyhhLnBhdXNlZD8icGF1c2VkIjoicGxheWluZyIpfWIoKTthLmFkZEV2ZW50TGlzdGVuZXIoInBsYXkiLGIsITEpO2EuYWRkRXZlbnRMaXN0ZW5lcigicGxheWluZyIsYiwhMSk7YS5hZGRFdmVudExpc3RlbmVyKCJwYXVzZSIsYiwhMSk7YS5hZGRFdmVudExpc3RlbmVyKCJwYXVzZWQiLGIsITEpO2cuYXR0cigiYXV0b3BsYXkiKSYmYS5wbGF5KCl9fSkpfXZhciBnPWpRdWVyeSh0aGlzKS5hZGRDbGFzcygiZG9uZSIpLCBiOyhiPWcuYXR0cigiaWQiKSl8fChiPSJtZWpzLSIrZy5hdHRyKCJkYXRhLWlkIikrIi0iK2EuYysrLGcuYXR0cigiaWQiLGIpKTt2YXIgZD17b3B0aW9uczp7fSxwbHVnaW5zOnt9LGNzczpbXX0sZSxoO2ZvcihlIGluIGQpaWYoaD1nLmF0dHIoImRhdGEtbWVqcyIrZSkpZFtlXT1qUXVlcnkucGFyc2VKU09OKGgpO2MoKX0pfShqUXVlcnkpfSk7YS5nc3x8KCJ1bmRlZmluZWQiIT09dHlwZW9mIG1lanNjc3MmJmEuY3NzbG9hZChtZWpzY3NzKSxhLmdzPWpRdWVyeS5nZXRTY3JpcHQobWVqc3BhdGgsZnVuY3Rpb24oKXthLmdzPSEwO2EuaW5pdCgpO2pRdWVyeShhLmluaXQpO29uQWpheExvYWQoYS5pbml0KX0pKX0pKCk7LypdXT4qLzwvc2NyaXB0Pg=="></div> </span>
-</dt>
-<dt><strong>Entretien avec Julian Assange (03/2013)
-</strong></dt>
-<dd><a href="http://audiobank.tryphon.eu/casts/xxlnjicy.mp3" rel="noreferrer" target="_blank">T&eacute;l&eacute;charger le MP3</a>
-<span>-
-<a href="http://la-bas.org/spip.php?page=player&amp;id_document=34825" target="_blank" title="Ouvrir dans une fen&ecirc;tre" rel="noreferrer"><i></i></a></span>
-</dd>
-</dl><span title="PD9waHAgfSBlbHNlIHsgPz4="></span>
-<span title="PD9waHAgfSA/Pg=="></span> <p><i>Nouvelle version d'un entretien de <strong>Daniel Mermet</strong> et <strong>Giv Anquetil</strong> avec <strong>Julian Assange</strong> et <strong>J&eacute;r&eacute;mie Zimmermann</strong> de la <a href="https://www.laquadrature.net/" rel="noreferrer" target="_blank">Quadrature du Net</a>, diffus&eacute; pour la premi&egrave;re fois les 20 et 21 mars 2013.</i></p> <p><strong>Programmation musicale :</strong><br><img src="http://la-bas.org/local/cache-vignettes/L8xH11/puce-32883.gif" width="8" height="11" alt="-"><strong>The New Puritans</strong> : "Fire Power"<br><img src="http://la-bas.org/local/cache-vignettes/L8xH11/puce-32883.gif" width="8" height="11" alt="-"><strong>Sonic Disobedience</strong> : "Wikileaks samba"<br><img src="http://la-bas.org/local/cache-vignettes/L8xH11/puce-32883.gif" width="8" height="11" alt="-"><strong>Cause</strong> : "Interference"</p>
-<div><br>
-Reportage : <strong>Daniel MERMET</strong> et <strong>Giv ANQUETIL</strong><br>
-R&eacute;alisation : <strong>Bertrand CHAUMETON</strong> et <strong>Franck HADERER</strong></div><p>N'oubliez pas que le r&eacute;pondeur attend vos messages au <strong>01 85 08 37 37</strong>.</p></div>
-		<div><p><span>
-<img src="http://la-bas.org/IMG/jpg/livre-julian-assange_med_hr.jpg" width="100" height="152" alt=""></span></p>
-<h5>&Agrave; lire :</h5> <p><img src="http://la-bas.org/squelettes-dist/puce.gif" width="8" height="11" alt="-"> "Menaces sur nos libert&eacute;s : comment internet nous surveille", de Julian Assange avec Jacob Appelbaum, Andy M&uuml;ller-Maguhn et J&eacute;r&eacute;mie Zimmermann (Robert Laffont, 2013)</p> <p><img src="http://la-bas.org/squelettes-dist/puce.gif" width="8" height="11" alt="-"> "Hackers : au c&oelig;ur de la r&eacute;sistance num&eacute;rique", de Amaelle Guiton (Au Diable Vauvert, 2013)</p>
-<h5>A &eacute;couter sur TAFTA :</h5> <p><img src="http://la-bas.org/squelettes-dist/puce.gif" width="8" height="11" alt="-"><a href="http://la-bas.org/re-ecouter/les-emissions/2014-15/18-avril-journee-mondiale-contre-tafta" rel="noreferrer" target="_blank">18 avril : journ&eacute;e mondiale contre TAFTA, notre &eacute;mission L&agrave;-bas HEBDO du 17 avril 2015</a></p> <p><img src="http://la-bas.org/squelettes-dist/puce.gif" width="8" height="11" alt="-"><a href="http://la-bas.org/re-ecouter/les-emissions/2013-14/avril-541/tafta-dracula" rel="noreferrer" target="_blank">"TAFTA Dracula !", un reportage de Gaylord Van Wymeersch dans L&agrave;-bas si j'y suis du 23 avril 2015</a></p></div></body></html>
-]]></content>
-	<updated>2015-08-21T10:53:36+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://la-bas.org/</id>
-		<link rel="self" href="http://la-bas.org/"/>
-		<updated>2015-08-21T10:53:36+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-	<category term="résistance"/>
-
-
-	<link rel="enclosure" 
-		type="audio/mpeg" 
-		length="62605167"
-		href="http://audiobank.tryphon.eu/casts/usce52uy.mp3"/>
 
 </entry>
 
