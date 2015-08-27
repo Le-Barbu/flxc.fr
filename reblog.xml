@@ -4,11 +4,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-12T21:06:16+00:00</updated>
+<updated>2015-08-13T04:16:57+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-27:/3924</id>
+	<link href="http://www.yowangdu.com/tibetan-food/chang.html" rel="alternate" type="text/html"/>
+	<title type="html">Tibetan Chang: How to Make Rice Beer - YoWangdu.com</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-08-27T14:10:20+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-08-27T14:10:20+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-08-27:/3810</id>
@@ -1559,37 +1576,6 @@ R&eacute;alisation : <strong>Bertrand CHAUMETON</strong> et <strong>Franck HADER
 		<link rel="self" href="http://flxc.fr/rss"/>
 		<updated>2015-08-13T04:16:57+00:00</updated>
 		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-13:/3108</id>
-	<link href="http://localghost.org/posts/a-traffic-analysis-of-windows-10" rel="alternate" type="text/html"/>
-	<title type="html">A Traffic Analysis of Windows 10 - root@localghost:~#</title>
-	<summary type="html"><![CDATA[Vous avez déjà lu des tonnes d'articles disant que Windows 10 est un spyware ? C'est peut-être en *d...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Vous avez d&eacute;j&agrave; lu des tonnes d'articles disant que Windows 10 est un spyware ? C'est peut-&ecirc;tre en *dessous* de la v&eacute;rit&eacute;.<br>
-Un gars s'est "amus&eacute;" &agrave; sniffer le trafic r&eacute;seau d'un Windows pour voir ce qu'il faisait.<br>
-TOUTE TOUCHE TAP&Eacute;E AU CLAVIER est stock&eacute;e dans un fichier... envoy&eacute; toutes les 30 minutes aux serveurs de Microsoft.<br>
-Tout num&eacute;ro de t&eacute;l&eacute;phone ou titre de film tap&eacute; dans la recherche, M&Ecirc;ME LOCALE, est envoy&eacute; &agrave; Microsoft.<br>
-D&egrave;s que la webcam est allum&eacute;e, les premiers 35 Mo de la capture sont envoy&eacute;s aussi aux serveurs Microsoft.<br>
-Tout ce qui est dit au microphone est &eacute;galement envoy&eacute;, m&ecirc;me quand Cortana est d&eacute;sactiv&eacute;.<br><br>
-Je n'ai pas pu v&eacute;rifier la v&eacute;racit&eacute; de tout cela, mais si cela s'av&egrave;re, alors Windows 10 est un spyware bien plus abominable que ce que Google et Apple ont pu r&eacute;aliser.<br>
-Je le r&eacute;p&egrave;te: Cet article est &agrave; prendre avec des pincettes et tout cela devra &ecirc;tre v&eacute;rifi&eacute;.<br>(<a href="http://sebsauvage.net/links/?LegfyA" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
-]]></content>
-	<updated>2015-08-12T21:06:16+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://sebsauvage.net/links/</id>
-		<link rel="self" href="http://sebsauvage.net/links/"/>
-		<updated>2015-08-12T21:06:16+00:00</updated>
-		<title>Liens en vrac de sebsauvage</title></source>
-
-	<category term="windows"/>
-
-	<category term="microsoft"/>
-
-	<category term="privacy"/>
 
 
 </entry>
