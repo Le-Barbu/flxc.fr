@@ -4,11 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-14T13:16:48+00:00</updated>
+<updated>2015-08-22T02:18:36+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-27:/3948</id>
+	<link href="http://www.newgrounds.com/audio/listen/641172" rel="alternate" type="text/html"/>
+	<title type="html">-Geometrical Dominator-</title>
+	<summary type="html"><![CDATA[Its here!]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Its here!</p></body></html>
+]]></content>
+	<updated>2015-08-27T15:06:41+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://waterflame.newgrounds.com</id>
+		<link rel="self" href="http://waterflame.newgrounds.com"/>
+		<updated>2015-08-27T15:06:41+00:00</updated>
+		<title>Waterflame's Audio Submissions</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-08-28:/4130</id>
@@ -1560,24 +1578,6 @@ THE PICTURE WONT LOAD
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-08-22T02:18:36+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-21:/3362</id>
-	<link href="http://kawaiidesune.tumblr.com/post/126666989383" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/ec728c9a289982d61feff2c7df25a0f5/tumblr_nbwb1f62wB1tv85u1o1_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-08-14T13:16:48+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://kawaiidesune.tumblr.com/</id>
-		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
-		<updated>2015-08-14T13:16:48+00:00</updated>
-		<title>Kawaii desu ne</title></source>
 
 
 </entry>
