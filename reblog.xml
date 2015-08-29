@@ -4,11 +4,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-14T13:26:25+00:00</updated>
+<updated>2015-08-14T13:16:48+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-28:/4130</id>
+	<link href="http://explosm.net/comics/4038/" rel="alternate" type="text/html"/>
+	<title type="html">Cyanide &amp; Happiness (Explosm.net)</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-08-28T23:58:37+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-08-28T23:58:37+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-08-27:/3952</id>
@@ -1560,38 +1577,6 @@ THE PICTURE WONT LOAD
 		<id>http://kawaiidesune.tumblr.com/</id>
 		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
 		<updated>2015-08-14T13:16:48+00:00</updated>
-		<title>Kawaii desu ne</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-21:/3355</id>
-	<link href="http://kawaiidesune.tumblr.com/post/126667431168" rel="alternate" type="text/html"/>
-	<title type="html">jacindaelena:
-
- 
-
-Brice Portolano</title>
-	<summary type="html"><![CDATA[          jacindaelena:
-
- 
-
-Brice Portolano
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/b9cfd2df6b132b36695ff8edc0d36693/tumblr_nslr3wxQrj1svrh8zo1_500.jpg"><br><br><img src="http://41.media.tumblr.com/b55f11c702c6f0bc48201e62424eda87/tumblr_nslr3wxQrj1svrh8zo3_500.jpg"><br><br><img src="http://41.media.tumblr.com/03db91fb52f32fd03789704403ebd847/tumblr_nslr3wxQrj1svrh8zo8_500.jpg"><br><br><img src="http://40.media.tumblr.com/706d2a24d9f26d4804aa8e44da7fc56c/tumblr_nslr3wxQrj1svrh8zo5_500.jpg"><br><br><img src="http://41.media.tumblr.com/dd28d4537a2492625257a72edda560d9/tumblr_nslr3wxQrj1svrh8zo7_500.jpg"><br><br><img src="http://41.media.tumblr.com/b1cbc5814036a65a5d03170ab17e6263/tumblr_nslr3wxQrj1svrh8zo2_500.jpg"><br><br><img src="http://41.media.tumblr.com/7f2e42c6f659871fad2df8288ce3ad02/tumblr_nslr3wxQrj1svrh8zo9_500.jpg"><br><br><img src="http://41.media.tumblr.com/66d240d2063f7b955f1885492e3840da/tumblr_nslr3wxQrj1svrh8zo6_500.jpg"><br><br><img src="http://41.media.tumblr.com/99df518fb3b88ed87e30498e01598cb4/tumblr_nslr3wxQrj1svrh8zo10_500.jpg"><br><br><img src="http://41.media.tumblr.com/b78fb8e62bbafb7eaf252cc291d8f2fc/tumblr_nslr3wxQrj1svrh8zo4_500.jpg"><br><br><p><a href="http://jacindaelena.tumblr.com/post/125959380403" rel="noreferrer" target="_blank">jacindaelena</a>:</p>
-<blockquote>
-<p>&nbsp;
-
-<a href="https://www.flickr.com/photos/briceportolano/" title="Go to Brice Portolano's photostream" rel="noreferrer" target="_blank">Brice Portolano</a><br></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-08-14T13:26:25+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://kawaiidesune.tumblr.com/</id>
-		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
-		<updated>2015-08-14T13:26:25+00:00</updated>
 		<title>Kawaii desu ne</title></source>
 
 
