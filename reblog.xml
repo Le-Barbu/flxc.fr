@@ -4,11 +4,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-22T14:23:49+00:00</updated>
+<updated>2015-08-22T15:05:42+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-29:/4138</id>
+	<link href="http://kawaiidesune.tumblr.com/post/127826178538" rel="alternate" type="text/html"/>
+	<title type="html">scurgal:
+
+I bet you want to be called by your first name too you...</title>
+	<summary type="html"><![CDATA[  scurgal:
+
+I bet you want to be called by your first name too you thirsty whore
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/34983e99ed728ec4e219c06d6f0b5118/tumblr_nsmflzDj4c1qiufapo1_500.jpg"><br><br><img src="http://41.media.tumblr.com/5318c7a84560f383f2e9b25e303f9ab6/tumblr_nsmflzDj4c1qiufapo2_500.jpg"><br><br><p><a href="http://scurgal.tumblr.com/post/125943175550" rel="noreferrer" target="_blank">scurgal</a>:</p>
+<blockquote>
+<p>I bet you want to be called by your first name too you thirsty whore</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-08-29T00:47:28+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://kawaiidesune.tumblr.com/</id>
+		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
+		<updated>2015-08-29T00:47:28+00:00</updated>
+		<title>Kawaii desu ne</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-08-29:/4132</id>
@@ -1524,23 +1550,6 @@ I just saw a guy using a flip phone. Its 2015
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-08-22T15:05:42+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-22:/3463</id>
-	<link href="http://mysweetfaery.blogspot.fr/2015/08/limonade-la-lavande.html" rel="alternate" type="text/html"/>
-	<title type="html">My Sweet Faery: Limonade à la lavande</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-22T14:23:49+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-08-22T14:23:49+00:00</updated>
-		<title>Published articles</title></source>
 
 
 </entry>
