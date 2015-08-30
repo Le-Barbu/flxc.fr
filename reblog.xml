@@ -4,11 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-22T03:33:04+00:00</updated>
+<updated>2015-08-22T14:23:49+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-29:/4132</id>
+	<link href="http://kawaiidesune.tumblr.com/post/127826757018" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[  ]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://33.media.tumblr.com/7ce593b4acb6236bf312dc095d626f9d/tumblr_nmkaqfvMsw1qdxd3qo1_400.gif"><br><br><img src="http://38.media.tumblr.com/6e5498e3f3e825ce5f264798c61bd1e5/tumblr_nmkaqfvMsw1qdxd3qo2_400.gif"><br><br></body></html>
+]]></content>
+	<updated>2015-08-29T00:57:29+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://kawaiidesune.tumblr.com/</id>
+		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
+		<updated>2015-08-29T00:57:29+00:00</updated>
+		<title>Kawaii desu ne</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-08-29:/4191</id>
@@ -1523,35 +1541,6 @@ I just saw a guy using a flip phone. Its 2015
 		<link rel="self" href="http://flxc.fr/rss"/>
 		<updated>2015-08-22T14:23:49+00:00</updated>
 		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-22:/3459</id>
-	<link href="http://mememaster.tumblr.com/post/127285962509" rel="alternate" type="text/html"/>
-	<title type="html">An actual exchange I just heard outside my window</title>
-	<summary type="html"><![CDATA[qozxe:
-
-child 1: I really like screaming
-child 2: yeah me too
-child 1: let’s screamAAAAAAAAAAAAAAAAA...]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://qozxe.tumblr.com/post/126551305065" target="_blank" rel="noreferrer">qozxe</a>:</p>
-<blockquote>
-<p>child 1: I really like screaming</p>
-<p>child 2: yeah me too</p>
-<p>child 1: let&rsquo;s scream<i>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</i></p>
-<p>child 2:<i> AAAAAAAAAAAAAAAAAAAAAAAAAAAAA</i></p>
-<p>both children: <i><sub>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</sub>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA<b>AAAAAAAAAA<sup>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</sup></b></i></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-08-22T03:33:04+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-08-22T03:33:04+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
