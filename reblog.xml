@@ -4,11 +4,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-27T07:13:45+00:00</updated>
+<updated>2015-08-27T12:26:53+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-31:/4428</id>
+	<link href="http://thehiddenwiki.org/" rel="alternate" type="text/html"/>
+	<title type="html">Hidden Wiki | Tor .onion urls directories » Hidden Wiki</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-08-31T13:57:10+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-08-31T13:57:10+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-08-31:/4412</id>
@@ -1453,28 +1470,6 @@ Im deleting
 		<updated>2015-08-27T12:26:53+00:00</updated>
 		<title>Comedy Blog</title></source>
 
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-27:/3784</id>
-	<link href="http://www.youtube.com/watch?v=QTytBC17d94" rel="alternate" type="text/html"/>
-	<title type="html">Harry the Handsome Butcher 2 - Cyanide &amp; Happiness Shorts</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-27T07:13:45+00:00</updated>
-	<author><name>ExplosmEntertainment</name></author>
-	<source>
-		<id>http://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw</id>
-		<link rel="self" href="http://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw"/>
-		<updated>2015-08-27T07:13:45+00:00</updated>
-		<title>ExplosmEntertainment</title></source>
-
-
-	<link rel="enclosure" 
-		type="application/x-shockwave-flash" 
-		length="1"
-		href="https://www.youtube.com/v/QTytBC17d94?version=3"/>
 
 </entry>
 
