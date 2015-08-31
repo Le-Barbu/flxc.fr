@@ -4,11 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-27T14:10:20+00:00</updated>
+<updated>2015-08-27T14:12:54+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-31:/4429</id>
+	<link href="http://xkcd.com/1571/" rel="alternate" type="text/html"/>
+	<title type="html">Car Model Names</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://imgs.xkcd.com/comics/car_model_names.png" title="CLIMAX is good, but SEXCLIMAX is even better." alt="CLIMAX is good, but SEXCLIMAX is even better."></body></html>
+]]></content>
+	<updated>2015-08-31T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://xkcd.com/</id>
+		<link rel="self" href="http://xkcd.com/"/>
+		<updated>2015-08-31T04:00:00+00:00</updated>
+		<title>xkcd.com</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-08-31:/4437</id>
@@ -1405,23 +1423,6 @@ Most in...]]></summary>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-08-27T14:12:54+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-27:/3924</id>
-	<link href="http://www.yowangdu.com/tibetan-food/chang.html" rel="alternate" type="text/html"/>
-	<title type="html">Tibetan Chang: How to Make Rice Beer - YoWangdu.com</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-27T14:10:20+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-08-27T14:10:20+00:00</updated>
-		<title>Published articles</title></source>
 
 
 </entry>
