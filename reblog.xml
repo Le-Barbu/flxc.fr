@@ -4,11 +4,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-26T15:24:49+00:00</updated>
+<updated>2015-08-27T07:13:45+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-31:/4412</id>
+	<link href="http://walter-experiment.inria.fr/" rel="alternate" type="text/html"/>
+	<title type="html">WALTER :: Is my Web Content Altered</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-08-31T13:12:20+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-08-31T13:12:20+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-08-31:/4375</id>
@@ -1458,23 +1475,6 @@ Im deleting
 		type="application/x-shockwave-flash" 
 		length="1"
 		href="https://www.youtube.com/v/QTytBC17d94?version=3"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-26:/3760</id>
-	<link href="http://dontwastethecrumbs.com/2013/09/dairy-alternative-homemade-rice-milk-2/" rel="alternate" type="text/html"/>
-	<title type="html">Dairy Alternative: Homemade Rice Milk</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-26T15:24:49+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-08-26T15:24:49+00:00</updated>
-		<title>Published articles</title></source>
-
 
 </entry>
 
