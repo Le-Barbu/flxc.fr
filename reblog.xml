@@ -4,11 +4,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-25T22:14:57+00:00</updated>
+<updated>2015-08-26T11:44:37+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-31:/4345</id>
+	<link href="http://kaocode.fr/sauvegarder-ses-dvd-video-avec-ffmpeg/" rel="alternate" type="text/html"/>
+	<title type="html">kao : Sauvegarder ses DVD vidéo avec FFmpeg.</title>
+	<summary type="html"><![CDATA[(via http://www.planet-libre.org/)(Permalink)]]></summary>
+	<content type="html"><![CDATA[<html><body><p>(via <a href="http://www.planet-libre.org/" rel="noreferrer" target="_blank">http://www.planet-libre.org/</a>)<br>(<a href="http://sebsauvage.net/links/?ZgIrDw" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-08-31T08:05:53+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://sebsauvage.net/links/</id>
+		<link rel="self" href="http://sebsauvage.net/links/"/>
+		<updated>2015-08-31T08:05:53+00:00</updated>
+		<title>Liens en vrac de sebsauvage</title></source>
+
+	<category term="tips"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-08-31:/4301</id>
@@ -1510,24 +1530,6 @@ R&eacute;alisation : <strong>Aur&eacute;lie Martin</strong></div></div></body></
 		type="application/x-shockwave-flash" 
 		length="1"
 		href="https://www.youtube.com/v/FqWtWv9Ee_M?version=3"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-26:/3723</id>
-	<link href="http://mememaster.tumblr.com/post/127587162024" rel="alternate" type="text/html"/>
-	<title type="html">I’ll take 5</title>
-	<summary type="html"><![CDATA[I’ll take 5]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/a2bf2d1b7736f82a3ae3697a39d7e704/tumblr_np0gtlDARf1sfelcko1_500.jpg"><br><br><p>I&rsquo;ll take 5</p></body></html>
-]]></content>
-	<updated>2015-08-25T22:14:57+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-08-25T22:14:57+00:00</updated>
-		<title>Comedy Blog</title></source>
-
 
 </entry>
 
