@@ -4,11 +4,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-27T08:35:17+00:00</updated>
+<updated>2015-08-27T14:10:20+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-31:/4437</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/128030639541" rel="alternate" type="text/html"/>
+	<title type="html">by Gemma Correll</title>
+	<summary type="html"><![CDATA[by Gemma Correll]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/adc16dc9ef67a281ef7ce05e0005a6c3/tumblr_nty6glJBc71qhlsrfo1_500.gif"><br><br><p>by <a href="http://gemmacorrell.tumblr.com/post/128025963788" target="_blank" rel="noreferrer">Gemma Correll</a></p></body></html>
+]]></content>
+	<updated>2015-08-31T14:30:14+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-08-31T14:30:14+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-31:/4453</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/128033855748" rel="alternate" type="text/html"/>
+	<title type="html">How to pick up owls. (vine by o-ji)</title>
+	<summary type="html"><![CDATA[How to pick up owls. (vine by o-ji)]]></summary>
+	<content type="html"><![CDATA[<html><body><br><br><p>How to pick up owls. (vine by <a href="https://vine.co/o-ji" target="_blank" rel="noreferrer">o-ji</a>)</p></body></html>
+]]></content>
+	<updated>2015-08-31T15:30:18+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-08-31T15:30:18+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+	<category term="vine"/>
+
+	<category term="owls"/>
+
+	<category term="tricksy humanses!"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-31:/4461</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/128035541121" rel="alternate" type="text/html"/>
+	<title type="html">larstheyeti:
+
+Technical diagram about...</title>
+	<summary type="html"><![CDATA[larstheyeti:
+
+Technical diagram about exercise.Http://theawkwardyeti.com
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/ad3daf2b87742b7a8c77a540c1a8f2de/tumblr_ntnhz5lkVH1swr8wlo1_500.jpg"><br><br><p><a href="http://larstheyeti.tumblr.com/post/127572273665" target="_blank" rel="noreferrer">larstheyeti</a>:</p>
+<blockquote>
+<p>Technical diagram about exercise.<br><a href="http://Http://theawkwardyeti.com" target="_blank" rel="noreferrer">Http://theawkwardyeti.com</a></p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-08-31T16:00:33+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-08-31T16:00:33+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-31:/4522</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/128044327308" rel="alternate" type="text/html"/>
+	<title type="html">by John McNamee</title>
+	<summary type="html"><![CDATA[by John McNamee]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/ae629cfa78cf47562b79390b3bbb02d9/tumblr_ntrvh8Jd0p1qhnegdo1_500.jpg"><br><br><p>by <a href="http://piecomic.com" target="_blank" rel="noreferrer">John McNamee</a></p></body></html>
+]]></content>
+	<updated>2015-08-31T18:32:25+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-08-31T18:32:25+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-08-31:/4377</id>
@@ -1336,134 +1422,6 @@ Most in...]]></summary>
 		<link rel="self" href="http://flxc.fr/rss"/>
 		<updated>2015-08-27T14:10:20+00:00</updated>
 		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-27:/3810</id>
-	<link href="http://mememaster.tumblr.com/post/127688689774" rel="alternate" type="text/html"/>
-	<title type="html">997:
-
-me</title>
-	<summary type="html"><![CDATA[997:
-
-me
-]]></summary>
-	<content type="html"><![CDATA[<html><body><br><br><p><a href="http://997.tumblr.com/post/127311604512" target="_blank" rel="noreferrer">997</a>:</p>
-<blockquote>
-<p>me</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-08-27T04:11:12+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-08-27T04:11:12+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-27:/3808</id>
-	<link href="http://mememaster.tumblr.com/post/127688789799" rel="alternate" type="text/html"/>
-	<title type="html">lubricates:
-
-thesmackdownhotel:
-
-evanx275h:
-
-memeQuil. 
-
-This is...</title>
-	<summary type="html"><![CDATA[lubricates:
-
-thesmackdownhotel:
-
-evanx275h:
-
-memeQuil. 
-
-This is all I’ve ever wanted.
-
-
-
-
-
-]]></summary>
-	<content type="html"><![CDATA[<html><body><br><br><p><a href="http://lubricates.tumblr.com/post/127687423105/thesmackdownhotel-evanx275h-memequil" target="_blank" rel="noreferrer">lubricates</a>:</p>
-
-<blockquote><p><a href="http://thesmackdownhotel.tumblr.com/post/125275106419" target="_blank" rel="noreferrer">thesmackdownhotel</a>:</p>
-<blockquote>
-<p><a href="http://evanx275h.tumblr.com/post/124762264949" target="_blank" rel="noreferrer">evanx275h</a>:</p>
-<blockquote>
-<p><i><b>memeQuil</b></i>.&nbsp;</p>
-</blockquote>
-<p>This is all I&rsquo;ve ever wanted.</p>
-</blockquote>
-
-
-</blockquote>
-
-<p></p></body></html>
-]]></content>
-	<updated>2015-08-27T04:12:46+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-08-27T04:12:46+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-27:/3804</id>
-	<link href="http://mememaster.tumblr.com/post/127689367054" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/8759d9060415f61cb0797675208390d1/tumblr_ntq444BoG51qfd5a4o1_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-08-27T04:21:40+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-08-27T04:21:40+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-	<category term="cats"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-27:/3856</id>
-	<link href="http://mememaster.tumblr.com/post/127700778279" rel="alternate" type="text/html"/>
-	<title type="html">shannananan:
-
-THIS IS THE NERDIEST SPORTS THING I HAVE EVER SEEN</title>
-	<summary type="html"><![CDATA[
-
-    
-
-shannananan:
-
-THIS IS THE NERDIEST SPORTS THING I HAVE EVER SEEN]]></summary>
-	<content type="html"><![CDATA[<html><body><video width="400" height="709" poster="http://media.tumblr.com/tumblr_nr0drqv2lo1r3uvu0_frame1.jpg" preload="none" data-crt-video data-crt-options='{"duration":30,"hdUrl":false,"filmstrip":{"url":"http:\/\/38.media.tumblr.com\/previews\/tumblr_nr0drqv2lo1r3uvu0_filmstrip.jpg","width":"200","height":"357"}}'><source src="http://mememaster.tumblr.com/video_file/127700778279/tumblr_nr0drqv2lo1r3uvu0" type="video/mp4"></source></video><br><br><p><a href="http://shannananan.tumblr.com/post/123499986863/this-is-the-nerdiest-sports-thing-i-have-ever-seen" target="_blank" rel="noreferrer">shannananan</a>:</p>
-
-<blockquote><p>THIS IS THE NERDIEST SPORTS THING I HAVE EVER SEEN<br></p></blockquote></body></html>
-]]></content>
-	<updated>2015-08-27T08:35:17+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-08-27T08:35:17+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
