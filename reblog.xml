@@ -4,11 +4,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-28T11:08:26+00:00</updated>
+<updated>2015-08-27T02:46:38+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-01:/4742</id>
+	<link href="http://mememaster.tumblr.com/post/128127050244" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/d5174b89b9cfa52a904d54f0d4963240/tumblr_ntis0yx1am1qb36wno1_500.jpg"><br><br></body></html>
+]]></content>
+	<updated>2015-09-01T19:32:32+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-09-01T19:32:32+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-01:/4743</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/128126059593" rel="alternate" type="text/html"/>
+	<title type="html">(photo via Figgyfigg)</title>
+	<summary type="html"><![CDATA[(photo via Figgyfigg)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/6e50add9161d1099e0c4534661eacb3c/tumblr_nu0ivxdVmH1qewacoo1_500.jpg"><br><br><p>(photo via <a href="https://www.reddit.com/user/Figgyfigg" target="_blank" rel="noreferrer">Figgyfigg</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-01T19:16:45+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-01T19:16:45+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-01:/4628</id>
@@ -1415,61 +1451,6 @@ I o...]]></summary>
 		<id>http://kawaiidesune.tumblr.com/</id>
 		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
 		<updated>2015-08-27T02:46:38+00:00</updated>
-		<title>Kawaii desu ne</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-28:/4029</id>
-	<link href="http://kawaiidesune.tumblr.com/post/127745469743" rel="alternate" type="text/html"/>
-	<title type="html">moon-sylph:
-
-cabinporn:
-
-Squat shelter in Yoyogi Park, Tokyo,...</title>
-	<summary type="html"><![CDATA[moon-sylph:
-
-cabinporn:
-
-Squat shelter in Yoyogi Park, Tokyo, Japan.
-Contributed by Pip Jones.
-
-☽ ⁎ ...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/140ac660fdc7362de0f49734b992ef05/tumblr_npv9l6IpBM1qzwmsso1_500.jpg"><br><br><p><a href="http://moon-sylph.tumblr.com/post/127741311136" rel="noreferrer" target="_blank">moon-sylph</a>:</p>
-<blockquote>
-<p><a href="http://cabinporn.tumblr.com/post/121755135398" rel="noreferrer" target="_blank">cabinporn</a>:</p>
-<blockquote>
-<p>Squat shelter in Yoyogi Park, <b>Tokyo, Japan</b>.</p>
-<p>Contributed by Pip Jones.</p>
-</blockquote>
-<p><a href="http://moon-sylph.tumblr.com/" rel="noreferrer" target="_blank"><b>&#9789; &#8270; &#730; * &#9728; Transylvanian forest &#10037; &#8270; * &#9790;</b></a><br></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-08-27T23:11:55+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://kawaiidesune.tumblr.com/</id>
-		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
-		<updated>2015-08-27T23:11:55+00:00</updated>
-		<title>Kawaii desu ne</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-28:/4067</id>
-	<link href="http://kawaiidesune.tumblr.com/post/127781602718" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/7622abd69394d4a43033a37a5ddf664e/tumblr_myw2gsltSU1rqxl29o1_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-08-28T11:08:26+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://kawaiidesune.tumblr.com/</id>
-		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
-		<updated>2015-08-28T11:08:26+00:00</updated>
 		<title>Kawaii desu ne</title></source>
 
 
