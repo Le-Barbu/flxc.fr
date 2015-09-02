@@ -4,11 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-31T00:00:39+00:00</updated>
+<updated>2015-08-30T23:59:41+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-02:/4900</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/128208995701" rel="alternate" type="text/html"/>
+	<title type="html">by Pie Comic</title>
+	<summary type="html"><![CDATA[by Pie Comic]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/5270c6b5d6db0fab6997d6efef8cdfa8/tumblr_nu19kdutcm1qhnegdo1_500.jpg"><br><br><p>by <a href="http://piecomic.com" target="_blank" rel="noreferrer">Pie Comic</a></p></body></html>
+]]></content>
+	<updated>2015-09-02T20:45:10+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-02T20:45:10+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-02:/4880</id>
@@ -1483,26 +1501,6 @@ How to spot a pharmacy student
 		<id>http://mememaster.tumblr.com/</id>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-08-30T23:59:41+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-31:/4324</id>
-	<link href="http://mememaster.tumblr.com/post/127984361624" rel="alternate" type="text/html"/>
-	<title type="html">firefighters: what seems to be the problem sir?</title>
-	<summary type="html"><![CDATA[firefighters: what seems to be the problem sir?
-me: it's ... lit]]></summary>
-	<content type="html"><![CDATA[<html><body><p>firefighters: what seems to be the problem sir?<br>
-me: it's ... lit</p></body></html>
-]]></content>
-	<updated>2015-08-31T00:00:39+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-08-31T00:00:39+00:00</updated>
 		<title>Comedy Blog</title></source>
 
 
