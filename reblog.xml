@@ -4,11 +4,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-30T23:59:41+00:00</updated>
+<updated>2015-08-30T23:59:27+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-02:/4911</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/128211319351" rel="alternate" type="text/html"/>
+	<title type="html">chapmangamo:
+
+Tea and Coffee in different languages
+(Available...</title>
+	<summary type="html"><![CDATA[chapmangamo:
+
+Tea and Coffee in different languages
+(Available in mug form on Kickstarter)
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/503b29d5dc9e94e83d05828a05f3ea88/tumblr_ntbpttkOO01rcljqpo1_r1_500.png"><br><br><p><a href="http://chapmangamo.tumblr.com/post/128205471485" target="_blank" rel="noreferrer">chapmangamo</a>:</p>
+<blockquote>
+<p>Tea and Coffee in different languages</p>
+<p>(<a href="https://www.kickstarter.com/projects/1247628136/soundimals-how-to-sneeze-in-japanese" target="_blank" rel="noreferrer">Available in mug form on <b>Kickstarte</b></a><b>r</b>)</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-09-02T21:20:10+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-02T21:20:10+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-02:/4900</id>
@@ -1483,24 +1512,6 @@ How to spot a pharmacy student
 		<id>http://mememaster.tumblr.com/</id>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-08-30T23:59:27+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-31:/4325</id>
-	<link href="http://mememaster.tumblr.com/post/127984292064" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/324ba7fb6dbe511f4591e40b95c97c64/tumblr_nmhmz1rqKY1rq9l6wo1_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-08-30T23:59:41+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-08-30T23:59:41+00:00</updated>
 		<title>Comedy Blog</title></source>
 
 
