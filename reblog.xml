@@ -4,11 +4,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-31T00:03:28+00:00</updated>
+<updated>2015-08-31T00:00:39+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-02:/4880</id>
+	<link href="http://mememaster.tumblr.com/post/128201110839" rel="alternate" type="text/html"/>
+	<title type="html">itsreallystupid:
+
+adriofthedead:
+
+whats the password
+
+
+Ribbit</title>
+	<summary type="html"><![CDATA[itsreallystupid:
+
+adriofthedead:
+
+whats the password
+
+
+Ribbit]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/e57c160f28c5ce2c69d838895dfe075e/tumblr_ndk087kvWL1rsxqqio1_500.jpg"><br><br><p><a href="http://itsreallystupid.tumblr.com/post/128189248812/adriofthedead-whats-the-password-ribbit" target="_blank" rel="noreferrer">itsreallystupid</a>:</p>
+
+<blockquote><p><a href="http://adriofthedead.tumblr.com/post/118640107184" target="_blank" rel="noreferrer">adriofthedead</a>:</p>
+<blockquote>
+<p>whats the password</p>
+</blockquote>
+
+<p>Ribbit</p></blockquote></body></html>
+]]></content>
+	<updated>2015-09-02T18:40:18+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-09-02T18:40:18+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-02:/4852</id>
@@ -1464,25 +1503,6 @@ me: it's ... lit</p></body></html>
 		<id>http://mememaster.tumblr.com/</id>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-08-31T00:00:39+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-31:/4322</id>
-	<link href="http://mememaster.tumblr.com/post/127984552124" rel="alternate" type="text/html"/>
-	<title type="html">Bernie Sanders: It is unacceptable that the typical female worker made $1,337 less last year than she did in 2007.</title>
-	<summary type="html"><![CDATA[Bernie Sanders: It is unacceptable that the typical female worker made $1,337 less last year than sh...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Bernie Sanders: It is unacceptable that the typical female worker made $1,337 less last year than she did in 2007.<br>
-Republicans: Hey, it's not our faults Eve ate that apple and cursed all women ever. We're just carrying out the Lord's punishment ://</p></body></html>
-]]></content>
-	<updated>2015-08-31T00:03:28+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-08-31T00:03:28+00:00</updated>
 		<title>Comedy Blog</title></source>
 
 
