@@ -4,11 +4,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-31T13:12:20+00:00</updated>
+<updated>2015-08-31T14:09:29+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-03:/4978</id>
+	<link href="http://mememaster.tumblr.com/post/128256816749" rel="alternate" type="text/html"/>
+	<title type="html">sixfeetunderrthestars:
+
+dredsina:
+
+YOU THINK I’M JOKING BUT I’M...</title>
+	<summary type="html"><![CDATA[    sixfeetunderrthestars:
+
+dredsina:
+
+YOU THINK I’M JOKING BUT I’M DEAD SERIOUS
+
+you learn a lot ab...]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/aa79804258ae46cd48fdfd7b34f7df35/tumblr_muotvzRgaz1qfdfc5o1_500.jpg"><br><br><img src="http://40.media.tumblr.com/ad7ec2ee48774a1560c44f5162aa733a/tumblr_muotvzRgaz1qfdfc5o2_500.jpg"><br><br><img src="http://36.media.tumblr.com/6705eb879080c3e3f7a91544f1381d3a/tumblr_muotvzRgaz1qfdfc5o3_500.jpg"><br><br><img src="http://40.media.tumblr.com/07043b332fc364d1d5f169b2951a5687/tumblr_muotvzRgaz1qfdfc5o4_500.jpg"><br><br><p><a href="http://sixfeetunderrthestars.tumblr.com/post/92282184486" target="_blank" rel="noreferrer">sixfeetunderrthestars</a>:</p>
+<blockquote>
+<p><a href="http://dredsina.tumblr.com/post/64077671659" target="_blank" rel="noreferrer">dredsina</a>:</p>
+<blockquote>
+<p>YOU THINK I&rsquo;M JOKING BUT I&rsquo;M DEAD SERIOUS</p>
+</blockquote>
+<p>you learn a lot about the human race once you become a cashier somewhere</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-09-03T12:24:05+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-09-03T12:24:05+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-03:/4972</id>
+	<link href="http://www.ballajack.com/vrais-telechargements-sans-mauvaises-surprises" rel="alternate" type="text/html"/>
+	<title type="html">De vrais téléchargements sans mauvaises surprises, Offurl</title>
+	<summary type="html"><![CDATA[Voilà une *excellente* initiative: Ce site recense les sites de téléchargement officiels des logicie...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Voil&agrave; une *excellente* initiative: Ce site recense les sites de t&eacute;l&eacute;chargement officiels des logiciels: <a href="http://offurl.fr/" rel="noreferrer" target="_blank">http://offurl.fr/</a><br>
+Tapez le nom d'un logiciel, et il vous donne le bon site.<br>
+&Ccedil;a &eacute;vitera ce genre de connerie: <a href="http://sebsauvage.net/rhaa/index.php?2012/03/01/14/13/08-lequel-est-le-bon" rel="noreferrer" target="_blank">http://sebsauvage.net/rhaa/index.php?2012/03/01/14/13/08-lequel-est-le-bon</a><br>(<a href="http://sebsauvage.net/links/?83EFpw" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-03T08:17:16+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://sebsauvage.net/links/</id>
+		<link rel="self" href="http://sebsauvage.net/links/"/>
+		<updated>2015-09-03T08:17:16+00:00</updated>
+		<title>Liens en vrac de sebsauvage</title></source>
+
+	<category term="online"/>
+
+	<category term="ser"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-03:/4944</id>
@@ -1497,40 +1556,6 @@ Au fil de Là-bas
 	<category term="computers"/>
 
 	<category term="history"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-31:/4428</id>
-	<link href="http://thehiddenwiki.org/" rel="alternate" type="text/html"/>
-	<title type="html">Hidden Wiki | Tor .onion urls directories » Hidden Wiki</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-31T13:57:10+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-08-31T13:57:10+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-31:/4412</id>
-	<link href="http://walter-experiment.inria.fr/" rel="alternate" type="text/html"/>
-	<title type="html">WALTER :: Is my Web Content Altered</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-08-31T13:12:20+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-08-31T13:12:20+00:00</updated>
-		<title>Published articles</title></source>
 
 
 </entry>
