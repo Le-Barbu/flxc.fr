@@ -4,11 +4,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-30T23:47:24+00:00</updated>
+<updated>2015-08-31T07:27:46+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-02:/4914</id>
+	<link href="http://chloedaumal.tumblr.com/post/28829068567" rel="alternate" type="text/html"/>
+	<title type="html">Chloé Daumal</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-02T22:31:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-02T22:31:03+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-02:/4913</id>
@@ -1478,32 +1495,6 @@ Au fil de Là-bas
 	<category term="free"/>
 
 	<category term="graphics"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-31:/4332</id>
-	<link href="http://mememaster.tumblr.com/post/127983472069" rel="alternate" type="text/html"/>
-	<title type="html">sofluffysoyummy:
-
-A cat and a lowercase cat</title>
-	<summary type="html"><![CDATA[sofluffysoyummy:
-
-A cat and a lowercase cat
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/03e4516b938d954886e31901914813bf/tumblr_npp02pQl1h1tzjpuio1_500.jpg"><br><br><p><a href="http://sofluffysoyummy.tumblr.com/post/121127087409" target="_blank" rel="noreferrer">sofluffysoyummy</a>:</p>
-<blockquote>
-<p>A cat and a lowercase cat</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-08-30T23:47:24+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-08-30T23:47:24+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
