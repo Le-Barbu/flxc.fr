@@ -4,11 +4,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-31T14:09:29+00:00</updated>
+<updated>2015-08-31T16:00:33+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-03:/4976</id>
+	<link href="http://www.youtube.com/watch?v=bnfvz3IvOxQ" rel="alternate" type="text/html"/>
+	<title type="html">Que fait une blonde dans un camion ? #DansTonFlux47</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-03T12:23:34+00:00</updated>
+	<author><name>Dans Ton Flux</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCARLZnOtuJnFoX84i8Cli7w</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCARLZnOtuJnFoX84i8Cli7w"/>
+		<updated>2015-09-03T12:23:34+00:00</updated>
+		<title>Dans Ton Flux</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/bnfvz3IvOxQ?version=3"/>
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-03:/4983</id>
+	<link href="http://kawaiidesune.tumblr.com/post/128256375243" rel="alternate" type="text/html"/>
+	<title type="html">culturenlifestyle:
+
+Stunning Conceptual Scarves Mimic the Wings...</title>
+	<summary type="html"><![CDATA[       culturenlifestyle:
+
+Stunning Conceptual Scarves Mimic the Wings of Birds
+Melbourne-based fash...]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/43323cc3f8f5e4d6f4b398c943cb8e39/tumblr_nu1iznDWpy1u8rtwro1_500.jpg"><br><br><img src="http://36.media.tumblr.com/787eb6778f5af471902a5a19eb7001f0/tumblr_nu1iznDWpy1u8rtwro9_500.jpg"><br><br><img src="http://36.media.tumblr.com/6663f1c5239a92550cd937d3dcca979d/tumblr_nu1iznDWpy1u8rtwro2_500.jpg"><br><br><img src="http://40.media.tumblr.com/ee77328a4f78e754f2d450da51cc228a/tumblr_nu1iznDWpy1u8rtwro3_500.jpg"><br><br><img src="http://41.media.tumblr.com/cbed6f6c64948a5ee8d8dcc424484639/tumblr_nu1iznDWpy1u8rtwro5_500.jpg"><br><br><img src="http://40.media.tumblr.com/c1d992850938b0e23b6917c08e46adb8/tumblr_nu1iznDWpy1u8rtwro4_500.jpg"><br><br><img src="http://40.media.tumblr.com/c2dcc6b9b3fea36487b27d89e7e2646b/tumblr_nu1iznDWpy1u8rtwro6_500.jpg"><br><br><p><a href="http://culturenlifestyle.tumblr.com/post/128199739912" rel="noreferrer" target="_blank">culturenlifestyle</a>:</p>
+<blockquote>
+<p><b>Stunning Conceptual Scarves Mimic the Wings of Birds</b></p>
+<p>Melbourne-based fashion designer&nbsp;Roza Khamitova&nbsp;continuously&nbsp;creates a collection of&nbsp;conceptual scarves, which are inspired by the anatomy of the bird. When each piece is worn as a shawl, it creates the illusion of having enormous beautiful feathers and bird wings.</p>
+<p>The stunning illustrations on&nbsp;Khamitova&rsquo;s pieces are hand-painted and digitally printed on non-toxic and a primarily cotton recyclable material, which is itch-free. You can find more designs and colors of her creations at her<b> <a href="https://ad.zanox.com/ppc/?32408060C1102912383&amp;ulp=%5B%5Bhttps://www.etsy.com/shop/Shovava%5D%5D" rel="noreferrer" target="_blank">Etsy shop called Shovava.&nbsp;</a></b></p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-09-03T12:12:39+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://kawaiidesune.tumblr.com/</id>
+		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
+		<updated>2015-09-03T12:12:39+00:00</updated>
+		<title>Kawaii desu ne</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-03:/4987</id>
+	<link href="http://app.siz.io/stories/kittens-meet-puppies-for-the-first-time?src=tum" rel="alternate" type="text/html"/>
+	<title type="html">Siz - Kittens Meet Puppies for the First Time</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-03T12:33:34+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-03T12:33:34+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-03:/4978</id>
@@ -1487,75 +1554,6 @@ Technical diagram about exercise.Http://theawkwardyeti.com
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-08-31T16:00:33+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-31:/4522</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128044327308" rel="alternate" type="text/html"/>
-	<title type="html">by John McNamee</title>
-	<summary type="html"><![CDATA[by John McNamee]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/ae629cfa78cf47562b79390b3bbb02d9/tumblr_ntrvh8Jd0p1qhnegdo1_500.jpg"><br><br><p>by <a href="http://piecomic.com" target="_blank" rel="noreferrer">John McNamee</a></p></body></html>
-]]></content>
-	<updated>2015-08-31T18:32:25+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-08-31T18:32:25+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-31:/4377</id>
-	<link href="http://la-bas.org/la-bas-magazine/au-fil-de-la-bas/en-attendant-voila-un-conseil-pour-la-rentree" rel="alternate" type="text/html"/>
-	<title type="html">Un conseil pour la rentrée</title>
-	<summary type="html"><![CDATA[
-
-
--
-Au fil de Là-bas
-
-
-		]]></summary>
-	<content type="html"><![CDATA[<html><body><p><span>
-<a href="http://la-bas.org/la-bas-magazine/au-fil-de-la-bas/en-attendant-voila-un-conseil-pour-la-rentree" rel="noreferrer" target="_blank"><img src="http://la-bas.org/IMG/jpg/nosconseilspourlarentree.jpg" width="500" height="500" alt=""></a></span></p>
-
--
-<a href="http://la-bas.org/la-bas-magazine/au-fil-de-la-bas/" rel="noreferrer" target="_blank">Au fil de L&agrave;-bas</a></body></html>
-]]></content>
-	<updated>2015-08-31T11:10:18+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://la-bas.org/</id>
-		<link rel="self" href="http://la-bas.org/"/>
-		<updated>2015-08-31T11:10:18+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-31:/4439</id>
-	<link href="http://rue89.nouvelobs.com/2015/02/01/gerard-berry-lordinateur-est-completement-con-257428" rel="alternate" type="text/html"/>
-	<title type="html">Gérard Berry : « L’ordinateur est complètement con » - Rue89 - L'Obs</title>
-	<summary type="html"><![CDATA[Une interview très intéressante.(Permalink)]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Une interview tr&egrave;s int&eacute;ressante.<br>(<a href="http://sebsauvage.net/links/?8rQ6zQ" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
-]]></content>
-	<updated>2015-08-31T14:09:29+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://sebsauvage.net/links/</id>
-		<link rel="self" href="http://sebsauvage.net/links/"/>
-		<updated>2015-08-31T14:09:29+00:00</updated>
-		<title>Liens en vrac de sebsauvage</title></source>
-
-	<category term="computers"/>
-
-	<category term="history"/>
 
 
 </entry>
