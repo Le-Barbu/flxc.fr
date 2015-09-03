@@ -4,11 +4,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-31T07:27:46+00:00</updated>
+<updated>2015-08-31T08:05:53+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-02:/4912</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/128214389508" rel="alternate" type="text/html"/>
+	<title type="html">doodleforfood:
+
+I’ve started really getting into MtG lately....</title>
+	<summary type="html"><![CDATA[  doodleforfood:
+
+I’ve started really getting into MtG lately. Feeling pretty confident in my skills...]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/fa219e2875a59f519794808ba916af3a/tumblr_nu2kj0TSkt1rhkrwho1_500.png"><br><br><img src="http://41.media.tumblr.com/38e869bea9f5e5b65b4c7a043452d2bc/tumblr_nu2kj0TSkt1rhkrwho2_500.png"><br><br><p><a href="http://doodleforfood.tumblr.com/post/128213145818" target="_blank" rel="noreferrer">doodleforfood</a>:</p>
+<blockquote>
+<p>I&rsquo;ve started really getting into MtG lately. Feeling pretty confident in my skills</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-09-02T22:06:07+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-02T22:06:07+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-02:/4914</id>
@@ -1473,28 +1498,6 @@ Au fil de Là-bas
 		<title>Liens en vrac de sebsauvage</title></source>
 
 	<category term="tips"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-31:/4301</id>
-	<link href="http://psiupuxa.com/" rel="alternate" type="text/html"/>
-	<title type="html">Psiu Puxa Wallpapers</title>
-	<summary type="html"><![CDATA[De très beaux fonds d'écran de l'espaaaaaaaaaace.(Permalink)]]></summary>
-	<content type="html"><![CDATA[<html><body><p>De tr&egrave;s beaux fonds d'&eacute;cran de l'espaaaaaaaaaace.<br>(<a href="http://sebsauvage.net/links/?kXFLrg" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
-]]></content>
-	<updated>2015-08-31T07:27:46+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://sebsauvage.net/links/</id>
-		<link rel="self" href="http://sebsauvage.net/links/"/>
-		<updated>2015-08-31T07:27:46+00:00</updated>
-		<title>Liens en vrac de sebsauvage</title></source>
-
-	<category term="free"/>
-
-	<category term="graphics"/>
 
 
 </entry>
