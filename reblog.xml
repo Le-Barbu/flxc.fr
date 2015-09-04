@@ -4,11 +4,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-02T21:20:10+00:00</updated>
+<updated>2015-09-02T22:17:57+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-04:/5332</id>
+	<link href="http://www.youtube.com/watch?v=xpmg3XKu6Ig" rel="alternate" type="text/html"/>
+	<title type="html">Souvenir From Earth - Geometricks (ORIGNAL MIX)</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-03T04:04:08+00:00</updated>
+	<author><name>Larry Crimson</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCem9ClONidaUuFxIplU6Cxg</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCem9ClONidaUuFxIplU6Cxg"/>
+		<updated>2015-09-03T04:04:08+00:00</updated>
+		<title>Larry Crimson</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/xpmg3XKu6Ig?version=3"/>
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-04:/5178</id>
@@ -17,12 +39,12 @@
 	<summary type="html"><![CDATA[Kookman : donc bref il a fait naufrage sur leur îleKookman : et là il est confronté a la reine des a...]]></summary>
 	<content type="html"><![CDATA[<html><body><span>Kookman :</span> donc bref il a fait naufrage sur leur &icirc;le<br><span>Kookman :</span> et l&agrave; il est confront&eacute; a la reine des amazones.<br><span>Elek :</span> Maintenant que j'y pense, ce genre de truc, c'est pas viable.<br><span>Elek :</span> Une &icirc;le enti&egrave;re peupl&eacute;e uniquement de femmes<br><span>Elek :</span> Sachant que quand des femmes vivent en communaut&eacute;, elles ont toutes leurs r&egrave;gles en m&ecirc;me temps<br><span>Elek :</span> En m&ecirc;me pas un mois, ce serait la guerre civile.<br><span>Kookman :</span> ...<br><span>Elek :</span> "Ca va saigner."</body></html>
 ]]></content>
-	<updated>2015-09-04T13:26:18+00:00</updated>
+	<updated>2015-09-04T14:37:50+00:00</updated>
 	<author><name></name></author>
 	<source>
 		<id>http://danstonchat.com/</id>
 		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-04T13:26:18+00:00</updated>
+		<updated>2015-09-04T14:37:50+00:00</updated>
 		<title>DansTonChat</title></source>
 
 
@@ -35,12 +57,12 @@
 	<summary type="html"><![CDATA[XXX: J&#039;ai un probXXX: J&#039;ai perdu mon thermomètreYYY: et c’est grave parce que... ?XXX: par...]]></summary>
 	<content type="html"><![CDATA[<html><body><span>XXX:</span> J'ai un prob<br><span>XXX:</span> J'ai perdu mon thermom&egrave;tre<br><span>YYY:</span> et c&rsquo;est grave parce que... ?<br><span>XXX:</span> parce que si il ne ressort pas tout seul va falloir aller aux urgences<br><span>YYY:</span> mdr !<br><span>XXX:</span> pas trop non<br><span>XXX:</span> je me suis assis dessus comme un con</body></html>
 ]]></content>
-	<updated>2015-09-04T13:26:18+00:00</updated>
+	<updated>2015-09-04T14:37:50+00:00</updated>
 	<author><name></name></author>
 	<source>
 		<id>http://danstonchat.com/</id>
 		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-04T13:26:18+00:00</updated>
+		<updated>2015-09-04T14:37:50+00:00</updated>
 		<title>DansTonChat</title></source>
 
 
@@ -53,12 +75,12 @@
 	<summary type="html"><![CDATA[Florian: Le manque de tact est vraiment un problème chez les jeunes aujourd&#039;hui...Florian: On b...]]></summary>
 	<content type="html"><![CDATA[<html><body><span>Florian:</span> Le manque de tact est vraiment un probl&egrave;me chez les jeunes aujourd'hui...<br><span>Florian:</span> On baise ?<br><span>Ani:</span> Oui.</body></html>
 ]]></content>
-	<updated>2015-09-04T13:26:19+00:00</updated>
+	<updated>2015-09-04T14:37:50+00:00</updated>
 	<author><name></name></author>
 	<source>
 		<id>http://danstonchat.com/</id>
 		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-04T13:26:19+00:00</updated>
+		<updated>2015-09-04T14:37:50+00:00</updated>
 		<title>DansTonChat</title></source>
 
 
@@ -71,12 +93,12 @@
 	<summary type="html"><![CDATA[Le ripper: testLe ripper: testp¤t@t¤-£: iculeLe ripper: merciLe ripper: t&#039;a reçu que un test ?p...]]></summary>
 	<content type="html"><![CDATA[<html><body><span>Le ripper:</span> test<br><span>Le ripper:</span> test<br><span>p&curren;t@t&curren;-&pound;:</span> icule<br><span>Le ripper:</span> merci<br><span>Le ripper:</span> t'a re&ccedil;u que un test ?<br><span>p&curren;t@t&curren;-&pound;:</span> icule<br><span>Le ripper:</span> je prend &ccedil;a un oui ?<br><span>p&curren;t@t&curren;-&pound;:</span> stiti</body></html>
 ]]></content>
-	<updated>2015-09-04T13:26:20+00:00</updated>
+	<updated>2015-09-04T14:37:51+00:00</updated>
 	<author><name></name></author>
 	<source>
 		<id>http://danstonchat.com/</id>
 		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-04T13:26:20+00:00</updated>
+		<updated>2015-09-04T14:37:51+00:00</updated>
 		<title>DansTonChat</title></source>
 
 
@@ -89,12 +111,12 @@
 	<summary type="html"><![CDATA[&lt;Belgi&gt; l&#039;autre jour je me disais... N&#039;empêche si je mourrais un jour personne ne vo...]]></summary>
 	<content type="html"><![CDATA[<html><body><span>&lt;Belgi&gt;</span> l'autre jour je me disais... N'emp&ecirc;che si je mourrais un jour personne ne vous le dirait... Genre mes seuls vrais potes ne seraient pas au courant parce que personne ne sait que vous existez !<br><span>&lt;Belgi&gt;</span> genre si &ccedil;a se trouve flappy a crev&eacute; il y a 3 semaines et on le sait m&ecirc;me pas :/<br><span>&lt;Jerome&gt;</span> ...<br><span>&lt;gibly&gt;</span> euh...<br><span>&lt;Jerome&gt;</span> tain mec t'as toujours pas compris pour flappy ?<br><span>&lt;Belgi&gt;</span> ...<br><span>&lt;Belgi&gt;</span> :(<br><span>&lt;gibly&gt;</span> t'as toujours pas capt&eacute; que j'ai chang&eacute; de pseudo ^^ ?<br><span>&lt;Jerome&gt;</span> XD</body></html>
 ]]></content>
-	<updated>2015-09-04T13:26:20+00:00</updated>
+	<updated>2015-09-04T14:37:51+00:00</updated>
 	<author><name></name></author>
 	<source>
 		<id>http://danstonchat.com/</id>
 		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-04T13:26:20+00:00</updated>
+		<updated>2015-09-04T14:37:51+00:00</updated>
 		<title>DansTonChat</title></source>
 
 
@@ -107,12 +129,12 @@
 	<summary type="html"><![CDATA[kenounes: bonjour tu veux faire conesance avec moi ou pas dit moidizye: j&#039;mappelle Bescherelle,...]]></summary>
 	<content type="html"><![CDATA[<html><body><span>kenounes:</span> bonjour tu veux faire conesance avec moi ou pas dit moi<br><span>dizye:</span> j'mappelle Bescherelle, &ccedil;a faisait longtemps qu'on s'etait pas vus dis donc.<br><span>kenounes:</span> ok moi c est ken j ai 20 ans celib et toi<br><span>dizye:</span> Je suis mari&eacute;e avec Le gros robert d&eacute;sol&eacute;... En revanche je peux te pr&eacute;senter Larousse<br><span>kenounes:</span> ok passe moi son num stp</body></html>
 ]]></content>
-	<updated>2015-09-04T13:26:21+00:00</updated>
+	<updated>2015-09-04T14:37:51+00:00</updated>
 	<author><name></name></author>
 	<source>
 		<id>http://danstonchat.com/</id>
 		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-04T13:26:21+00:00</updated>
+		<updated>2015-09-04T14:37:51+00:00</updated>
 		<title>DansTonChat</title></source>
 
 
@@ -125,12 +147,12 @@
 	<summary type="html"><![CDATA[Ðayns: yep yep, faudra voir ce qu&#039;il est possible de faireOmbre: TOOOOUUUTOmbre: ON VA ABATTRE ...]]></summary>
 	<content type="html"><![CDATA[<html><body><span>&ETH;ayns:</span> yep yep, faudra voir ce qu'il est possible de faire<br><span>Ombre:</span> TOOOOUUUT<br><span>Ombre:</span> ON VA ABATTRE LES CLOISONS<br><span>&ETH;ayns:</span> xD<br><span>&ETH;ayns:</span> ON EST DES DINGUES !!!<br><span>Ombre:</span> FAIRE DES EXTENSIONS DE CHALET SUR LE TOIT<br><span>&ETH;ayns:</span> YAAAAAAAAAAAAAAAAAAAAAAAAAAAA !!!!!!!<br><span>Ombre:</span> CREER UN LOUNGE IMMENSE AU DEUXIEME ETAGE AVEC QUATRE PC EN LAN PERMANENTE<br><span>Ombre:</span> SE FORMER AU C++ ET AU JAVA ET FAIRE DES JEUX DE FOUS EN TROIS HEURES<br><span>&ETH;ayns:</span> DES CANONS ANTI-DEBILES DANS LE SALON !<br><span>&ETH;ayns:</span> ah nan, merde, on s'ferait shot direct...<br><span>Ombre:</span> ah oui non c'est pourri &ccedil;a<br><span>Ombre:</span> UN SYSTEME D'ALARME QUI SE BRAQUE QUAND UNE BUSE PASSE<br><span>&ETH;ayns:</span> h&eacute;h&eacute;<br><span>Ombre:</span> INVENTER UNE MACHINE A FAIRE DU THE<br><span>&ETH;ayns:</span> DU THE A BASE DE MONSTER !!!!<br><span>Ombre:</span> AHAHAHAHAAAAAAAA<br><span>Ombre:</span> ON AURA UN CINEMA DANS LA CAVE<br><span>Ombre:</span> ET DES ESCLAVES VOLONTAIRES<br><span>&ETH;ayns:</span> ON MANGERA DES BARRES DE FER ENROULEES DE FIL BARBELEE !!!<br><span>&ETH;ayns:</span> GOUT HOT&amp;SPICIES !<br><span>Ombre:</span> ET ON CHIERA DES MURS DE BERLIN !<br><span>Ombre:</span> GWUAHAHAHAHAAAA !<br><span>&ETH;ayns:</span> Bref.<br><span>Ombre:</span> Ouais.<br><span>Ombre:</span> Ca va &ecirc;tre bien.</body></html>
 ]]></content>
-	<updated>2015-09-04T13:26:21+00:00</updated>
+	<updated>2015-09-04T14:37:51+00:00</updated>
 	<author><name></name></author>
 	<source>
 		<id>http://danstonchat.com/</id>
 		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-04T13:26:21+00:00</updated>
+		<updated>2015-09-04T14:37:51+00:00</updated>
 		<title>DansTonChat</title></source>
 
 
@@ -143,12 +165,12 @@
 	<summary type="html"><![CDATA[Swinub : Bon, je dois te le dire.Swinub : ActinoteActinote : oui?Swinub : En fait, non, rien, laisse...]]></summary>
 	<content type="html"><![CDATA[<html><body><span>Swinub :</span> Bon, je dois te le dire.<br><span>Swinub :</span> Actinote<br><span>Actinote :</span> oui?<br><span>Swinub :</span> En fait, non, rien, laisse tomber<br><span>Actinote :</span> mais si, dis?<br><span>Swinub :</span> Non. Un jour, mais pas maintenant.<br><span>Actinote :</span> jveux savoir!<br><span>Swinub :</span> Non.<br><span>Actinote :</span> "Actinote, t'es qu'un gros con"<br><span>Swinub :</span> ...non<br><span>Actinote :</span> "Actinote, je suis ton p&egrave;re"<br><span>Swinub :</span> ...<br><span>Actinote :</span> "Actinote, j'ai mang&eacute; une pomme."<br><span>Swinub :</span> Non mais non...<br><span>Actinote :</span> "Actinote, je sais que tu n'es pas un min&eacute;ral en r&eacute;alit&eacute;"<br><span>Swinub :</span> Stop...<br><span>Actinote :</span> "Actinote, je n'aime pas Zelda"<br><span>Swinub :</span> Non plus...<br><span>Actinote :</span> "Actinote, en r&eacute;alit&eacute;, je m'appelle Roger, j'ai 54 ans, mais ne t'en fais pas, tu es trop vieux pour moi"<br><span>Swinub :</span> Ca va durer longtemps?<br><span>Actinote :</span> "Actinote, y a plus de PQ!"<br><span>Swinub :</span> ...<br><span>Actinote :</span> "Actinote, en fait, je m'appelle Julie."<br><span>Swinub :</span> T'as bientot fini?<br><span>Actinote :</span> "Actinote, je baise ta m&egrave;re"<br><span>Swinub :</span> Serieux, stop<br><span>Actinote :</span> "Actinote, va te faire foutre"<br><span>Swinub :</span> Euh oui mais par moi alors<br><span>Actinote :</span> ...<br><span>Swinub :</span> euuuh non ce n'est pas ce que je voulais dire!<br><span>Actinote :</span> ...<br><span>Swinub :</span> ce n'est pas du tout ce que je voulais dire!!<br><span>Actinote :</span> ......<br><span>Swinub :</span> Actinote! T__T<br><span>Actinote :</span> c'&eacute;tait vraiment &ccedil;a que tu voulais me dire? ;___;<br><span>Swinub :</span> mais non!!<br><span>Actinote :</span> Dis moi bordel!!<br><span>Swinub :</span> mais je<br><span>Swinub :</span> bon, ok<br><span>Swinub :</span> Actinote.... je t'aime. Je suis fou de toi. Voila.<br><span>Actinote :</span> ....alors c'&eacute;tait vraiment vrai, avant.<br><span>Swinub :</span> Mais...Mais....Mais.....Tu m'embetes!! T___T</body></html>
 ]]></content>
-	<updated>2015-09-04T13:26:21+00:00</updated>
+	<updated>2015-09-04T14:37:51+00:00</updated>
 	<author><name></name></author>
 	<source>
 		<id>http://danstonchat.com/</id>
 		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-04T13:26:21+00:00</updated>
+		<updated>2015-09-04T14:37:51+00:00</updated>
 		<title>DansTonChat</title></source>
 
 
@@ -161,12 +183,12 @@
 	<summary type="html"><![CDATA[&lt;Kenji&gt; Premièrement tu mélange du BBCode au code HTML&lt;Kenji&gt; Deuxièmement on n&#039;uti...]]></summary>
 	<content type="html"><![CDATA[<html><body><span>&lt;Kenji&gt;</span> Premi&egrave;rement tu m&eacute;lange du BBCode au code HTML<br><span>&lt;Kenji&gt;</span> Deuxi&egrave;mement on n'utilise pas les tableaux pour faire une mise en page<br><span>&lt;Kenji&gt;</span> Troisi&egrave;mement et la plus importante...<br><span>&lt;Kenji&gt;</span> Car d'ailleurs c'est &agrave; cause de &ccedil;a que ton code foire<br><span>&lt;Kenji&gt;</span> C'est la raison principale voir m&ecirc;me la seule je crois en fait<br><span>&lt;Kenji&gt;</span> J'ai tenu &agrave; te la dire en dernier juste pour te faire perdre du temps...<br><span>&lt;Dj&gt;</span> ...<br><span>&lt;Kenji&gt;</span> Parce que j'adore te faire perdre du temps<br><span>&lt;Kenji&gt;</span> Et encore et encore, tu t'impatiente &agrave; chaque message que je t'envoie, la tension monte et tu ne peux pas t'emp&ecirc;cher de lire la suite dans l'espoir d'y trouver quelque chose<br><span>&lt;Kenji&gt;</span> Puis non finalement rien<br><span>&lt;Dj&gt;</span> Bon &ccedil;a vient ou quoi ?<br><span>&lt;Kenji&gt;</span> c: tout &ccedil;a pour dire que ton probl&egrave;me...<br><span>&lt;Kenji&gt;</span> Viens<br><span>&lt;Dj&gt;</span> ...<br><span>&lt;Kenji&gt;</span> De... :D<br><span>&lt;Dj&gt;</span> BON DIS ?!<br><span>*</span> Kenji (~Chigiru@XXX.XXX.XXX.XXX) Quit (Read error: Connection reset by peer)<br><span>&lt;Dj&gt;</span> Je suis maudit :c</body></html>
 ]]></content>
-	<updated>2015-09-04T13:26:21+00:00</updated>
+	<updated>2015-09-04T14:37:51+00:00</updated>
 	<author><name></name></author>
 	<source>
 		<id>http://danstonchat.com/</id>
 		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-04T13:26:21+00:00</updated>
+		<updated>2015-09-04T14:37:51+00:00</updated>
 		<title>DansTonChat</title></source>
 
 
@@ -179,12 +201,12 @@
 	<summary type="html"><![CDATA[Midgarson: Fuyez pauvres fousMidgarson: (toute référence au Seigneur des Anneaux est totalement fort...]]></summary>
 	<content type="html"><![CDATA[<html><body><span>Midgarson:</span> Fuyez pauvres fous<br><span>Midgarson:</span> (toute r&eacute;f&eacute;rence au Seigneur des Anneaux est totalement fortuite et ind&eacute;pendante de ma volon&eacute;)<br><span>Caryl:</span> Volon&eacute; ? K&eacute;zako?<br><span>Midgarson:</span> Chuuuuut ... J'ai tap&eacute; trop vite :3<br><span>Midgarson:</span> Damned tout l'effet dramatique s'est envol&eacute;<br><span>Zohnya:</span> Volon&eacute;. En fait, c'est l'origine de la blague "H&eacute; j'ai vol&eacute; ton nez !". C'&eacute;tait dans un autre univers. Il y avait deux fr&egrave;re voldemort et volon&eacute;. Volon&eacute;, un jour dans un acc&egrave;s de col&egrave;re arracha le nez de voldemort et le cacha dans une bo&icirc;te remplie de poivre.  Le pauvre voldemor fut donc condamn&eacute; a &eacute;ternuer toute sa pauvre vie.(ce qui explique pourquoi il est hyper v&eacute;n&egrave;re contre tout le monde). Il poursuivi son fr&egrave;re durant des heures dans le ch&acirc;teau en criant "Volon&eacute; !".<br><span>Zohnya:</span> Les bonnes qui &eacute;taient de service ce jour l&agrave;,  entendirent ceci et trouv&egrave;rent cela cocasse. C'est ainsi qu apparu la blague de "H&eacute; j'ai vol&eacute; ton nez!". En souvenir de volon&eacute; qui vola le nez de son fr&egrave;re.<br><span>Caryl:</span> J'ai mon cerveau qui a fait un blue screen...</body></html>
 ]]></content>
-	<updated>2015-09-04T13:26:22+00:00</updated>
+	<updated>2015-09-04T14:37:52+00:00</updated>
 	<author><name></name></author>
 	<source>
 		<id>http://danstonchat.com/</id>
 		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-04T13:26:22+00:00</updated>
+		<updated>2015-09-04T14:37:52+00:00</updated>
 		<title>DansTonChat</title></source>
 
 
@@ -197,12 +219,12 @@
 	<summary type="html"><![CDATA[&lt;l0ïc0rne&gt; Vous saviez que pour la reproduction des mantes religieuses, la femelle bouffe son ...]]></summary>
 	<content type="html"><![CDATA[<html><body><span>&lt;l0&iuml;c0rne&gt;</span> Vous saviez que pour la reproduction des mantes religieuses, la femelle bouffe son male apr&egrave;s la procr&eacute;ation ?<br><span>&lt;AdAdA&gt;</span> Oui<br><span>&lt;kimoulet&gt;</span> oui<br><span>&lt;+MadMaxoune&gt;</span> Oui<br><span>&lt;+MadMaxoune&gt;</span> et ?<br><span>&lt;l0&iuml;c0rne&gt;</span> et bah je me demandais : si t'es zoophile avec une mante religieuse, est ce qu'elle essaie quand m&ecirc;me de te bouffer apr&egrave;s ?<br><span>&lt;kimoulet&gt;</span> ...<br><span>&lt;+MadMaxoune&gt;</span> Je me disais que c'&eacute;tait mal parti apr&egrave;s que tu ais dit "reproduction"...</body></html>
 ]]></content>
-	<updated>2015-09-04T13:26:22+00:00</updated>
+	<updated>2015-09-04T14:37:52+00:00</updated>
 	<author><name></name></author>
 	<source>
 		<id>http://danstonchat.com/</id>
 		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-04T13:26:22+00:00</updated>
+		<updated>2015-09-04T14:37:52+00:00</updated>
 		<title>DansTonChat</title></source>
 
 
@@ -215,12 +237,12 @@
 	<summary type="html"><![CDATA[M : Vous imaginez si le mot &quot;mort&quot; était plutôt &quot;fourchette&quot; ? Genre &quot;Donne...]]></summary>
 	<content type="html"><![CDATA[<html><body><span>M :</span> Vous imaginez si le mot "mort" &eacute;tait plut&ocirc;t "fourchette" ? Genre "Donnez moi l'heure de la fourchette s'il vous pla&icirc;t !"<br><span>M :</span> Ou encore... "Comment je vais dire &agrave; ma soeur que son hamster est fourchette ?"<br><span>G :</span> ouais ou strombinoscope aussi ca donne pas mal<br><span>G :</span> Du genre: les docs qui doivent donner le d&eacute;c&egrave;s aux membres de la famille du patient dans ce cas l&agrave; "Je suis d&eacute;sol&eacute;, on a tout essay&eacute;... mais votre mari est strombos... strombinope... STROMBINOSCOPE PUTAIN"<br><span>N :</span> Oh je me suis d&eacute;j&agrave; dis &ccedil;a avec mange et suce genre on inverse les deux ! "A TAAABLE LES ENFANTS ! ON VA SUCER ! C'EST VOTRE PERE QUI NOUS REGALE CE SOIR !" x)<br><span>M :</span> Tu sais que tu me fais peur des fois ?</body></html>
 ]]></content>
-	<updated>2015-09-04T13:26:22+00:00</updated>
+	<updated>2015-09-04T14:37:52+00:00</updated>
 	<author><name></name></author>
 	<source>
 		<id>http://danstonchat.com/</id>
 		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-04T13:26:22+00:00</updated>
+		<updated>2015-09-04T14:37:52+00:00</updated>
 		<title>DansTonChat</title></source>
 
 
@@ -303,7 +325,7 @@
 	<link href="https://facebook.com/lesenfantsfoires/posts/1657795351101286" rel="alternate" type="text/html"/>
 	<title type="html">lesenfantsfoires | À découvrir ou à redécouvrir, l&amp;amp;#039;album &amp;amp;quot;Disco Club&amp;amp;quot;, ce chef-d&amp;amp;#039;oeuvre de 1978, produit par Bernard Fevre et Jacky Giordano  compose certainement l&amp;amp;#039;une des scènes les plus obscures et rares du disco ! émoticône wink  Enjoy ! émoticône heart ‪#‎larrycoupdecoeur‬Black devil disco club 1978 EP (FULL ALBUM)http://curtis8516.tumblr.com/ - RARE PICTURES! If you want the MP3 of this, type in Google &amp;amp;#039;youtube to mp3&amp;amp;#039; and copy the URL. No copyright infringments inten...youtube.com</title>
 	<summary type="html"><![CDATA[À découvrir ou à redécouvrir, l&#039;album &quot;Disco Club&quot;, ce chef-d&#039;oeuvre de 1978, pr...]]></summary>
-	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=876f5f6276376181f9643f246d67c336&amp;oe=56800F1C&amp;__gda__=1450208891_1e710eae5f4b5a0d31089c71a6012b48" alt=""></a>data-ft="{"tn":"K"}"&gt;&Agrave; d&eacute;couvrir ou &agrave; red&eacute;couvrir, l'album "Disco Club", ce chef-d'oeuvre de 1978, produit par Bernard Fevre et Jacky Giordano  compose certainement l'une des sc&egrave;nes les plus obscures et rares du disco ! &eacute;motic&ocirc;ne wink  Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1657795351101286" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a><a aria-label="Black devil disco club 1978 EP (FULL ALBUM)" ajaxify="/ajax/flash/expand_inline.php?max_width=470&amp;selector=%5E._6m2&amp;target_div=u_0_w&amp;share_id=248781355263825&amp;user_share_id=1657795351101286" href="https://www.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FJT9jz_WBjqI&amp;h=CAQFLyFzn&amp;enc=AZPLTGp7YjmzTNtDPU4id09u-MmO4mhd9FbH1YuoTeJ64EcbZkNV12dmBWEtKK4q9oEXzhve58fDvZGC1S0zvnsmZpDDKmIBieqMhTHT6_ky7eHOfEQ5I5WS8e93ScTiba5qXP0Tc61UTgO8GJEGZrAVZLDopQZb2n1GfFO6KAwluU0Rm4tlHTRYoRVf2Rb7JfcCP5QHY0f0Yso5kcaDOUlS&amp;s=1" rel="noreferrer" target="_blank"><img src="https://external.xx.fbcdn.net/safe_image.php?d=AQA9Z9pWws1pHbtS&amp;w=158&amp;h=158&amp;url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FJT9jz_WBjqI%2Fmaxresdefault.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FJT9jz_WBjqI&amp;h=1AQEjTPLS&amp;s=1" rel="noreferrer" target="_blank">Black devil disco club 1978 EP (FULL ALBUM)</a><a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fcurtis8516.tumblr.com%2F&amp;h=sAQEuJog4&amp;s=1" target="_blank" rel="noreferrer">http://curtis8516.tumblr.com/</a> - RARE PICTURES! If you want the MP3 of this, type in Google 'youtube to mp3' and copy the URL. No copyright infringments inten...youtube.com</body></html>
+	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=876f5f6276376181f9643f246d67c336&amp;oe=56800F1C&amp;__gda__=1450208891_1e710eae5f4b5a0d31089c71a6012b48" alt=""></a>data-ft="{"tn":"K"}"&gt;&Agrave; d&eacute;couvrir ou &agrave; red&eacute;couvrir, l'album "Disco Club", ce chef-d'oeuvre de 1978, produit par Bernard Fevre et Jacky Giordano  compose certainement l'une des sc&egrave;nes les plus obscures et rares du disco ! &eacute;motic&ocirc;ne wink  Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1657795351101286" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a><a aria-label="Black devil disco club 1978 EP (FULL ALBUM)" ajaxify="/ajax/flash/expand_inline.php?max_width=470&amp;selector=%5E._6m2&amp;target_div=u_0_w&amp;share_id=248781355263825&amp;user_share_id=1657795351101286" href="https://www.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FJT9jz_WBjqI&amp;h=5AQHNssUs&amp;enc=AZN8vYtDYsbvpK32jZk5jgSfBxgI4EWVxM8rnr9OegGoGyUYJOKbw6iqhaHxZr8DdTOAY6gGZXTiboK3Gse16vYe1k5bGmJWzT5Ck4O0oaPKFAMETVcO1K_3NDa3_VTk8vXN_kzPLO4VGXNYGIeJVN8nNmFFxo1iuLP-RxwsmD5VAnBlL-owlxnYLRkNrcOANtByHf1z_nwJHWMSx4WqWS-e&amp;s=1" rel="noreferrer" target="_blank"><img src="https://external.xx.fbcdn.net/safe_image.php?d=AQA9Z9pWws1pHbtS&amp;w=158&amp;h=158&amp;url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FJT9jz_WBjqI%2Fmaxresdefault.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FJT9jz_WBjqI&amp;h=yAQFqWl-X&amp;s=1" rel="noreferrer" target="_blank">Black devil disco club 1978 EP (FULL ALBUM)</a><a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fcurtis8516.tumblr.com%2F&amp;h=5AQHNssUs&amp;s=1" target="_blank" rel="noreferrer">http://curtis8516.tumblr.com/</a> - RARE PICTURES! If you want the MP3 of this, type in Google 'youtube to mp3' and copy the URL. No copyright infringments inten...youtube.com</body></html>
 ]]></content>
 	<updated>2015-08-19T17:05:56+00:00</updated>
 	<author><name>Facebook Bridge</name></author>
@@ -321,7 +343,7 @@
 	<link href="https://facebook.com/lesenfantsfoires/posts/1661052814108873" rel="alternate" type="text/html"/>
 	<title type="html">lesenfantsfoires | Dj Sharpnel sur une reprise d&amp;amp;#039; Evangelion, un son à la made in Japan émoticône wink  ‪#‎InceptionDigitale‬End of Eva AMV [Terror of Death]AMV of End of Evangelion set to Terror of Death by DJ Sharpnel.youtube.com</title>
 	<summary type="html"><![CDATA[Dj Sharpnel sur une reprise d&#039; Evangelion, un son à la made in Japan émoticône wink  ‪#‎Incepti...]]></summary>
-	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=876f5f6276376181f9643f246d67c336&amp;oe=56800F1C&amp;__gda__=1450208891_1e710eae5f4b5a0d31089c71a6012b48" alt=""></a>data-ft="{"tn":"K"}"&gt;Dj Sharpnel sur une reprise d' Evangelion, un son &agrave; la made in Japan &eacute;motic&ocirc;ne wink  <a href="http://flxc.fr/hashtag/inceptiondigitale?source=feed_text&amp;story_id=1661052814108873" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;InceptionDigitale&#8236;</a><a aria-label="End of Eva AMV [Terror of Death]" ajaxify="/ajax/flash/expand_inline.php?max_width=470&amp;selector=%5E._6m2&amp;target_div=u_0_q&amp;share_id=776352105744664&amp;user_share_id=1661052814108873" href="https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyaoytheDSz8&amp;h=3AQFZrVOg&amp;enc=AZNsBK6p_TSy5AZOR87QBdYxBSrOz2uRltZa-RDrwjCQsCtyc1Dl-W4xJLECotrSYNinoWaSQeniBXc8GD0_3Xy21Zc09FuG5SeAxP76Hoqviu9glmlsOlJdYCP13fP-vL83xW91lIvt1LGyAU8V5UWFDqeiLvOBUwhmNkIMuhsilGl_opis0Z97Auu6Q2g1SKWNOiaCa8gSnivuXQxZi3yE&amp;s=1" rel="noreferrer" target="_blank"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBpc2AYTnW-L-tv&amp;w=158&amp;h=158&amp;url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FyaoytheDSz8%2Fhqdefault.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyaoytheDSz8&amp;h=LAQHjisKD&amp;s=1" rel="noreferrer" target="_blank">End of Eva AMV [Terror of Death]</a>AMV of End of Evangelion set to Terror of Death by DJ Sharpnel.youtube.com</body></html>
+	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=876f5f6276376181f9643f246d67c336&amp;oe=56800F1C&amp;__gda__=1450208891_1e710eae5f4b5a0d31089c71a6012b48" alt=""></a>data-ft="{"tn":"K"}"&gt;Dj Sharpnel sur une reprise d' Evangelion, un son &agrave; la made in Japan &eacute;motic&ocirc;ne wink  <a href="http://flxc.fr/hashtag/inceptiondigitale?source=feed_text&amp;story_id=1661052814108873" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;InceptionDigitale&#8236;</a><a aria-label="End of Eva AMV [Terror of Death]" ajaxify="/ajax/flash/expand_inline.php?max_width=470&amp;selector=%5E._6m2&amp;target_div=u_0_q&amp;share_id=776352105744664&amp;user_share_id=1661052814108873" href="https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyaoytheDSz8&amp;h=IAQE68EKt&amp;enc=AZOfx_-qO26kaIYTA0SLo_8T4UsE8r7hQfGy99lpckOH5GXYD7yXZvaklLI9KR0NKc3um4csHzHRQGbGYb7K45GWmQ7XJlwiRBv46spDN72hj5WMJ4hbWdKkDE-rngt8AmdBxsJeQN-6aO8KxJN9h1DaIF2S9LSKuDHzChhFq23n3U5Q8dYYDb72s15FOoQGn2-Jp7KDLuZnndw0WLH8E0Ft&amp;s=1" rel="noreferrer" target="_blank"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBpc2AYTnW-L-tv&amp;w=158&amp;h=158&amp;url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FyaoytheDSz8%2Fhqdefault.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyaoytheDSz8&amp;h=3AQHkfa_e&amp;s=1" rel="noreferrer" target="_blank">End of Eva AMV [Terror of Death]</a>AMV of End of Evangelion set to Terror of Death by DJ Sharpnel.youtube.com</body></html>
 ]]></content>
 	<updated>2015-08-28T08:43:03+00:00</updated>
 	<author><name>Facebook Bridge</name></author>
@@ -623,8 +645,8 @@ don’t u dare tell me love doesn...]]></summary>
 	<id>tag:flxc.fr,2015-09-04:/5099</id>
 	<link href="http://www.explosm.net/comics/4045/" rel="alternate" type="text/html"/>
 	<title type="html">Comic for 2015.09.04</title>
-	<summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
-	<content type="html"><![CDATA[<html><body><p>New Cyanide and Happiness Comic</p></body></html>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="//files.explosm.net/comics/Dave/thehitman.png"></body></html>
 ]]></content>
 	<updated>2015-09-04T05:00:00+00:00</updated>
 	<author><name></name></author>
@@ -1534,35 +1556,6 @@ I’ve started really getting into MtG lately. Feeling pretty confident in my sk
 		<link rel="self" href="http://flxc.fr/rss"/>
 		<updated>2015-09-02T22:17:57+00:00</updated>
 		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-02:/4911</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128211319351" rel="alternate" type="text/html"/>
-	<title type="html">chapmangamo:
-
-Tea and Coffee in different languages
-(Available...</title>
-	<summary type="html"><![CDATA[chapmangamo:
-
-Tea and Coffee in different languages
-(Available in mug form on Kickstarter)
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/503b29d5dc9e94e83d05828a05f3ea88/tumblr_ntbpttkOO01rcljqpo1_r1_500.png"><br><br><p><a href="http://chapmangamo.tumblr.com/post/128205471485" target="_blank" rel="noreferrer">chapmangamo</a>:</p>
-<blockquote>
-<p>Tea and Coffee in different languages</p>
-<p>(<a href="https://www.kickstarter.com/projects/1247628136/soundimals-how-to-sneeze-in-japanese" target="_blank" rel="noreferrer">Available in mug form on <b>Kickstarte</b></a><b>r</b>)</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-02T21:20:10+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-02T21:20:10+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
