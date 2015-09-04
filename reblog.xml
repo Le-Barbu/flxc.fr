@@ -4,11 +4,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-02T22:17:57+00:00</updated>
+<updated>2015-09-03T04:00:33+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-04:/5327</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/128332392923" rel="alternate" type="text/html"/>
+	<title type="html">by Wrong Hands</title>
+	<summary type="html"><![CDATA[by Wrong Hands]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/4019e21aa7924a3162d43948b56a1123/tumblr_nu5jqqOd0w1rorxt1o1_500.jpg"><br><br><p>by <a href="http://wronghands1.tumblr.com/post/128328945005" target="_blank" rel="noreferrer">Wrong Hands</a></p></body></html>
+]]></content>
+	<updated>2015-09-04T13:45:56+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-04T13:45:56+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-04:/5333</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/128335754863" rel="alternate" type="text/html"/>
+	<title type="html">If Cartoon Characters Got Old by Andrew TarusovRelated: Disney...</title>
+	<summary type="html"><![CDATA[          If Cartoon Characters Got Old by Andrew TarusovRelated: Disney Princesses in Their Old Age]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/9134221d678ca3eb8daa7fdb1e0d3e10/tumblr_nu5quiYbkC1qewacoo1_500.jpg"><br><br><img src="http://40.media.tumblr.com/e5447c8373f65116b61e65caf613b94f/tumblr_nu5quiYbkC1qewacoo3_500.jpg"><br><br><img src="http://40.media.tumblr.com/d567cb8429b36a0ac17d35055a6bd8bc/tumblr_nu5quiYbkC1qewacoo2_500.jpg"><br><br><img src="http://41.media.tumblr.com/a145e0b7815fb814fcd6658f2259850f/tumblr_nu5quiYbkC1qewacoo7_500.jpg"><br><br><img src="http://41.media.tumblr.com/a20b7357533e2941144c50597226d06f/tumblr_nu5quiYbkC1qewacoo5_500.jpg"><br><br><img src="http://36.media.tumblr.com/92b7bfb9d4303d4d8f45b84d808ff133/tumblr_nu5quiYbkC1qewacoo8_500.jpg"><br><br><img src="http://40.media.tumblr.com/01e5aa1ac38c4c0af88f4a5cce3f09df/tumblr_nu5quiYbkC1qewacoo4_500.jpg"><br><br><img src="http://40.media.tumblr.com/28838f3eb17b39b90d6053675340fdba/tumblr_nu5quiYbkC1qewacoo9_500.jpg"><br><br><img src="http://41.media.tumblr.com/6d3d0b77af014b19d44415039a0e799a/tumblr_nu5quiYbkC1qewacoo10_500.jpg"><br><br><img src="http://36.media.tumblr.com/32b5664255fb75cca14f5958596c6a95/tumblr_nu5quiYbkC1qewacoo6_500.jpg"><br><br><p><b>If Cartoon Characters Got Old</b> by <a href="http://www.tarusov.com/" target="_blank" rel="noreferrer">Andrew Tarusov</a><br><br>Related:&nbsp;<a href="http://tumblr.tastefullyoffensive.com/post/125878451043/disney-princesses-in-their-old-age-by-loryn-brantz" target="_blank" rel="noreferrer">Disney Princesses in Their Old Age</a></p></body></html>
+]]></content>
+	<updated>2015-09-04T14:56:42+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-04T14:56:42+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+	<category term="lists"/>
+
+	<category term="disney"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-04:/5331</id>
+	<link href="http://www.youtube.com/watch?v=95RuOnXgouE" rel="alternate" type="text/html"/>
+	<title type="html">Solstice - GEOMETRICKS (Original Mix)</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2014-02-07T17:25:41+00:00</updated>
+	<author><name>Larry Crimson</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCem9ClONidaUuFxIplU6Cxg</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCem9ClONidaUuFxIplU6Cxg"/>
+		<updated>2014-02-07T17:25:41+00:00</updated>
+		<title>Larry Crimson</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/95RuOnXgouE?version=3"/>
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-04:/5334</id>
+	<link href="http://romanticallyapocalyptic.com/218" rel="alternate" type="text/html"/>
+	<title type="html">218 - Romantically Apocalyptic</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-04T15:04:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-04T15:04:03+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-04:/5332</id>
@@ -325,7 +404,7 @@
 	<link href="https://facebook.com/lesenfantsfoires/posts/1657795351101286" rel="alternate" type="text/html"/>
 	<title type="html">lesenfantsfoires | À découvrir ou à redécouvrir, l&amp;amp;#039;album &amp;amp;quot;Disco Club&amp;amp;quot;, ce chef-d&amp;amp;#039;oeuvre de 1978, produit par Bernard Fevre et Jacky Giordano  compose certainement l&amp;amp;#039;une des scènes les plus obscures et rares du disco ! émoticône wink  Enjoy ! émoticône heart ‪#‎larrycoupdecoeur‬Black devil disco club 1978 EP (FULL ALBUM)http://curtis8516.tumblr.com/ - RARE PICTURES! If you want the MP3 of this, type in Google &amp;amp;#039;youtube to mp3&amp;amp;#039; and copy the URL. No copyright infringments inten...youtube.com</title>
 	<summary type="html"><![CDATA[À découvrir ou à redécouvrir, l&#039;album &quot;Disco Club&quot;, ce chef-d&#039;oeuvre de 1978, pr...]]></summary>
-	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=876f5f6276376181f9643f246d67c336&amp;oe=56800F1C&amp;__gda__=1450208891_1e710eae5f4b5a0d31089c71a6012b48" alt=""></a>data-ft="{"tn":"K"}"&gt;&Agrave; d&eacute;couvrir ou &agrave; red&eacute;couvrir, l'album "Disco Club", ce chef-d'oeuvre de 1978, produit par Bernard Fevre et Jacky Giordano  compose certainement l'une des sc&egrave;nes les plus obscures et rares du disco ! &eacute;motic&ocirc;ne wink  Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1657795351101286" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a><a aria-label="Black devil disco club 1978 EP (FULL ALBUM)" ajaxify="/ajax/flash/expand_inline.php?max_width=470&amp;selector=%5E._6m2&amp;target_div=u_0_w&amp;share_id=248781355263825&amp;user_share_id=1657795351101286" href="https://www.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FJT9jz_WBjqI&amp;h=5AQHNssUs&amp;enc=AZN8vYtDYsbvpK32jZk5jgSfBxgI4EWVxM8rnr9OegGoGyUYJOKbw6iqhaHxZr8DdTOAY6gGZXTiboK3Gse16vYe1k5bGmJWzT5Ck4O0oaPKFAMETVcO1K_3NDa3_VTk8vXN_kzPLO4VGXNYGIeJVN8nNmFFxo1iuLP-RxwsmD5VAnBlL-owlxnYLRkNrcOANtByHf1z_nwJHWMSx4WqWS-e&amp;s=1" rel="noreferrer" target="_blank"><img src="https://external.xx.fbcdn.net/safe_image.php?d=AQA9Z9pWws1pHbtS&amp;w=158&amp;h=158&amp;url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FJT9jz_WBjqI%2Fmaxresdefault.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FJT9jz_WBjqI&amp;h=yAQFqWl-X&amp;s=1" rel="noreferrer" target="_blank">Black devil disco club 1978 EP (FULL ALBUM)</a><a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fcurtis8516.tumblr.com%2F&amp;h=5AQHNssUs&amp;s=1" target="_blank" rel="noreferrer">http://curtis8516.tumblr.com/</a> - RARE PICTURES! If you want the MP3 of this, type in Google 'youtube to mp3' and copy the URL. No copyright infringments inten...youtube.com</body></html>
+	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=876f5f6276376181f9643f246d67c336&amp;oe=56800F1C&amp;__gda__=1450208891_1e710eae5f4b5a0d31089c71a6012b48" alt=""></a>data-ft="{"tn":"K"}"&gt;&Agrave; d&eacute;couvrir ou &agrave; red&eacute;couvrir, l'album "Disco Club", ce chef-d'oeuvre de 1978, produit par Bernard Fevre et Jacky Giordano  compose certainement l'une des sc&egrave;nes les plus obscures et rares du disco ! &eacute;motic&ocirc;ne wink  Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1657795351101286" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a><a aria-label="Black devil disco club 1978 EP (FULL ALBUM)" ajaxify="/ajax/flash/expand_inline.php?max_width=470&amp;selector=%5E._6m2&amp;target_div=u_0_1i&amp;share_id=248781355263825&amp;user_share_id=1657795351101286" href="https://www.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FJT9jz_WBjqI&amp;h=ZAQFWSZBX&amp;enc=AZOlX75qtM-TknwkEQQK_Dhm-mKce4Va0p5_IgAa5XbR3tdgwLDwNpkoe7VKGk1uKeeTCuzI7TiOzH3mLy4EeX49-dE9hI5QUbQnFAuE2vGQhT9hed1mB_8xNgvLTdUFJZ7WhMvgo8jFFjQJb5eemx99LOATLB9G0IBK1-LVTc38MfyiphsY163YP5AD8zAdjzihElV41oJ54QE3fA8sxaLv&amp;s=1" rel="noreferrer" target="_blank"><img src="https://external.xx.fbcdn.net/safe_image.php?d=AQA9Z9pWws1pHbtS&amp;w=158&amp;h=158&amp;url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FJT9jz_WBjqI%2Fmaxresdefault.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FJT9jz_WBjqI&amp;h=lAQEx9TbM&amp;s=1" rel="noreferrer" target="_blank">Black devil disco club 1978 EP (FULL ALBUM)</a><a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fcurtis8516.tumblr.com%2F&amp;h=PAQFhmP7j&amp;s=1" target="_blank" rel="noreferrer">http://curtis8516.tumblr.com/</a> - RARE PICTURES! If you want the MP3 of this, type in Google 'youtube to mp3' and copy the URL. No copyright infringments inten...youtube.com</body></html>
 ]]></content>
 	<updated>2015-08-19T17:05:56+00:00</updated>
 	<author><name>Facebook Bridge</name></author>
@@ -343,7 +422,7 @@
 	<link href="https://facebook.com/lesenfantsfoires/posts/1661052814108873" rel="alternate" type="text/html"/>
 	<title type="html">lesenfantsfoires | Dj Sharpnel sur une reprise d&amp;amp;#039; Evangelion, un son à la made in Japan émoticône wink  ‪#‎InceptionDigitale‬End of Eva AMV [Terror of Death]AMV of End of Evangelion set to Terror of Death by DJ Sharpnel.youtube.com</title>
 	<summary type="html"><![CDATA[Dj Sharpnel sur une reprise d&#039; Evangelion, un son à la made in Japan émoticône wink  ‪#‎Incepti...]]></summary>
-	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=876f5f6276376181f9643f246d67c336&amp;oe=56800F1C&amp;__gda__=1450208891_1e710eae5f4b5a0d31089c71a6012b48" alt=""></a>data-ft="{"tn":"K"}"&gt;Dj Sharpnel sur une reprise d' Evangelion, un son &agrave; la made in Japan &eacute;motic&ocirc;ne wink  <a href="http://flxc.fr/hashtag/inceptiondigitale?source=feed_text&amp;story_id=1661052814108873" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;InceptionDigitale&#8236;</a><a aria-label="End of Eva AMV [Terror of Death]" ajaxify="/ajax/flash/expand_inline.php?max_width=470&amp;selector=%5E._6m2&amp;target_div=u_0_q&amp;share_id=776352105744664&amp;user_share_id=1661052814108873" href="https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyaoytheDSz8&amp;h=IAQE68EKt&amp;enc=AZOfx_-qO26kaIYTA0SLo_8T4UsE8r7hQfGy99lpckOH5GXYD7yXZvaklLI9KR0NKc3um4csHzHRQGbGYb7K45GWmQ7XJlwiRBv46spDN72hj5WMJ4hbWdKkDE-rngt8AmdBxsJeQN-6aO8KxJN9h1DaIF2S9LSKuDHzChhFq23n3U5Q8dYYDb72s15FOoQGn2-Jp7KDLuZnndw0WLH8E0Ft&amp;s=1" rel="noreferrer" target="_blank"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBpc2AYTnW-L-tv&amp;w=158&amp;h=158&amp;url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FyaoytheDSz8%2Fhqdefault.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyaoytheDSz8&amp;h=3AQHkfa_e&amp;s=1" rel="noreferrer" target="_blank">End of Eva AMV [Terror of Death]</a>AMV of End of Evangelion set to Terror of Death by DJ Sharpnel.youtube.com</body></html>
+	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=876f5f6276376181f9643f246d67c336&amp;oe=56800F1C&amp;__gda__=1450208891_1e710eae5f4b5a0d31089c71a6012b48" alt=""></a>data-ft="{"tn":"K"}"&gt;Dj Sharpnel sur une reprise d' Evangelion, un son &agrave; la made in Japan &eacute;motic&ocirc;ne wink  <a href="http://flxc.fr/hashtag/inceptiondigitale?source=feed_text&amp;story_id=1661052814108873" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;InceptionDigitale&#8236;</a><a aria-label="End of Eva AMV [Terror of Death]" ajaxify="/ajax/flash/expand_inline.php?max_width=470&amp;selector=%5E._6m2&amp;target_div=u_0_1e&amp;share_id=776352105744664&amp;user_share_id=1661052814108873" href="https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyaoytheDSz8&amp;h=aAQHn0zKx&amp;enc=AZPJt4ZCFNShjbgHK9qNy7WULP7DO2-dt15mf__fPhTuoYdZ1KOKBbcm8rLEkX0NKOMOQNOruuJJHz5qYwiMHlPvS71w4NJ1m3Rbafzn3z66AOLqiwTe02W8p1qzSsNXI4rTdbYRCM4CHADRWRElApyRp4dP5l-0yp4HpMdrt1yHRbudM3L7H2RiEFGG3xQn1tPBH6snKyTnU-0XabVOU4OO&amp;s=1" rel="noreferrer" target="_blank"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBpc2AYTnW-L-tv&amp;w=158&amp;h=158&amp;url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FyaoytheDSz8%2Fhqdefault.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyaoytheDSz8&amp;h=LAQFUNPn2&amp;s=1" rel="noreferrer" target="_blank">End of Eva AMV [Terror of Death]</a>AMV of End of Evangelion set to Terror of Death by DJ Sharpnel.youtube.com</body></html>
 ]]></content>
 	<updated>2015-08-28T08:43:03+00:00</updated>
 	<author><name>Facebook Bridge</name></author>
@@ -1479,83 +1558,6 @@ thats a raccoon
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-09-03T04:00:33+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-03:/4952</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128242060805" rel="alternate" type="text/html"/>
-	<title type="html">(photo by alinaesther/melissa_scottish)</title>
-	<summary type="html"><![CDATA[(photo by alinaesther/melissa_scottish)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/91d611cc4ad710d882ce37797fecac77/tumblr_nu333wHpky1qewacoo1_500.jpg"><br><br><p>(photo by <a href="http://alinaesther.com" target="_blank" rel="noreferrer">alinaesther</a>/<a href="https://instagram.com/melissa_scottish/" target="_blank" rel="noreferrer">melissa_scottish</a>)</p></body></html>
-]]></content>
-	<updated>2015-09-03T05:20:05+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-03T05:20:05+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-02:/4912</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128214389508" rel="alternate" type="text/html"/>
-	<title type="html">doodleforfood:
-
-I’ve started really getting into MtG lately....</title>
-	<summary type="html"><![CDATA[  doodleforfood:
-
-I’ve started really getting into MtG lately. Feeling pretty confident in my skills...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/fa219e2875a59f519794808ba916af3a/tumblr_nu2kj0TSkt1rhkrwho1_500.png"><br><br><img src="http://41.media.tumblr.com/38e869bea9f5e5b65b4c7a043452d2bc/tumblr_nu2kj0TSkt1rhkrwho2_500.png"><br><br><p><a href="http://doodleforfood.tumblr.com/post/128213145818" target="_blank" rel="noreferrer">doodleforfood</a>:</p>
-<blockquote>
-<p>I&rsquo;ve started really getting into MtG lately. Feeling pretty confident in my skills</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-02T22:06:07+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-02T22:06:07+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-02:/4914</id>
-	<link href="http://chloedaumal.tumblr.com/post/28829068567" rel="alternate" type="text/html"/>
-	<title type="html">Chloé Daumal</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-02T22:31:03+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-02T22:31:03+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-02:/4913</id>
-	<link href="http://chloedaumal.tumblr.com/post/117083660861/story-about-the-loneliest-meal-ive-ever-had-2" rel="alternate" type="text/html"/>
-	<title type="html">Chloé Daumal</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-02T22:17:57+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-02T22:17:57+00:00</updated>
-		<title>Published articles</title></source>
 
 
 </entry>
