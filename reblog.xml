@@ -4,11 +4,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-01T17:53:11+00:00</updated>
+<updated>2015-09-01T15:30:11+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-04:/5125</id>
+	<link href="http://korben.info/cic-violence.html#top" rel="alternate" type="text/html"/>
+	<title type="html">Quand le CIC surréagit à une simple question - Korben</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-04T11:50:17+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-04T11:50:17+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-04:/5098</id>
+	<link href="https://vimeo.com/138276485" rel="alternate" type="text/html"/>
+	<title type="html">« Tentative d’évasion (fiscale) » : le nouveau livre des Pinçon-Charlot</title>
+	<summary type="html"><![CDATA[Vingt ans ! Notre première émission avec les Pinçon-Charlot, c’était en 1995 et franchement leur suc...]]></summary>
+	<content type="html"><![CDATA[<html><body><p></p><p></p><p>Vingt ans ! Notre premi&egrave;re &eacute;mission avec les Pin&ccedil;on-Charlot, c&rsquo;&eacute;tait en 1995 et franchement leur succ&egrave;s nous fait plaisir. &laquo; Comme il y des lanceurs d&rsquo;alerte, nous sommes des lanceurs de conscience &raquo; disent-ils.</p> <p>Cette fois ils s&rsquo;attaquent &agrave; l&rsquo;&eacute;norme scandale de l&rsquo;&eacute;vasion fiscale afin de &laquo; battre en br&egrave;che le pouvoir symbolique li&eacute; &agrave; l&rsquo;opacit&eacute; de la sp&eacute;culation financi&egrave;re, &agrave; la cupidit&eacute; et au cynisme des plus riches mobilis&eacute;s pour accumuler toujours plus d&rsquo;argent. &raquo;</p> <p>Michel Pin&ccedil;on et Monique Pin&ccedil;on-Charlot sont sociologues, anciens directeurs de recherches au CNRS. Leur dernier livre &laquo; Tentative d&rsquo;&eacute;vasion (fiscale) &raquo; para&icirc;tra le 10 septembre aux &eacute;ditions Zones.</p> <p>&Eacute;coutez l&rsquo;entretien radio avec les Pin&ccedil;on-Charlot sur <a href="http://la-bas.org/re-ecouter/les-emissions/2015-16/imposer-la-morale-au-petit-peuple-tout-en-lechant-le-cul-des-riches" target="_blank" rel="noreferrer">la-bas.org/re-ecouter/les-emissions/2015-16/imposer-la-morale-au-petit-peuple-tout-en-lechant-le-cul-des-riches</a></p> <p>Image : Caroline POTHIER<br> R&eacute;alisation : Jonathan DUONG</p><p><strong>Cast:</strong> <a href="https://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></p><p><strong>Tags:</strong>  <a href="https://vimeo.com/tag:Daniel+Mermet" rel="noreferrer" target="_blank">Daniel Mermet</a>,  <a href="https://vimeo.com/tag:Monique+Pin%26ccedil%3Bon-Charlot" rel="noreferrer" target="_blank">Monique Pin&ccedil;on-Charlot</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+Hebdo" rel="noreferrer" target="_blank">L&agrave;-bas Hebdo</a>,  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+si+j%26%23039%3By+suis" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a>,  <a href="https://vimeo.com/tag:Michel+Pin%26ccedil%3Bon" rel="noreferrer" target="_blank">Michel Pin&ccedil;on</a>,  <a href="https://vimeo.com/tag:J%26eacute%3Br%26ocirc%3Bme+Cahuzac" rel="noreferrer" target="_blank">J&eacute;r&ocirc;me Cahuzac</a>,  <a href="https://vimeo.com/tag:Herv%26eacute%3B+Falciani" rel="noreferrer" target="_blank">Herv&eacute; Falciani</a>  and <a href="https://vimeo.com/tag:Antoine+Deltour" rel="noreferrer" target="_blank">Antoine Deltour</a></p></body></html>
+]]></content>
+	<updated>2015-09-04T05:20:29+00:00</updated>
+	<author><name>Là-bas si j\'y suis</name></author>
+	<source>
+		<id>https://vimeo.com/labas/videos</id>
+		<link rel="self" href="https://vimeo.com/labas/videos"/>
+		<updated>2015-09-04T05:20:29+00:00</updated>
+		<title>Là-bas si j'y suis</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-04:/5083</id>
@@ -1502,48 +1537,6 @@ happy September!
 		<title>Tastefully Offensive on Tumblr</title></source>
 
 	<category term="finally"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-01:/4710</id>
-	<link href="http://mememaster.tumblr.com/post/128120982399" rel="alternate" type="text/html"/>
-	<title type="html">Video</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><br><br></body></html>
-]]></content>
-	<updated>2015-09-01T17:49:40+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-01T17:49:40+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-01:/4703</id>
-	<link href="http://mememaster.tumblr.com/post/128121180264" rel="alternate" type="text/html"/>
-	<title type="html">skymachine:
-
-tutant meenage neetle teetles</title>
-	<summary type="html"><![CDATA[skymachine:
-
-tutant meenage neetle teetles]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://skymachine.tumblr.com/post/120038937091/tutant-meenage-neetle-teetles" target="_blank" rel="noreferrer">skymachine</a>:</p>
-
-<blockquote><p>tutant meenage neetle teetles</p></blockquote></body></html>
-]]></content>
-	<updated>2015-09-01T17:53:11+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-01T17:53:11+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
