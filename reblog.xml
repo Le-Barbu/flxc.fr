@@ -4,11 +4,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-01T15:30:11+00:00</updated>
+<updated>2015-09-01T15:00:29+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-04:/5130</id>
+	<link href="http://korben.info/combattre-les-google-glass.html" rel="alternate" type="text/html"/>
+	<title type="html">Combattre les Google Glass - Korben</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-04T12:48:20+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-04T12:48:20+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-04:/5125</id>
@@ -1509,34 +1526,6 @@ Photo...]]></summary>
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-09-01T15:00:29+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-01:/4655</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128113257061" rel="alternate" type="text/html"/>
-	<title type="html">imoquest:
-
-happy September!</title>
-	<summary type="html"><![CDATA[    imoquest:
-
-happy September!
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/000df0a59030188ac7b01e9a34449e6f/tumblr_nu06g1cod71qlz5pmo1_500.png"><br><br><img src="http://41.media.tumblr.com/015cf5bc7d6fea4cb6080eec3bb326b6/tumblr_nu06g1cod71qlz5pmo2_500.png"><br><br><img src="http://40.media.tumblr.com/bb3a016ec14c2747404005040232ca0c/tumblr_nu06g1cod71qlz5pmo3_500.png"><br><br><img src="http://40.media.tumblr.com/b9c48e566de94fb20f19dbd9e4a7338d/tumblr_nu06g1cod71qlz5pmo4_500.png"><br><br><p><a href="http://imoquest.tumblr.com/post/128111064359" target="_blank" rel="noreferrer">imoquest</a>:</p>
-<blockquote>
-<p>happy September!</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-01T15:30:11+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-01T15:30:11+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="finally"/>
 
 
 </entry>
