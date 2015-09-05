@@ -4,11 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-04T14:37:52+00:00</updated>
+<updated>2015-09-04T14:37:51+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-05:/5533</id>
+	<link href="http://www.numerama.com/magazine/34116-copyright-madness-de-l-ete-un-mois-de-propriete-intellectuelle-en-delire.html" rel="alternate" type="text/html"/>
+	<title type="html">Copyright Madness de l'été : un mois de propriété intellectuelle en délire !</title>
+	<summary type="html"><![CDATA[ 					  	Le Copyright Madness est de retour ! Apr&egrave;s une pause estivale bien m&eacute;rit&eacu...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>  	Le Copyright Madness est de retour ! Apr&egrave;s une pause estivale bien m&eacute;rit&eacute;e, Lionel Maurel et Thomas Fourmeux sont de retour &agrave; la barre pour vous proposer de d&eacute;couvrir les d&eacute;rives les plus ahurissantes de la propri&eacute;t&eacute; intellectuelle. Et pour reprendre le rythme, quoi de mieux qu'une compilation des d&eacute;rives les plus spectaculaires des derni&egrave;res semaines ?</p>   				 				<p>  	<img align="middle" alt="" src="http://www.numerama.com/media/attach/facepalmcm.jpg"></p>    	[<a href="//storify.com/Copyrightmad/copyright-madness-du-1-aout-au" target="_blank" rel="noreferrer">View the story "Copyright Madness du 1 ao&ucirc;t au 5 septembre : un mois de propri&eacute;t&eacute; intellectuelle en d&eacute;lire ! " on Storify</a>]</body></html>
+]]></content>
+	<updated>2015-09-05T12:22:53+00:00</updated>
+	<author><name>Numerama</name></author>
+	<source>
+		<id>http://www.numerama.com/</id>
+		<link rel="self" href="http://www.numerama.com/"/>
+		<updated>2015-09-05T12:22:53+00:00</updated>
+		<title>Numerama</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-05:/5530</id>
@@ -1397,24 +1415,6 @@ The struggle is real.
 		<id>http://danstonchat.com/</id>
 		<link rel="self" href="http://danstonchat.com/"/>
 		<updated>2015-09-04T14:37:51+00:00</updated>
-		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5201</id>
-	<link href="http://danstonchat.com/16746.html" rel="alternate" type="text/html"/>
-	<title type="html">DansTonChat #16746</title>
-	<summary type="html"><![CDATA[Midgarson: Fuyez pauvres fousMidgarson: (toute référence au Seigneur des Anneaux est totalement fort...]]></summary>
-	<content type="html"><![CDATA[<html><body><span>Midgarson:</span> Fuyez pauvres fous<br><span>Midgarson:</span> (toute r&eacute;f&eacute;rence au Seigneur des Anneaux est totalement fortuite et ind&eacute;pendante de ma volon&eacute;)<br><span>Caryl:</span> Volon&eacute; ? K&eacute;zako?<br><span>Midgarson:</span> Chuuuuut ... J'ai tap&eacute; trop vite :3<br><span>Midgarson:</span> Damned tout l'effet dramatique s'est envol&eacute;<br><span>Zohnya:</span> Volon&eacute;. En fait, c'est l'origine de la blague "H&eacute; j'ai vol&eacute; ton nez !". C'&eacute;tait dans un autre univers. Il y avait deux fr&egrave;re voldemort et volon&eacute;. Volon&eacute;, un jour dans un acc&egrave;s de col&egrave;re arracha le nez de voldemort et le cacha dans une bo&icirc;te remplie de poivre.  Le pauvre voldemor fut donc condamn&eacute; a &eacute;ternuer toute sa pauvre vie.(ce qui explique pourquoi il est hyper v&eacute;n&egrave;re contre tout le monde). Il poursuivi son fr&egrave;re durant des heures dans le ch&acirc;teau en criant "Volon&eacute; !".<br><span>Zohnya:</span> Les bonnes qui &eacute;taient de service ce jour l&agrave;,  entendirent ceci et trouv&egrave;rent cela cocasse. C'est ainsi qu apparu la blague de "H&eacute; j'ai vol&eacute; ton nez!". En souvenir de volon&eacute; qui vola le nez de son fr&egrave;re.<br><span>Caryl:</span> J'ai mon cerveau qui a fait un blue screen...</body></html>
-]]></content>
-	<updated>2015-09-04T14:37:52+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://danstonchat.com/</id>
-		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-04T14:37:52+00:00</updated>
 		<title>DansTonChat</title></source>
 
 
