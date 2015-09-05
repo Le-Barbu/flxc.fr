@@ -4,11 +4,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-04T14:37:50+00:00</updated>
+<updated>2015-09-04T14:56:42+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-05:/5651</id>
+	<link href="http://www.viedemerde.fr/sante/8612229" rel="alternate" type="text/html"/>
+	<title type="html">Parraindigne a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, je me casse la cheville en plein centre commercial. Douleur atroce, pompiers, la totale...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je me casse la cheville en plein centre commercial. Douleur atroce, pompiers, la totale. Il y en a un particuli&egrave;rement mignon. Quand je lui demande : "Vous pourriez me donner votre num&eacute;ro ? Que je vous appelle si j'ai mal." Il me r&eacute;pond, souriant : "Bah... C'est le 18". VDM</p></body></html>
+]]></content>
+	<updated>2015-09-03T19:08:38+00:00</updated>
+	<author><name>Parraindigne</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-09-03T19:08:38+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-05:/5638</id>
+	<link href="https://namecoin.info/" rel="alternate" type="text/html"/>
+	<title type="html">Namecoin</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-05T22:37:40+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-05T22:37:40+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-05:/5637</id>
+	<link href="http://zeronet.io/" rel="alternate" type="text/html"/>
+	<title type="html">ZeroNet: Decentralized websites using Bitcoin crypto and the BitTorrent network</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-05T22:37:35+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-05T22:37:35+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-05:/5636</id>
+	<link href="http://polycode.org/" rel="alternate" type="text/html"/>
+	<title type="html">Polycode</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-05T22:36:29+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-05T22:36:29+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-05:/5635</id>
+	<link href="http://www.arfy.fr/dotclear/index.php?post%2F2015%2F09%2F02%2F10-experiences-%28amusantes%29-a-faire-avec-des-liquides-%28ou-presque%29" rel="alternate" type="text/html"/>
+	<title type="html">10 expériences (amusantes) à faire avec des liquides (ou presque) - Arfy'z tranche du Net</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-05T22:35:49+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-05T22:35:49+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-05:/5633</id>
@@ -1617,103 +1703,6 @@ The struggle is real.
 	<category term="lists"/>
 
 	<category term="disney"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5331</id>
-	<link href="http://www.youtube.com/watch?v=95RuOnXgouE" rel="alternate" type="text/html"/>
-	<title type="html">Solstice - GEOMETRICKS (Original Mix)</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2014-02-07T17:25:41+00:00</updated>
-	<author><name>Larry Crimson</name></author>
-	<source>
-		<id>http://www.youtube.com/channel/UCem9ClONidaUuFxIplU6Cxg</id>
-		<link rel="self" href="http://www.youtube.com/channel/UCem9ClONidaUuFxIplU6Cxg"/>
-		<updated>2014-02-07T17:25:41+00:00</updated>
-		<title>Larry Crimson</title></source>
-
-
-	<link rel="enclosure" 
-		type="application/x-shockwave-flash" 
-		length="1"
-		href="https://www.youtube.com/v/95RuOnXgouE?version=3"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5334</id>
-	<link href="http://romanticallyapocalyptic.com/218" rel="alternate" type="text/html"/>
-	<title type="html">218 - Romantically Apocalyptic</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-04T15:04:03+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-04T15:04:03+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5332</id>
-	<link href="http://www.youtube.com/watch?v=xpmg3XKu6Ig" rel="alternate" type="text/html"/>
-	<title type="html">Souvenir From Earth - Geometricks (ORIGNAL MIX)</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-03T04:04:08+00:00</updated>
-	<author><name>Larry Crimson</name></author>
-	<source>
-		<id>http://www.youtube.com/channel/UCem9ClONidaUuFxIplU6Cxg</id>
-		<link rel="self" href="http://www.youtube.com/channel/UCem9ClONidaUuFxIplU6Cxg"/>
-		<updated>2015-09-03T04:04:08+00:00</updated>
-		<title>Larry Crimson</title></source>
-
-
-	<link rel="enclosure" 
-		type="application/x-shockwave-flash" 
-		length="1"
-		href="https://www.youtube.com/v/xpmg3XKu6Ig?version=3"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5178</id>
-	<link href="http://danstonchat.com/16769.html" rel="alternate" type="text/html"/>
-	<title type="html">DansTonChat #16769</title>
-	<summary type="html"><![CDATA[Kookman : donc bref il a fait naufrage sur leur îleKookman : et là il est confronté a la reine des a...]]></summary>
-	<content type="html"><![CDATA[<html><body><span>Kookman :</span> donc bref il a fait naufrage sur leur &icirc;le<br><span>Kookman :</span> et l&agrave; il est confront&eacute; a la reine des amazones.<br><span>Elek :</span> Maintenant que j'y pense, ce genre de truc, c'est pas viable.<br><span>Elek :</span> Une &icirc;le enti&egrave;re peupl&eacute;e uniquement de femmes<br><span>Elek :</span> Sachant que quand des femmes vivent en communaut&eacute;, elles ont toutes leurs r&egrave;gles en m&ecirc;me temps<br><span>Elek :</span> En m&ecirc;me pas un mois, ce serait la guerre civile.<br><span>Kookman :</span> ...<br><span>Elek :</span> "Ca va saigner."</body></html>
-]]></content>
-	<updated>2015-09-04T14:37:50+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://danstonchat.com/</id>
-		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-04T14:37:50+00:00</updated>
-		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5177</id>
-	<link href="http://danstonchat.com/16770.html" rel="alternate" type="text/html"/>
-	<title type="html">DansTonChat #16770</title>
-	<summary type="html"><![CDATA[XXX: J&#039;ai un probXXX: J&#039;ai perdu mon thermomètreYYY: et c’est grave parce que... ?XXX: par...]]></summary>
-	<content type="html"><![CDATA[<html><body><span>XXX:</span> J'ai un prob<br><span>XXX:</span> J'ai perdu mon thermom&egrave;tre<br><span>YYY:</span> et c&rsquo;est grave parce que... ?<br><span>XXX:</span> parce que si il ne ressort pas tout seul va falloir aller aux urgences<br><span>YYY:</span> mdr !<br><span>XXX:</span> pas trop non<br><span>XXX:</span> je me suis assis dessus comme un con</body></html>
-]]></content>
-	<updated>2015-09-04T14:37:50+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://danstonchat.com/</id>
-		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-04T14:37:50+00:00</updated>
-		<title>DansTonChat</title></source>
 
 
 </entry>
