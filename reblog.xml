@@ -4,11 +4,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-03T15:23:20+00:00</updated>
+<updated>2015-09-04T02:54:41+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-04:/5402</id>
+	<link href="http://korben.info/10-bonnes-raisons-de-passer-a-windows-10.html" rel="alternate" type="text/html"/>
+	<title type="html">10 bonnes raisons de passer à Ubuntu</title>
+	<summary type="html"><![CDATA[Vous l'avez surement manqué, mais Microsoft a publié une vidéo très entrainante (je danse debout sur...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Vous l'avez surement manqu&eacute;, mais Microsoft a publi&eacute; une vid&eacute;o tr&egrave;s entrainante (je danse debout sur ma chaise de bureau l&agrave;) pour indiquer &agrave; tous ceux qui la verront, les 10 raisons ultimes de passer &agrave; Windows 10.</p><p></p><p>En r&eacute;action &agrave; cela, <a href="http://twitter.com/%60AndreasWebdev" rel="noreferrer" target="_blank">Andreas</a> s'est amus&eacute; &agrave; la parodier et a r&eacute;alis&eacute; les "10 raisons de passer &agrave; Ubuntu 15.04".</p><p></p><p>&Agrave; vous de me dire laquelle vous avez pr&eacute;f&eacute;r&eacute;e, car moi je n'arrive pas &agrave; me d&eacute;cider...</p><p>Notez que personne n'a fait de parodie pour inciter les gens &agrave; passer sous OSX. C'est un myst&egrave;re...</p><p>Cet article merveilleux et sans aucun &eacute;gal intitul&eacute; : <a rel="noreferrer" href="http://korben.info/10-bonnes-raisons-de-passer-a-windows-10.html" target="_blank">10 bonnes raisons de passer &agrave; Ubuntu</a> ; a &eacute;t&eacute; publi&eacute; sur <a rel="noreferrer" href="http://korben.info" target="_blank">Korben</a>, le seul site qui t'aime plus fort que tes parents.</p></body></html>
+]]></content>
+	<updated>2015-08-22T22:15:40+00:00</updated>
+	<author><name>Korben</name></author>
+	<source>
+		<id>http://korben.info</id>
+		<link rel="self" href="http://korben.info"/>
+		<updated>2015-08-22T22:15:40+00:00</updated>
+		<title>Korben</title></source>
+
+	<category term="bidouilleurs"/>
+
+	<category term="linux"/>
+
+	<category term="linuxiens"/>
+
+	<category term="vidéo"/>
+
+	<category term="windows"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-04:/5401</id>
+	<link href="http://korben.info/combien-de-temps-devez-vous-travailler-pour-vous-payer-un-truc.html" rel="alternate" type="text/html"/>
+	<title type="html">Combien de temps devez-vous travailler pour vous payer un truc ?</title>
+	<summary type="html"><![CDATA[Grâce à cette calculatrice en temps réel on peut mesurer le temps qu'il faut travailler pour s'achet...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Gr&acirc;ce &agrave; <a href="http://www.retale.com/info/salaries-in-real-time/" rel="noreferrer" target="_blank">cette calculatrice en temps r&eacute;el</a> on peut mesurer le temps qu'il faut travailler pour s'acheter des trucs. Vous entrez votre salaire &agrave; l'ann&eacute;e en dollars, et paf, vous saurez combien de minutes vous devez suer pour vous payer un burger ou une paire de pompes.</p><p><a href="http://korben.info/wp-content/uploads/2015/08/ffer.png" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/08/ffer-650x492.png" alt="ffer" width="650" height="492"></a></p><p>Et comme si &ccedil;a ne suffisait pas, vous pouvez comparer votre situation &agrave; celle d'Oprah, d'un chirurgien orthop&eacute;dique ou d'un prof..</p><p>Bon, c'est calqu&eacute; sur le niveau de vie des am&eacute;ricains mais y'a de quoi y r&eacute;fl&eacute;chir &agrave; 2 fois avant d'acheter des trucs qui ne servent &agrave; rien sur Amazon :)</p><p><a href="http://lifehacker.com/this-real-time-calculator-shows-how-long-it-takes-you-t-1725889923" rel="noreferrer" target="_blank">Source</a></p><p>Cet article merveilleux et sans aucun &eacute;gal intitul&eacute; : <a rel="noreferrer" href="http://korben.info/combien-de-temps-devez-vous-travailler-pour-vous-payer-un-truc.html" target="_blank">Combien de temps devez-vous travailler pour vous payer un truc ?</a> ; a &eacute;t&eacute; publi&eacute; sur <a rel="noreferrer" href="http://korben.info" target="_blank">Korben</a>, le seul site qui t'aime plus fort que tes parents.</p></body></html>
+]]></content>
+	<updated>2015-08-22T22:42:16+00:00</updated>
+	<author><name>Korben</name></author>
+	<source>
+		<id>http://korben.info</id>
+		<link rel="self" href="http://korben.info"/>
+		<updated>2015-08-22T22:42:16+00:00</updated>
+		<title>Korben</title></source>
+
+	<category term="service web"/>
+
+	<category term="calcul"/>
+
+	<category term="salaire"/>
+
+	<category term="temps réel"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-04:/5399</id>
+	<link href="http://korben.info/le-contenu-web-que-vous-consultez-a-t-il-etait-altere.html" rel="alternate" type="text/html"/>
+	<title type="html">Le contenu web que vous consultez a-t-il été altéré ?</title>
+	<summary type="html"><![CDATA[Les ingénieurs de l'INRIA proposent via l'adresse http://walter-experiment.inria.fr/, un outil bapti...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Les ing&eacute;nieurs de l'INRIA proposent via l'adresse <a href="http://walter-experiment.inria.fr/" rel="noreferrer" target="_blank">http://walter-experiment.inria.fr/</a>, un outil baptis&eacute; Walter qui est capable de d&eacute;terminer s'il y a eu des alt&eacute;rations dans les pages web que vous chargez. En gros, est-ce que le r&eacute;seau sur lequel vous &ecirc;tes respecte la neutralit&eacute; du net, ou est ce qu'il modifie &agrave; votre insu, le code des pages.</p><p>En vous rendant sur le site Walter, il vous suffit de cliquer sur le bouton "Run Check". Cela aura pour effet de charger une page web bidon ainsi qu'un JavaScript qui &eacute;tablira un tunnel chiffr&eacute; en AJAX pour r&eacute;cup&eacute;rer aussi la source de cette m&ecirc;me page.</p><p><a href="http://korben.info/wp-content/uploads/2015/08/walter1.png" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/08/walter1-650x520.png" alt="walter1" width="650" height="520"></a></p><p>Ensuite, le serveur n'a plus qu'&agrave; comparer ce que vous avez re&ccedil;u et ce que le JS a remont&eacute; comme code source (qui est cens&eacute; &ecirc;tre identique &agrave; l'original). Vous serez alors inform&eacute; des &eacute;ventuels soucis rencontr&eacute;s et vous pourrez m&ecirc;me jouer au jeu des diff&eacute;rences en comparant les 2 versions (visuel ou code source).</p><p><a href="http://korben.info/wp-content/uploads/2015/08/diff.png" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/08/diff-650x377.png" alt="diff" width="650" height="377"></a></p><p>Si vous &ecirc;tes sur une connexion internet personnelle classique, il y a tr&egrave;s peu de chance pour que les pages sur lesquelles vous surfez soient modifi&eacute;es. Par contre, sur les WiFi publics ou en entreprise, &ccedil;a doit &ecirc;tre la f&ecirc;te... Apprenez donc &agrave; d&eacute;tecter les alt&eacute;rations afin de comprendre si elles sont "explicables" ou pas.</p><p>Cet article merveilleux et sans aucun &eacute;gal intitul&eacute; : <a rel="noreferrer" href="http://korben.info/le-contenu-web-que-vous-consultez-a-t-il-etait-altere.html" target="_blank">Le contenu web que vous consultez a-t-il &eacute;t&eacute; alt&eacute;r&eacute; ?</a> ; a &eacute;t&eacute; publi&eacute; sur <a rel="noreferrer" href="http://korben.info" target="_blank">Korben</a>, le seul site qui t'aime plus fort que tes parents.</p></body></html>
+]]></content>
+	<updated>2015-08-23T23:53:28+00:00</updated>
+	<author><name>Korben</name></author>
+	<source>
+		<id>http://korben.info</id>
+		<link rel="self" href="http://korben.info"/>
+		<updated>2015-08-23T23:53:28+00:00</updated>
+		<title>Korben</title></source>
+
+	<category term="bidouilleurs"/>
+
+	<category term="liberté"/>
+
+	<category term="service web"/>
+
+	<category term="censure"/>
+
+	<category term="inria"/>
+
+	<category term="modification de pages web"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-04:/5389</id>
+	<link href="http://korben.info/devenez-le-roi-de-la-blague.html" rel="alternate" type="text/html"/>
+	<title type="html">Devenez le roi de la blague</title>
+	<summary type="html"><![CDATA[Aujourd'hui c'est la rentrée ! Alors pour bien la commencer et mettre tous vos collègues dans le bai...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui c'est la rentr&eacute;e ! Alors pour bien la commencer et mettre tous vos coll&egrave;gues dans le bain, saisissez-vous de la machine de votre victime, allez sur le site <a href="http://fakeupdate.net/" rel="noreferrer" target="_blank"><strong>Windows Update Prank</strong></a>, choisissez un &eacute;cran de mise &agrave; jour au choix (OSX, Windows XP, Vista, 7 ou 8) et mettez son navigateur en plein &eacute;cran.</p><p><a href="http://korben.info/wp-content/uploads/2015/08/screen.png" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/08/screen.png" alt="screen" width="650" height="249"></a></p><p>Puis observez sa r&eacute;action surtout lorsqu'il appuiera sur Entr&eacute;e et qu'un &eacute;cran bleu de la mort qui tue surgira...</p><p>Cet article merveilleux et sans aucun &eacute;gal intitul&eacute; : <a rel="noreferrer" href="http://korben.info/devenez-le-roi-de-la-blague.html" target="_blank">Devenez le roi de la blague</a> ; a &eacute;t&eacute; publi&eacute; sur <a rel="noreferrer" href="http://korben.info" target="_blank">Korben</a>, le seul site qui t'aime plus fort que tes parents.</p></body></html>
+]]></content>
+	<updated>2015-08-31T07:57:31+00:00</updated>
+	<author><name>Korben</name></author>
+	<source>
+		<id>http://korben.info</id>
+		<link rel="self" href="http://korben.info"/>
+		<updated>2015-08-31T07:57:31+00:00</updated>
+		<title>Korben</title></source>
+
+	<category term="bidouilleurs"/>
+
+	<category term="service web"/>
+
+	<category term="blague"/>
+
+	<category term="windows update"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-04:/5385</id>
+	<link href="http://korben.info/la-veritable-histoire-du-nouveau-logo-de-google.html" rel="alternate" type="text/html"/>
+	<title type="html">La véritable histoire du nouveau logo de Google</title>
+	<summary type="html"><![CDATA[Siège de Google Alphabet - 31 août 2015 - 21h30Il fait frais du côté de Mountain View, le vent souff...]]></summary>
+	<content type="html"><![CDATA[<html><body><p><em>Si&egrave;ge de <del>Google</del> Alphabet - 31 ao&ucirc;t 2015 - 21h30</em></p><p><a href="http://korben.info/wp-content/uploads/2015/09/life-inside-the-googleplex-is-kinda-creepy.jpg" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/09/life-inside-the-googleplex-is-kinda-creepy.jpg" alt="life-inside-the-googleplex-is-kinda-creepy" width="454" height="341"></a></p><p>Il fait frais du c&ocirc;t&eacute; de Mountain View, le vent souffle doucement, et le soleil s'appr&ecirc;te &agrave; aller se coucher quand SOUDAIN, Sergey d&eacute;boule en trombe sur son Segway et hurle dans le Google Plex : "<em>R&Eacute;UNION D'URGENCE LES GARS !!!</em>"</p><p><a href="http://korben.info/wp-content/uploads/2015/09/716965391_db312ddac0_o.jpg" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/09/716965391_db312ddac0_o.jpg" alt="716965391_db312ddac0_o" width="505" height="379"></a></p><p>L'&Eacute;lite des employ&eacute;s encore pr&eacute;sents se pr&eacute;cipite alors dans la salle de r&eacute;union et Sergey commence alors son speech.</p><p>"<em>Si je vous ai convoqu&eacute; ce soir, c'est parce que je viens de me rendre compte que notre Alphabet&copy; est INCOMPLET ! Nous avons le A pour Analytics, le C pour Chrome, le M pour Maps, le W pour Wallet...etc mais NOUS N'AVONS RIEN POUR LE Q !!! Cette absence de Q dans notre vie est une trag&eacute;die !</em>"</p><p><a href="http://korben.info/wp-content/uploads/2015/09/alphabet.jpg" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/09/alphabet-650x429.jpg" alt="alphabet" width="650" height="429"></a></p><p>"<em>Le cul ???</em>" s'interrogent les employ&eacute;s en se jetant des regards d'incompr&eacute;hension</p><p>"<em>Oui le Q</em>", r&eacute;pond Sergey. "<em>Il nous faut un produit, un service ou quelque chose qui respire bon le Q. Que les gens puissent ressentir tout cette innovation que nous voulons leur mettre dans ce Q, dans notre Q ! Nous avons besoin d'un Q puissant, d'un Q qui rassemble et qui raconte une histoire, d'un Q que tout le monde voudra se payer. Bref, d'un Q qui change la face du monde ! D'un Q qui soit comme un rai de lumi&egrave;re dans la vie des gens. Alors des id&eacute;es bande de mollusques abrutis ?</em>"</p><p><a href="http://korben.info/wp-content/uploads/2015/09/fired.gif" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/09/fired.gif" alt="fired" width="260" height="195"></a></p><p>"<em>Euhhh euuuhh... On pourrait racheter Youporn ? Ou ouvrir une section porno sur Youtube ?</em>"</p><p>"<em>Quoi ? Un truc de cul ! Mais... mais... vous n'avez vraiment que &ccedil;a en t&ecirc;te, bande de gros d&eacute;gueulasses ! Moi je vous parle du Q, de la LETTRE Q, bande de cons !</em>"</p><p>"<em>Aaaaaaah, pardon boss...</em>"</p><p><a href="http://korben.info/wp-content/uploads/2015/09/sorry.gif" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/09/sorry.gif" alt="sorry" width="500" height="282"></a></p><p>"<em>Bon, alors?&nbsp; J'&eacute;coute !</em>" s'&eacute;nerve Sergey.</p><p>"<em>Et bien, on n'a rien chez nous qui commence par Q effectivement.</em>"</p><p>"<em>Merci Captain Obvious. T'ES VIR&Eacute;.</em>"</p><p><a href="http://korben.info/wp-content/uploads/2015/09/vire.gif" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/09/vire.gif" alt="vire" width="387" height="279"></a></p><p>"<em>On pourrait peut-&ecirc;tre racheter des boites dont le nom commence par Q ?</em>" se risque alors un des employ&eacute;s.</p><p>"<em>Genre quoi ?</em>" s'agace Sergey</p><p>"<em>Bah genre Quora</em>"</p><p>"<em>T'es vir&eacute; aussi. Qui d'autre ?</em>"</p><p><a href="http://korben.info/wp-content/uploads/2015/09/ouin.gif" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/09/ouin.gif" alt="ouin" width="450" height="254"></a></p><p>"<em>... Qwant ?</em>" ose alors une petite voix.</p><p>"<em>C'est quoi encore que ce truc ?</em>"</p><p>"<em>C'est un moteur de recherche europ&eacute;en, boss.</em>"</p><p>"<em>Vas-y, bouge ton cul et fais-moi voir.</em>"</p><p><a href="http://korben.info/wp-content/uploads/2015/09/antfr.png" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/09/antfr-650x354.png" alt="antfr" width="650" height="354"></a></p><p>Sergey ouvre alors grand les yeux et s'exclame :<em> "Ouah putain ! Ces r&eacute;sultats sans tracking et cette explosion de couleurs... &ccedil;a me rappelle l'&eacute;poque o&ugrave; je prenais encore du LSD m&eacute;lang&eacute; &agrave; mon Orangina. Si ce truc marche, on est MORT. Faut qu'on les rach&egrave;te direct... <a href="https://www.qwant.com" rel="noreferrer" target="_blank">&Ccedil;a co&ucirc;te combien ce truc ?</a> Vaz y dis dis un prix</em> !!"</p><p><a href="http://korben.info/wp-content/uploads/2015/09/money.gif" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/09/money.gif" alt="money" width="352" height="241"></a></p><p>"<em>Je crois que ce n'est pas &agrave; vendre</em>", explique l'un des employ&eacute;s.</p><p>"<em>Raaaaaah Raaaaah... Il va donc falloir les D&Eacute;TRUIRE !!! Appelle-moi ce con de graphiste dans mon bureau TOUT DE SUITE !!!!</em>"</p><p><a href="http://korben.info/wp-content/uploads/2015/09/hulk.gif" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/09/hulk.gif" alt="hulk" width="417" height="313"></a></p><p>Le graphiste arrive alors, lui aussi en Segway</p><p><a href="http://korben.info/wp-content/uploads/2015/09/seg.gif" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/09/seg.gif" alt="seg" width="456" height="382"></a></p><p>"<em>Jean Marie, JE VEUX &Ccedil;A ! Je veux un Q color&eacute; sur la home de Google !!!</em>" hurle Sergey !</p><p>"<em>Euuuh... J'&eacute;cris quoi alors ? Qoogle ou Gooqle ?</em>" demande Jean Marie.</p><p>"<em>Mais non-esp&egrave;ce de demeur&eacute; de photoshopeur cong&eacute;nital. Je veux que le Q p&eacute;n&egrave;tre l'esprit des gens et que ces derniers assimilent Qwant &agrave; Google. Je veux que tu int&egrave;gres de mani&egrave;re subliminale le logo de Qwant dans Google. Ainsi, les peuplades primitives d'Europe penseront que c'est encore une foutue copie chinoise de notre g&eacute;nialissime moteur.</em>"</p><p>Jean Marie se met alors au travail et 1 minute et 22 secondes plus tard, il montre alors ceci &agrave; Sergey. "<em>Regarde Sergey. J'ai pris ton Q dans tous les sens, je l'ai bien retourn&eacute; et voici ce que &ccedil;a donne</em>"</p><p><a href="http://korben.info/wp-content/uploads/2015/09/cn1a9rxwwaaqj5h.jpg_large.jpg" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/09/cn1a9rxwwaaqj5h.jpg_large.jpg" alt="CN1a9RxWwAAQJ5H.jpg_large" width="421" height="112"></a></p><p>"<em>Holy shit Jean Marie, t'es un g&eacute;nie ! Tu t'es tordu le Q, tu l'as pass&eacute; &agrave; la moulinette aplatissante et le r&eacute;sultat est impeccable ! C'est un G googlesque et personne ne grillera cette machination diabolique !! Mouahahahah ! Viens vite ici que je te fasse un enfant ! </em></p><p><em>Ah, mais attends, j'ai une id&eacute;e. Tu ne peux pas nous faire un de tes GIF anim&eacute;s de psychopathe en manque d'acides, histoire de bien mettre le point sur les G, euh pardon sur les i avec une police super Playschool parce que merde, c'est la rentr&eacute;e quoi ... Puis copie-moi &ccedil;a sur cette disquette, que je puisse le transf&eacute;rer sur le FTP</em>.</p><p>YEAH BITCH !"</p><p>Et c'est ainsi que naquit le nouveau logo de Google. Cette histoire est bien &eacute;videmment 100% authentique et je n'ai rien invent&eacute; du tout.</p><p><a href="http://korben.info/wp-content/uploads/2015/09/google-qwant.gif" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/09/google-qwant.gif" alt="google-qwant" width="400" height="231"></a></p><p>Nouveau logo Google - 1er septembre 2015</p><p>Cet article merveilleux et sans aucun &eacute;gal intitul&eacute; : <a rel="noreferrer" href="http://korben.info/la-veritable-histoire-du-nouveau-logo-de-google.html" target="_blank">La v&eacute;ritable histoire du nouveau logo de Google</a> ; a &eacute;t&eacute; publi&eacute; sur <a rel="noreferrer" href="http://korben.info" target="_blank">Korben</a>, le seul site qui t'aime plus fort que tes parents.</p></body></html>
+]]></content>
+	<updated>2015-09-01T22:52:10+00:00</updated>
+	<author><name>Korben</name></author>
+	<source>
+		<id>http://korben.info</id>
+		<link rel="self" href="http://korben.info"/>
+		<updated>2015-09-01T22:52:10+00:00</updated>
+		<title>Korben</title></source>
+
+	<category term="design"/>
+
+	<category term="infos"/>
+
+	<category term="société"/>
+
+	<category term="logo google"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-05:/5492</id>
@@ -861,7 +997,7 @@ The struggle is real.
 	<link href="https://facebook.com/lesenfantsfoires/posts/1657795351101286" rel="alternate" type="text/html"/>
 	<title type="html">lesenfantsfoires | À découvrir ou à redécouvrir, l&amp;amp;#039;album &amp;amp;quot;Disco Club&amp;amp;quot;, ce chef-d&amp;amp;#039;oeuvre de 1978, produit par Bernard Fevre et Jacky Giordano  compose certainement l&amp;amp;#039;une des scènes les plus obscures et rares du disco ! émoticône wink  Enjoy ! émoticône heart ‪#‎larrycoupdecoeur‬Black devil disco club 1978 EP (FULL ALBUM)http://curtis8516.tumblr.com/ - RARE PICTURES! If you want the MP3 of this, type in Google &amp;amp;#039;youtube to mp3&amp;amp;#039; and copy the URL. No copyright infringments inten...youtube.com</title>
 	<summary type="html"><![CDATA[À découvrir ou à redécouvrir, l&#039;album &quot;Disco Club&quot;, ce chef-d&#039;oeuvre de 1978, pr...]]></summary>
-	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=b4221245bc4b020198c0da1bb6742f6f&amp;oe=56A79C1C&amp;__gda__=1450208891_e500888b69ee5f7d31f74bea57c1899a" alt=""></a>data-ft="{"tn":"K"}"&gt;&Agrave; d&eacute;couvrir ou &agrave; red&eacute;couvrir, l'album "Disco Club", ce chef-d'oeuvre de 1978, produit par Bernard Fevre et Jacky Giordano  compose certainement l'une des sc&egrave;nes les plus obscures et rares du disco ! &eacute;motic&ocirc;ne wink  Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1657795351101286" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a><a aria-label="Black devil disco club 1978 EP (FULL ALBUM)" ajaxify="/ajax/flash/expand_inline.php?max_width=470&amp;selector=%5E._6m2&amp;target_div=u_0_1h&amp;share_id=248781355263825&amp;user_share_id=1657795351101286" href="https://www.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FJT9jz_WBjqI&amp;h=NAQGHaolD&amp;enc=AZM5g_rakyQyly7PT0YkQM268d92zfKWkEd3J86AWEM1U5GElxVkmOGh985MKJlDcK59yLTyWmcrBGRsIlBInFJ5SgOmcsRwrXPMmggzNqrJEC5BwGQggOR76AhKUQO9sZjuXe8UC8EHpM0ywb4v5LzcOWfihpWGf5e1_g0IG2La1bs_pCSUtk22OFWhJHqj1J2VZX3xQAZpq8xj61f_cGze&amp;s=1" rel="noreferrer" target="_blank"><img src="https://external.xx.fbcdn.net/safe_image.php?d=AQA9Z9pWws1pHbtS&amp;w=158&amp;h=158&amp;url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FJT9jz_WBjqI%2Fmaxresdefault.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FJT9jz_WBjqI&amp;h=fAQFolUp6&amp;s=1" rel="noreferrer" target="_blank">Black devil disco club 1978 EP (FULL ALBUM)</a><a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fcurtis8516.tumblr.com%2F&amp;h=TAQFql7dj&amp;s=1" target="_blank" rel="noreferrer">http://curtis8516.tumblr.com/</a> - RARE PICTURES! If you want the MP3 of this, type in Google 'youtube to mp3' and copy the URL. No copyright infringments inten...youtube.com</body></html>
+	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=b4221245bc4b020198c0da1bb6742f6f&amp;oe=56A79C1C&amp;__gda__=1450208891_e500888b69ee5f7d31f74bea57c1899a" alt=""></a>data-ft="{"tn":"K"}"&gt;&Agrave; d&eacute;couvrir ou &agrave; red&eacute;couvrir, l'album "Disco Club", ce chef-d'oeuvre de 1978, produit par Bernard Fevre et Jacky Giordano  compose certainement l'une des sc&egrave;nes les plus obscures et rares du disco ! &eacute;motic&ocirc;ne wink  Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1657795351101286" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a><a aria-label="Black devil disco club 1978 EP (FULL ALBUM)" ajaxify="/ajax/flash/expand_inline.php?max_width=470&amp;selector=%5E._6m2&amp;target_div=u_0_1r&amp;share_id=248781355263825&amp;user_share_id=1657795351101286" href="https://www.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FJT9jz_WBjqI&amp;h=UAQE6wmlZ&amp;enc=AZP2PbjBOGKFu637o8t91LtTcMmS_NHYnCrzgYapQQmgLKzAcLNmVkyF-exiFSQOqPsPgguBHwv6NBR94oWLitSU8D5YVlcBKQvy7aeU0PzK7A3QCMHgo52YK61d1KXGx_L46rZb9KCjglz9uqTfGc9OBQovZjgjnQN9DEBNHRIUtQpYlDcINVFI8GglftX6x5rvLMtZ-L5wmu18svg9wClx&amp;s=1" rel="noreferrer" target="_blank"><img src="https://external.xx.fbcdn.net/safe_image.php?d=AQA9Z9pWws1pHbtS&amp;w=158&amp;h=158&amp;url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FJT9jz_WBjqI%2Fmaxresdefault.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FJT9jz_WBjqI&amp;h=_AQGKnnyJ&amp;s=1" rel="noreferrer" target="_blank">Black devil disco club 1978 EP (FULL ALBUM)</a><a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fcurtis8516.tumblr.com%2F&amp;h=9AQFCbaFy&amp;s=1" target="_blank" rel="noreferrer">http://curtis8516.tumblr.com/</a> - RARE PICTURES! If you want the MP3 of this, type in Google 'youtube to mp3' and copy the URL. No copyright infringments inten...youtube.com</body></html>
 ]]></content>
 	<updated>2015-08-19T17:05:56+00:00</updated>
 	<author><name>Facebook Bridge</name></author>
@@ -879,7 +1015,7 @@ The struggle is real.
 	<link href="https://facebook.com/lesenfantsfoires/posts/1661052814108873" rel="alternate" type="text/html"/>
 	<title type="html">lesenfantsfoires | Dj Sharpnel sur une reprise d&amp;amp;#039; Evangelion, un son à la made in Japan émoticône wink  ‪#‎InceptionDigitale‬End of Eva AMV [Terror of Death]AMV of End of Evangelion set to Terror of Death by DJ Sharpnel.youtube.com</title>
 	<summary type="html"><![CDATA[Dj Sharpnel sur une reprise d&#039; Evangelion, un son à la made in Japan émoticône wink  ‪#‎Incepti...]]></summary>
-	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=b4221245bc4b020198c0da1bb6742f6f&amp;oe=56A79C1C&amp;__gda__=1450208891_e500888b69ee5f7d31f74bea57c1899a" alt=""></a>data-ft="{"tn":"K"}"&gt;Dj Sharpnel sur une reprise d' Evangelion, un son &agrave; la made in Japan &eacute;motic&ocirc;ne wink  <a href="http://flxc.fr/hashtag/inceptiondigitale?source=feed_text&amp;story_id=1661052814108873" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;InceptionDigitale&#8236;</a><a aria-label="End of Eva AMV [Terror of Death]" ajaxify="/ajax/flash/expand_inline.php?max_width=470&amp;selector=%5E._6m2&amp;target_div=u_0_1j&amp;share_id=776352105744664&amp;user_share_id=1661052814108873" href="https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyaoytheDSz8&amp;h=IAQHGzjKs&amp;enc=AZPHkp9l51luD8q00n-mxuF3eFng4JO9AVquzMVWwaWz2U6VE-UwwO-HZFQeGvjiusWJ1cSRXax4CP7jhW2upOE-J15VwWAbAQU71O-rX9JUYaTqsJ528PQSLwrpz6sZ2aXCRGDEE832HHqItfRn9zVck03-mwpdV1HxMVAygDxbNp3jhgW355Um2rw7yJoKpMRSZIn28fLU8K0gKLiOeGIG&amp;s=1" rel="noreferrer" target="_blank"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBpc2AYTnW-L-tv&amp;w=158&amp;h=158&amp;url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FyaoytheDSz8%2Fhqdefault.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyaoytheDSz8&amp;h=IAQHGzjKs&amp;s=1" rel="noreferrer" target="_blank">End of Eva AMV [Terror of Death]</a>AMV of End of Evangelion set to Terror of Death by DJ Sharpnel.youtube.com</body></html>
+	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=b4221245bc4b020198c0da1bb6742f6f&amp;oe=56A79C1C&amp;__gda__=1450208891_e500888b69ee5f7d31f74bea57c1899a" alt=""></a>data-ft="{"tn":"K"}"&gt;Dj Sharpnel sur une reprise d' Evangelion, un son &agrave; la made in Japan &eacute;motic&ocirc;ne wink  <a href="http://flxc.fr/hashtag/inceptiondigitale?source=feed_text&amp;story_id=1661052814108873" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;InceptionDigitale&#8236;</a><a aria-label="End of Eva AMV [Terror of Death]" ajaxify="/ajax/flash/expand_inline.php?max_width=470&amp;selector=%5E._6m2&amp;target_div=u_0_1g&amp;share_id=776352105744664&amp;user_share_id=1661052814108873" href="https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyaoytheDSz8&amp;h=0AQGYoBId&amp;enc=AZOQb0-JDBYaiHa76opyMweSnbu4fwS1tvgGANbj-ziC028Bt-ocy6IRZwxxAsWwOuISjcpa_r1JWmGw0gHL3e3m22vsULxV0rA2VXcO6DwjONXSBU0rP3NmBKLSaHYnmohLyQOeRK72KY1fflnRDOrk0k6uovP9gQEK4eQxsuFyvDgWh74l2X4Q9KgnTIslyST8MEhce2r537WBZ9WX9XmL&amp;s=1" rel="noreferrer" target="_blank"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBpc2AYTnW-L-tv&amp;w=158&amp;h=158&amp;url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FyaoytheDSz8%2Fhqdefault.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyaoytheDSz8&amp;h=LAQEVaX4f&amp;s=1" rel="noreferrer" target="_blank">End of Eva AMV [Terror of Death]</a>AMV of End of Evangelion set to Terror of Death by DJ Sharpnel.youtube.com</body></html>
 ]]></content>
 	<updated>2015-08-28T08:43:03+00:00</updated>
 	<author><name>Facebook Bridge</name></author>
@@ -1151,118 +1287,6 @@ don’t u dare tell me love doesn...]]></summary>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-09-04T02:54:41+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5078</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128310432261" rel="alternate" type="text/html"/>
-	<title type="html">Different Names for Things (via imgur)Related: Name Improvements...</title>
-	<summary type="html"><![CDATA[          Different Names for Things (via imgur)Related: Name Improvements for Everyday Stuff]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/bbaff0fc2ea8bbdc05292cc5b33e96fd/tumblr_nu4w3qaxKb1qewacoo1_500.jpg"><br><br><img src="http://41.media.tumblr.com/edb033415806cca792d77e398ea50a5c/tumblr_nu4w3qaxKb1qewacoo2_500.jpg"><br><br><img src="http://41.media.tumblr.com/735744cfed684332007c32f51733c311/tumblr_nu4w3qaxKb1qewacoo7_500.jpg"><br><br><img src="http://36.media.tumblr.com/659b3ce74324d30d7ed829c82e61fd60/tumblr_nu4w3qaxKb1qewacoo3_500.jpg"><br><br><img src="http://40.media.tumblr.com/542eabc17a31855b9c6648b9335c806f/tumblr_nu4w3qaxKb1qewacoo4_500.jpg"><br><br><img src="http://41.media.tumblr.com/cd8000bae6630a042b2adbdb5a09b9b3/tumblr_nu4w3qaxKb1qewacoo5_500.jpg"><br><br><img src="http://41.media.tumblr.com/54c90c895286b3d2be5478878ee00fc5/tumblr_nu4w3qaxKb1qewacoo6_500.jpg"><br><br><img src="http://41.media.tumblr.com/88e4b710ad887f0900b395e55fb93b14/tumblr_nu4w3qaxKb1qewacoo8_500.jpg"><br><br><img src="http://40.media.tumblr.com/004c1e4dfbd8473ac9598321487f3e36/tumblr_nu4w3qaxKb1qewacoo10_500.jpg"><br><br><img src="http://36.media.tumblr.com/8209cffbe9dc1cdfcf1da63b1c26db22/tumblr_nu4w3qaxKb1qewacoo9_500.jpg"><br><br><p><b>Different Names for Things</b> (via <a href="http://imgur.com/gallery/VfIPw" target="_blank" rel="noreferrer">imgur</a>)<br><br>Related:&nbsp;<a href="http://tumblr.tastefullyoffensive.com/post/93406864043/name-improvements-for-everyday-stuff" target="_blank" rel="noreferrer">Name Improvements for Everyday Stuff</a></p></body></html>
-]]></content>
-	<updated>2015-09-04T04:00:16+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-04T04:00:16+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="lists"/>
-
-	<category term="english"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5099</id>
-	<link href="http://www.explosm.net/comics/4045/" rel="alternate" type="text/html"/>
-	<title type="html">Comic for 2015.09.04</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="//files.explosm.net/comics/Dave/thehitman.png"></body></html>
-]]></content>
-	<updated>2015-09-04T05:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.explosm.net/rss.php</id>
-		<link rel="self" href="http://www.explosm.net/rss.php"/>
-		<updated>2015-09-04T05:00:00+00:00</updated>
-		<title>Explosm.net</title></source>
-
-	<category term="comics"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-03:/5008</id>
-	<link href="http://kawaiidesune.tumblr.com/post/128256927153" rel="alternate" type="text/html"/>
-	<title type="html">funniest-stuff:
-
-Guy in the background using  the force</title>
-	<summary type="html"><![CDATA[funniest-stuff:
-
-Guy in the background using  the force
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/e460f891c44cda5d8a644688e93f58ce/tumblr_novcy6DRHM1qbh1gso1_500.gif"><br><br><p><a href="http://funniest-stuff.tumblr.com/post/119785798509" rel="noreferrer" target="_blank">funniest-stuff</a>:</p>
-<blockquote>
-<p>Guy in the background using  the force</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-03T12:26:55+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://kawaiidesune.tumblr.com/</id>
-		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
-		<updated>2015-09-03T12:26:55+00:00</updated>
-		<title>Kawaii desu ne</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-03:/5005</id>
-	<link href="http://kawaiidesune.tumblr.com/post/128257327943" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/e2ede697948b6dbe3ac3e4578c05af51/tumblr_nmmiubkHfE1r5kws5o1_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-09-03T12:36:59+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://kawaiidesune.tumblr.com/</id>
-		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
-		<updated>2015-09-03T12:36:59+00:00</updated>
-		<title>Kawaii desu ne</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-03:/5039</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128265010098" rel="alternate" type="text/html"/>
-	<title type="html">lunarbaboon:
-
-lunarbaboon facebook twitter webtoons Patreon</title>
-	<summary type="html"><![CDATA[lunarbaboon:
-
-lunarbaboon facebook twitter webtoons Patreon
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/2bd52b67323650b132c8a1b8e9a3bd3c/tumblr_nu3mfanKTe1ra5ebio1_500.jpg"><br><br><p><a href="http://lunarbaboon.tumblr.com/post/128254588078" target="_blank" rel="noreferrer">lunarbaboon</a>:</p>
-<blockquote>
-<p><a href="http://www.lunarbaboon.com" target="_blank" rel="noreferrer">lunarbaboon</a>&nbsp;<a href="https://www.facebook.com/Lunarbaboon" target="_blank" rel="noreferrer">facebook</a>&nbsp;<a href="https://twitter.com/Lunarbaboon" target="_blank" rel="noreferrer">twitter</a>&nbsp;<a href="http://www.webtoons.com/en/slice-of-life/lunarbaboon/list?title_no=523" target="_blank" rel="noreferrer">webtoons</a>&nbsp;<a href="https://www.patreon.com/user?u=82761&amp;ty=h" target="_blank" rel="noreferrer">Patreon</a></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-03T15:23:20+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-03T15:23:20+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
