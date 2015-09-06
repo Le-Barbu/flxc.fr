@@ -4,11 +4,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-04T18:28:33+00:00</updated>
+<updated>2015-09-04T22:43:10+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-06:/5718</id>
+	<link href="http://www.tastefullyoffensive.com/2015/09/cockatiel-whistles-game-of-thrones.html" rel="alternate" type="text/html"/>
+	<title type="html">Tastefully Offensive: Cockatiel Whistles the 'Game of Thrones' Theme Song</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-06T11:22:19+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-06T11:22:19+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-06:/5717</id>
+	<link href="http://www.tastefullyoffensive.com/2015/09/toddler-leads-family-in-adorable.html" rel="alternate" type="text/html"/>
+	<title type="html">Tastefully Offensive: Toddler Leads Family in Custom Fitness Routine</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-06T11:20:39+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-06T11:20:39+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-06:/5716</id>
+	<link href="http://www.tastefullyoffensive.com/2015/09/crazy-ukrainian-guys-make-powerful.html" rel="alternate" type="text/html"/>
+	<title type="html">Tastefully Offensive: Crazy Ukrainian Guys Use Bottles of Coca-Cola and Lighter Fluid to Make Powerful Rockets</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-06T11:18:27+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-06T11:18:27+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-06:/5715</id>
+	<link href="http://www.tastefullyoffensive.com/2015/09/drumming-pug-performs-metallica-enter.html" rel="alternate" type="text/html"/>
+	<title type="html">Tastefully Offensive: Drumming Pug Performs Metallica's 'Enter Sandman'</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-06T11:16:17+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-06T11:16:17+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-06:/5676</id>
+	<link href="http://www.viedemerde.fr/sexe/8613181" rel="alternate" type="text/html"/>
+	<title type="html">yo a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, mon wagon de train est vide, le pied ! J'appelle ma meilleure amie et lui raconte les d...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, mon wagon de train est vide, le pied ! J'appelle ma meilleure amie et lui raconte les d&eacute;tails croustillants de ma soir&eacute;e de la veille. Je raccroche : malaise. Une dizaine de t&ecirc;tes est apparue entre les si&egrave;ges. Les gens dormaient allong&eacute;s sur les banquettes, je les ai tous r&eacute;veill&eacute;s. VDM</p></body></html>
+]]></content>
+	<updated>2015-09-05T19:44:34+00:00</updated>
+	<author><name>yo</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-09-05T19:44:34+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-08-26:/3678</id>
@@ -1634,114 +1720,6 @@ That cat just went to heaven
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-09-04T22:43:10+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5433</id>
-	<link href="http://mememaster.tumblr.com/post/128362096569" rel="alternate" type="text/html"/>
-	<title type="html">alphajade:
-
-pure mother fuckin gold</title>
-	<summary type="html"><![CDATA[alphajade:
-
-pure mother fuckin gold
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/5d715ffba95fe3fd64d6901a7f4bf267/tumblr_npfswntQKY1qmf3n7o1_500.png"><br><br><p><a href="http://alphajade.tumblr.com/post/120718309740" target="_blank" rel="noreferrer">alphajade</a>:</p>
-<blockquote>
-<p>pure mother fuckin gold</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-04T22:45:58+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-04T22:45:58+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5440</id>
-	<link href="http://mememaster.tumblr.com/post/128363748964" rel="alternate" type="text/html"/>
-	<title type="html">draw a slice of pizza i will get it tattooed</title>
-	<summary type="html"><![CDATA[put this on your body]]></summary>
-	<content type="html"><![CDATA[<html><body><figure data-orig-width="538" data-orig-height="573"><img src="http://41.media.tumblr.com/cf794c108445ae14236b74639039a915/tumblr_inline_nqogsra8ga1qmoaae_540.png" alt="image" data-orig-width="538" data-orig-height="573"></figure><p><b>put this on your body</b></p></body></html>
-]]></content>
-	<updated>2015-09-04T23:13:36+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-04T23:13:36+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5438</id>
-	<link href="http://mememaster.tumblr.com/post/128363934099" rel="alternate" type="text/html"/>
-	<title type="html">againstthebrilliance:
-
-The struggle is real.</title>
-	<summary type="html"><![CDATA[againstthebrilliance:
-
-The struggle is real.
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/11a7522dea3324965786756ca555ebdd/tumblr_nckha2tSG81rdmbxzo1_400.gif"><br><br><p><a href="http://againstthebrilliance.tumblr.com/post/98554278607" target="_blank" rel="noreferrer">againstthebrilliance</a>:</p>
-<blockquote>
-<p>The struggle is real.</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-04T23:16:48+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-04T23:16:48+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5368</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128339766098" rel="alternate" type="text/html"/>
-	<title type="html">‘Tonight Show’ Hashtags: #MyRoommateIsWeird</title>
-	<summary type="html"><![CDATA[          ‘Tonight Show’ Hashtags: #MyRoommateIsWeird]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/d678dadd35508a6d9a1f1b9ac4ea748e/tumblr_nu4edsOPdB1qhub34o10_r1_400.gif"><br><br><img src="http://36.media.tumblr.com/ca7c0f71953412ef2411667e3453a9f3/tumblr_nu4edsOPdB1qhub34o1_500.png"><br><br><img src="http://41.media.tumblr.com/9090f86a7a3f3ad5f86e50f2b5976fc9/tumblr_nu4edsOPdB1qhub34o2_500.png"><br><br><img src="http://41.media.tumblr.com/f1d6b85c6fcc88984d63230e8bf2f268/tumblr_nu4edsOPdB1qhub34o3_500.png"><br><br><img src="http://31.media.tumblr.com/de3b36cf4ecfa66b4c782fd3e5b9f81f/tumblr_nu4edsOPdB1qhub34o9_r1_400.gif"><br><br><img src="http://41.media.tumblr.com/f119f4a8f694d53784d3bd2e8f92015b/tumblr_nu4edsOPdB1qhub34o4_500.png"><br><br><img src="http://36.media.tumblr.com/b81098a2d7c3dfae98a8804488dab6e7/tumblr_nu4edsOPdB1qhub34o5_500.png"><br><br><img src="http://36.media.tumblr.com/ad0ea3cc16212cd6aa14e629f40a1191/tumblr_nu4edsOPdB1qhub34o6_500.png"><br><br><img src="http://36.media.tumblr.com/1d919d5dec3176091280d833474be095/tumblr_nu4edsOPdB1qhub34o7_500.png"><br><br><img src="http://40.media.tumblr.com/ac1b4332d1e69a41419f95a75c03dfa9/tumblr_nu4edsOPdB1qhub34o8_500.png"><br><br><p><a href="http://www.tastefullyoffensive.com/2015/09/tonight-show-hashtags-myroommateisweird.html" target="_blank" rel="noreferrer">&lsquo;Tonight Show&rsquo; Hashtags: #MyRoommateIsWeird</a><br></p></body></html>
-]]></content>
-	<updated>2015-09-04T16:15:20+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-04T16:15:20+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5410</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128346829903" rel="alternate" type="text/html"/>
-	<title type="html">(photo via gallowboob)</title>
-	<summary type="html"><![CDATA[(photo via gallowboob)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/9e767a2aa26ae951d15b2f5019548084/tumblr_nu60nlN3j21qewacoo1_500.jpg"><br><br><p>(photo via <a href="https://www.reddit.com/user/GallowBoob" target="_blank" rel="noreferrer">gallowboob</a>)</p></body></html>
-]]></content>
-	<updated>2015-09-04T18:28:33+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-04T18:28:33+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="morgan freeman"/>
 
 
 </entry>
