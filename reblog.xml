@@ -4,11 +4,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-05T04:12:15+00:00</updated>
+<updated>2015-09-01T22:52:10+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-06:/5949</id>
+	<link href="http://bluetouff.com/" rel="alternate" type="text/html"/>
+	<title type="html">New born</title>
+	<summary type="html"><![CDATA[Bluetouff a décidé de transférer son site du web vers TOR. De gré ou de force, je pense qu'on sera t...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Bluetouff a d&eacute;cid&eacute; de transf&eacute;rer son site du web vers TOR. De gr&eacute; ou de force, je pense qu'on sera tou.te.s un jour oblig&eacute;.e.s d'envisager un tel d&eacute;m&eacute;nagement. Vers TOR, i2p, ou Freenet.<br><br>
+(rappel: mon shaarli est miroit&eacute; sur Freenet, vous le trouverez facilement dans les index tels Linkageddon)<br>(<a href="https://suumitsu.eu/links/?smqfWQ" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-08-25T19:50:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://suumitsu.eu/links/</id>
+		<link rel="self" href="https://suumitsu.eu/links/"/>
+		<updated>2015-08-25T19:50:01+00:00</updated>
+		<title>Mitsu'liens</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-06:/5942</id>
+	<link href="http://lehollandaisvolant.net/?id=20150901174109" rel="alternate" type="text/html"/>
+	<title type="html">Combien cela coûte-t-il pour créer un site web ? - Le Hollandais Volant</title>
+	<summary type="html"><![CDATA[France.fr → un budget de 800 000 € pour le rénover ? À ce prix c'est en HTTPS je suppose ? &nbsp;=_=...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>France.fr &rarr; un budget de 800 000 &euro; pour le r&eacute;nover ? &Agrave; ce prix c'est en HTTPS je suppose ? &nbsp;=_=<br>(<a href="https://suumitsu.eu/links/?aQiBGQ" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-01T21:35:06+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://suumitsu.eu/links/</id>
+		<link rel="self" href="https://suumitsu.eu/links/"/>
+		<updated>2015-09-01T21:35:06+00:00</updated>
+		<title>Mitsu'liens</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-06:/5775</id>
@@ -49,7 +86,7 @@
 	<link href="https://facebook.com/lesenfantsfoires/posts/1655933304620824" rel="alternate" type="text/html"/>
 	<title type="html">lesenfantsfoires | Bonjour les Enfants ! émoticône wink Aujourd&amp;amp;#039;hui dans les coups de cœur de Larry le groupe Sigur Rós est à l&amp;amp;#039;affiche ! À l&amp;amp;#039;occasion du documentaire &amp;amp;quot;The Show of the Show&amp;amp;quot;, produit par la BBC, sur le monde des circassiens et le vaudeville prévu pour l&amp;amp;#039;an prochain, ils signent la bande originale en association avec le compositeur Hilmar Örn Hilmarsson et le guitariste Kjartan Holm. ... &amp;amp;quot;Circe&amp;amp;quot; sortira en disque le 21 août prochain et est disponible à l&amp;amp;#039;écoute dès maintenant sur soundcloud ! émoticône wink Enjoy ! émoticône heart ‪#‎larrycoupdecoeur‬ Afficher la suiteCircecirce’, an album by goggi &amp;amp;amp; orri in association with hilmar örn hilmarsson and kjartan holm. available to preorder now: http://sigur-ros-store.com/circe/</title>
 	<summary type="html"><![CDATA[Bonjour les Enfants ! émoticône wink Aujourd&#039;hui dans les coups de cœur de Larry le groupe Sigu...]]></summary>
-	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=b4221245bc4b020198c0da1bb6742f6f&amp;oe=56A79C1C&amp;__gda__=1450208891_e500888b69ee5f7d31f74bea57c1899a" alt=""></a>data-ft="{"tn":"K"}"&gt;Bonjour les Enfants ! &eacute;motic&ocirc;ne wink Aujourd'hui dans les coups de c&oelig;ur de Larry le groupe Sigur R&oacute;s est &agrave; l'affiche ! &Agrave; l'occasion du documentaire "The Show of the Show", produit par la BBC, sur le monde des circassiens et le vaudeville pr&eacute;vu pour l'an prochain, ils signent la bande originale en association avec le compositeur Hilmar &Ouml;rn Hilmarsson et le guitariste Kjartan Holm. ... "Circe" sortira en disque le 21 ao&ucirc;t prochain et est disponible &agrave; l'&eacute;coute d&egrave;s maintenant sur soundcloud ! &eacute;motic&ocirc;ne wink Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1655933304620824" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a> <a href="http://192.168.137.2/#" data-ft='{"tn":"e"}' role="button" rel="noreferrer" target="_blank">Afficher la suite</a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=fAQGHwTkF&amp;enc=AZPmaPXN2V4BM3Sp2M-g4Y2vNyItuBnIbtSXZ-DZ5od-Qr_iktV5KF_qMlQflFdtKp_V6zU53fCEiF06R8jw-vbhzIWK0OVGSAmSjv42FMn2jf0n-uePhFmYLgXsYQNcOFZkvbleJY5PuAxeVn7KEyMGA9EWf2aTol4EEruqoEUTY1P_rxARo9BYlVCEqMjHfqxOJTuMOiVfkJE0UQS4BRio&amp;s=1" target="_blank" rel="noreferrer"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCsJWseJDFGOLIL&amp;w=158&amp;h=158&amp;url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000124629501-fzqd79-t200x200.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=vAQFcF9KH&amp;s=1" rel="noreferrer" target="_blank">Circe</a>circe&rsquo;, an album by goggi &amp; orri in association with hilmar &ouml;rn hilmarsson and kjartan holm. available to preorder now: <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fsigur-ros-store.com%2Fcirce%2F&amp;h=2AQGwHbxW&amp;s=1" target="_blank" rel="noreferrer">http://sigur-ros-store.com/circe/</a></body></html>
+	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=b4221245bc4b020198c0da1bb6742f6f&amp;oe=56A79C1C&amp;__gda__=1450208891_e500888b69ee5f7d31f74bea57c1899a" alt=""></a>data-ft="{"tn":"K"}"&gt;Bonjour les Enfants ! &eacute;motic&ocirc;ne wink Aujourd'hui dans les coups de c&oelig;ur de Larry le groupe Sigur R&oacute;s est &agrave; l'affiche ! &Agrave; l'occasion du documentaire "The Show of the Show", produit par la BBC, sur le monde des circassiens et le vaudeville pr&eacute;vu pour l'an prochain, ils signent la bande originale en association avec le compositeur Hilmar &Ouml;rn Hilmarsson et le guitariste Kjartan Holm. ... "Circe" sortira en disque le 21 ao&ucirc;t prochain et est disponible &agrave; l'&eacute;coute d&egrave;s maintenant sur soundcloud ! &eacute;motic&ocirc;ne wink Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1655933304620824" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a> <a href="http://192.168.137.2/#" data-ft='{"tn":"e"}' role="button" rel="noreferrer" target="_blank">Afficher la suite</a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=FAQE0xhvH&amp;enc=AZPT5-W2kNldLk1hWIhfOr0xwcc8I4NN6As0CnoKK2R1DRrKFZiRb9KY4OfQOnGpOvDryN4PDyab6w6t5B7eI-LPm799GqIDLdwYpNd8AVR_xul42Yex5UkZZQjrp0oM5xM7Lys4b3PKDrViO-BwHRJyjxqB4a4r1KZElz4GRNO5_H1W6jMAa_l3emDXi8i2Sh7BP1cM97Zk-WDjxhcCBOyO&amp;s=1" target="_blank" rel="noreferrer"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCsJWseJDFGOLIL&amp;w=158&amp;h=158&amp;url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000124629501-fzqd79-t200x200.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=sAQHMMRwz&amp;s=1" rel="noreferrer" target="_blank">Circe</a>circe&rsquo;, an album by goggi &amp; orri in association with hilmar &ouml;rn hilmarsson and kjartan holm. available to preorder now: <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fsigur-ros-store.com%2Fcirce%2F&amp;h=EAQHpgC7E&amp;s=1" target="_blank" rel="noreferrer">http://sigur-ros-store.com/circe/</a></body></html>
 ]]></content>
 	<updated>2015-08-12T11:57:59+00:00</updated>
 	<author><name>Facebook Bridge</name></author>
@@ -1618,50 +1655,6 @@ If I owned a taser I’d probably get curious to see how it feels and taser myse
 	<category term="société"/>
 
 	<category term="logo google"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-05:/5492</id>
-	<link href="http://mememaster.tumblr.com/post/128380459219" rel="alternate" type="text/html"/>
-	<title type="html">heyfunniest:
-
-An emotional journey,</title>
-	<summary type="html"><![CDATA[heyfunniest:
-
-An emotional journey,
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/2715fe30abca141881b57b2a6b3ee952/tumblr_n4mu8tnwsy1qb61kpo1_500.jpg"><br><br><p><a href="http://heyfunniest.tumblr.com/post/83933326893" target="_blank" rel="noreferrer">heyfunniest</a>:</p>
-<blockquote>
-<p>An emotional journey,</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-05T04:06:26+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-05T04:06:26+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-05:/5488</id>
-	<link href="http://mememaster.tumblr.com/post/128380796339" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[        ]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/3e233bdd40a48e18cec1d4f7a547c9e2/tumblr_nt5rklh3Lz1s667kio1_500.png"><br><br><img src="http://41.media.tumblr.com/6088034fc2da968a409e57d6585808a0/tumblr_nt5rklh3Lz1s667kio2_500.png"><br><br><img src="http://41.media.tumblr.com/11c7c7c72f50f6617aa6f196a80b5c2b/tumblr_nt5rklh3Lz1s667kio3_500.png"><br><br><img src="http://41.media.tumblr.com/46bba25fd8448b61d07c956070590ff2/tumblr_nt5rklh3Lz1s667kio4_500.png"><br><br><img src="http://41.media.tumblr.com/0758e7e869fe036f7eafd6979744ffd6/tumblr_nt5rklh3Lz1s667kio5_500.png"><br><br><img src="http://40.media.tumblr.com/21ead9eead94650d3f5087118111cba6/tumblr_nt5rklh3Lz1s667kio6_500.png"><br><br><img src="http://41.media.tumblr.com/4ffd3f1941c43e78d050d68fbb1ab5ba/tumblr_nt5rklh3Lz1s667kio7_500.png"><br><br><img src="http://41.media.tumblr.com/84656e08779dfc09aa4e0848292209de/tumblr_nt5rklh3Lz1s667kio8_500.png"><br><br></body></html>
-]]></content>
-	<updated>2015-09-05T04:12:15+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-05T04:12:15+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
