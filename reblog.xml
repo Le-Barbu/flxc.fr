@@ -4,11 +4,181 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-04T14:56:42+00:00</updated>
+<updated>2015-09-04T18:28:33+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-26:/3678</id>
+	<link href="http://vegemiam.fr/?p=39646&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=porrigde-facon-banoffee" rel="alternate" type="text/html"/>
+	<title type="html">Porrigde façon banoffee</title>
+	<summary type="html"><![CDATA[Cet article Porrigde façon banoffee est apparu en premier sur Végémiam | La référence des recettes v...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Cet article <a rel="noreferrer" href="http://vegemiam.fr/?p=39646" target="_blank">Porrigde fa&ccedil;on banoffee</a> est apparu en premier sur <a rel="noreferrer" href="http://vegemiam.fr" target="_blank">V&eacute;g&eacute;miam | La r&eacute;f&eacute;rence des recettes v&eacute;g&eacute;tariennes et v&eacute;g&eacute;taliennes</a>.</p></body></html>
+]]></content>
+	<updated>2015-08-25T06:15:17+00:00</updated>
+	<author><name>La gourmandise selon Angie</name></author>
+	<source>
+		<id>http://vegemiam.fr</id>
+		<link rel="self" href="http://vegemiam.fr"/>
+		<updated>2015-08-25T06:15:17+00:00</updated>
+		<title>Végémiam | La référence des recettes végétariennes et végétaliennes</title></source>
+
+	<category term="sans lactose"/>
+
+	<category term="sans oeuf"/>
+
+	<category term="sucré"/>
+
+	<category term="végétalien"/>
+
+	<category term="avocat"/>
+
+	<category term="banane"/>
+
+	<category term="chocolat"/>
+
+	<category term="crème"/>
+
+	<category term="cru"/>
+
+	<category term="kasha"/>
+
+	<category term="noisette"/>
+
+	<category term="porridge"/>
+
+	<category term="raw"/>
+
+	<category term="sarrasin"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-28:/4004</id>
+	<link href="http://vegemiam.fr/?p=40889&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cookies-au-beurre-cacahuetes-pepites-chocolat" rel="alternate" type="text/html"/>
+	<title type="html">Cookies au beurre de cacahuètes et pépites de chocolat</title>
+	<summary type="html"><![CDATA[Cet article Cookies au beurre de cacahuètes et pépites de chocolat est apparu en premier sur Végémia...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Cet article <a rel="noreferrer" href="http://vegemiam.fr/?p=40889" target="_blank">Cookies au beurre de cacahu&egrave;tes et p&eacute;pites de chocolat</a> est apparu en premier sur <a rel="noreferrer" href="http://vegemiam.fr" target="_blank">V&eacute;g&eacute;miam | La r&eacute;f&eacute;rence des recettes v&eacute;g&eacute;tariennes et v&eacute;g&eacute;taliennes</a>.</p></body></html>
+]]></content>
+	<updated>2015-08-28T07:01:24+00:00</updated>
+	<author><name>Make me green</name></author>
+	<source>
+		<id>http://vegemiam.fr</id>
+		<link rel="self" href="http://vegemiam.fr"/>
+		<updated>2015-08-28T07:01:24+00:00</updated>
+		<title>Végémiam | La référence des recettes végétariennes et végétaliennes</title></source>
+
+	<category term="sans lactose"/>
+
+	<category term="sans oeuf"/>
+
+	<category term="sucré"/>
+
+	<category term="végétalien"/>
+
+	<category term="beurre de cacahuète"/>
+
+	<category term="chocolat"/>
+
+	<category term="cookies"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-01:/883</id>
+	<link href="http://recettes.vegan.fr/index.php?recette=tourte_aux_champignons" rel="alternate" type="text/html"/>
+	<title type="html">Tourte aux champignons</title>
+	<summary type="html"><![CDATA[Par Elak. Une tourte aux champignons super bonne !
+Il n'y a pas de catégorie super facile mais il n'...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Par Elak.<br><img src="http://recettes.vegan.fr/images/recettes/tourte_aux_champignons/100-tourte_aux_champignons.jpg"><br> Une tourte aux champignons super bonne !
+Il n'y a pas de cat&eacute;gorie super facile mais il n'y a pas plus simple.</p></body></html>
+]]></content>
+	<updated>2014-08-07T18:09:23+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://recettes.vegan.fr</id>
+		<link rel="self" href="http://recettes.vegan.fr"/>
+		<updated>2014-08-07T18:09:23+00:00</updated>
+		<title>Recettes véganes</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-08-01:/882</id>
+	<link href="http://recettes.vegan.fr/index.php?recette=pate_a_tartiner_cacao_noisette" rel="alternate" type="text/html"/>
+	<title type="html">pâte à tartiner cacao-noisette</title>
+	<summary type="html"><![CDATA[Par Elak. Pâte à tartiner crémeuse avec seulement 4 ingrédients.]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Par Elak.<br><img src="http://recettes.vegan.fr/images/recettes/pate_a_tartiner_cacao_noisette/100-pate_a_tartiner_cacao_noisette.jpg"><br> P&acirc;te &agrave; tartiner cr&eacute;meuse avec seulement 4 ingr&eacute;dients.</p></body></html>
+]]></content>
+	<updated>2014-08-15T19:11:44+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://recettes.vegan.fr</id>
+		<link rel="self" href="http://recettes.vegan.fr"/>
+		<updated>2014-08-15T19:11:44+00:00</updated>
+		<title>Recettes véganes</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-05:/5664</id>
+	<link href="http://www.viedemerde.fr/travail/8611628" rel="alternate" type="text/html"/>
+	<title type="html">Anonyme a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, je suis caissière dans un supermarché. Régulièrement, des clients passent avec des paqu...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je suis caissi&egrave;re dans un supermarch&eacute;. R&eacute;guli&egrave;rement, des clients passent avec des paquets de g&acirc;teaux d&eacute;j&agrave; entam&eacute;s. Cette fois, c'&eacute;tait un paquet de tampons. VDM</p></body></html>
+]]></content>
+	<updated>2015-09-02T14:43:30+00:00</updated>
+	<author><name>Anonyme</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-09-02T14:43:30+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-05:/5662</id>
+	<link href="http://www.viedemerde.fr/inclassable/8611734" rel="alternate" type="text/html"/>
+	<title type="html">Anonyme a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, je m'oblige à faire un peu de sport tous les soirs pour que les abonnés et les coachs d...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je m'oblige &agrave; faire un peu de sport tous les soirs pour que les abonn&eacute;s et les coachs de mon club ne se rendent pas compte de la vraie raison de ma pr&eacute;sence quotidienne : Je n'ai pas de chauffe-eau dans mon nouvel appart', et &agrave; la salle je peux prendre une douche chaude. VDM</p></body></html>
+]]></content>
+	<updated>2015-09-02T17:42:42+00:00</updated>
+	<author><name>Anonyme</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-09-02T17:42:42+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-05:/5658</id>
+	<link href="http://www.viedemerde.fr/inclassable/8611915" rel="alternate" type="text/html"/>
+	<title type="html">Carotte rapé a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, en étant une moi-même, je commande le seul plat certifié végétarien de la carte. Je le ...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, en &eacute;tant une moi-m&ecirc;me, je commande le seul plat certifi&eacute; v&eacute;g&eacute;tarien de la carte. Je le trouve vraiment d&eacute;licieux. Je dis &agrave; la serveuse de transmettre mes compliments au chef. Elle me murmure : "Il faut faire revenir les l&eacute;gumes dans de la graisse de canard, c'est &ccedil;a le secret." VDM</p></body></html>
+]]></content>
+	<updated>2015-09-02T22:16:28+00:00</updated>
+	<author><name>Carotte rapé</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-09-02T22:16:28+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-05:/5651</id>
@@ -1572,137 +1742,6 @@ The struggle is real.
 		<title>Tastefully Offensive on Tumblr</title></source>
 
 	<category term="morgan freeman"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5419</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128356676919" rel="alternate" type="text/html"/>
-	<title type="html">by Mr. Lovenstein</title>
-	<summary type="html"><![CDATA[by Mr. Lovenstein]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/3c3f364aca22daf24280b3fbd230da14/tumblr_nu67omSz9A1qewacoo1_500.png"><br><br><p>by <a href="http://www.mrlovenstein.com/comic/703" target="_blank" rel="noreferrer">Mr. Lovenstein</a></p></body></html>
-]]></content>
-	<updated>2015-09-04T21:15:32+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-04T21:15:32+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5414</id>
-	<link href="http://www.maliki.com/strip.php?strip=344" rel="alternate" type="text/html"/>
-	<title type="html">Galerie de strip</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-04T20:30:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-04T20:30:01+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5357</id>
-	<link href="http://www.youtube.com/watch?v=RnNgrf8iXY0" rel="alternate" type="text/html"/>
-	<title type="html">Hit Clip 2 - Palmashow</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-04T15:29:18+00:00</updated>
-	<author><name>Palmashow</name></author>
-	<source>
-		<id>http://www.youtube.com/channel/UCoZoRz4-y6r87ptDp4Jk74g</id>
-		<link rel="self" href="http://www.youtube.com/channel/UCoZoRz4-y6r87ptDp4Jk74g"/>
-		<updated>2015-09-04T15:29:18+00:00</updated>
-		<title>Palmashow</title></source>
-
-
-	<link rel="enclosure" 
-		type="application/x-shockwave-flash" 
-		length="1"
-		href="https://www.youtube.com/v/RnNgrf8iXY0?version=3"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5411</id>
-	<link href="http://makezine.com/projects/ionic-thruster/" rel="alternate" type="text/html"/>
-	<title type="html">Build an Ionic Thruster like NASA Uses for Space Propulsion | Make: DIY Projects, How-Tos, Electronics, Crafts and Ideas for Makers</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-04T18:49:19+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-04T18:49:19+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5358</id>
-	<link href="http://www.geeky-gadgets.com/raspberry-pi-pirate-radio-station-hack-video-10-03-2014/" rel="alternate" type="text/html"/>
-	<title type="html">Raspberry Pi Pirate Radio Station Hack (video)</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-04T15:46:40+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-04T15:46:40+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5327</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128332392923" rel="alternate" type="text/html"/>
-	<title type="html">by Wrong Hands</title>
-	<summary type="html"><![CDATA[by Wrong Hands]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/4019e21aa7924a3162d43948b56a1123/tumblr_nu5jqqOd0w1rorxt1o1_500.jpg"><br><br><p>by <a href="http://wronghands1.tumblr.com/post/128328945005" target="_blank" rel="noreferrer">Wrong Hands</a></p></body></html>
-]]></content>
-	<updated>2015-09-04T13:45:56+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-04T13:45:56+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5333</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128335754863" rel="alternate" type="text/html"/>
-	<title type="html">If Cartoon Characters Got Old by Andrew TarusovRelated: Disney...</title>
-	<summary type="html"><![CDATA[          If Cartoon Characters Got Old by Andrew TarusovRelated: Disney Princesses in Their Old Age]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/9134221d678ca3eb8daa7fdb1e0d3e10/tumblr_nu5quiYbkC1qewacoo1_500.jpg"><br><br><img src="http://40.media.tumblr.com/e5447c8373f65116b61e65caf613b94f/tumblr_nu5quiYbkC1qewacoo3_500.jpg"><br><br><img src="http://40.media.tumblr.com/d567cb8429b36a0ac17d35055a6bd8bc/tumblr_nu5quiYbkC1qewacoo2_500.jpg"><br><br><img src="http://41.media.tumblr.com/a145e0b7815fb814fcd6658f2259850f/tumblr_nu5quiYbkC1qewacoo7_500.jpg"><br><br><img src="http://41.media.tumblr.com/a20b7357533e2941144c50597226d06f/tumblr_nu5quiYbkC1qewacoo5_500.jpg"><br><br><img src="http://36.media.tumblr.com/92b7bfb9d4303d4d8f45b84d808ff133/tumblr_nu5quiYbkC1qewacoo8_500.jpg"><br><br><img src="http://40.media.tumblr.com/01e5aa1ac38c4c0af88f4a5cce3f09df/tumblr_nu5quiYbkC1qewacoo4_500.jpg"><br><br><img src="http://40.media.tumblr.com/28838f3eb17b39b90d6053675340fdba/tumblr_nu5quiYbkC1qewacoo9_500.jpg"><br><br><img src="http://41.media.tumblr.com/6d3d0b77af014b19d44415039a0e799a/tumblr_nu5quiYbkC1qewacoo10_500.jpg"><br><br><img src="http://36.media.tumblr.com/32b5664255fb75cca14f5958596c6a95/tumblr_nu5quiYbkC1qewacoo6_500.jpg"><br><br><p><b>If Cartoon Characters Got Old</b> by <a href="http://www.tarusov.com/" target="_blank" rel="noreferrer">Andrew Tarusov</a><br><br>Related:&nbsp;<a href="http://tumblr.tastefullyoffensive.com/post/125878451043/disney-princesses-in-their-old-age-by-loryn-brantz" target="_blank" rel="noreferrer">Disney Princesses in Their Old Age</a></p></body></html>
-]]></content>
-	<updated>2015-09-04T14:56:42+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-04T14:56:42+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="lists"/>
-
-	<category term="disney"/>
 
 
 </entry>
