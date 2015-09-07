@@ -4,11 +4,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-22T22:42:16+00:00</updated>
+<updated>2015-09-04T09:30:55+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-06:/5970</id>
+	<link href="http://www.numerama.com/magazine/33898-une-faille-critique-sur-les-anciens-processeurs-x86.html" rel="alternate" type="text/html"/>
+	<title type="html">Une faille critique sur les anciens processeurs x86</title>
+	<summary type="html"><![CDATA[oh misère... ça représente encore beaucoup d'ordinateurs.. 
+Je me demande si un jour on finira par d...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>oh mis&egrave;re... &ccedil;a repr&eacute;sente encore beaucoup d'ordinateurs.. <br>
+Je me demande si un jour on finira par d&eacute;couvrir une faille de s&eacute;curit&eacute; qui touche les blocs d'alimentation. Comme &ccedil;a on a fait le tour des composants des PC..<br>(<a href="https://suumitsu.eu/links/?_OSXQw" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-08-10T11:38:42+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://suumitsu.eu/links/</id>
+		<link rel="self" href="https://suumitsu.eu/links/"/>
+		<updated>2015-08-10T11:38:42+00:00</updated>
+		<title>Mitsu'liens</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-06:/5964</id>
+	<link href="http://speedof.me/" rel="alternate" type="text/html"/>
+	<title type="html">SpeedOf.Me, HTML5 Speed Test | Non Flash/Java Broadband Speed Test</title>
+	<summary type="html"><![CDATA[Pas mal !(Permalink)]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Pas mal !<br>(<a href="https://suumitsu.eu/links/?V8bY4Q" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-08-17T20:27:12+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://suumitsu.eu/links/</id>
+		<link rel="self" href="https://suumitsu.eu/links/"/>
+		<updated>2015-08-17T20:27:12+00:00</updated>
+		<title>Mitsu'liens</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-07:/6180</id>
+	<link href="http://mememaster.tumblr.com/post/128528293769" rel="alternate" type="text/html"/>
+	<title type="html">philslendy:
+
+tigerlizii:
+
+what a strange cat
+
+*dog</title>
+	<summary type="html"><![CDATA[   philslendy:
+
+tigerlizii:
+
+what a strange cat
+
+*dog]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/63ff0a8456d654dd8c5b73c7f3ec1a75/tumblr_nl7rmr0mEr1t6uw3ko1_500.jpg"><br><br><img src="http://40.media.tumblr.com/39c7de6b207914e2cb5d4eb2f9726961/tumblr_nl7rmr0mEr1t6uw3ko2_500.jpg"><br><br><img src="http://40.media.tumblr.com/27add9116a2f5010b5ba7765cc025d4a/tumblr_nl7rmr0mEr1t6uw3ko3_500.jpg"><br><br><p><a href="http://philslendy.tumblr.com/post/125645323673/tigerlizii-what-a-strange-cat-dog" target="_blank" rel="noreferrer">philslendy</a>:</p>
+
+<blockquote><p><a href="http://tigerlizii.tumblr.com/post/122945032920/what-a-strange-cat" target="_blank" rel="noreferrer">tigerlizii</a>:</p>
+
+<blockquote><p>what a strange cat<br></p></blockquote>
+
+<p>*dog</p></blockquote></body></html>
+]]></content>
+	<updated>2015-09-07T02:45:17+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-09-07T02:45:17+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-07:/6178</id>
+	<link href="http://mememaster.tumblr.com/post/128528323019" rel="alternate" type="text/html"/>
+	<title type="html">Video</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><br><br></body></html>
+]]></content>
+	<updated>2015-09-07T02:45:45+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-09-07T02:45:45+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-07:/6177</id>
+	<link href="http://mememaster.tumblr.com/post/128555215369" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/2f7616e63e1149348a2a06d1d637a8bf/tumblr_nnmijjOLDA1qewacoo1_500.jpg"><br><br></body></html>
+]]></content>
+	<updated>2015-09-07T13:10:51+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-09-07T13:10:51+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-07:/6152</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/128514804661" rel="alternate" type="text/html"/>
+	<title type="html">4gifs:
+
+Watering the cat</title>
+	<summary type="html"><![CDATA[4gifs:
+
+Watering the cat
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://31.media.tumblr.com/46223cc48ec02258176c5fb5fcc93715/tumblr_nu8pz3k41x1tlb56zo1_400.gif"><br><br><p><a href="http://4gifs.tumblr.com/post/128459625014" target="_blank" rel="noreferrer">4gifs</a>:</p>
+<blockquote>
+<p>Watering the cat</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-09-06T23:00:38+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-06T23:00:38+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-06:/6082</id>
@@ -138,7 +274,7 @@
 	<link href="https://facebook.com/lesenfantsfoires/posts/1655933304620824" rel="alternate" type="text/html"/>
 	<title type="html">lesenfantsfoires | Bonjour les Enfants ! émoticône wink Aujourd&amp;amp;#039;hui dans les coups de cœur de Larry le groupe Sigur Rós est à l&amp;amp;#039;affiche ! À l&amp;amp;#039;occasion du documentaire &amp;amp;quot;The Show of the Show&amp;amp;quot;, produit par la BBC, sur le monde des circassiens et le vaudeville prévu pour l&amp;amp;#039;an prochain, ils signent la bande originale en association avec le compositeur Hilmar Örn Hilmarsson et le guitariste Kjartan Holm. ... &amp;amp;quot;Circe&amp;amp;quot; sortira en disque le 21 août prochain et est disponible à l&amp;amp;#039;écoute dès maintenant sur soundcloud ! émoticône wink Enjoy ! émoticône heart ‪#‎larrycoupdecoeur‬ Afficher la suiteCircecirce’, an album by goggi &amp;amp;amp; orri in association with hilmar örn hilmarsson and kjartan holm. available to preorder now: http://sigur-ros-store.com/circe/</title>
 	<summary type="html"><![CDATA[Bonjour les Enfants ! émoticône wink Aujourd&#039;hui dans les coups de cœur de Larry le groupe Sigu...]]></summary>
-	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=b4221245bc4b020198c0da1bb6742f6f&amp;oe=56A79C1C&amp;__gda__=1450208891_e500888b69ee5f7d31f74bea57c1899a" alt=""></a>data-ft="{"tn":"K"}"&gt;Bonjour les Enfants ! &eacute;motic&ocirc;ne wink Aujourd'hui dans les coups de c&oelig;ur de Larry le groupe Sigur R&oacute;s est &agrave; l'affiche ! &Agrave; l'occasion du documentaire "The Show of the Show", produit par la BBC, sur le monde des circassiens et le vaudeville pr&eacute;vu pour l'an prochain, ils signent la bande originale en association avec le compositeur Hilmar &Ouml;rn Hilmarsson et le guitariste Kjartan Holm. ... "Circe" sortira en disque le 21 ao&ucirc;t prochain et est disponible &agrave; l'&eacute;coute d&egrave;s maintenant sur soundcloud ! &eacute;motic&ocirc;ne wink Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1655933304620824" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a> <a href="http://192.168.137.2/#" data-ft='{"tn":"e"}' role="button" rel="noreferrer" target="_blank">Afficher la suite</a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=dAQEkOWH9&amp;enc=AZOiuWjkQ612mSJPCMCzu3G3hkTdJWQnQHSQSvaMkVYutLoDZudzThRpQlcjBb12nVrCMVB4pWwhM4sOujlYQNFT9JdRQ5TYRqw7DY3p4qXVqKNdoNsxVdlX7AvFLz_NfDaqcnNrsyxc5Y5gDPnPbV8NqxkDU9rJhe7lOXLqSqWm6BXGTTx6nu26ZiTzTZwQnmbOG9_ZcZK1sG_KhYoxNMvU&amp;s=1" target="_blank" rel="noreferrer"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCsJWseJDFGOLIL&amp;w=158&amp;h=158&amp;url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000124629501-fzqd79-t200x200.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=5AQH1sDYW&amp;s=1" rel="noreferrer" target="_blank">Circe</a>circe&rsquo;, an album by goggi &amp; orri in association with hilmar &ouml;rn hilmarsson and kjartan holm. available to preorder now: <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fsigur-ros-store.com%2Fcirce%2F&amp;h=5AQH1sDYW&amp;s=1" target="_blank" rel="noreferrer">http://sigur-ros-store.com/circe/</a></body></html>
+	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=b4221245bc4b020198c0da1bb6742f6f&amp;oe=56A79C1C&amp;__gda__=1450208891_e500888b69ee5f7d31f74bea57c1899a" alt=""></a>data-ft="{"tn":"K"}"&gt;Bonjour les Enfants ! &eacute;motic&ocirc;ne wink Aujourd'hui dans les coups de c&oelig;ur de Larry le groupe Sigur R&oacute;s est &agrave; l'affiche ! &Agrave; l'occasion du documentaire "The Show of the Show", produit par la BBC, sur le monde des circassiens et le vaudeville pr&eacute;vu pour l'an prochain, ils signent la bande originale en association avec le compositeur Hilmar &Ouml;rn Hilmarsson et le guitariste Kjartan Holm. ... "Circe" sortira en disque le 21 ao&ucirc;t prochain et est disponible &agrave; l'&eacute;coute d&egrave;s maintenant sur soundcloud ! &eacute;motic&ocirc;ne wink Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1655933304620824" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a> <a href="http://192.168.137.2/#" data-ft='{"tn":"e"}' role="button" rel="noreferrer" target="_blank">Afficher la suite</a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=wAQH0TcQW&amp;enc=AZPnxQ-ZYcZYtmxBXaK_SZOeC-glqCgXdZE6Nu3YCBLBqK69vhd-lhuwbQFjshJ-jqL1va2COfBwC3ti8OZ6Ygk3HZMeeqdec73agd-a8ZsZUTL7GscOgsU74e1IK8W90xaMcra3RC8miUMOrc_QEGmc_1lanFt3ngJKzLqqP427Taat--_5HGd1FtqvkrCzBHH3enBYAzSPEfNWQfTQ4tvw&amp;s=1" target="_blank" rel="noreferrer"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCsJWseJDFGOLIL&amp;w=158&amp;h=158&amp;url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000124629501-fzqd79-t200x200.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=FAQFGT8y-&amp;s=1" rel="noreferrer" target="_blank">Circe</a>circe&rsquo;, an album by goggi &amp; orri in association with hilmar &ouml;rn hilmarsson and kjartan holm. available to preorder now: <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fsigur-ros-store.com%2Fcirce%2F&amp;h=EAQFj2Fpu&amp;s=1" target="_blank" rel="noreferrer">http://sigur-ros-store.com/circe/</a></body></html>
 ]]></content>
 	<updated>2015-08-12T11:57:59+00:00</updated>
 	<author><name>Facebook Bridge</name></author>
@@ -1440,192 +1576,6 @@ If I owned a taser I’d probably get curious to see how it feels and taser myse
 		type="image/generic" 
 		length="1"
 		href="http://konachan.com/data/preview/ce/96/ce968e14e01e7805e709a93d51c0cadb.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-03:/5023</id>
-	<link href="http://konachan.com/post/show/206134" rel="alternate" type="text/html"/>
-	<title type="html">building city clouds k_kanehira landscape nobody original scenic sky tree water</title>
-	<summary type="html"><![CDATA[
-        
-      ]]></summary>
-	<content type="html"><![CDATA[<html><body><img alt="building city clouds k_kanehira landscape nobody original scenic sky tree water" src="http://konachan.com/data/preview/5e/09/5e09c993ddc974c22040c117fe9541cf.jpg"></body></html>
-]]></content>
-	<updated>2015-09-04T09:30:55+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://konachan.com/</id>
-		<link rel="self" href="http://konachan.com/"/>
-		<updated>2015-09-04T09:30:55+00:00</updated>
-		<title>konachan.com/</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/jpeg" 
-		length="1"
-		href="http://konachan.com/image/5e09c993ddc974c22040c117fe9541cf/Konachan.com%20-%20206134%20building%20city%20k_kanehira%20landscape%20nobody%20original%20scenic.jpg"/>
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://konachan.com/data/preview/5e/09/5e09c993ddc974c22040c117fe9541cf.jpg"/>
-
-	<link rel="enclosure" 
-		type="image/jpeg" 
-		length="1"
-		href="http://konachan.com/image/5e09c993ddc974c22040c117fe9541cf/Konachan.com%20-%20206134%20building%20city%20clouds%20k_kanehira%20landscape%20nobody%20original%20scenic%20sky%20tree%20water.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-03:/5022</id>
-	<link href="http://konachan.com/post/show/206135" rel="alternate" type="text/html"/>
-	<title type="html">bou_nin dress leaves long_hair original wings</title>
-	<summary type="html"><![CDATA[
-        
-      ]]></summary>
-	<content type="html"><![CDATA[<html><body><img alt="bou_nin dress leaves long_hair original wings" src="http://konachan.com/data/preview/4f/65/4f65fe39cf593ef776b5b34e6d268029.jpg"></body></html>
-]]></content>
-	<updated>2015-09-04T14:25:28+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://konachan.com/</id>
-		<link rel="self" href="http://konachan.com/"/>
-		<updated>2015-09-04T14:25:28+00:00</updated>
-		<title>konachan.com/</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/jpeg" 
-		length="1"
-		href="http://konachan.com/sample/4f65fe39cf593ef776b5b34e6d268029/Konachan.com%20-%20206135%20sample.jpg"/>
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://konachan.com/data/preview/4f/65/4f65fe39cf593ef776b5b34e6d268029.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5367</id>
-	<link href="http://rue89.nouvelobs.com/2015/09/04/anonyme-twitter-jai-potentiel-dun-gros-desequilibre-261061" rel="alternate" type="text/html"/>
-	<title type="html">Anonyme sur Twitter, j’ai le potentiel d’un (gros) déséquilibré</title>
-	<summary type="html"><![CDATA[        Pour trouver une photo de profil, j’ai tapé  « blond vénitien homme » sur Google. J’ai final...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Pour trouver une photo de profil, j&rsquo;ai tap&eacute; <a href="https://www.google.fr/search?q=blond+v%C3%A9nitien+homme&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0CAcQ_AUoAWoVChMIi4bA4sXdxwIVBboUCh1QhAMS&amp;biw=1920&amp;bih=969" target="_blank" rel="noreferrer"> &laquo;&nbsp;blond v&eacute;nitien homme&nbsp;&raquo;</a> sur Google. J&rsquo;ai finalement choisi un blond, de dos. Ma pr&eacute;sentation&nbsp;? Des conneries, mais pas trop, histoire d&rsquo;&ecirc;tre assez cr&eacute;dible pour pouvoir alpaguer des utilisateurs sans faire flipper. Voil&agrave;, je suis un anonyme, avec la conviction d&rsquo;avoir un ch&egrave;que en blanc&nbsp;: quoi que je dise sur Twitter, personne ne saura que c&rsquo;est moi.</p> <p>C&rsquo;est en cherchant une mani&egrave;re de fermer <a href="http://blogs.rue89.nouvelobs.com/cyber-kefi" rel="noreferrer" target="_blank">le &laquo;&nbsp;Cyber-Kefi&nbsp;&raquo;</a> &ndash; blog qui raconte les gal&egrave;res d&rsquo;un homme avec les outils num&eacute;riques &ndash; que je me suis mis en t&ecirc;te de cr&eacute;er <a href="http://rue89.nouvelobs.com/2015/09/04/comment-faire-compte-anonyme-twitter-sans-faire-gauler-261058" rel="noreferrer" target="_blank">un &laquo;&nbsp;faux&nbsp;&raquo; compte Twitter</a>. C&rsquo;est aussi en discutant avec &laquo;&nbsp;des trolls&nbsp;&raquo; que j&rsquo;ai voulu comprendre ce qu&rsquo;ils entendaient par &laquo;&nbsp;jeu&nbsp;&raquo; et &laquo;&nbsp;catharsis&nbsp;&raquo;. Par &laquo;&nbsp;d&eacute;lire&nbsp;&raquo;, parfois addictif, comme s&rsquo;ils parlaient de <a href="https://fr.wikipedia.org/wiki/Mega_Drive" target="_blank" rel="noreferrer">Mega Drive</a> ou de poker.</p> <p>Une mini-exp&eacute;rience qui n&rsquo;a rien de scientifique&nbsp;: le personnage du blog &eacute;tait dingue, pourquoi ne pas pousser une derni&egrave;re fois le d&eacute;lire &agrave; fond&nbsp;? Quand je dis anonymat, je parle de celui qui permet de ne plus s&rsquo;embarrasser des r&egrave;gles de biens&eacute;ance. D&rsquo;attaquer et de provoquer n&rsquo;importe qui, en guettant les r&eacute;actions que cela va susciter, sans se soucier du &laquo;&nbsp;politiquement correct&nbsp;&raquo;.</p> <p>De jauger des inconnus, des coll&egrave;gues et d&rsquo;autres anonymes, sans la pression d&rsquo;avoir quelque chose &agrave; perdre. Quelque chose comme &ccedil;a.</p> <h2>Un journaliste un peu allum&eacute;</h2> <p>D&egrave;s le premier tweet factice, j&rsquo;ai compris que j&rsquo;avais le potentiel d&rsquo;un gros d&eacute;s&eacute;quilibr&eacute;. Moi qui n&rsquo;ai jamais &eacute;t&eacute; un grand twitto, j&rsquo;ai ainsi pris du plaisir &agrave; baratiner un inconnu pour une histoire d&rsquo;immobilier. A balancer n&rsquo;importe quoi, avec l&rsquo;impression sur le moment d&rsquo;&ecirc;tre un gros malin parce que j&rsquo;avais r&eacute;ussi &agrave; pi&eacute;ger quelqu&rsquo;un. A le manipuler. Etrange impression, vraiment.</p> <p>Ceux qui &eacute;taient dans la confidence se sont marr&eacute;s. Il n&rsquo;y avait pas vraiment de blague, mais ce n&rsquo;est pas grave&nbsp;: sur Internet, il n&rsquo;en faut pas toujours beaucoup pour rigoler, comme dans une cour de r&eacute;cr&eacute;. Et comme ils se marrent, je me marre en cherchant d&eacute;j&agrave; la prochaine connerie pour les faire marrer.</p> <p>Sur Twitter, je me suis fait passer pour un journaliste un peu allum&eacute;. Un type qui va emb&ecirc;ter ses confr&egrave;res et les critiquer sans raison apparente. Rien de m&eacute;chant, mais forc&eacute;ment, un c&ocirc;t&eacute; pervers. Rien &agrave; gagner, ni &agrave; perdre, si ce n&rsquo;est du temps. Si ma &laquo;&nbsp;victime&nbsp;&raquo; craque, &ccedil;a fera un fou rire plus gros et de toute fa&ccedil;on, je lui confesserai ma connerie un peu plus tard. Mais quand je l&rsquo;aurai d&eacute;cid&eacute;.</p> <p>Je me suis fait passer pour un fan d&rsquo;Eric Ciotti, de Jean-Vincent Plac&eacute;, d&rsquo;Amadou et Mariam, de V&eacute;ronique Sanson... il n&rsquo;y a aucune coh&eacute;rence, mais est-ce que tous les jeux doivent &ecirc;tre coh&eacute;rents&nbsp;? A qui fais-je du mal&nbsp;? &Ccedil;a m&rsquo;amuse. Il n&rsquo;y a aucun int&eacute;r&ecirc;t, mais pourquoi, juste avant de lire un nouveau message, j&rsquo;ai une d&eacute;gaine de balance fra&icirc;chement r&eacute;compens&eacute;e&nbsp;? </p> <h2>Des cons partout</h2> <p>Pendant deux jours, j&rsquo;ai &eacute;t&eacute; un troll gentil, de l&rsquo;esp&egrave;ce qui sait s&rsquo;arr&ecirc;ter quand &ccedil;a peut aller trop loin. Mais j&rsquo;ai tr&egrave;s vite arr&ecirc;t&eacute;, car je savais que je pouvais justement aller trop loin. Faire gamberger un inconnu inutilement, le blesser, le mettre en p&eacute;tard. Ce n&rsquo;est pas si grave au fond, puisque c&rsquo;est la loi de Twitter. Mec, tu viens sur le front, tu t&rsquo;exposes aux balles perdues. Mais bon, c&rsquo;est un coup &agrave; d&eacute;passer le stade de la connerie et surtout, s&rsquo;embourber. A croire que tout &ccedil;a a vraiment un sens.</p>  <a href="http://rue89.nouvelobs.com/sites/news/files/assets/image/2015/09/orangin_rouge.jpg" title="&quot;Mais pourquoi est-il aussi m&amp;eacute;chant ? Parce que&quot; : capture d'&amp;eacute;cran de la publicit&amp;eacute; Orangina rouge, 1996" rel="noreferrer" target="_blank"><img src="http://rue89.nouvelobs.com/sites/news/files/styles/asset_img_full/public/assets/image/2015/09/orangin_rouge.jpg" width="464" height="319" alt=""></a><p> &laquo;&nbsp;Mais pourquoi est-il aussi m&eacute;chant&nbsp;? Parce que&nbsp;&raquo;&nbsp;: capture d&rsquo;&eacute;cran de la publicit&eacute; Orangina rouge, 1996&nbsp;<a href="http://www.ina.fr/video/PUB419127061" rel="noreferrer" target="_blank">(INA.fr)</a></p>  <p> </p> <p>Je l&rsquo;admets, avec un compte anonyme, la tentation est grande de frapper un grand coup avec ceux qui le m&eacute;ritent. Les cons. De balancer une vanne assassine, parce que, de toute fa&ccedil;on, tout &ccedil;a n&rsquo;est que virtuel. Et puis c&rsquo;est un(e) con(ne), donc il (elle) a l&rsquo;habitude. C&rsquo;est mal, je le confesse.</p> <p>Le probl&egrave;me, c&rsquo;est qu&rsquo;on peut prendre go&ucirc;t &agrave; la d&eacute;tente. Une insulte, puis deux et au final, peut-&ecirc;tre qu&rsquo;on est d&eacute;j&agrave; accro. Et qu&rsquo;on commence &agrave; traiter tout le monde de con, avec des crit&egrave;res de moins en moins s&eacute;v&egrave;res, pour aller encore plus loin dans le jeu.</p> <h2>&Ccedil;a d&eacute;foule, c&rsquo;est tout</h2> <p>J&rsquo;ai essay&eacute; de pi&eacute;ger des coll&egrave;gues en message priv&eacute;. Leur expliquer pourquoi je trouvais leurs reportages assez bof. Leur ai propos&eacute; des sujets bidons, comme &laquo;&nbsp;les poissons soign&eacute;s par les ondes wifi&nbsp;&raquo;. Ils ne comprenaient pas, mais &ccedil;a me faisait marrer de savoir qu&rsquo;ils doutaient. Mine de rien, j&rsquo;utilisais pour leur mettre un coup de pression certains reproches que d&rsquo;autres anonymes m&rsquo;avaient d&eacute;j&agrave; fait. Inconsciemment. J&rsquo;ai remarqu&eacute; &ccedil;a en me relisant et quand je parle de perversit&eacute;, je pense &agrave; &ccedil;a.</p> <p>Si j&rsquo;avais continu&eacute;, peut-&ecirc;tre bien que j&rsquo;aurais pris go&ucirc;t &agrave; d&eacute;couvrir comment des personnes avec lesquelles je travaille r&eacute;agissent dans l&rsquo;intimit&eacute; aux critiques, m&ecirc;me les plus subtiles. L&agrave;, &ccedil;a serait devenu presque intime, donc flippant.</p> <p>Ce compte non officiel de faux journaliste a commenc&eacute; &agrave; susciter l&rsquo;envie de mes coll&egrave;gues dans la confidence.</p> <blockquote><p> &laquo;&nbsp;Et si on clashait untel et si on emb&ecirc;tait unetelle&nbsp;?&nbsp;&raquo;</p> </blockquote> <p>Pour les jauger. Savoir s&rsquo;ils reprennent des messages, m&ecirc;me les plus absurdes, pourvu qu&rsquo;il aille dans leur sens. Enrober cela dans quelque chose d&rsquo;&laquo;&nbsp;exp&eacute;rimental&nbsp;&raquo;, genre &laquo;&nbsp;essayons de comprendre les comportements humains&nbsp;&raquo;. En fait, &ccedil;a aussi, c&rsquo;est des conneries. C&rsquo;est autre chose. &Ccedil;a d&eacute;foule, c&rsquo;est tout. Et chacun avance la justification dont il a envie.</p> <p>Le premier post de blog (voir au dessus) s&rsquo;intitulait <a href="http://blogs.rue89.nouvelobs.com/cyber-kefi/2014/11/04/la-revolution-numerique-ma-rendu-schizo-233758" rel="noreferrer" target="_blank"> &laquo;&nbsp;la r&eacute;volution num&eacute;rique m&rsquo;a rendu schizo&nbsp;&raquo;</a>. Il y a de &ccedil;a dans ce que je raconte. Juste avant d&rsquo;arr&ecirc;ter mes b&ecirc;tises virtuelles, j&rsquo;ai manqu&eacute; de tweeter l&rsquo;un des mes articles avec mon faux compte. Voil&agrave;.</p></body></html>
-]]></content>
-	<updated>2015-09-04T15:22:26+00:00</updated>
-	<author><name>Ramses Kefi</name></author>
-	<source>
-		<id>http://rue89.nouvelobs.com/</id>
-		<link rel="self" href="http://rue89.nouvelobs.com/"/>
-		<updated>2015-09-04T15:22:26+00:00</updated>
-		<title>Rue89</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5322</id>
-	<link href="http://www.zataz.com/spy-phishing/" rel="alternate" type="text/html"/>
-	<title type="html">Les espions américains sont-ils bêtes comme leurs pieds ?</title>
-	<summary type="html"><![CDATA[ZATAZ Magazine » Les espions américains sont-ils bêtes comme leurs pieds ? &#13;
-	&#13;
-
-		
-		ZATAZ....]]></summary>
-	<content type="html"><![CDATA[<html><body><div readability="5"><!--<![endif]--><!--[if lt IE 9]>
-		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]--><!--[if IE 7]>
-		<link rel="stylesheet" href="//www.zataz.com/wp-content/themes/worldwide-v1-04/stylesheet/ie7-style.css" /> 
-		<link rel="stylesheet" href="//www.zataz.com/wp-content/themes/worldwide-v1-04/stylesheet/font-awesome/font-awesome-ie7.min.css" /> 
-	<![endif]--><!--[if lt IE 9]>
-<style type="text/css">
-	body{ min-width: 1180px; }
-	div.shortcode-dropcap.circle,
-	div.anythingSlider .anythingControls ul a, .flex-control-nav li a, 
-	.nivo-controlNav a, ls-bottom-slidebuttons a{
-		z-index: 1000;
-		position: relative;
-		behavior: url(http://www.zataz.com/wp-content/themes/worldwide-v1-04/stylesheet/ie-fix/PIE.php);
-	}
-
-	ul.gdl-accordion li, ul.gdl-toggle-box li{ overflow: hidden; }
-	
-		
-</style>
-<![endif]--><!-- body outer wrapper -->
-	
-
-		<!-- Infolinks START -->
-		<!-- Infolinks END --><div><div><span>ZATAZ.COM utilise les cookies pour vous garantir la meilleure exp&eacute;rience sur notre site. Si vous continuez &agrave; utiliser ce dernier, nous consid&eacute;rerons que vous acceptez l'utilisation des cookies.</span><a href="http://flxc.fr/" data-cookie-set="accept" rel="noreferrer" target="_blank">Ok</a>
-				</div>
-			</div>
-</div></body></html>
-]]></content>
-	<updated>2015-09-03T00:00:00+00:00</updated>
-	<author><name>Zataz Magazine</name></author>
-	<source>
-		<id>http://www.zataz.com</id>
-		<link rel="self" href="http://www.zataz.com"/>
-		<updated>2015-09-03T00:00:00+00:00</updated>
-		<title>Zataz Magazine</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5402</id>
-	<link href="http://korben.info/10-bonnes-raisons-de-passer-a-windows-10.html" rel="alternate" type="text/html"/>
-	<title type="html">10 bonnes raisons de passer à Ubuntu</title>
-	<summary type="html"><![CDATA[Vous l'avez surement manqué, mais Microsoft a publié une vidéo très entrainante (je danse debout sur...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Vous l'avez surement manqu&eacute;, mais Microsoft a publi&eacute; une vid&eacute;o tr&egrave;s entrainante (je danse debout sur ma chaise de bureau l&agrave;) pour indiquer &agrave; tous ceux qui la verront, les 10 raisons ultimes de passer &agrave; Windows 10.</p><p></p><p>En r&eacute;action &agrave; cela, <a href="http://twitter.com/%60AndreasWebdev" rel="noreferrer" target="_blank">Andreas</a> s'est amus&eacute; &agrave; la parodier et a r&eacute;alis&eacute; les "10 raisons de passer &agrave; Ubuntu 15.04".</p><p></p><p>&Agrave; vous de me dire laquelle vous avez pr&eacute;f&eacute;r&eacute;e, car moi je n'arrive pas &agrave; me d&eacute;cider...</p><p>Notez que personne n'a fait de parodie pour inciter les gens &agrave; passer sous OSX. C'est un myst&egrave;re...</p><p>Cet article merveilleux et sans aucun &eacute;gal intitul&eacute; : <a rel="noreferrer" href="http://korben.info/10-bonnes-raisons-de-passer-a-windows-10.html" target="_blank">10 bonnes raisons de passer &agrave; Ubuntu</a> ; a &eacute;t&eacute; publi&eacute; sur <a rel="noreferrer" href="http://korben.info" target="_blank">Korben</a>, le seul site qui t'aime plus fort que tes parents.</p></body></html>
-]]></content>
-	<updated>2015-08-22T22:15:40+00:00</updated>
-	<author><name>Korben</name></author>
-	<source>
-		<id>http://korben.info</id>
-		<link rel="self" href="http://korben.info"/>
-		<updated>2015-08-22T22:15:40+00:00</updated>
-		<title>Korben</title></source>
-
-	<category term="bidouilleurs"/>
-
-	<category term="linux"/>
-
-	<category term="linuxiens"/>
-
-	<category term="vidéo"/>
-
-	<category term="windows"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5401</id>
-	<link href="http://korben.info/combien-de-temps-devez-vous-travailler-pour-vous-payer-un-truc.html" rel="alternate" type="text/html"/>
-	<title type="html">Combien de temps devez-vous travailler pour vous payer un truc ?</title>
-	<summary type="html"><![CDATA[Grâce à cette calculatrice en temps réel on peut mesurer le temps qu'il faut travailler pour s'achet...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Gr&acirc;ce &agrave; <a href="http://www.retale.com/info/salaries-in-real-time/" rel="noreferrer" target="_blank">cette calculatrice en temps r&eacute;el</a> on peut mesurer le temps qu'il faut travailler pour s'acheter des trucs. Vous entrez votre salaire &agrave; l'ann&eacute;e en dollars, et paf, vous saurez combien de minutes vous devez suer pour vous payer un burger ou une paire de pompes.</p><p><a href="http://korben.info/wp-content/uploads/2015/08/ffer.png" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/08/ffer-650x492.png" alt="ffer" width="650" height="492"></a></p><p>Et comme si &ccedil;a ne suffisait pas, vous pouvez comparer votre situation &agrave; celle d'Oprah, d'un chirurgien orthop&eacute;dique ou d'un prof..</p><p>Bon, c'est calqu&eacute; sur le niveau de vie des am&eacute;ricains mais y'a de quoi y r&eacute;fl&eacute;chir &agrave; 2 fois avant d'acheter des trucs qui ne servent &agrave; rien sur Amazon :)</p><p><a href="http://lifehacker.com/this-real-time-calculator-shows-how-long-it-takes-you-t-1725889923" rel="noreferrer" target="_blank">Source</a></p><p>Cet article merveilleux et sans aucun &eacute;gal intitul&eacute; : <a rel="noreferrer" href="http://korben.info/combien-de-temps-devez-vous-travailler-pour-vous-payer-un-truc.html" target="_blank">Combien de temps devez-vous travailler pour vous payer un truc ?</a> ; a &eacute;t&eacute; publi&eacute; sur <a rel="noreferrer" href="http://korben.info" target="_blank">Korben</a>, le seul site qui t'aime plus fort que tes parents.</p></body></html>
-]]></content>
-	<updated>2015-08-22T22:42:16+00:00</updated>
-	<author><name>Korben</name></author>
-	<source>
-		<id>http://korben.info</id>
-		<link rel="self" href="http://korben.info"/>
-		<updated>2015-08-22T22:42:16+00:00</updated>
-		<title>Korben</title></source>
-
-	<category term="service web"/>
-
-	<category term="calcul"/>
-
-	<category term="salaire"/>
-
-	<category term="temps réel"/>
-
 
 </entry>
 
