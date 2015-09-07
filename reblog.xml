@@ -4,11 +4,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-30T13:17:48+00:00</updated>
+<updated>2015-09-05T12:25:05+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-06:/5983</id>
+	<link href="http://www.franceinfo.fr/emission/nouveau-monde/2014-2015/les-cinq-principales-nouveautes-de-microsoft-windows-10-29-07-2015-07-00" rel="alternate" type="text/html"/>
+	<title type="html">Les cinq principales nouveautés de Microsoft Windows 10 | France info</title>
+	<summary type="html"><![CDATA[&quot;Windows as a service&quot;
+→ ou plutôt SaaS: Software as a Service. On n'est pas encore tout à...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>"Windows as a service"<br>
+&rarr; ou plut&ocirc;t SaaS: Software as a Service. On n'est pas encore tout &agrave; fait &agrave; l'OS install&eacute; en &laquo; bootstrap &raquo; qui t&eacute;l&eacute;charge donn&eacute;es et param&egrave;tres depuis le cloud &agrave; chaque d&eacute;marrage. Mais &ccedil;a vient: par d&eacute;faut l'auth dans W10 se passe d&eacute;j&agrave; dans le cloud, et Microsoft a Azure. Un paradigme que j'approuve pas du tout.<br><br>
+&laquo; Par ailleurs, l&rsquo;&eacute;diteur emprunte &agrave; Apple la bonne id&eacute;e des bureaux multiples et d&rsquo;un volet de notification sur la droite de l&rsquo;&eacute;cran &raquo;<br>
+&rarr; ...Apple ? Les bureaux multiples et les gestionnaires de notification existent depuis aussi longtemps que je me rappelle sous KDE, Gnome, Xfce, Cinnamon, MATE, ...<br><br>
+&laquo; L&rsquo;assistant vocal Cortana &raquo;<br>
+&rarr; dont il faut rappeler que l'apprentissage de la reconnaissance vocale n&eacute;cessite des humains: il n'y a pas que la NSA qui saura que vous avez h&acirc;te de rentrer chez vous pour l&eacute;chouiller les t&eacute;tons de votre partenaire<br><br>
+&laquo; Adieu "Internet Explorer". Bonjour "Edge", le nouveau navigateur Web de Microsoft &raquo;<br>
+&rarr; c&ocirc;t&eacute; HTML 5 &ccedil;a reste mis&eacute;rable face &agrave; Chromium ou Firefox<br><br>
+&laquo; Pour d&eacute;verrouiller votre ordinateur, asseyez-vous simplement face &agrave; lui et, en une demi-seconde, il vous reconna&icirc;t &raquo;<br>
+&rarr; suite logique de ce que sait faire Microsoft avec le Kinnect. Euh comment dire... une webcam en fonction en permanence ? Une base de donn&eacute;es biom&eacute;trique ? La CNIL n'y trouve rien &agrave; redire ?<br><br>
+&laquo; Le nouveau Windows est gratuit pour le grand public &raquo;<br>
+&rarr; le grand public est donc le produit. Les pr&eacute;f&eacute;rences et habitudes d'utilisations sont mon&eacute;tis&eacute;es. <br><br><br>
+Bref. Du Chrome OS sauce Microsoft.<br>(<a href="https://suumitsu.eu/links/?0g_tkw" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-07-29T08:42:45+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://suumitsu.eu/links/</id>
+		<link rel="self" href="https://suumitsu.eu/links/"/>
+		<updated>2015-07-29T08:42:45+00:00</updated>
+		<title>Mitsu'liens</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-06:/5980</id>
+	<link href="http://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno=CCPR%2fC%2fFRA%2fCO%2f5&amp;Lang=en" rel="alternate" type="text/html"/>
+	<title type="html">Comité des droits de l’homme - Observations finales concernant le cinquième rapport périodique du France</title>
+	<summary type="html"><![CDATA[La France n'a aucune légitimité à s'affirmer encore « pays des Droits de l'Homme ». Lisez donc ce ra...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>La France n'a aucune l&eacute;gitimit&eacute; &agrave; s'affirmer encore &laquo; pays des Droits de l'Homme &raquo;. Lisez donc ce rapport du Haut-Commissariat des Nations unies aux droits de l'Homme, au sujet de la France. C'est un floril&egrave;ge de scandales, du racisme &agrave; l'&eacute;galit&eacute; hommes-femmes en passant par le projet de loi renseignement et l'indemnisation des victimes d'essais nucl&eacute;aires.<br><br>
+(merci au Canard Enchain&eacute; d'avoir attir&eacute; mon attention l&agrave; dessus)<br>(<a href="https://suumitsu.eu/links/?m8hpLw" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-07-30T11:25:56+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://suumitsu.eu/links/</id>
+		<link rel="self" href="https://suumitsu.eu/links/"/>
+		<updated>2015-07-30T11:25:56+00:00</updated>
+		<title>Mitsu'liens</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-07:/6282</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/128578915318" rel="alternate" type="text/html"/>
+	<title type="html">They’re so realistic. (via bierrr)</title>
+	<summary type="html"><![CDATA[   They’re so realistic. (via bierrr)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/304cfb353725bbb4d0a2c2743a8d07fb/tumblr_nubne52uSY1qewacoo3_r1_500.jpg"><br><br><img src="http://41.media.tumblr.com/e240da987ab12001ef260f55af79480f/tumblr_nubne52uSY1qewacoo1_r1_500.jpg"><br><br><img src="http://40.media.tumblr.com/549a1e51245e1031896f1c9b0772f718/tumblr_nubne52uSY1qewacoo2_r1_500.jpg"><br><br><p>They&rsquo;re so realistic. (via <a href="https://www.reddit.com/user/Bierrr" target="_blank" rel="noreferrer">bierrr</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-07T19:27:41+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-07T19:27:41+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-07:/6232</id>
@@ -328,7 +396,7 @@ Watering the cat
 	<link href="https://facebook.com/lesenfantsfoires/posts/1655933304620824" rel="alternate" type="text/html"/>
 	<title type="html">lesenfantsfoires | Bonjour les Enfants ! émoticône wink Aujourd&amp;amp;#039;hui dans les coups de cœur de Larry le groupe Sigur Rós est à l&amp;amp;#039;affiche ! À l&amp;amp;#039;occasion du documentaire &amp;amp;quot;The Show of the Show&amp;amp;quot;, produit par la BBC, sur le monde des circassiens et le vaudeville prévu pour l&amp;amp;#039;an prochain, ils signent la bande originale en association avec le compositeur Hilmar Örn Hilmarsson et le guitariste Kjartan Holm. ... &amp;amp;quot;Circe&amp;amp;quot; sortira en disque le 21 août prochain et est disponible à l&amp;amp;#039;écoute dès maintenant sur soundcloud ! émoticône wink Enjoy ! émoticône heart ‪#‎larrycoupdecoeur‬ Afficher la suiteCircecirce’, an album by goggi &amp;amp;amp; orri in association with hilmar örn hilmarsson and kjartan holm. available to preorder now: http://sigur-ros-store.com/circe/</title>
 	<summary type="html"><![CDATA[Bonjour les Enfants ! émoticône wink Aujourd&#039;hui dans les coups de cœur de Larry le groupe Sigu...]]></summary>
-	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=b4221245bc4b020198c0da1bb6742f6f&amp;oe=56A79C1C&amp;__gda__=1450208891_e500888b69ee5f7d31f74bea57c1899a" alt=""></a>data-ft="{"tn":"K"}"&gt;Bonjour les Enfants ! &eacute;motic&ocirc;ne wink Aujourd'hui dans les coups de c&oelig;ur de Larry le groupe Sigur R&oacute;s est &agrave; l'affiche ! &Agrave; l'occasion du documentaire "The Show of the Show", produit par la BBC, sur le monde des circassiens et le vaudeville pr&eacute;vu pour l'an prochain, ils signent la bande originale en association avec le compositeur Hilmar &Ouml;rn Hilmarsson et le guitariste Kjartan Holm. ... "Circe" sortira en disque le 21 ao&ucirc;t prochain et est disponible &agrave; l'&eacute;coute d&egrave;s maintenant sur soundcloud ! &eacute;motic&ocirc;ne wink Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1655933304620824" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a> <a href="http://192.168.137.2/#" data-ft='{"tn":"e"}' role="button" rel="noreferrer" target="_blank">Afficher la suite</a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=jAQFGzJrX&amp;enc=AZPx2su7FHe-NX9GP31Zsr4-a4WlJNQoc5KmBuqmnjXBvQlGQ6HEWQbE6xSC-udlVjGcMvmqUSjoP_8z0h6JF5J46CZj_xHJiaqUt73-TRxfj-UBdB_2mYvv7M_TsBk1OQ64LwOp7u736LXMDFOoahCOnSdNS07lsdXn1F3tMXcxhkPrCzJnjC-5mUmmaMaN3MzYXbblwILhryVDaxomgSqH&amp;s=1" target="_blank" rel="noreferrer"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCsJWseJDFGOLIL&amp;w=158&amp;h=158&amp;url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000124629501-fzqd79-t200x200.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=5AQET052Y&amp;s=1" rel="noreferrer" target="_blank">Circe</a>circe&rsquo;, an album by goggi &amp; orri in association with hilmar &ouml;rn hilmarsson and kjartan holm. available to preorder now: <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fsigur-ros-store.com%2Fcirce%2F&amp;h=-AQFKu7nq&amp;s=1" target="_blank" rel="noreferrer">http://sigur-ros-store.com/circe/</a></body></html>
+	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=b4221245bc4b020198c0da1bb6742f6f&amp;oe=56A79C1C&amp;__gda__=1450208891_e500888b69ee5f7d31f74bea57c1899a" alt=""></a>data-ft="{"tn":"K"}"&gt;Bonjour les Enfants ! &eacute;motic&ocirc;ne wink Aujourd'hui dans les coups de c&oelig;ur de Larry le groupe Sigur R&oacute;s est &agrave; l'affiche ! &Agrave; l'occasion du documentaire "The Show of the Show", produit par la BBC, sur le monde des circassiens et le vaudeville pr&eacute;vu pour l'an prochain, ils signent la bande originale en association avec le compositeur Hilmar &Ouml;rn Hilmarsson et le guitariste Kjartan Holm. ... "Circe" sortira en disque le 21 ao&ucirc;t prochain et est disponible &agrave; l'&eacute;coute d&egrave;s maintenant sur soundcloud ! &eacute;motic&ocirc;ne wink Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1655933304620824" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a> <a href="http://192.168.137.2/#" data-ft='{"tn":"e"}' role="button" rel="noreferrer" target="_blank">Afficher la suite</a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=YAQH4hLg9&amp;enc=AZO4fsjp9gaONQgU5r4yliBenb2tGw82JzrSGIO1FfE3vZSxGIPaYEX0XhkpqFDhv3vQa95XftFQp9St-2_PYJzMRVaJPyJozJAOPy5MQfY7aXkKZCimFCZT5H-g_v5PuKx9deorsauBv5YExLQQhSWw7MSYCyl-0nUX8j1vG7RYagKb8z4NaVuXDOPnAjyhr7hnSS_yyCcNXbAvNeM5LssQ&amp;s=1" target="_blank" rel="noreferrer"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCsJWseJDFGOLIL&amp;w=158&amp;h=158&amp;url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000124629501-fzqd79-t200x200.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=dAQG5BCL_&amp;s=1" rel="noreferrer" target="_blank">Circe</a>circe&rsquo;, an album by goggi &amp; orri in association with hilmar &ouml;rn hilmarsson and kjartan holm. available to preorder now: <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fsigur-ros-store.com%2Fcirce%2F&amp;h=XAQFYqoUq&amp;s=1" target="_blank" rel="noreferrer">http://sigur-ros-store.com/circe/</a></body></html>
 ]]></content>
 	<updated>2015-08-12T11:57:59+00:00</updated>
 	<author><name>Facebook Bridge</name></author>
@@ -1450,96 +1518,6 @@ If I owned a taser I’d probably get curious to see how it feels and taser myse
 		<updated>2015-09-05T12:25:05+00:00</updated>
 		<title>Published articles</title></source>
 
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-28:/4099</id>
-	<link href="http://konachan.com/post/show/205840" rel="alternate" type="text/html"/>
-	<title type="html">grass halo original otsumami_(bu-bu-heaven) scenic</title>
-	<summary type="html"><![CDATA[
-        
-      ]]></summary>
-	<content type="html"><![CDATA[<html><body><img alt="grass halo original otsumami_(bu-bu-heaven) scenic" src="http://konachan.com/data/preview/11/05/1105d612326acbf43e932c3ae2438626.jpg"></body></html>
-]]></content>
-	<updated>2015-08-28T17:04:28+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://konachan.com/</id>
-		<link rel="self" href="http://konachan.com/"/>
-		<updated>2015-08-28T17:04:28+00:00</updated>
-		<title>konachan.com/</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/jpeg" 
-		length="1"
-		href="http://konachan.com/sample/1105d612326acbf43e932c3ae2438626/Konachan.com%20-%20205840%20sample.jpg"/>
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://konachan.com/data/preview/11/05/1105d612326acbf43e932c3ae2438626.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-30:/4210</id>
-	<link href="http://konachan.com/post/show/205905" rel="alternate" type="text/html"/>
-	<title type="html">blue original planet scenic zonomaru</title>
-	<summary type="html"><![CDATA[
-        
-      ]]></summary>
-	<content type="html"><![CDATA[<html><body><img alt="blue original planet scenic zonomaru" src="http://konachan.com/data/preview/93/31/93316fce724eaad60c29110c117fa363.jpg"></body></html>
-]]></content>
-	<updated>2015-08-30T06:27:31+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://konachan.com/</id>
-		<link rel="self" href="http://konachan.com/"/>
-		<updated>2015-08-30T06:27:31+00:00</updated>
-		<title>konachan.com/</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/jpeg" 
-		length="1"
-		href="http://konachan.com/sample/93316fce724eaad60c29110c117fa363/Konachan.com%20-%20205905%20sample.jpg"/>
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://konachan.com/data/preview/93/31/93316fce724eaad60c29110c117fa363.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-30:/4215</id>
-	<link href="http://konachan.com/post/show/205900" rel="alternate" type="text/html"/>
-	<title type="html">city nenenoa nobody scenic train</title>
-	<summary type="html"><![CDATA[
-        
-      ]]></summary>
-	<content type="html"><![CDATA[<html><body><img alt="city nenenoa nobody scenic train" src="http://konachan.com/data/preview/f9/29/f929c4899f2b17836e76a9598b59451f.jpg"></body></html>
-]]></content>
-	<updated>2015-08-30T13:17:48+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://konachan.com/</id>
-		<link rel="self" href="http://konachan.com/"/>
-		<updated>2015-08-30T13:17:48+00:00</updated>
-		<title>konachan.com/</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/jpeg" 
-		length="1"
-		href="http://konachan.com/sample/f929c4899f2b17836e76a9598b59451f/Konachan.com%20-%20205900%20sample.jpg"/>
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://konachan.com/data/preview/f9/29/f929c4899f2b17836e76a9598b59451f.jpg"/>
 
 </entry>
 
