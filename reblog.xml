@@ -4,11 +4,166 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-26T16:01:15+00:00</updated>
+<updated>2015-09-05T12:35:54+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-06:/5801</id>
+	<link href="http://www.lemonde.fr/les-decodeurs/article/2015/09/04/sur-le-web-images-manipulees-et-rumeurs-pour-casser-l-elan-de-solidarite-envers-les-refugies_4746189_4355770.html" rel="alternate" type="text/html"/>
+	<title type="html">Migrants : la guerre des images</title>
+	<summary type="html"><![CDATA[Il paraît que c'est à ça qu'on les reconnaît...(Permalink)]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Il para&icirc;t que c'est &agrave; &ccedil;a qu'on les reconna&icirc;t...<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?IucBVw" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-04T22:17:37+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-09-04T22:17:37+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+	<category term="fb"/>
+
+	<category term="fs"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-06:/5802</id>
+	<link href="http://www.liberation.fr/monde/2015/09/03/au-royaume-uni-le-boom-des-contrats-zero-heure_1374979" rel="alternate" type="text/html"/>
+	<title type="html">Au Royaume-Uni, le boom des «contrats zéro heure» - Libération</title>
+	<summary type="html"><![CDATA[Le travail gratuit, voilà ce qu'ils veulent je vous dis.
+
+Et voilà ce qu'on leur donne. Merde.(Perma...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Le travail gratuit, voil&agrave; ce qu'ils veulent je vous dis.<br><br>
+Et voil&agrave; ce qu'on leur donne. Merde.<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?dz1ieg" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-04T15:54:54+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-09-04T15:54:54+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+	<category term="fb"/>
+
+	<category term="fs"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-06:/5800</id>
+	<link href="http://www.mypersonnaldata.eu/shaarli/?7Ab0SA" rel="alternate" type="text/html"/>
+	<title type="html">Note - 35, 39 ou 32 heures de travail ?</title>
+	<summary type="html"><![CDATA[J'ai vu passer sur la shaarli.fr plusieurs liens concernant le retour aux 39 heures. Dont un certain...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>J'ai vu passer sur la shaarli.fr plusieurs liens concernant le retour aux 39 heures. Dont un certain N. Enmoins (ou plut&ocirc;t "haine en plus", c'est pour moi, c'est cadeau) que &ccedil;a ne d&eacute;rangerait absolument pas, illustrant &agrave; la fois la nocivit&eacute; de l'&eacute;go&iuml;sme par rapport au bien commun, l'irrecevabilit&eacute; de l'exemple personnel face &agrave; une analyse m&eacute;thodique ainsi que pourquoi l'Humanit&eacute; a surv&eacute;cu en utilisant sa capacit&eacute; de r&eacute;flexion plut&ocirc;t que toujours sa force brute. Joli combo :)<br><br>
+Pour les personnes ayant peur de prendre du gras si elles r&eacute;fl&eacute;chissent trop fort, vous pouvez arr&ecirc;ter votre lecture ici, m&ecirc;me si je trouve &ccedil;a dommage et &agrave; c&ocirc;t&eacute; de la plaque. Pour les autres, je livre ici un &eacute;l&eacute;ment de r&eacute;flexion, que je soumets comme toujours &agrave; votre esprit vif et critique.<br><br>
+Il est de bon ton de penser que les dirigeants et patrons sont &agrave; c&ocirc;t&eacute; de la plaque, en dehors des r&eacute;alit&eacute;s, qu'ils ne comprennent rien et qu'il prennent des d&eacute;cisions &agrave; la con. En effet, comment peut-on penser que revenir aux 39 heures permettra de r&eacute;duire le ch&ocirc;mage, alors qu'il n'y a d&eacute;j&agrave; pas assez de travail pour tout le monde ? C'est absurde ! C'est tout le contraire.<br><br>
+Pour en prendre conscience, il faut r&eacute;ussir &agrave; voir ce qu'il se passe depuis environ 20-30 ans (pour cela, on peut prendre comme origine de l'analyse l'explosion du bloc sovi&eacute;tique). Cette tendance s'amplifie largement depuis 5 ans. Qui, il y a encore 10 ans, aurait cru qu'il y aurait en Europe une baisse nominale des salaires ? En dehors des marxistes, &eacute;videmment.<br><br>
+Ce qu'il se passe porte un nom : la guerre des salaires. Pour les personnes en d&eacute;sirant les d&eacute;tails, elles peuvent se reporter &agrave; l'ouvrage "Salaire, prix et profit" de Karl Marx, qui &eacute;tablit le rapport entre le salaire, le prix et le taux de profit. En tr&egrave;s gros, on y apprend que Prix - Salaire - Co&ucirc;t du capital constant = Profit. Le "capital constant" &eacute;tant ce qui est n&eacute;cessaire &agrave; la production : machines, locaux, etc. Le capitaliste (possesseur des moyens de production) n'a que tr&egrave;s peu de marge de man&oelig;uvre sur le capital constant (c'est pour cela qu'il joue au niveau des taxes et imp&ocirc;ts, pour en payer le moins possible sur ce capital constant, ce qui est sa seule marge de man&oelig;uvre et, lorsqu'il le peut, il d&eacute;m&eacute;nage l&agrave; o&ugrave; &ccedil;a lui co&ucirc;te moins cher). Il faut garder &agrave; l'esprit qu'un capitaliste veut toujours AUGMENTER son taux de profit, la stagnation n'est pas envisageable (c'est la fameuse recherche fr&eacute;n&eacute;tique de croissance, d'o&ugrave; l'omerta sur les "d&eacute;croissants"). Il y a des raisons &agrave; cela, mais c'est hors sujet. Il n'y a qu'&agrave; se rappeler qu'un capitaliste n'augmentant pas son taux de profit (ou, pire, dont le taux de profit BAISSE) se fait rapidement bouffer par un autre.<br><br>
+De cette simple &eacute;quation (*wink* *wink*) on en d&eacute;duit que pour augmenter son taux de profit, le capitaliste b&eacute;n&eacute;ficie de deux principaux leviers : augmenter le prix et baisser les salaires. Or, que se passe-t-il en temps de crise ?<br><br>
+Exactement, augmenter le prix n'est pas acceptable. La seule issue est donc de baisser les salaires.<br><br>
+Comment proc&eacute;der ?<br><br>
+Il est hors de question de proc&eacute;der directement &agrave; une baisse nominale, &ccedil;a serait la lev&eacute;e de boucliers. Mais la "crise" (qui n'est une crise que pour nous hein, pour les capitalistes, le taux de profit augmente toujours, je le rappelle) fournit une excellente occasion : le ch&ocirc;mage. Le ch&ocirc;mage (structurel et de masse, bref) explosant, le capitaliste b&eacute;n&eacute;ficie d'une r&eacute;serve de main d'&oelig;uvre pr&ecirc;te &agrave; sacrifier son salaire pour avoir un emploi (attendu qu'on lui bourre le mou avec &ccedil;a &agrave; longueur de journ&eacute;e, c'est la seule v&eacute;ritable mission de P&ocirc;le Emploi).<br><br>
+Donc, r&eacute;duction des salaires par la demande d'emploi.<br><br>
+Bien &eacute;videment, ce n'est tr&egrave;s vite pas assez. Car les gens ne sont pas cons, ils ne travaillent pas &agrave; perte. Pas tout de suite. Comment donc faire baisser le salaire, sans lev&eacute;e de boucliers ?<br><br>
+L'augmentation du temps de travail bien s&ucirc;r !<br><br>
+Pour le m&ecirc;me salaire, travaillez 4 heures de plus par semaine ! Donc plus de production, mais sans avoir &agrave; embaucher, augmentant ainsi la production tout en accentuant la pression sur les salaires par le maintien au ch&ocirc;mage d'un plus grand nombre. Les salari&eacute;s n'ont pas l'impression de travailler &agrave; perte (apr&egrave;s tout, ils gardent leurs salaires non ?) mais c'est tout b&eacute;n&eacute;f (encore) dans les poches des capitalistes.<br><br>
+La suite, vous la connaissez, puisque &agrave; moins d'avoir un salaire &agrave; 0, le capitaliste cherchera toujours &agrave; baisser cette variable de l'&eacute;quation. Lorsque le taux de ch&ocirc;mage est assez haut, la population est pr&ecirc;te pour accepter la baisse nominale des salaires, sans modification du prix, bien &eacute;videmment. Amplifiant ainsi la catastrophe &eacute;conomique pour la population.<br><br>
+Voil&agrave; pourquoi les propos de "moi &ccedil;a ne me g&ecirc;ne pas de revenir aux 39 heures" doivent g&ecirc;ner n'importe qui qui se soucie du bien commun.<br><br>
+Ceux qui ont des positions de pouvoir et qui vous semblent dire des absurdit&eacute;s sont tr&egrave;s loin d'&ecirc;tre des abrutis. Leur but est diff&eacute;rent du votre, et vous auriez tort de les sous-estimer. Parce que c'est comme &ccedil;a qu'ils gagnent. Parce que vous pensez que, individuellement, vous tirerez votre &eacute;pingle du jeu et qu'ils sont en dehors des r&eacute;alit&eacute;s. Votre r&eacute;alit&eacute;, c'est eux qui la font, et le jeu duquel vous pensez pouvoir tirer votre &eacute;pingle, c'est le leur, avec leurs r&egrave;gles.<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?7Ab0SA" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-06T08:14:28+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-09-06T08:14:28+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+	<category term="fb"/>
+
+	<category term="fs"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-06:/5799</id>
+	<link href="https://www.ecirtam.net/links/?nRqWFg" rel="alternate" type="text/html"/>
+	<title type="html">Note - 35, 39 ou 32 heures de travail ? - Les liens de Kevin Merigot - Oros links</title>
+	<summary type="html"><![CDATA[Collectivisation des moyens de production, 10 heures par semaine de travail, pour tout le monde. Le ...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Collectivisation des moyens de production, 10 heures par semaine de travail, pour tout le monde. Le reste bah... travail libre, puisque les richesses sont &eacute;quitablement distribu&eacute;es ;)<br><br>
+On n'a pas besoin des emplois.<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?-DT5mA" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-06T09:28:31+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-09-06T09:28:31+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-07:/6184</id>
+	<link href="http://korben.info/zeronet.html" rel="alternate" type="text/html"/>
+	<title type="html">ZeroNet – Décentralisez votre site internet</title>
+	<summary type="html"><![CDATA[Si vous voulez jouer un peu cette semaine, je vous propose de tester ZeroNet. Il s'agit d'un script ...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Si vous voulez jouer un peu cette semaine, je vous propose de tester <strong><a href="http://zeronet.io/" rel="noreferrer" target="_blank">ZeroNet</a></strong>. Il s'agit d'un script python qui permet de cr&eacute;er son site de mani&egrave;re totalement d&eacute;centralis&eacute;e. En gros, une fois install&eacute; sur votre machine ZeroNet vous permet de vous connecter &agrave; d'autres sites et de communiquer avec les autres utilisateurs (peer), sans d&eacute;pendre d'aucun serveur ou URL fixe.</p><p>Les sites sont consultables en temps r&eacute;el, vous pouvez cr&eacute;er votre blog, lui r&eacute;server (si vous le voulez) une adresse en .bit et profiter d'un r&eacute;seau de communication ouvert, libre, anonyme (si vous le couplez avec Tor) et sans aucune censure. Il est aussi possible de fonctionner en multi-utilisateur sur le m&ecirc;me n&oelig;ud... en gros, vous d&eacute;finissez un administrateur et vous ajoutez ensuite vos utilisateurs.</p><p><a href="http://korben.info/wp-content/uploads/2015/09/687474703a2f2f7a65726f6e65742e72656164746865646f63732e6f72672f656e2f6c61746573742f696d672f7a65726f74616c6b2e706e67.png" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/09/687474703a2f2f7a65726f6e65742e72656164746865646f63732e6f72672f656e2f6c61746573742f696d672f7a65726f74616c6b2e706e67-650x440.png" alt="687474703a2f2f7a65726f6e65742e72656164746865646f63732e6f72672f656e2f6c61746573742f696d672f7a65726f74616c6b2e706e67" width="650" height="440"></a></p><p><a href="http://korben.info/wp-content/uploads/2015/09/687474703a2f2f7a65726f6e65742e72656164746865646f63732e6f72672f656e2f6c61746573742f696d672f7a65726f68656c6c6f2e706e67.png" rel="noreferrer" target="_blank"><img src="http://korben.info/wp-content/uploads/2015/09/687474703a2f2f7a65726f6e65742e72656164746865646f63732e6f72672f656e2f6c61746573742f696d672f7a65726f68656c6c6f2e706e67-650x430.png" alt="687474703a2f2f7a65726f6e65742e72656164746865646f63732e6f72672f656e2f6c61746573742f696d672f7a65726f68656c6c6f2e706e67" width="650" height="430"></a></p><p>Pour fonctionner, ZeroNet repose sur le r&eacute;seau Bittorrent (P2P) et la crypto utilis&eacute;e par Bitcoin. Il s'installe aussi bien sous Linux, Windows ou OSX en suivant <a href="https://github.com/HelloZeroNet/ZeroNet#user-content-how-to-join" rel="noreferrer" target="_blank">les explications disponibles ici</a>. ZeroNet propose de base, un syst&egrave;me de branchement des .bit sur les DNS, un forum, un blog, un moteur de recherche, un syst&egrave;me d'authentification...etc.</p><p>En utilisant le moteur de recherche, on ne tombe pas sur grand-chose, mais on peut voir quelques exemples sympas de ce qu'il est possible de proposer avec ZeroNet.</p><p>A tester donc...</p><p>Merci &agrave; <a href="https://twitter.com/azastrael/status/640656838816612352" target="_blank" rel="noreferrer">Azastrael</a> pour l'info.</p><p>Cet article merveilleux et sans aucun &eacute;gal intitul&eacute; : <a rel="noreferrer" href="http://korben.info/zeronet.html" target="_blank">ZeroNet &ndash; D&eacute;centralisez votre site internet</a> ; a &eacute;t&eacute; publi&eacute; sur <a rel="noreferrer" href="http://korben.info" target="_blank">Korben</a>, le seul site qui t'aime plus fort que tes parents.</p></body></html>
+]]></content>
+	<updated>2015-09-07T10:27:42+00:00</updated>
+	<author><name>Korben</name></author>
+	<source>
+		<id>http://korben.info</id>
+		<link rel="self" href="http://korben.info"/>
+		<updated>2015-09-07T10:27:42+00:00</updated>
+		<title>Korben</title></source>
+
+	<category term="bidouilleurs"/>
+
+	<category term="liberté"/>
+
+	<category term="script"/>
+
+	<category term="décentralisé"/>
+
+	<category term="p2p"/>
+
+	<category term="python"/>
+
+	<category term="site internet"/>
+
+	<category term="zeronet"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-06:/5990</id>
+	<link href="http://www.numerama.com/magazine/33762-un-script-open-source-pour-favoriser-le-racisme-et-l-eugenisme.html" rel="alternate" type="text/html"/>
+	<title type="html">Un script open-source pour favoriser le racisme et l'eugénisme</title>
+	<summary type="html"><![CDATA[凸(｀△´＋）(Permalink)]]></summary>
+	<content type="html"><![CDATA[<html><body><p>&#20984;(&#65344;&#9651;&acute;&#65291;&#65289;<br>(<a href="https://suumitsu.eu/links/?phvMiA" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-07-22T15:52:44+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://suumitsu.eu/links/</id>
+		<link rel="self" href="https://suumitsu.eu/links/"/>
+		<updated>2015-07-22T15:52:44+00:00</updated>
+		<title>Mitsu'liens</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-06:/5986</id>
@@ -414,7 +569,7 @@ Watering the cat
 	<link href="https://facebook.com/lesenfantsfoires/posts/1655933304620824" rel="alternate" type="text/html"/>
 	<title type="html">lesenfantsfoires | Bonjour les Enfants ! émoticône wink Aujourd&amp;amp;#039;hui dans les coups de cœur de Larry le groupe Sigur Rós est à l&amp;amp;#039;affiche ! À l&amp;amp;#039;occasion du documentaire &amp;amp;quot;The Show of the Show&amp;amp;quot;, produit par la BBC, sur le monde des circassiens et le vaudeville prévu pour l&amp;amp;#039;an prochain, ils signent la bande originale en association avec le compositeur Hilmar Örn Hilmarsson et le guitariste Kjartan Holm. ... &amp;amp;quot;Circe&amp;amp;quot; sortira en disque le 21 août prochain et est disponible à l&amp;amp;#039;écoute dès maintenant sur soundcloud ! émoticône wink Enjoy ! émoticône heart ‪#‎larrycoupdecoeur‬ Afficher la suiteCircecirce’, an album by goggi &amp;amp;amp; orri in association with hilmar örn hilmarsson and kjartan holm. available to preorder now: http://sigur-ros-store.com/circe/</title>
 	<summary type="html"><![CDATA[Bonjour les Enfants ! émoticône wink Aujourd&#039;hui dans les coups de cœur de Larry le groupe Sigu...]]></summary>
-	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=b4221245bc4b020198c0da1bb6742f6f&amp;oe=56A79C1C&amp;__gda__=1450208891_e500888b69ee5f7d31f74bea57c1899a" alt=""></a>data-ft="{"tn":"K"}"&gt;Bonjour les Enfants ! &eacute;motic&ocirc;ne wink Aujourd'hui dans les coups de c&oelig;ur de Larry le groupe Sigur R&oacute;s est &agrave; l'affiche ! &Agrave; l'occasion du documentaire "The Show of the Show", produit par la BBC, sur le monde des circassiens et le vaudeville pr&eacute;vu pour l'an prochain, ils signent la bande originale en association avec le compositeur Hilmar &Ouml;rn Hilmarsson et le guitariste Kjartan Holm. ... "Circe" sortira en disque le 21 ao&ucirc;t prochain et est disponible &agrave; l'&eacute;coute d&egrave;s maintenant sur soundcloud ! &eacute;motic&ocirc;ne wink Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1655933304620824" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a> <a href="http://192.168.137.2/#" data-ft='{"tn":"e"}' role="button" rel="noreferrer" target="_blank">Afficher la suite</a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=FAQHjvm8V&amp;enc=AZOeHhQTRaYnxGQg2C_hBlmrgdA_Vj9lz9007TMcM6pJpjsH26q_2RKF1jwZRXoiglz1JR1oCo7SjVGMiFxm3kVPLSDl_yh5QthTXy5qn6kYDWpEsYf9n5OSAIBIctt3LaTmYs5O5XX76jmy1jWrICZFq0zhiPy2jxf8aYdf_NLkwcaNV6tF3qzYgPqw1SCdrqpXTv5kUPkZ9BdIp9eZW1Ir&amp;s=1" target="_blank" rel="noreferrer"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCsJWseJDFGOLIL&amp;w=158&amp;h=158&amp;url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000124629501-fzqd79-t200x200.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=DAQHqUGqs&amp;s=1" rel="noreferrer" target="_blank">Circe</a>circe&rsquo;, an album by goggi &amp; orri in association with hilmar &ouml;rn hilmarsson and kjartan holm. available to preorder now: <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fsigur-ros-store.com%2Fcirce%2F&amp;h=xAQFbJYC6&amp;s=1" target="_blank" rel="noreferrer">http://sigur-ros-store.com/circe/</a></body></html>
+	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=b4221245bc4b020198c0da1bb6742f6f&amp;oe=56A79C1C&amp;__gda__=1450208891_e500888b69ee5f7d31f74bea57c1899a" alt=""></a>data-ft="{"tn":"K"}"&gt;Bonjour les Enfants ! &eacute;motic&ocirc;ne wink Aujourd'hui dans les coups de c&oelig;ur de Larry le groupe Sigur R&oacute;s est &agrave; l'affiche ! &Agrave; l'occasion du documentaire "The Show of the Show", produit par la BBC, sur le monde des circassiens et le vaudeville pr&eacute;vu pour l'an prochain, ils signent la bande originale en association avec le compositeur Hilmar &Ouml;rn Hilmarsson et le guitariste Kjartan Holm. ... "Circe" sortira en disque le 21 ao&ucirc;t prochain et est disponible &agrave; l'&eacute;coute d&egrave;s maintenant sur soundcloud ! &eacute;motic&ocirc;ne wink Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1655933304620824" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a> <a href="http://192.168.137.2/#" data-ft='{"tn":"e"}' role="button" rel="noreferrer" target="_blank">Afficher la suite</a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=5AQGnZYJM&amp;enc=AZO0DR6CNvgLPPKgkLKxPchoRtVzBDOu6lBgCbtfS3KHYcIVwwMJigD9k7yKJL5tinlxHsuuZGUq8kTXX8lcK5aOE9suFxxPVB5CRdi_RgtW_RnRTt54mtWFyAwtyi6gGRKMcc66TwPD5SpuwVQjdQQUzP0S6TQLS-bptnvTDQIax41SowsWFWKVoAMUyZyq-we0GH911qSGFJU5jEbwkAm7&amp;s=1" target="_blank" rel="noreferrer"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCsJWseJDFGOLIL&amp;w=158&amp;h=158&amp;url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000124629501-fzqd79-t200x200.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=kAQEC8Zav&amp;s=1" rel="noreferrer" target="_blank">Circe</a>circe&rsquo;, an album by goggi &amp; orri in association with hilmar &ouml;rn hilmarsson and kjartan holm. available to preorder now: <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fsigur-ros-store.com%2Fcirce%2F&amp;h=-AQHAQScn&amp;s=1" target="_blank" rel="noreferrer">http://sigur-ros-store.com/circe/</a></body></html>
 ]]></content>
 	<updated>2015-08-12T11:57:59+00:00</updated>
 	<author><name>Facebook Bridge</name></author>
@@ -1380,145 +1535,6 @@ smiling is so weird like you stretch your eating hole to show happiness
 		<updated>2015-09-05T12:35:54+00:00</updated>
 		<title>Comedy Blog</title></source>
 
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-05:/5519</id>
-	<link href="http://mememaster.tumblr.com/post/128400152829" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/186e8c5ce400321adec8bcd0c4e3788b/tumblr_mmw3g0gzGE1rws0uno1_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-09-05T12:41:43+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-05T12:41:43+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-05:/5517</id>
-	<link href="http://mememaster.tumblr.com/post/128400167844" rel="alternate" type="text/html"/>
-	<title type="html">oh-look-its-satan:
-What the hap is fuckening</title>
-	<summary type="html"><![CDATA[oh-look-its-satan:
-What the hap is fuckening
-]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://oh-look-its-satan.tumblr.com/post/125719104799" target="_blank" rel="noreferrer">oh-look-its-satan</a>:</p><blockquote>
-<p>What the hap is fuckening</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-05T12:42:07+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-05T12:42:07+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-05:/5516</id>
-	<link href="http://mememaster.tumblr.com/post/128400226344" rel="alternate" type="text/html"/>
-	<title type="html">me: *tryin to carry a bunch of stuff*</title>
-	<summary type="html"><![CDATA[me: *tryin to carry a bunch of stuff*
-parent: u can make more than one trip-
-me: NO
-me: U DON'T UNDE...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>me: *tryin to carry a bunch of stuff*<br>
-parent: u can make more than one trip-<br>
-me: NO<br>
-me: U DON'T UNDERSTAND<br>
-me: THIS ISN'T ABOUT CARRYING THINGS<br>
-me: THIS IS ABOUT HONOR<br>
-parent: stop being ridiculous just-<br>
-me: HONOR</p></body></html>
-]]></content>
-	<updated>2015-09-05T12:43:35+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-05T12:43:35+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-05:/5513</id>
-	<link href="http://mememaster.tumblr.com/post/128400313459" rel="alternate" type="text/html"/>
-	<title type="html">golge</title>
-	<summary type="html"><![CDATA[golge]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/cdf103ad3cbcbc4525bdad79ea831a6a/tumblr_nu2p13SQSp1tugcglo1_500.png"><br><br><p>golge</p></body></html>
-]]></content>
-	<updated>2015-09-05T12:45:36+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-05T12:45:36+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-05:/5535</id>
-	<link href="http://mememaster.tumblr.com/post/128402110264" rel="alternate" type="text/html"/>
-	<title type="html">shwagerr:
-If I owned a taser I’d probably get curious to see how it feels and taser myself and...</title>
-	<summary type="html"><![CDATA[shwagerr:
-If I owned a taser I’d probably get curious to see how it feels and taser myself and that’...]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://shwagerr.tumblr.com/post/127272907438" target="_blank" rel="noreferrer">shwagerr</a>:</p><blockquote>
-<p>If I owned a taser I&rsquo;d probably get curious to see how it feels and taser myself and that&rsquo;s why I don&rsquo;t have a taser.</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-05T13:25:59+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-05T13:25:59+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-08-26:/3768</id>
-	<link href="http://konachan.com/post/show/205726" rel="alternate" type="text/html"/>
-	<title type="html">tagme</title>
-	<summary type="html"><![CDATA[
-        
-      ]]></summary>
-	<content type="html"><![CDATA[<html><body><img alt="tagme" src="http://konachan.com/data/preview/57/62/57625eed394e144b2f03d885d0cccd9b.jpg"></body></html>
-]]></content>
-	<updated>2015-08-26T16:01:15+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://konachan.com/</id>
-		<link rel="self" href="http://konachan.com/"/>
-		<updated>2015-08-26T16:01:15+00:00</updated>
-		<title>konachan.com/</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/jpeg" 
-		length="1"
-		href="http://konachan.com/sample/57625eed394e144b2f03d885d0cccd9b/Konachan.com%20-%20205726%20sample.jpg"/>
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://konachan.com/data/preview/57/62/57625eed394e144b2f03d885d0cccd9b.jpg"/>
 
 </entry>
 
