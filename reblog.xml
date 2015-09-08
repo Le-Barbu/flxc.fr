@@ -4,11 +4,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-05T22:37:40+00:00</updated>
+<updated>2015-09-02T14:43:30+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-08:/6418</id>
+	<link href="http://mememaster.tumblr.com/post/128632085294" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://33.media.tumblr.com/8e0f17e16138d3da8c802986347b94a7/tumblr_nm5q5fRPru1tyaab7o1_400.gif"><br><br></body></html>
+]]></content>
+	<updated>2015-09-08T12:05:21+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-09-08T12:05:21+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-08:/6392</id>
+	<link href="http://www.explosm.net/comics/4049/" rel="alternate" type="text/html"/>
+	<title type="html">Comic for 2015.09.08</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="//files.explosm.net/comics/Rob/remains.png"></body></html>
+]]></content>
+	<updated>2015-09-08T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.explosm.net/rss.php</id>
+		<link rel="self" href="http://www.explosm.net/rss.php"/>
+		<updated>2015-09-08T05:00:00+00:00</updated>
+		<title>Explosm.net</title></source>
+
+	<category term="comics"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-06:/5846</id>
+	<link href="http://www.liberation.fr/apps/2015/08/temoignages-transgenres/" rel="alternate" type="text/html"/>
+	<title type="html">Libération.fr – «J'ai demandé aux autres de m'appeler Julie. Ça a sauvé ma vie» – Témoignages de jeunes transgenres</title>
+	<summary type="html"><![CDATA[Des témoignages de jeunes personnes qui ne se conforment pas au genre qu'on leur a assigné à la nais...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Des t&eacute;moignages de jeunes personnes qui ne se conforment pas au genre qu'on leur a assign&eacute; &agrave; la naissance.<br><br>
+Attention, c'est assez dur, psychologiquement, &agrave; lire.<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?N1Idxg" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-08-28T08:18:36+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-08-28T08:18:36+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+	<category term="fb"/>
+
+	<category term="fs"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-06:/5845</id>
+	<link href="http://links.simonlefort.be/?igicFQ" rel="alternate" type="text/html"/>
+	<title type="html">Sea Shepherd? Réactionnaire mon cher Watson | Les Enragés - Liens en vrac de SimonLefort</title>
+	<summary type="html"><![CDATA[Et même quand on sait dans quel environnement on vit, ça ne suffit parfois pas. Parfois, même en gra...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Et m&ecirc;me quand on sait dans quel environnement on vit, &ccedil;a ne suffit parfois pas. Parfois, m&ecirc;me en grattant un peu, on ne voit rien de particulier. C'est en mettant en relation avec d'autres &eacute;l&eacute;ments qu'on arrive &agrave; la conclusion que "oops, en fait &ccedil;a pue".<br><br>
+Et ce sans compter les moments o&ugrave; on ne prend pas le temps, o&ugrave; on se laisse aller, o&ugrave; on a envie d'y croire et que donc on ferme un peu les yeux, o&ugrave; on est fatigu&eacute;, o&ugrave; on tombe sur l'unique article vrai et bien &eacute;crit d'un site confusionniste, o&ugrave; il y a un truc qui nous pla&icirc;t dans l'article et qu'on ne fait pas gaffe au contexte... &Ccedil;a m'est bien arriv&eacute; quelques fois ^^<br><br>
+C'est pas simple, mais ensemble on arrive quand m&ecirc;me &agrave; faire un truc pas trop d&eacute;gueu en g&eacute;n&eacute;ral.<br><br>
+Le plus dur, c'est d'accepter d'avoir tort/se rendre compte qu'on a &eacute;t&eacute; abus&eacute; et le dire publiquement, pour emp&ecirc;cher que d'autres ne se fassent avoir. Mais on est tous humains et donc faillibles. La seule chose qu'on peut demander, c'est de ne pas refaire les m&ecirc;mes erreurs, mais pas d'&ecirc;tre parfait.<br><br>
+Et puis au fur et &agrave; mesure, en g&eacute;n&eacute;ral avec l'acquisition d'une conscience politique, on arrive &agrave; rep&eacute;rer les trucs qui clochent, les tournures de phrases qui r&eacute;v&egrave;lent un contexte derri&egrave;re un propos a priori anodin, etc. &Ccedil;a aide. &Ccedil;a fait pas tout, mais &ccedil;a aide ;)<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?5AOvBQ" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-08-28T08:38:05+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-08-28T08:38:05+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-06:/5840</id>
@@ -901,7 +984,7 @@ Watering the cat
 	<link href="https://facebook.com/lesenfantsfoires/posts/1655933304620824" rel="alternate" type="text/html"/>
 	<title type="html">lesenfantsfoires | Bonjour les Enfants ! émoticône wink Aujourd&amp;amp;#039;hui dans les coups de cœur de Larry le groupe Sigur Rós est à l&amp;amp;#039;affiche ! À l&amp;amp;#039;occasion du documentaire &amp;amp;quot;The Show of the Show&amp;amp;quot;, produit par la BBC, sur le monde des circassiens et le vaudeville prévu pour l&amp;amp;#039;an prochain, ils signent la bande originale en association avec le compositeur Hilmar Örn Hilmarsson et le guitariste Kjartan Holm. ... &amp;amp;quot;Circe&amp;amp;quot; sortira en disque le 21 août prochain et est disponible à l&amp;amp;#039;écoute dès maintenant sur soundcloud ! émoticône wink Enjoy ! émoticône heart ‪#‎larrycoupdecoeur‬ Afficher la suiteCircecirce’, an album by goggi &amp;amp;amp; orri in association with hilmar örn hilmarsson and kjartan holm. available to preorder now: http://sigur-ros-store.com/circe/</title>
 	<summary type="html"><![CDATA[Bonjour les Enfants ! émoticône wink Aujourd&#039;hui dans les coups de cœur de Larry le groupe Sigu...]]></summary>
-	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=b4221245bc4b020198c0da1bb6742f6f&amp;oe=56A79C1C&amp;__gda__=1450208891_e500888b69ee5f7d31f74bea57c1899a" alt=""></a>data-ft="{"tn":"K"}"&gt;Bonjour les Enfants ! &eacute;motic&ocirc;ne wink Aujourd'hui dans les coups de c&oelig;ur de Larry le groupe Sigur R&oacute;s est &agrave; l'affiche ! &Agrave; l'occasion du documentaire "The Show of the Show", produit par la BBC, sur le monde des circassiens et le vaudeville pr&eacute;vu pour l'an prochain, ils signent la bande originale en association avec le compositeur Hilmar &Ouml;rn Hilmarsson et le guitariste Kjartan Holm. ... "Circe" sortira en disque le 21 ao&ucirc;t prochain et est disponible &agrave; l'&eacute;coute d&egrave;s maintenant sur soundcloud ! &eacute;motic&ocirc;ne wink Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1655933304620824" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a> <a href="http://192.168.137.2/#" data-ft='{"tn":"e"}' role="button" rel="noreferrer" target="_blank">Afficher la suite</a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=eAQEowiUY&amp;enc=AZPTY-JqbW21Hjg8AByeTrdxjAvkqjGZVcHG96xi48tkpFQ6Zc6h7YdhC1CcCULJ_nV2G15X4CQ_Q2p4Mvadh8rUTP9wd2nNXOD48r1TmtDskGpuExF2KKKRlWTaRzPiF1QtN4SsCNz-Ae_W5zOypmfA4kVH6nC4ZIPft-aZUHzPQV2jhTno2kHp1Z5wqfOXXwRDTGuxEjBcQEczEYzLE5Ni&amp;s=1" target="_blank" rel="noreferrer"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCsJWseJDFGOLIL&amp;w=158&amp;h=158&amp;url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000124629501-fzqd79-t200x200.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=_AQGI8gEB&amp;s=1" rel="noreferrer" target="_blank">Circe</a>circe&rsquo;, an album by goggi &amp; orri in association with hilmar &ouml;rn hilmarsson and kjartan holm. available to preorder now: <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fsigur-ros-store.com%2Fcirce%2F&amp;h=KAQGJG88L&amp;s=1" target="_blank" rel="noreferrer">http://sigur-ros-store.com/circe/</a></body></html>
+	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=b4221245bc4b020198c0da1bb6742f6f&amp;oe=56A79C1C&amp;__gda__=1450208891_e500888b69ee5f7d31f74bea57c1899a" alt=""></a>data-ft="{"tn":"K"}"&gt;Bonjour les Enfants ! &eacute;motic&ocirc;ne wink Aujourd'hui dans les coups de c&oelig;ur de Larry le groupe Sigur R&oacute;s est &agrave; l'affiche ! &Agrave; l'occasion du documentaire "The Show of the Show", produit par la BBC, sur le monde des circassiens et le vaudeville pr&eacute;vu pour l'an prochain, ils signent la bande originale en association avec le compositeur Hilmar &Ouml;rn Hilmarsson et le guitariste Kjartan Holm. ... "Circe" sortira en disque le 21 ao&ucirc;t prochain et est disponible &agrave; l'&eacute;coute d&egrave;s maintenant sur soundcloud ! &eacute;motic&ocirc;ne wink Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1655933304620824" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a> <a href="http://192.168.137.2/#" data-ft='{"tn":"e"}' role="button" rel="noreferrer" target="_blank">Afficher la suite</a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=cAQEFlo2V&amp;enc=AZM6PS19IX9SwFweZKdH5s99f0e-6sHfdoY7k8M07irPf-kvr9WWB0rEuvoNTF2wP9EVyA5RqG8VUQC3OZ5hwrdfEPBVJ6hKjRR49fdFg09sOlVb69rkrRdmAu3e3LgLhuvenArFJAcLAwB6H9GVeu5RId_weDJSKTyyxqMc3X8EzY3BqtvpPmnCTo0hoLRtrkApirpG4b04G3T0pONzDqo7&amp;s=1" target="_blank" rel="noreferrer"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCsJWseJDFGOLIL&amp;w=158&amp;h=158&amp;url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000124629501-fzqd79-t200x200.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=iAQENf1YR&amp;s=1" rel="noreferrer" target="_blank">Circe</a>circe&rsquo;, an album by goggi &amp; orri in association with hilmar &ouml;rn hilmarsson and kjartan holm. available to preorder now: <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fsigur-ros-store.com%2Fcirce%2F&amp;h=CAQHtG1ll&amp;s=1" target="_blank" rel="noreferrer">http://sigur-ros-store.com/circe/</a></body></html>
 ]]></content>
 	<updated>2015-08-12T11:57:59+00:00</updated>
 	<author><name>Facebook Bridge</name></author>
@@ -1234,77 +1317,6 @@ Il n'y a pas de cat&eacute;gorie super facile mais il n'y a pas plus simple.</p>
 		<link rel="self" href="http://www.viedemerde.fr"/>
 		<updated>2015-09-02T14:43:30+00:00</updated>
 		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-05:/5662</id>
-	<link href="http://www.viedemerde.fr/inclassable/8611734" rel="alternate" type="text/html"/>
-	<title type="html">Anonyme a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, je m'oblige à faire un peu de sport tous les soirs pour que les abonnés et les coachs d...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je m'oblige &agrave; faire un peu de sport tous les soirs pour que les abonn&eacute;s et les coachs de mon club ne se rendent pas compte de la vraie raison de ma pr&eacute;sence quotidienne : Je n'ai pas de chauffe-eau dans mon nouvel appart', et &agrave; la salle je peux prendre une douche chaude. VDM</p></body></html>
-]]></content>
-	<updated>2015-09-02T17:42:42+00:00</updated>
-	<author><name>Anonyme</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-09-02T17:42:42+00:00</updated>
-		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-05:/5658</id>
-	<link href="http://www.viedemerde.fr/inclassable/8611915" rel="alternate" type="text/html"/>
-	<title type="html">Carotte rapé a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, en étant une moi-même, je commande le seul plat certifié végétarien de la carte. Je le ...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, en &eacute;tant une moi-m&ecirc;me, je commande le seul plat certifi&eacute; v&eacute;g&eacute;tarien de la carte. Je le trouve vraiment d&eacute;licieux. Je dis &agrave; la serveuse de transmettre mes compliments au chef. Elle me murmure : "Il faut faire revenir les l&eacute;gumes dans de la graisse de canard, c'est &ccedil;a le secret." VDM</p></body></html>
-]]></content>
-	<updated>2015-09-02T22:16:28+00:00</updated>
-	<author><name>Carotte rapé</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-09-02T22:16:28+00:00</updated>
-		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-05:/5651</id>
-	<link href="http://www.viedemerde.fr/sante/8612229" rel="alternate" type="text/html"/>
-	<title type="html">Parraindigne a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, je me casse la cheville en plein centre commercial. Douleur atroce, pompiers, la totale...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je me casse la cheville en plein centre commercial. Douleur atroce, pompiers, la totale. Il y en a un particuli&egrave;rement mignon. Quand je lui demande : "Vous pourriez me donner votre num&eacute;ro ? Que je vous appelle si j'ai mal." Il me r&eacute;pond, souriant : "Bah... C'est le 18". VDM</p></body></html>
-]]></content>
-	<updated>2015-09-03T19:08:38+00:00</updated>
-	<author><name>Parraindigne</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-09-03T19:08:38+00:00</updated>
-		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-05:/5638</id>
-	<link href="https://namecoin.info/" rel="alternate" type="text/html"/>
-	<title type="html">Namecoin</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-05T22:37:40+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-05T22:37:40+00:00</updated>
-		<title>Published articles</title></source>
 
 
 </entry>
