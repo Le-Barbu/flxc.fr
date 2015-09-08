@@ -4,11 +4,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-05T23:26:44+00:00</updated>
+<updated>2015-09-06T11:13:26+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-08:/6524</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/128659515653" rel="alternate" type="text/html"/>
+	<title type="html">by Pie Comic</title>
+	<summary type="html"><![CDATA[  by Pie Comic]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/f0dfb4b891bfbfb9e6cdd84056628629/tumblr_nuby58Ro5d1qhnegdo1_500.jpg"><br><br><img src="http://40.media.tumblr.com/25a255b9e4ea1cdb0749fcfe63a94394/tumblr_nuby58Ro5d1qhnegdo2_500.jpg"><br><br><p>by <a href="http://piecomic.com" target="_blank" rel="noreferrer">Pie Comic</a></p></body></html>
+]]></content>
+	<updated>2015-09-08T21:00:15+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-08T21:00:15+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-08:/6546</id>
+	<link href="http://mememaster.tumblr.com/post/128662385489" rel="alternate" type="text/html"/>
+	<title type="html">humanityinahandbag:
+
+theinturnetexplorer:
+
+Who’s ready to get...</title>
+	<summary type="html"><![CDATA[          humanityinahandbag:
+
+theinturnetexplorer:
+
+Who’s ready to get back to college?
+
+No, but re...]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/ba91432455196d459ca2d5ff0e867d74/tumblr_nuacvtEObn1qgthdfo1_500.jpg"><br><br><img src="http://36.media.tumblr.com/f615bb0f189d99aa77648e8c18f8dfd0/tumblr_nuacvtEObn1qgthdfo2_500.jpg"><br><br><img src="http://41.media.tumblr.com/3a55dc312cc9957d15c279f54ed88a98/tumblr_nuacvtEObn1qgthdfo5_500.jpg"><br><br><img src="http://41.media.tumblr.com/1b3c1f276e81b42038525f3b6b557f3d/tumblr_nuacvtEObn1qgthdfo3_500.jpg"><br><br><img src="http://40.media.tumblr.com/6aa905693e034d017baf4a9437c11e2a/tumblr_nuacvtEObn1qgthdfo7_400.jpg"><br><br><img src="http://40.media.tumblr.com/01ce1775f32657854162ec7e80127efa/tumblr_nuacvtEObn1qgthdfo4_500.jpg"><br><br><img src="http://40.media.tumblr.com/a9579ba8892cca40af95cbd9d898a24a/tumblr_nuacvtEObn1qgthdfo10_500.jpg"><br><br><img src="http://36.media.tumblr.com/f79ca2350e65986925ab5273b5431dd4/tumblr_nuacvtEObn1qgthdfo6_500.jpg"><br><br><img src="http://41.media.tumblr.com/3a6b2e67e089b3c94f4ee0db84e367c5/tumblr_nuacvtEObn1qgthdfo9_500.jpg"><br><br><img src="http://40.media.tumblr.com/b1d0fa3216e10aec2fdb43eab84a202b/tumblr_nuacvtEObn1qgthdfo8_500.jpg"><br><br><p><a href="http://humanityinahandbag.tumblr.com/post/128556737501" target="_blank" rel="noreferrer">humanityinahandbag</a>:</p>
+<blockquote>
+<p><a href="http://theinturnetexplorer.tumblr.com/post/128529271271" target="_blank" rel="noreferrer">theinturnetexplorer</a>:</p>
+<blockquote>
+<p>Who&rsquo;s ready to get back to college?</p>
+</blockquote>
+<p>No, but really, this is actually what college is like&hellip;</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-09-08T21:44:25+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-09-08T21:44:25+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-06:/5729</id>
@@ -1232,7 +1285,7 @@ Watering the cat
 	<link href="https://facebook.com/lesenfantsfoires/posts/1655933304620824" rel="alternate" type="text/html"/>
 	<title type="html">lesenfantsfoires | Bonjour les Enfants ! émoticône wink Aujourd&amp;amp;#039;hui dans les coups de cœur de Larry le groupe Sigur Rós est à l&amp;amp;#039;affiche ! À l&amp;amp;#039;occasion du documentaire &amp;amp;quot;The Show of the Show&amp;amp;quot;, produit par la BBC, sur le monde des circassiens et le vaudeville prévu pour l&amp;amp;#039;an prochain, ils signent la bande originale en association avec le compositeur Hilmar Örn Hilmarsson et le guitariste Kjartan Holm. ... &amp;amp;quot;Circe&amp;amp;quot; sortira en disque le 21 août prochain et est disponible à l&amp;amp;#039;écoute dès maintenant sur soundcloud ! émoticône wink Enjoy ! émoticône heart ‪#‎larrycoupdecoeur‬ Afficher la suiteCircecirce’, an album by goggi &amp;amp;amp; orri in association with hilmar örn hilmarsson and kjartan holm. available to preorder now: http://sigur-ros-store.com/circe/</title>
 	<summary type="html"><![CDATA[Bonjour les Enfants ! émoticône wink Aujourd&#039;hui dans les coups de cœur de Larry le groupe Sigu...]]></summary>
-	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=b4221245bc4b020198c0da1bb6742f6f&amp;oe=56A79C1C&amp;__gda__=1450208891_e500888b69ee5f7d31f74bea57c1899a" alt=""></a>data-ft="{"tn":"K"}"&gt;Bonjour les Enfants ! &eacute;motic&ocirc;ne wink Aujourd'hui dans les coups de c&oelig;ur de Larry le groupe Sigur R&oacute;s est &agrave; l'affiche ! &Agrave; l'occasion du documentaire "The Show of the Show", produit par la BBC, sur le monde des circassiens et le vaudeville pr&eacute;vu pour l'an prochain, ils signent la bande originale en association avec le compositeur Hilmar &Ouml;rn Hilmarsson et le guitariste Kjartan Holm. ... "Circe" sortira en disque le 21 ao&ucirc;t prochain et est disponible &agrave; l'&eacute;coute d&egrave;s maintenant sur soundcloud ! &eacute;motic&ocirc;ne wink Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1655933304620824" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a> <a href="http://192.168.137.2/#" data-ft='{"tn":"e"}' role="button" rel="noreferrer" target="_blank">Afficher la suite</a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=nAQFSbp0_&amp;enc=AZPMmGN7CdXbpwINKdJ8Ewmavun_G9dq7aTAI0pXohFXAsZt7W1gwmlihHhas-Ear5WTCC4tYBNDC10A8yTXfC3T09uosKSYZ3ACvw-lyapx5WKMZSok3RrHLwi2mLXff7uEBN23F9D2F5XJt2JE5Wai9lYJdIQKWuieVZbdL8ApQYNcpBWNyg4cqGtO627jACBUw3Y-OBkVRDUsvrzEYuO1&amp;s=1" target="_blank" rel="noreferrer"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCsJWseJDFGOLIL&amp;w=158&amp;h=158&amp;url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000124629501-fzqd79-t200x200.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=OAQEUSjqq&amp;s=1" rel="noreferrer" target="_blank">Circe</a>circe&rsquo;, an album by goggi &amp; orri in association with hilmar &ouml;rn hilmarsson and kjartan holm. available to preorder now: <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fsigur-ros-store.com%2Fcirce%2F&amp;h=vAQHgO8fD&amp;s=1" target="_blank" rel="noreferrer">http://sigur-ros-store.com/circe/</a></body></html>
+	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=b4221245bc4b020198c0da1bb6742f6f&amp;oe=56A79C1C&amp;__gda__=1450208891_e500888b69ee5f7d31f74bea57c1899a" alt=""></a>data-ft="{"tn":"K"}"&gt;Bonjour les Enfants ! &eacute;motic&ocirc;ne wink Aujourd'hui dans les coups de c&oelig;ur de Larry le groupe Sigur R&oacute;s est &agrave; l'affiche ! &Agrave; l'occasion du documentaire "The Show of the Show", produit par la BBC, sur le monde des circassiens et le vaudeville pr&eacute;vu pour l'an prochain, ils signent la bande originale en association avec le compositeur Hilmar &Ouml;rn Hilmarsson et le guitariste Kjartan Holm. ... "Circe" sortira en disque le 21 ao&ucirc;t prochain et est disponible &agrave; l'&eacute;coute d&egrave;s maintenant sur soundcloud ! &eacute;motic&ocirc;ne wink Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1655933304620824" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a> <a href="http://192.168.137.2/#" data-ft='{"tn":"e"}' role="button" rel="noreferrer" target="_blank">Afficher la suite</a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=NAQFDklpQ&amp;enc=AZOuVcKmmJy1248oZi_HYYtqo0MT7EOWTAYtpMOA-pEU98FEJROREFwNfinG09B6gBAFqiiYXQF3GcdMyVUJlGqtTF3kCrJitq-7GS0uVX2u9qkfsCYhBaD86MIUstDIYR_9YbZTHgtOmWio0QY6ZC-Wq2C21e5MYarvoNy0-ZEgYKUg4a6TZiLLi9Iqfo2NwPbKkD_AoyGAKdnaOoxCtZfi&amp;s=1" target="_blank" rel="noreferrer"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCsJWseJDFGOLIL&amp;w=158&amp;h=158&amp;url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000124629501-fzqd79-t200x200.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=pAQHxYs_X&amp;s=1" rel="noreferrer" target="_blank">Circe</a>circe&rsquo;, an album by goggi &amp; orri in association with hilmar &ouml;rn hilmarsson and kjartan holm. available to preorder now: <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fsigur-ros-store.com%2Fcirce%2F&amp;h=HAQF1d0cM&amp;s=1" target="_blank" rel="noreferrer">http://sigur-ros-store.com/circe/</a></body></html>
 ]]></content>
 	<updated>2015-08-12T11:57:59+00:00</updated>
 	<author><name>Facebook Bridge</name></author>
@@ -1276,50 +1329,6 @@ Watering the cat
 		<link rel="self" href="http://oglaf.com/latest/"/>
 		<updated>2015-09-06T11:13:26+00:00</updated>
 		<title>Oglaf! -- Comics. Often dirty.</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-06:/5678</id>
-	<link href="http://sebsauvage.net/galerie/photos/Bordel/2015-09-06%20fear-ignorance-hate.jpg" rel="alternate" type="text/html"/>
-	<title type="html">fear - ignorance - hate</title>
-	<summary type="html"><![CDATA[(Permalink)]]></summary>
-	<content type="html"><![CDATA[<html><body><p>(<a href="http://sebsauvage.net/links/?r74W7w" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
-]]></content>
-	<updated>2015-09-06T07:42:17+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://sebsauvage.net/links/</id>
-		<link rel="self" href="http://sebsauvage.net/links/"/>
-		<updated>2015-09-06T07:42:17+00:00</updated>
-		<title>Liens en vrac de sebsauvage</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-06:/5709</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128438256928" rel="alternate" type="text/html"/>
-	<title type="html">elsiehughescarson:
-
-Honest Downton Abbey Captions, VOL I</title>
-	<summary type="html"><![CDATA[          elsiehughescarson:
-
-Honest Downton Abbey Captions, VOL I
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/82c528ea4f56b3d0c0c1485041404209/tumblr_nsuagzdvL41tasd2ao10_500.jpg"><br><br><img src="http://36.media.tumblr.com/5c3e93d92fbc73aab49e485298c4600b/tumblr_nsuagzdvL41tasd2ao9_500.jpg"><br><br><img src="http://40.media.tumblr.com/72e127a6362fa4d47fbc86525813c954/tumblr_nsuagzdvL41tasd2ao8_500.jpg"><br><br><img src="http://41.media.tumblr.com/eb391c85d44d48693fd02b1ea3bd9668/tumblr_nsuagzdvL41tasd2ao3_500.jpg"><br><br><img src="http://41.media.tumblr.com/ba073c09e06f130965e5500534a78d26/tumblr_nsuagzdvL41tasd2ao4_500.jpg"><br><br><img src="http://40.media.tumblr.com/687dbb1e45765caa65a25ded116740a3/tumblr_nsuagzdvL41tasd2ao5_500.jpg"><br><br><img src="http://36.media.tumblr.com/99e8b9b15286186190e88194742e45cb/tumblr_nsuagzdvL41tasd2ao6_500.jpg"><br><br><img src="http://40.media.tumblr.com/ecee9c6cafcaa8c68a63cf20bd658752/tumblr_nsuagzdvL41tasd2ao7_500.jpg"><br><br><img src="http://41.media.tumblr.com/edf1933e4a2287e924c2fcacbf8fded5/tumblr_nsuagzdvL41tasd2ao2_500.jpg"><br><br><img src="http://36.media.tumblr.com/f058ff515edb42d7abe02bf7ac597ec8/tumblr_nsuagzdvL41tasd2ao1_500.jpg"><br><br><p><a href="http://elsiehughescarson.tumblr.com/post/126293733655" target="_blank" rel="noreferrer">elsiehughescarson</a>:</p>
-<blockquote>
-<blockquote><p><b>Honest<i> Downton Abbey</i> Captions, VOL I</b></p></blockquote>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-05T23:26:44+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-05T23:26:44+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
