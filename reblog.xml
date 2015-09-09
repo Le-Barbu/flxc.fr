@@ -4,11 +4,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-06T15:05:48+00:00</updated>
+<updated>2015-09-06T16:33:20+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-09:/6635</id>
+	<link href="http://www.explosm.net/comics/4050/" rel="alternate" type="text/html"/>
+	<title type="html">Comic for 2015.09.09</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="//files.explosm.net/comics/Kris/poster.png"></body></html>
+]]></content>
+	<updated>2015-09-09T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.explosm.net/rss.php</id>
+		<link rel="self" href="http://www.explosm.net/rss.php"/>
+		<updated>2015-09-09T05:00:00+00:00</updated>
+		<title>Explosm.net</title></source>
+
+	<category term="comics"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-09:/6613</id>
@@ -1351,23 +1371,6 @@ Watering the cat
 		<id>http://flxc.fr/rss</id>
 		<link rel="self" href="http://flxc.fr/rss"/>
 		<updated>2015-09-06T16:33:20+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-06:/6013</id>
-	<link href="https://howdns.works/" rel="alternate" type="text/html"/>
-	<title type="html">How DNS works</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-06T15:05:48+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-06T15:05:48+00:00</updated>
 		<title>Published articles</title></source>
 
 
