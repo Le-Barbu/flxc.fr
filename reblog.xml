@@ -4,11 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-08-25T19:50:01+00:00</updated>
+<updated>2015-09-06T15:05:48+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-09:/6613</id>
+	<link href="http://www.viedemerde.fr/inclassable/8614436" rel="alternate" type="text/html"/>
+	<title type="html">Anonyme a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, je me rends pour la première fois à Chartres en vélo. M'étant perdu, je demande au prem...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je me rends pour la premi&egrave;re fois &agrave; Chartres en v&eacute;lo. M'&eacute;tant perdu, je demande au premier passant que je croise : "Monsieur, SVP." Rien. Au bout de la dixi&egrave;me fois, je vais face &agrave; lui, en me disant qu'il est peut-&ecirc;tre sourd. "Monsieur, vous m'entendez ? - Oui oui, mais je m'en fous !" VDM</p></body></html>
+]]></content>
+	<updated>2015-09-08T20:25:52+00:00</updated>
+	<author><name>Anonyme</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-09-08T20:25:52+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-07:/6297</id>
@@ -1351,25 +1369,6 @@ Watering the cat
 		<link rel="self" href="http://flxc.fr/rss"/>
 		<updated>2015-09-06T15:05:48+00:00</updated>
 		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-06:/5949</id>
-	<link href="http://bluetouff.com/" rel="alternate" type="text/html"/>
-	<title type="html">New born</title>
-	<summary type="html"><![CDATA[Bluetouff a décidé de transférer son site du web vers TOR. De gré ou de force, je pense qu'on sera t...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Bluetouff a d&eacute;cid&eacute; de transf&eacute;rer son site du web vers TOR. De gr&eacute; ou de force, je pense qu'on sera tou.te.s un jour oblig&eacute;.e.s d'envisager un tel d&eacute;m&eacute;nagement. Vers TOR, i2p, ou Freenet.<br><br>
-(rappel: mon shaarli est miroit&eacute; sur Freenet, vous le trouverez facilement dans les index tels Linkageddon)<br>(<a href="https://suumitsu.eu/links/?smqfWQ" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
-]]></content>
-	<updated>2015-08-25T19:50:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://suumitsu.eu/links/</id>
-		<link rel="self" href="https://suumitsu.eu/links/"/>
-		<updated>2015-08-25T19:50:01+00:00</updated>
-		<title>Mitsu'liens</title></source>
 
 
 </entry>
