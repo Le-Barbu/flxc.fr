@@ -4,11 +4,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-06T11:39:36+00:00</updated>
+<updated>2015-08-25T19:50:01+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-07:/6297</id>
+	<link href="http://www.youtube.com/watch?v=3N22SzqQ29c" rel="alternate" type="text/html"/>
+	<title type="html">Le plateau de Millevaches appelle à bloquer les gendarmeries</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-02T20:13:13+00:00</updated>
+	<author><name>Lundi Matin</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UC2wrXSZMid7OiCVwCfVpHiA</id>
+		<link rel="self" href="http://www.youtube.com/channel/UC2wrXSZMid7OiCVwCfVpHiA"/>
+		<updated>2015-09-02T20:13:13+00:00</updated>
+		<title>Lundi Matin</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/3N22SzqQ29c?version=3"/>
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-08:/6552</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/128668174353" rel="alternate" type="text/html"/>
+	<title type="html">(photo via mister-guy)</title>
+	<summary type="html"><![CDATA[(photo via mister-guy)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/95d045ca1f5cd78cd979096751888d2f/tumblr_nudsohCUzJ1qewacoo1_500.jpg"><br><br><p>(photo via <a href="https://www.reddit.com/user/Mister-guy" target="_blank" rel="noreferrer">mister-guy</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-08T23:17:05+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-08T23:17:05+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-09:/6555</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/128671585703" rel="alternate" type="text/html"/>
+	<title type="html">kellyangel:
+
+Next comic | Support the comic</title>
+	<summary type="html"><![CDATA[kellyangel:
+
+Next comic | Support the comic
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/82b883d7b36be4f31386c66ea8887530/tumblr_nuds1yzgPV1qd57r9o1_500.png"><br><br><p><a href="http://kellyangel.tumblr.com/post/128667370400" target="_blank" rel="noreferrer">kellyangel</a>:</p>
+<blockquote>
+<p><a href="http://tapastic.com/episode/191387" target="_blank" rel="noreferrer">Next comic</a> | <a href="https://tapastic.com/support/KellyAngel" target="_blank" rel="noreferrer">Support the comic</a></p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-09-09T00:13:59+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-09T00:13:59+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-09:/6556</id>
+	<link href="http://danstonchat.com/16780.html" rel="alternate" type="text/html"/>
+	<title type="html">DansTonChat #16780</title>
+	<summary type="html"><![CDATA[Tony Leo: C&#039;est assez troublant, quand tu lit un débat sur Facebook et que tu vois que le mec q...]]></summary>
+	<content type="html"><![CDATA[<html><body><span>Tony Leo:</span> C'est assez troublant, quand tu lit un d&eacute;bat sur Facebook et que tu vois que le mec qui sort les meilleurs arguments, sans aucune faute d'orthographe et dans un fran&ccedil;ais correct, limite soutenu des fois, et que tu remarque que son pr&eacute;nom, c'est K&eacute;vin.</body></html>
+]]></content>
+	<updated>2015-09-09T00:46:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://danstonchat.com/</id>
+		<link rel="self" href="http://danstonchat.com/"/>
+		<updated>2015-09-09T00:46:01+00:00</updated>
+		<title>DansTonChat</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-09:/6563</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/128680555906" rel="alternate" type="text/html"/>
+	<title type="html">(via eninc)</title>
+	<summary type="html"><![CDATA[(via eninc)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/3736f741f8c6bee6fbed9198532b1995/tumblr_nue1l8EGEW1qewacoo1_r2_500.jpg"><br><br><p>(via <a href="https://www.reddit.com/user/eninc" target="_blank" rel="noreferrer">eninc</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-09T02:35:23+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-09T02:35:23+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-09:/6564</id>
@@ -1268,93 +1370,6 @@ Watering the cat
 		<link rel="self" href="https://suumitsu.eu/links/"/>
 		<updated>2015-08-25T19:50:01+00:00</updated>
 		<title>Mitsu'liens</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-06:/5942</id>
-	<link href="http://lehollandaisvolant.net/?id=20150901174109" rel="alternate" type="text/html"/>
-	<title type="html">Combien cela coûte-t-il pour créer un site web ? - Le Hollandais Volant</title>
-	<summary type="html"><![CDATA[France.fr → un budget de 800 000 € pour le rénover ? À ce prix c'est en HTTPS je suppose ? &nbsp;=_=...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>France.fr &rarr; un budget de 800 000 &euro; pour le r&eacute;nover ? &Agrave; ce prix c'est en HTTPS je suppose ? &nbsp;=_=<br>(<a href="https://suumitsu.eu/links/?aQiBGQ" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
-]]></content>
-	<updated>2015-09-01T21:35:06+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://suumitsu.eu/links/</id>
-		<link rel="self" href="https://suumitsu.eu/links/"/>
-		<updated>2015-09-01T21:35:06+00:00</updated>
-		<title>Mitsu'liens</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-06:/5775</id>
-	<link href="http://www.mypersonnaldata.eu/blog/index.php?d=2015/05/27/12/25/51-mozilla-tu-fous-quoi" rel="alternate" type="text/html"/>
-	<title type="html">Le cancre est là</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-06T12:17:54+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-06T12:17:54+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-06:/5743</id>
-	<link href="http://www.arretsurimages.net/breves/2015-09-03/Mazerolle-et-la-Marocaine-El-Khomri-id19199" rel="alternate" type="text/html"/>
-	<title type="html">Mazerolle, et la &quot;Marocaine&quot; El Khomri - Arrêt sur images</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-06T12:12:16+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-06T12:12:16+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-04:/5211</id>
-	<link href="https://facebook.com/lesenfantsfoires/posts/1655933304620824" rel="alternate" type="text/html"/>
-	<title type="html">lesenfantsfoires | Bonjour les Enfants ! émoticône wink Aujourd&amp;amp;#039;hui dans les coups de cœur de Larry le groupe Sigur Rós est à l&amp;amp;#039;affiche ! À l&amp;amp;#039;occasion du documentaire &amp;amp;quot;The Show of the Show&amp;amp;quot;, produit par la BBC, sur le monde des circassiens et le vaudeville prévu pour l&amp;amp;#039;an prochain, ils signent la bande originale en association avec le compositeur Hilmar Örn Hilmarsson et le guitariste Kjartan Holm. ... &amp;amp;quot;Circe&amp;amp;quot; sortira en disque le 21 août prochain et est disponible à l&amp;amp;#039;écoute dès maintenant sur soundcloud ! émoticône wink Enjoy ! émoticône heart ‪#‎larrycoupdecoeur‬ Afficher la suiteCircecirce’, an album by goggi &amp;amp;amp; orri in association with hilmar örn hilmarsson and kjartan holm. available to preorder now: http://sigur-ros-store.com/circe/</title>
-	<summary type="html"><![CDATA[Bonjour les Enfants ! émoticône wink Aujourd&#039;hui dans les coups de cœur de Larry le groupe Sigu...]]></summary>
-	<content type="html"><![CDATA[<html><body><a href="https://www.facebook.com/lesenfantsfoires?ref=nf" aria-hidden="true" tabindex="-1" data-ft='{"tn":"\u003C"}' rel="noreferrer" target="_blank"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.50.50/p50x50/11954556_1662669757280512_2711613332314058304_n.jpg?oh=b4221245bc4b020198c0da1bb6742f6f&amp;oe=56A79C1C&amp;__gda__=1450208891_e500888b69ee5f7d31f74bea57c1899a" alt=""></a>data-ft="{"tn":"K"}"&gt;Bonjour les Enfants ! &eacute;motic&ocirc;ne wink Aujourd'hui dans les coups de c&oelig;ur de Larry le groupe Sigur R&oacute;s est &agrave; l'affiche ! &Agrave; l'occasion du documentaire "The Show of the Show", produit par la BBC, sur le monde des circassiens et le vaudeville pr&eacute;vu pour l'an prochain, ils signent la bande originale en association avec le compositeur Hilmar &Ouml;rn Hilmarsson et le guitariste Kjartan Holm. ... "Circe" sortira en disque le 21 ao&ucirc;t prochain et est disponible &agrave; l'&eacute;coute d&egrave;s maintenant sur soundcloud ! &eacute;motic&ocirc;ne wink Enjoy ! &eacute;motic&ocirc;ne heart <a href="http://flxc.fr/hashtag/larrycoupdecoeur?source=feed_text&amp;story_id=1655933304620824" data-ft='{"tn":"*N","type":104}' rel="noreferrer" target="_blank">&#8234;#&lrm;larrycoupdecoeur&#8236;</a> <a href="http://192.168.137.2/#" data-ft='{"tn":"e"}' role="button" rel="noreferrer" target="_blank">Afficher la suite</a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=FAQEks_mz&amp;enc=AZNsvJ7aw9LAhWBGnK8JFX8dNr2Hj-0PKwTHSujNrlNc4szjh8-YuQBBzlCPDNPQDJCpoJTTIw5Ar6sDGZZpMrSx56Nl5d1H-1RDiD1QBeM5gTbYfHbM7szarNBQJLwUopfNmIuRymya4oZKM0GD22oLCYDzD1Kr6APmhb00iVdpPn1VYZVxzLodrJcenKqqGiDdYdCzPK17A9TScRJzibGi&amp;s=1" target="_blank" rel="noreferrer"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCsJWseJDFGOLIL&amp;w=158&amp;h=158&amp;url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000124629501-fzqd79-t200x200.jpg&amp;cfs=1&amp;upscale=1" alt="" width="158" height="158"></a><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsigur-ros%2Fsets%2Fcirce&amp;h=zAQHSQHgY&amp;s=1" rel="noreferrer" target="_blank">Circe</a>circe&rsquo;, an album by goggi &amp; orri in association with hilmar &ouml;rn hilmarsson and kjartan holm. available to preorder now: <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fsigur-ros-store.com%2Fcirce%2F&amp;h=HAQGhSdok&amp;s=1" target="_blank" rel="noreferrer">http://sigur-ros-store.com/circe/</a></body></html>
-]]></content>
-	<updated>2015-08-12T11:57:59+00:00</updated>
-	<author><name>Facebook Bridge</name></author>
-	<source>
-		<id>http://facebook.com</id>
-		<link rel="self" href="http://facebook.com"/>
-		<updated>2015-08-12T11:57:59+00:00</updated>
-		<title>Les Enfants Foirés</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-06:/5734</id>
-	<link href="http://www.tastefullyoffensive.com/2015/09/chill-cat-sits-in-little-green-chair.html" rel="alternate" type="text/html"/>
-	<title type="html">Tastefully Offensive: Chill Cat Sits in Little Green Chair Like a Human</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-06T11:39:36+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-06T11:39:36+00:00</updated>
-		<title>Published articles</title></source>
 
 
 </entry>
