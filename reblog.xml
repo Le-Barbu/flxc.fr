@@ -4,11 +4,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-08T01:00:23+00:00</updated>
+<updated>2015-09-08T10:33:53+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-09:/6694</id>
+	<link href="http://mememaster.tumblr.com/post/128718575969" rel="alternate" type="text/html"/>
+	<title type="html">scariestbug:
+
+these idiot s fell right into my trap. the menu...</title>
+	<summary type="html"><![CDATA[scariestbug:
+
+these idiot s fell right into my trap. the menu tonight is rich ppl soup
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/05c3b06b26de8d96907f6e1fae98d0d6/tumblr_mv2f35bG4T1rjg379o1_500.jpg"><br><br><p><a href="http://scariestbug.tumblr.com/post/64763672778" target="_blank" rel="noreferrer">scariestbug</a>:</p>
+<blockquote>
+<p>these idiot s fell right into my trap. the menu tonight is rich ppl soup</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-09-09T17:56:48+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-09-09T17:56:48+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-09:/6702</id>
@@ -1398,24 +1424,6 @@ EDIT: <a href="http://www.lesnumeriques.com/vie-du-net/youtube-a-t-declare-guerr
 		<link rel="self" href="http://danstonchat.com/"/>
 		<updated>2015-09-08T10:33:53+00:00</updated>
 		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-08:/6334</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128601140851" rel="alternate" type="text/html"/>
-	<title type="html">(photos by syndrome)</title>
-	<summary type="html"><![CDATA[  (photos by syndrome)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/edf04c37e1312b11db31915dc2e9014d/tumblr_nuc1v1Bf2s1qewacoo2_500.jpg"><br><br><img src="http://41.media.tumblr.com/e9de702bdc844c6ec2d84d39a76217a4/tumblr_nuc1v1Bf2s1qewacoo1_500.jpg"><br><br><p>(photos by <a href="https://www.reddit.com/user/_sYndrome_" target="_blank" rel="noreferrer">syndrome</a>)</p></body></html>
-]]></content>
-	<updated>2015-09-08T01:00:23+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-08T01:00:23+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
