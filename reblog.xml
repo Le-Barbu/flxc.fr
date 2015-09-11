@@ -4,11 +4,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-07T19:27:41+00:00</updated>
+<updated>2015-07-29T08:42:45+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-10:/6947</id>
+	<link href="http://kawaiidesune.tumblr.com/post/128792181338" rel="alternate" type="text/html"/>
+	<title type="html">gifsboom:
+
+Cat Repeatedly Kicks Himself in the...</title>
+	<summary type="html"><![CDATA[   gifsboom:
+
+Cat Repeatedly Kicks Himself in the Face.
+(www.tastefullyoffensive.com)
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/f8cae8798d0d2fd124123bba28aa7cb5/tumblr_nug3k5VQnn1s02vreo1_500.gif"><br><br><img src="http://38.media.tumblr.com/209454108ea1ed1f4faaa75e9c10a195/tumblr_nug3k5VQnn1s02vreo2_500.gif"><br><br><img src="http://33.media.tumblr.com/f7c529853c738b16045c7e598584cb2e/tumblr_nug3k5VQnn1s02vreo3_500.gif"><br><br><p><a href="http://gifsboom.tumblr.com/post/128776459556" rel="noreferrer" target="_blank">gifsboom</a>:</p>
+<blockquote>
+<p>Cat Repeatedly Kicks Himself in the Face.<br></p>
+<p>(<a href="http://www.tastefullyoffensive.com/2015/09/cat-kicks-himself-in-face.html" rel="noreferrer" target="_blank">www.tastefullyoffensive.com</a>)</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-09-10T19:18:30+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://kawaiidesune.tumblr.com/</id>
+		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
+		<updated>2015-09-10T19:18:30+00:00</updated>
+		<title>Kawaii desu ne</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-11:/7017</id>
+	<link href="http://xkcd.com/1576/" rel="alternate" type="text/html"/>
+	<title type="html">I Could Care Less</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://imgs.xkcd.com/comics/i_could_care_less.png" title="I literally could care less." alt="I literally could care less."></body></html>
+]]></content>
+	<updated>2015-09-11T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://xkcd.com/</id>
+		<link rel="self" href="http://xkcd.com/"/>
+		<updated>2015-09-11T04:00:00+00:00</updated>
+		<title>xkcd.com</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-10:/6984</id>
@@ -1396,43 +1442,6 @@ Bref. Du Chrome OS sauce Microsoft.<br>(<a href="https://suumitsu.eu/links/?0g_t
 		<link rel="self" href="https://suumitsu.eu/links/"/>
 		<updated>2015-07-29T08:42:45+00:00</updated>
 		<title>Mitsu'liens</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-06:/5980</id>
-	<link href="http://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno=CCPR%2fC%2fFRA%2fCO%2f5&amp;Lang=en" rel="alternate" type="text/html"/>
-	<title type="html">Comité des droits de l’homme - Observations finales concernant le cinquième rapport périodique du France</title>
-	<summary type="html"><![CDATA[La France n'a aucune légitimité à s'affirmer encore « pays des Droits de l'Homme ». Lisez donc ce ra...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>La France n'a aucune l&eacute;gitimit&eacute; &agrave; s'affirmer encore &laquo; pays des Droits de l'Homme &raquo;. Lisez donc ce rapport du Haut-Commissariat des Nations unies aux droits de l'Homme, au sujet de la France. C'est un floril&egrave;ge de scandales, du racisme &agrave; l'&eacute;galit&eacute; hommes-femmes en passant par le projet de loi renseignement et l'indemnisation des victimes d'essais nucl&eacute;aires.<br><br>
-(merci au Canard Enchain&eacute; d'avoir attir&eacute; mon attention l&agrave; dessus)<br>(<a href="https://suumitsu.eu/links/?m8hpLw" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
-]]></content>
-	<updated>2015-07-30T11:25:56+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://suumitsu.eu/links/</id>
-		<link rel="self" href="https://suumitsu.eu/links/"/>
-		<updated>2015-07-30T11:25:56+00:00</updated>
-		<title>Mitsu'liens</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-07:/6282</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128578915318" rel="alternate" type="text/html"/>
-	<title type="html">They’re so realistic. (via bierrr)</title>
-	<summary type="html"><![CDATA[   They’re so realistic. (via bierrr)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/304cfb353725bbb4d0a2c2743a8d07fb/tumblr_nubne52uSY1qewacoo3_r1_500.jpg"><br><br><img src="http://41.media.tumblr.com/e240da987ab12001ef260f55af79480f/tumblr_nubne52uSY1qewacoo1_r1_500.jpg"><br><br><img src="http://40.media.tumblr.com/549a1e51245e1031896f1c9b0772f718/tumblr_nubne52uSY1qewacoo2_r1_500.jpg"><br><br><p>They&rsquo;re so realistic. (via <a href="https://www.reddit.com/user/Bierrr" target="_blank" rel="noreferrer">bierrr</a>)</p></body></html>
-]]></content>
-	<updated>2015-09-07T19:27:41+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-07T19:27:41+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
