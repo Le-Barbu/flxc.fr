@@ -4,11 +4,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-08T12:55:22+00:00</updated>
+<updated>2015-09-08T12:49:09+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-12:/7361</id>
+	<link href="http://www.gog.com/game/dropsy" rel="alternate" type="text/html"/>
+	<title type="html">Dropsy -10% on GOG.com</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-12T13:04:18+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-12T13:04:18+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-05:/5560</id>
@@ -1413,24 +1430,6 @@ No, but re...]]></summary>
 		<id>http://mememaster.tumblr.com/</id>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-09-08T12:49:09+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-08:/6430</id>
-	<link href="http://mememaster.tumblr.com/post/128633988144" rel="alternate" type="text/html"/>
-	<title type="html">we’ve come full circle</title>
-	<summary type="html"><![CDATA[we’ve come full circle]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/0684e6af3aa274f0c6aa9e3adb9f3950/tumblr_n3hqgtuT3y1roocgho1_500.png"><br><br><p>we&rsquo;ve come full circle</p></body></html>
-]]></content>
-	<updated>2015-09-08T12:55:22+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-08T12:55:22+00:00</updated>
 		<title>Comedy Blog</title></source>
 
 
