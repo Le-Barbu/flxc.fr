@@ -4,11 +4,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-08T05:00:00+00:00</updated>
+<updated>2015-09-08T12:05:21+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-09:/6697</id>
+	<link href="http://la-bas.org/la-bas-magazine/au-fil-de-la-bas/joseph-stiglitz-conseille-francois-hollande" rel="alternate" type="text/html"/>
+	<title type="html">Monsieur Hollande, voilà comment inverser cette satanée courbe du chômage</title>
+	<summary type="html"><![CDATA[   Play  
+
+Joseph STIGLITZ : « La Grande fracture »
+par Là-bas si j'y suis https://vimeo.com/1384698...]]></summary>
+	<content type="html"><![CDATA[<html><body><div><div> <div> <div>  </div> </div>
+<div><a href="https://vimeo.com/138469859" rel="noreferrer" target="_blank">Joseph STIGLITZ : &laquo; La Grande fracture &raquo;</a>
+<br><i>par <a href="http://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></i></div> <div><a href="https://vimeo.com/138469859" rel="noreferrer" target="_blank">https://vimeo.com/138469859</a></div>
+</div> <p><strong>Augmenter les imp&ocirc;ts sur les entreprises qui n'investissent pas en France et utiliser ces revenus suppl&eacute;mentaires pour investir dans la jeunesse et les technologies, voil&agrave; les conseils que l'&eacute;conomiste Joseph Stiglitz donnerait &agrave; Fran&ccedil;ois Hollande si seulement Fran&ccedil;ois Hollande lui demandait comment infl&eacute;chir la courbe du ch&ocirc;mage</strong></p> <p><strong><a href="http://la-bas.org/re-ecouter/les-emissions/2015-16/85-milliardaires-dans-un-autobus" rel="noreferrer" target="_blank">&Eacute;coutez l'entretien int&eacute;gral avec Joseph Stiglitz</a>.</strong></p>
+<div>Entretien : <strong>Daniel MERMET</strong><br>
+Traduction : <strong>Laura RAIM</strong><br>
+Image : <strong>Caroline POTHIER</strong><br>
+R&eacute;alisation : <strong>Jonathan DUONG</strong></div></div></body></html>
+]]></content>
+	<updated>2015-09-09T18:07:29+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://la-bas.org/</id>
+		<link rel="self" href="http://la-bas.org/"/>
+		<updated>2015-09-09T18:07:29+00:00</updated>
+		<title>Là-bas si j'y suis</title></source>
+
+	<category term="economie"/>
+
+	<category term="video"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-11:/7175</id>
@@ -1390,26 +1422,6 @@ No, but re...]]></summary>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-09-08T12:05:21+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-08:/6392</id>
-	<link href="http://www.explosm.net/comics/4049/" rel="alternate" type="text/html"/>
-	<title type="html">Comic for 2015.09.08</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="//files.explosm.net/comics/Rob/remains.png"></body></html>
-]]></content>
-	<updated>2015-09-08T05:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.explosm.net/rss.php</id>
-		<link rel="self" href="http://www.explosm.net/rss.php"/>
-		<updated>2015-09-08T05:00:00+00:00</updated>
-		<title>Explosm.net</title></source>
-
-	<category term="comics"/>
 
 
 </entry>
