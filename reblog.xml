@@ -4,11 +4,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-08T18:48:14+00:00</updated>
+<updated>2015-09-06T10:24:32+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-13:/7571</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/128998916250" rel="alternate" type="text/html"/>
+	<title type="html">twisteddoodles:
+
+Boat pun</title>
+	<summary type="html"><![CDATA[twisteddoodles:
+
+Boat pun]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/380a9ca05ac6c5fef6767b3ffd98c168/tumblr_nulyctjqeI1rqudgzo1_500.png"><br><br><p><a href="http://www.twisteddoodles.com/post/128981877552/boat-pun" target="_blank" rel="noreferrer">twisteddoodles</a>:</p>
+
+<blockquote><p>Boat pun</p></blockquote></body></html>
+]]></content>
+	<updated>2015-09-13T15:31:23+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-13T15:31:23+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-13:/7570</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/129000773211" rel="alternate" type="text/html"/>
+	<title type="html">When you are having sex and forget to kick the cat out of the room</title>
+	<summary type="html"><![CDATA[moonheart-sunhead:
+
+kittiezandtittiez:
+
+
+
+crying till i die
+]]></summary>
+	<content type="html"><![CDATA[<html><body><p>moonheart-sunhead:
+
+kittiezandtittiez:
+
+
+
+crying till i die</p></body></html>
+]]></content>
+	<updated>2015-09-13T16:00:19+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-13T16:00:19+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-12:/7445</id>
+	<link href="http://www.polemixetlavoixoff.com/une-histoire-politique-des-wampas/" rel="alternate" type="text/html"/>
+	<title type="html">Une Histoire politique des Wampas ?</title>
+	<summary type="html"><![CDATA[
+&#8230;
+De 1983 à aujourd&rsquo;hui, plus de 30 années d&rsquo;Histoire et de politique française&#...]]></summary>
+	<content type="html"><![CDATA[<html><body><p><img src="http://www.polemixetlavoixoff.com/wp-content/uploads/2015/09/Punk-ouvrier-bus-tour.jpg" alt="Punk-ouvrier bus tour" width="460" height="312"></p>
+<p>&hellip;<br>
+De <strong>1983</strong> &agrave; aujourd&rsquo;hui,&nbsp;plus de 30 ann&eacute;es d&rsquo;Histoire et de politique fran&ccedil;aise&hellip; via l&rsquo;Histoire des <a href="http://wampas.com" rel="noreferrer" target="_blank"><strong>Wampas</strong></a>&hellip; racont&eacute;e par <strong>Didier Wampas</strong> !<br>
+Avec dedans des vrais morceaux de Marchais, Giscard, Mitterrand, Fabius, Tapie, Chirac, Barre, Balladur, Sarkozy&hellip; et Jean-Louis 2000.<br>
+Juin 2015 &ndash; 30&egrave;me &eacute;dition du&nbsp;<a href="http://www.radiobeton.com/aucard/" rel="noreferrer" target="_blank">Festival Aucard de Tours</a> &ndash; <a href="http://www.radiobeton.com/www/" rel="noreferrer" target="_blank">Radio B&eacute;ton</a>.</p>
+<p>Cet article <a rel="noreferrer" href="http://www.polemixetlavoixoff.com/une-histoire-politique-des-wampas/" target="_blank">Une Histoire politique des Wampas ?</a> est apparu en premier sur <a rel="noreferrer" href="http://www.polemixetlavoixoff.com" target="_blank">Pol&eacute;mix et la voix Off</a>.</p></body></html>
+]]></content>
+	<updated>2015-09-12T23:06:26+00:00</updated>
+	<author><name>Polemix et La Voix Off</name></author>
+	<source>
+		<id>http://www.polemixetlavoixoff.com</id>
+		<link rel="self" href="http://www.polemixetlavoixoff.com"/>
+		<updated>2015-09-12T23:06:26+00:00</updated>
+		<title>Polémix et la voix Off</title></source>
+
+	<category term="audio emissions radio"/>
+
+	<category term="didier"/>
+
+	<category term="émission"/>
+
+	<category term="interview"/>
+
+	<category term="polemix"/>
+
+	<category term="politique"/>
+
+	<category term="rock"/>
+
+	<category term="voix off"/>
+
+	<category term="wampas"/>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="143580517"
+		href="http://polemix.dooz.org/histoiredeswampas.mp3"/>
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-13:/7503</id>
@@ -1407,68 +1510,6 @@ No, but re...]]></summary>
 		type="application/x-shockwave-flash" 
 		length="1"
 		href="https://www.youtube.com/v/o7WXQcDLzD8?version=3"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-06:/5725</id>
-	<link href="http://www.youtube.com/watch?v=Mh6aHKDPOR4" rel="alternate" type="text/html"/>
-	<title type="html">10 Most Awkward Sex Scenes in Movies</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-06T10:49:00+00:00</updated>
-	<author><name>Screen Rant</name></author>
-	<source>
-		<id>http://www.youtube.com/channel/UC2iUwfYi_1FCGGqhOUNx-iA</id>
-		<link rel="self" href="http://www.youtube.com/channel/UC2iUwfYi_1FCGGqhOUNx-iA"/>
-		<updated>2015-09-06T10:49:00+00:00</updated>
-		<title>Screen Rant</title></source>
-
-
-	<link rel="enclosure" 
-		type="application/x-shockwave-flash" 
-		length="1"
-		href="https://www.youtube.com/v/Mh6aHKDPOR4?version=3"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-06:/5724</id>
-	<link href="http://www.youtube.com/watch?v=KcTbI9rJo7s" rel="alternate" type="text/html"/>
-	<title type="html">10 Amazing Improvised Movie Moments</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-06T11:21:47+00:00</updated>
-	<author><name>Screen Rant</name></author>
-	<source>
-		<id>http://www.youtube.com/channel/UC2iUwfYi_1FCGGqhOUNx-iA</id>
-		<link rel="self" href="http://www.youtube.com/channel/UC2iUwfYi_1FCGGqhOUNx-iA"/>
-		<updated>2015-09-06T11:21:47+00:00</updated>
-		<title>Screen Rant</title></source>
-
-
-	<link rel="enclosure" 
-		type="application/x-shockwave-flash" 
-		length="1"
-		href="https://www.youtube.com/v/KcTbI9rJo7s?version=3"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-08:/6497</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128651280568" rel="alternate" type="text/html"/>
-	<title type="html">✓ Guacamole costing extra.</title>
-	<summary type="html"><![CDATA[✓ Guacamole costing extra.]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/3507557b09a715ec68d91aab6b8ac869/tumblr_nudfi0xwPt1qet9hvo1_500.png"><br><br><p>&#10003; Guacamole costing extra.<br></p></body></html>
-]]></content>
-	<updated>2015-09-08T18:48:14+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-08T18:48:14+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
 
 </entry>
 
