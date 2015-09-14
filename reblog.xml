@@ -4,11 +4,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-11T15:30:47+00:00</updated>
+<updated>2015-09-09T21:00:15+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-13:/7524</id>
+	<link href="http://www.explosm.net/comics/4054/" rel="alternate" type="text/html"/>
+	<title type="html">Comic for 2015.09.13</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="//files.explosm.net/comics/Kris/everest.png"></body></html>
+]]></content>
+	<updated>2015-09-13T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.explosm.net/rss.php</id>
+		<link rel="self" href="http://www.explosm.net/rss.php"/>
+		<updated>2015-09-13T05:00:00+00:00</updated>
+		<title>Explosm.net</title></source>
+
+	<category term="comics"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-13:/7569</id>
+	<link href="http://oglaf.com/dictum/" rel="alternate" type="text/html"/>
+	<title type="html">Dictum</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><div><p><img src="http://media.oglaf.com/story/ttdictum.gif"></p><p><a href="http://oglaf.com/dictum/" rel="noreferrer" target="_blank"><img src="http://media.oglaf.com/archive/arc-dictum.png" width="400" height="100" border="0" alt="http://oglaf.com/dictum/"></a></p></div></body></html>
+]]></content>
+	<updated>2015-09-13T15:44:17+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://oglaf.com/latest/</id>
+		<link rel="self" href="http://oglaf.com/latest/"/>
+		<updated>2015-09-13T15:44:17+00:00</updated>
+		<title>Oglaf! -- Comics. Often dirty.</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-14:/7661</id>
+	<link href="http://xkcd.com/1577/" rel="alternate" type="text/html"/>
+	<title type="html">Advent</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://imgs.xkcd.com/comics/advent.png" title="The few dozen doors that have little Christmas trees on them are a nice touch." alt="The few dozen doors that have little Christmas trees on them are a nice touch."></body></html>
+]]></content>
+	<updated>2015-09-14T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://xkcd.com/</id>
+		<link rel="self" href="http://xkcd.com/"/>
+		<updated>2015-09-14T04:00:00+00:00</updated>
+		<title>xkcd.com</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-14:/7775</id>
@@ -1411,94 +1467,6 @@ these idiot s fell right into my trap. the menu tonight is rich ppl soup
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-09-09T21:00:15+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-09:/6748</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128737215328" rel="alternate" type="text/html"/>
-	<title type="html">theodd1sout:
-
-I can retire early AND LIVE OFF NOTHING BUT...</title>
-	<summary type="html"><![CDATA[       theodd1sout:
-
-I can retire early AND LIVE OFF NOTHING BUT PIZZA
-Facebook Twitter
-Website
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/12805ce29318908b4e6a370ce0521901/tumblr_nufmdrWLBx1rxxgowo1_500.png"><br><br><img src="http://41.media.tumblr.com/d2e3867d23c19756e72bccc79d331510/tumblr_nufmdrWLBx1rxxgowo2_500.png"><br><br><img src="http://40.media.tumblr.com/8eebee1375c7bce3c3ab418ac3842193/tumblr_nufmdrWLBx1rxxgowo3_500.png"><br><br><img src="http://40.media.tumblr.com/2b9547c50f03b5351dedc9686f93dc38/tumblr_nufmdrWLBx1rxxgowo4_500.png"><br><br><img src="http://41.media.tumblr.com/d8043d120455d516e3a9420af93bfc2f/tumblr_nufmdrWLBx1rxxgowo5_500.png"><br><br><img src="http://41.media.tumblr.com/0333160881b38f91977cbcc1262da1e4/tumblr_nufmdrWLBx1rxxgowo6_500.png"><br><br><img src="http://40.media.tumblr.com/a0813365ddc3bcf58c199cce77ce4d7c/tumblr_nufmdrWLBx1rxxgowo7_500.png"><br><br><p><a href="http://theodd1sout.tumblr.com/post/128736016068" target="_blank" rel="noreferrer">theodd1sout</a>:</p>
-<blockquote>
-<p>I can retire early AND LIVE OFF NOTHING BUT PIZZA</p>
-<p><a href="https://www.facebook.com/theodd1sout" target="_blank" rel="noreferrer">Facebook</a> <a href="https://twitter.com/theodd1sout" target="_blank" rel="noreferrer">Twitter</a><br></p>
-<p><a href="http://theodd1sout.com/comic/5-college/" target="_blank" rel="noreferrer">Website</a></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-09T23:16:57+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-09T23:16:57+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-11:/7152</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128850788633" rel="alternate" type="text/html"/>
-	<title type="html">by CloneOfKrieger</title>
-	<summary type="html"><![CDATA[        by CloneOfKrieger]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/ed96005c87e6f4df481ab56e27ba4903/tumblr_nuircwemrp1qewacoo1_500.jpg"><br><br><img src="http://41.media.tumblr.com/32d26fac1e68d7f6b6d9d3d0ee711d93/tumblr_nuircwemrp1qewacoo2_500.jpg"><br><br><img src="http://36.media.tumblr.com/a0f1d48d0edab5ad78908cff1f8ba01a/tumblr_nuircwemrp1qewacoo3_500.jpg"><br><br><img src="http://40.media.tumblr.com/efeef897f572bc8e0eefd39024dbdcd8/tumblr_nuircwemrp1qewacoo4_500.jpg"><br><br><img src="http://40.media.tumblr.com/09156f9f64930327b9c7febd1aaee1f4/tumblr_nuircwemrp1qewacoo5_500.jpg"><br><br><img src="http://40.media.tumblr.com/9260e732189e6208a28458a3dc21765d/tumblr_nuircwemrp1qewacoo6_500.jpg"><br><br><img src="http://41.media.tumblr.com/1ba1dba6a57e45f366d8ecbdb9f2cd12/tumblr_nuircwemrp1qewacoo7_500.jpg"><br><br><img src="http://33.media.tumblr.com/fb876f3b0bd087d90343e2af61f28b8c/tumblr_nuircwemrp1qewacoo8_500.gif"><br><br><p>by&nbsp;<a href="http://imgur.com/user/CloneOfKrieger" title="view account of CloneOfKrieger" target="_blank" rel="noreferrer">CloneOfKrieger</a></p></body></html>
-]]></content>
-	<updated>2015-09-11T15:36:58+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-11T15:36:58+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="behind the gif"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-11:/7167</id>
-	<link href="http://mememaster.tumblr.com/post/128850492744" rel="alternate" type="text/html"/>
-	<title type="html">homogayhorse:
-
-just-shower-thoughts:
-
-“firefly” is the opposite of “waterfall”
-
-what have you done</title>
-	<summary type="html"><![CDATA[homogayhorse:
-
-just-shower-thoughts:
-
-“firefly” is the opposite of “waterfall”
-
-what have you done
-]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://homogayhorse.tumblr.com/post/122674310108" target="_blank" rel="noreferrer">homogayhorse</a>:</p>
-<blockquote>
-<p><a href="http://just-shower-thoughts.tumblr.com/post/122672644719" target="_blank" rel="noreferrer">just-shower-thoughts</a>:</p>
-<blockquote>
-<p>&ldquo;firefly&rdquo; is the opposite of &ldquo;waterfall&rdquo;</p>
-</blockquote>
-<p>what have you done</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-11T15:30:47+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-11T15:30:47+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
