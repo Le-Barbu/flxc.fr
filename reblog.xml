@@ -4,11 +4,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-10T04:40:27+00:00</updated>
+<updated>2015-09-11T15:30:47+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-14:/7775</id>
+	<link href="http://mememaster.tumblr.com/post/129074025959" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/2c8294d9f5246ff97912a1abc3996ead/tumblr_nd13vv5JM01qb2emxo1_500.jpg"><br><br></body></html>
+]]></content>
+	<updated>2015-09-14T14:18:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-09-14T14:18:03+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-14:/7778</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/129074854773" rel="alternate" type="text/html"/>
+	<title type="html">Captain Jack Cable (photo via nrojbrot)</title>
+	<summary type="html"><![CDATA[Captain Jack Cable (photo via nrojbrot)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/72c0c046ebc23ecb54117915b91fca84/tumblr_nuo8igPiWR1qewacoo1_500.jpg"><br><br><p>Captain Jack Cable (photo via <a href="https://www.reddit.com/user/nrojbrot" target="_blank" rel="noreferrer">nrojbrot</a>)<br></p></body></html>
+]]></content>
+	<updated>2015-09-14T14:35:04+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-14T14:35:04+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-14:/7725</id>
@@ -1462,58 +1498,6 @@ what have you done
 		<id>http://mememaster.tumblr.com/</id>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-09-11T15:30:47+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-10:/6766</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128746796423" rel="alternate" type="text/html"/>
-	<title type="html">nicholasgurewitch:
-
-unpleasant astronaut.</title>
-	<summary type="html"><![CDATA[nicholasgurewitch:
-
-unpleasant astronaut.
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/fefb1c05d7b4dfc94313dd564ccbb2da/tumblr_nufrzrqwLf1r3ibjso1_400.gif"><br><br><p><a href="http://nicholasgurewitch.tumblr.com/post/128743060900" target="_blank" rel="noreferrer">nicholasgurewitch</a>:</p>
-<blockquote>
-<p>unpleasant astronaut.</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-10T01:57:35+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-10T01:57:35+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-10:/6789</id>
-	<link href="http://mememaster.tumblr.com/post/128756927324" rel="alternate" type="text/html"/>
-	<title type="html">fish-with-a-knife:
-
-The first cats of spring emerge</title>
-	<summary type="html"><![CDATA[    fish-with-a-knife:
-
-The first cats of spring emerge
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://31.media.tumblr.com/b0900f75a0efb9ca488ecc964a83033b/tumblr_nidkp9HaC11rl1jado1_500.gif"><br><br><img src="http://31.media.tumblr.com/e2ff9f05fbe158fa3604ff6cd194a280/tumblr_nidkp9HaC11rl1jado2_500.gif"><br><br><img src="http://33.media.tumblr.com/c37ecb637bcb0ac6e552e781551f32d2/tumblr_nidkp9HaC11rl1jado3_500.gif"><br><br><img src="http://31.media.tumblr.com/aa20101bd1680a1ef6a8618dfe931b81/tumblr_nidkp9HaC11rl1jado4_r1_500.gif"><br><br><p><a href="http://fish-with-a-knife.tumblr.com/post/109222675971" target="_blank" rel="noreferrer">fish-with-a-knife</a>:</p>
-<blockquote>
-<p>The first cats of spring emerge</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-10T04:40:27+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-10T04:40:27+00:00</updated>
 		<title>Comedy Blog</title></source>
 
 
