@@ -4,11 +4,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-10T19:18:30+00:00</updated>
+<updated>2015-09-10T17:05:49+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-14:/7756</id>
+	<link href="https://www.youtube.com/watch?v=gkilQ87UUj8" rel="alternate" type="text/html"/>
+	<title type="html">Is Gender REAL? – 8-Bit Philosophy - YouTube</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-14T12:44:18+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-14T12:44:18+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-14:/7708</id>
@@ -734,6 +751,10 @@ Juin 2015 &ndash; 30&egrave;me &eacute;dition du&nbsp;<a href="http://www.radiob
 	<category term="communications internationales"/>
 
 	<category term="dgse"/>
+
+	<category term="libertés publiques"/>
+
+	<category term="renseignement"/>
 
 	<category term="surveillance"/>
 
@@ -1461,34 +1482,6 @@ my friends found this sleeping cat in istanbul and dressed her up.
 		<id>http://kawaiidesune.tumblr.com/</id>
 		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
 		<updated>2015-09-10T17:05:49+00:00</updated>
-		<title>Kawaii desu ne</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-10:/6947</id>
-	<link href="http://kawaiidesune.tumblr.com/post/128792181338" rel="alternate" type="text/html"/>
-	<title type="html">gifsboom:
-
-Cat Repeatedly Kicks Himself in the...</title>
-	<summary type="html"><![CDATA[   gifsboom:
-
-Cat Repeatedly Kicks Himself in the Face.
-(www.tastefullyoffensive.com)
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/f8cae8798d0d2fd124123bba28aa7cb5/tumblr_nug3k5VQnn1s02vreo1_500.gif"><br><br><img src="http://38.media.tumblr.com/209454108ea1ed1f4faaa75e9c10a195/tumblr_nug3k5VQnn1s02vreo2_500.gif"><br><br><img src="http://33.media.tumblr.com/f7c529853c738b16045c7e598584cb2e/tumblr_nug3k5VQnn1s02vreo3_500.gif"><br><br><p><a href="http://gifsboom.tumblr.com/post/128776459556" rel="noreferrer" target="_blank">gifsboom</a>:</p>
-<blockquote>
-<p>Cat Repeatedly Kicks Himself in the Face.<br></p>
-<p>(<a href="http://www.tastefullyoffensive.com/2015/09/cat-kicks-himself-in-face.html" rel="noreferrer" target="_blank">www.tastefullyoffensive.com</a>)</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-10T19:18:30+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://kawaiidesune.tumblr.com/</id>
-		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
-		<updated>2015-09-10T19:18:30+00:00</updated>
 		<title>Kawaii desu ne</title></source>
 
 
