@@ -4,11 +4,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-10T17:05:49+00:00</updated>
+<updated>2015-09-10T05:07:50+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-14:/7759</id>
+	<link href="http://www.viedemerde.fr/amour/8616594" rel="alternate" type="text/html"/>
+	<title type="html">jaifaim a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, je suis routier et je mange dans mon camion. Ma femme s'est trompée, et m'a donné le Tu...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je suis routier et je mange dans mon camion. Ma femme s'est tromp&eacute;e, et m'a donn&eacute; le Tupperware de fromage r&acirc;p&eacute;. Je suis seul, en rase campagne et intol&eacute;rant au lactose. J'ai faim. VDM</p></body></html>
+]]></content>
+	<updated>2015-09-13T20:04:53+00:00</updated>
+	<author><name>jaifaim</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-09-13T20:04:53+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-12:/7409</id>
+	<link href="http://www.youtube.com/watch?v=VkMU1mKdwPI" rel="alternate" type="text/html"/>
+	<title type="html">Film Theory: Neo ISN'T The One in The Matrix Trilogy</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-12T16:48:44+00:00</updated>
+	<author><name>The Film Theorists</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UC3sznuotAs2ohg_U__Jzj_Q</id>
+		<link rel="self" href="http://www.youtube.com/channel/UC3sznuotAs2ohg_U__Jzj_Q"/>
+		<updated>2015-09-12T16:48:44+00:00</updated>
+		<title>The Film Theorists</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/VkMU1mKdwPI?version=3"/>
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-14:/7756</id>
@@ -1439,50 +1479,6 @@ The first cats of spring emerge
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-09-10T05:07:50+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-10:/6909</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128785064163" rel="alternate" type="text/html"/>
-	<title type="html">chingizhobbes:
-
-my friends found this sleeping cat in istanbul...</title>
-	<summary type="html"><![CDATA[chingizhobbes:
-
-my friends found this sleeping cat in istanbul and dressed her up.
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/ef72867160196a59d89c7dd4263689c5/tumblr_njo35wLoOh1sn7m04o1_500.jpg"><br><br><p><a href="http://chingizhobbes.tumblr.com/post/110817322384" target="_blank" rel="noreferrer">chingizhobbes</a>:</p>
-<blockquote>
-<p>my friends found this sleeping cat in istanbul and dressed her up.<br></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-10T17:03:53+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-10T17:03:53+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-10:/6914</id>
-	<link href="http://kawaiidesune.tumblr.com/post/128785160518" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/9133bdb36e6e940b1972d6f7c242a647/tumblr_nmunctp2yP1rmugc6o1_500.png"><br><br></body></html>
-]]></content>
-	<updated>2015-09-10T17:05:49+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://kawaiidesune.tumblr.com/</id>
-		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
-		<updated>2015-09-10T17:05:49+00:00</updated>
-		<title>Kawaii desu ne</title></source>
 
 
 </entry>
