@@ -4,11 +4,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-10T05:07:50+00:00</updated>
+<updated>2015-09-10T04:40:27+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-14:/7725</id>
+	<link href="http://www.mediapart.fr/journal/culture-idees/140915/mediaporte-lettre-aux-guignols" rel="alternate" type="text/html"/>
+	<title type="html">MediaPorte: «Lettre aux Guignols»</title>
+	<summary type="html"><![CDATA[
+    
+            
+                    La rédaction de Mediapart        
+        
+
+
+    
+           ...]]></summary>
+	<content type="html"><![CDATA[<html><body><div>
+    <div>
+            <div>
+                    <a href="http://www.mediapart.fr/biographie/54054" title="Tous les articles de La r&eacute;daction de Mediapart" rel="noreferrer" target="_blank">La r&eacute;daction de Mediapart</a>        </div>
+        </div>
+</div>
+<div>
+    <div>
+            <div>
+                    <div><img src="http://static.mediapart.fr/files/imagecache/770_pixels/media_64525/Capture_decran_2015-09-14_a_12.07.20.png" alt="" title="" width="770" height="416"><span> <span>&copy; Mediapart.</span></span></div><p><br><i>&laquo;&nbsp;D&eacute;dramatisons, les amis&nbsp;&raquo;</i>, &eacute;crit Didier Porte aux nouveaux auteurs des Guignols de l'info &ndash; dont il d&eacute;voile les noms. Ce qui se passe &agrave; Canal Plus, <i>&laquo;&nbsp;c'est le ba ba du management&nbsp;&raquo;</i>.</p>        </div>
+        </div>
+</div>
+<p><i>&laquo;&nbsp;D&eacute;dramatisons, les amis&nbsp;&raquo;</i>, &eacute;crit Didier Porte aux nouveaux auteurs des Guignols de l'info &ndash; dont il d&eacute;voile l</p><div></div><p><a href="http://www.mediapart.fr/journal/culture-idees/140915/mediaporte-lettre-aux-guignols" target="_blank" rel="noreferrer">lire la suite</a></p></body></html>
+]]></content>
+	<updated>2015-09-14T10:14:00+00:00</updated>
+	<author><name>Géraldine Delacroix</name></author>
+	<source>
+		<id>http://www.mediapart.fr</id>
+		<link rel="self" href="http://www.mediapart.fr"/>
+		<updated>2015-09-14T10:14:00+00:00</updated>
+		<title>Mediapart</title></source>
+
+	<category term="culture-idées"/>
+
+	<category term="canal plus"/>
+
+	<category term="didier porte"/>
+
+	<category term="les guignols"/>
+
+	<category term="médias"/>
+
+	<category term="vidéo"/>
+
+	<category term="vincent bolloré"/>
+
+	<category term="chronique"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-14:/7759</id>
@@ -1460,24 +1514,6 @@ The first cats of spring emerge
 		<id>http://mememaster.tumblr.com/</id>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-09-10T04:40:27+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-10:/6799</id>
-	<link href="http://mememaster.tumblr.com/post/128758358099" rel="alternate" type="text/html"/>
-	<title type="html">Video</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><br><br></body></html>
-]]></content>
-	<updated>2015-09-10T05:07:50+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-10T05:07:50+00:00</updated>
 		<title>Comedy Blog</title></source>
 
 
