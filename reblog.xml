@@ -4,11 +4,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-11T02:06:21+00:00</updated>
+<updated>2015-09-11T01:48:50+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-14:/7686</id>
+	<link href="http://mememaster.tumblr.com/post/129040720924" rel="alternate" type="text/html"/>
+	<title type="html">razzledazzy:
+
+razzledazzy:
+
+if we put chris hemsworth, chris pratt, chris pine, and chris evans into...</title>
+	<summary type="html"><![CDATA[razzledazzy:
+
+razzledazzy:
+
+if we put chris hemsworth, chris pratt, chris pine, and chris evans into...]]></summary>
+	<content type="html"><![CDATA[<html><body><p><a href="http://razzledazzy.tumblr.com/post/86423349653/razzledazzy-if-we-put-chris-hemsworth-chris" target="_blank" rel="noreferrer">razzledazzy</a>:</p>
+<blockquote>
+<p><a href="http://razzledazzy.tumblr.com/post/86423170758/if-we-put-chris-hemsworth-chris-pratt-chris" target="_blank" rel="noreferrer">razzledazzy</a>:</p>
+<blockquote>
+<p>if we put chris hemsworth, chris pratt, chris pine, and chris evans into a room together what would happen</p>
+</blockquote>
+<p><img alt="image" src="http://33.media.tumblr.com/6a0c208a83be51346407b31dc81ce1f1/tumblr_inline_n5ycopmj8z1qh7igi.png"></p>
+<p><em>leave</em></p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-09-14T01:51:13+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-09-14T01:51:13+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-12:/7415</id>
@@ -1476,54 +1510,6 @@ I need this to live forever on my blog. It’s beautiful. This is the...]]></sum
 		<id>http://mememaster.tumblr.com/</id>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-09-11T01:48:50+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-11:/7011</id>
-	<link href="http://mememaster.tumblr.com/post/128817131249" rel="alternate" type="text/html"/>
-	<title type="html">officialstopandshop:
-
-
-lickingdrakesass13:
-
-wingedmusic:
-
-My Mum...</title>
-	<summary type="html"><![CDATA[
-
-    
-
-officialstopandshop:
-
-
-lickingdrakesass13:
-
-wingedmusic:
-
-My Mum tried to capture what we th...]]></summary>
-	<content type="html"><![CDATA[<html><body><video width="400" height="711" poster="http://media.tumblr.com/tumblr_ns2yssDC6B1re2827_frame1.jpg" preload="none" data-crt-video data-crt-options='{"duration":9,"hdUrl":false,"filmstrip":{"url":"http:\/\/33.media.tumblr.com\/previews\/tumblr_ns2yssDC6B1re2827_filmstrip.jpg","width":"200","height":"357"}}'><source src="http://mememaster.tumblr.com/video_file/128817131249/tumblr_ns2yssDC6B1re2827/480" type="video/mp4"></source></video><br><br><p><a href="http://officialstopandshop.tumblr.com/post/125381234261" target="_blank" rel="noreferrer">officialstopandshop</a>:</p>
-
-<blockquote>
-<p><a href="http://lickingdrakesass13.tumblr.com/post/125262292320" target="_blank" rel="noreferrer">lickingdrakesass13</a>:</p>
-<blockquote>
-<p><a href="http://wingedmusic.tumblr.com/post/125060882497" target="_blank" rel="noreferrer">wingedmusic</a>:</p>
-<blockquote>
-<p>My Mum tried to capture what we thought would be a lovely moment between our cats.</p>
-</blockquote>
-<p>I&rsquo;m the brown cat</p>
-</blockquote>
-<p>I&rsquo;m the punches</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-11T02:06:21+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-11T02:06:21+00:00</updated>
 		<title>Comedy Blog</title></source>
 
 
