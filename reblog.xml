@@ -4,11 +4,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-11T17:07:10+00:00</updated>
+<updated>2015-09-11T16:09:12+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-15:/7970</id>
+	<link href="http://explosm.net/comics/4056/" rel="alternate" type="text/html"/>
+	<title type="html">Cyanide &amp; Happiness (Explosm.net)</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-15T15:41:50+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-15T15:41:50+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-15:/7891</id>
@@ -1424,24 +1441,6 @@ hroakie:
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-09-11T16:09:12+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-11:/7183</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128855250323" rel="alternate" type="text/html"/>
-	<title type="html">by Eat More Bikes</title>
-	<summary type="html"><![CDATA[by Eat More Bikes]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/44a47eadac0a4343a13127fba86ee172/tumblr_nuiur4spsr1qhy1pno1_500.jpg"><br><br><p>by <a href="http://eatmorebikes.tumblr.com/post/128854386601" target="_blank" rel="noreferrer">Eat More Bikes</a></p></body></html>
-]]></content>
-	<updated>2015-09-11T17:07:10+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-11T17:07:10+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
