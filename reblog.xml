@@ -4,11 +4,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-04T05:51:47+00:00</updated>
+<updated>2015-09-12T13:04:18+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-15:/8044</id>
+	<link href="http://www.tastefullyoffensive.com/2015/09/people-review-apples-new-iphone-6s.html" rel="alternate" type="text/html"/>
+	<title type="html">Tastefully Offensive: People Review Apple's New iPhone 6s Without Realizing They're Holding an Original iPhone</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-15T19:01:41+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-15T19:01:41+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-15:/8023</id>
@@ -1379,34 +1396,6 @@ chlorophyll
 		<link rel="self" href="http://flxc.fr/rss"/>
 		<updated>2015-09-12T13:04:18+00:00</updated>
 		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-05:/5560</id>
-	<link href="http://la-bas.org/la-bas-magazine/videos/tentative-d-evasion-fiscale-le-nouveau-livre-des-pincon-charlot" rel="alternate" type="text/html"/>
-	<title type="html">« TENTATIVE D'EVASION (fiscale) » : le nouveau livre des Pinçon-Charlot sort le 10 septembre</title>
-	<summary type="html"><![CDATA[   Play  
-
-« Tentative d'évasion (fiscale) » : le nouveau livre des Pinçon-Charlot
-par Là-bas si j'y...]]></summary>
-	<content type="html"><![CDATA[<html><body><div><div> <div> <div>  </div> </div>
-<div><a href="https://vimeo.com/138276485" rel="noreferrer" target="_blank">&laquo; Tentative d'&eacute;vasion (fiscale) &raquo; : le nouveau livre des Pin&ccedil;on-Charlot</a>
-<br><i>par <a href="http://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></i></div> <div><a href="https://vimeo.com/138276485" rel="noreferrer" target="_blank">https://vimeo.com/138276485</a></div>
-</div> <p><a href="http://www.editions-zones.fr/spip.php?article200" rel="noreferrer" target="_blank"><i>Tentative d'&eacute;vasion (fiscale)</i></a> : le nouveau livre des sociologues <strong>Monique Pin&ccedil;on-Charlot</strong> et <strong>Michel Pin&ccedil;on</strong> sort en librairie le 10 septembre, aux &eacute;ditions Zones. Il sera &eacute;galement disponible gratuitement sur le site <a href="http://www.editions-zones.fr/" rel="noreferrer" target="_blank">www.editions-zones.fr</a>.</p> <p>Vingt ans ! Notre premi&egrave;re &eacute;mission avec les Pin&ccedil;on-Charlot, c'&eacute;tait en 1995 et franchement leur succ&egrave;s nous fait plaisir. <i>&laquo; Comme il y des lanceurs d'alerte, nous sommes des lanceurs de conscience &raquo;</i> disent-ils.</p> <p>Cette fois ils s'attaquent &agrave; l'&eacute;norme scandale de l'&eacute;vasion fiscale afin de <i>&laquo; battre en br&egrave;che le pouvoir symbolique li&eacute; &agrave; l'opacit&eacute; de la sp&eacute;culation financi&egrave;re, &agrave; la cupidit&eacute; et au cynisme des plus riches mobilis&eacute;s pour accumuler toujours plus d'argent. &raquo;</i></p> <p><strong><a href="http://la-bas.org/re-ecouter/les-emissions/2015-16/imposer-la-morale-au-petit-peuple-tout-en-lechant-le-cul-des-riches" rel="noreferrer" target="_blank">&Eacute;coutez l'entretien radio avec les Pin&ccedil;on-Charlot dans L&Agrave;-BAS Hebdo n&deg;23</a>.<br></strong></p>
-<div>Image : <strong>Caroline POTHIER</strong><br>
-R&eacute;alisation : <strong>Jonathan DUONG</strong></div></div></body></html>
-]]></content>
-	<updated>2015-09-04T05:51:47+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://la-bas.org/</id>
-		<link rel="self" href="http://la-bas.org/"/>
-		<updated>2015-09-04T05:51:47+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-	<category term="economie"/>
 
 
 </entry>
