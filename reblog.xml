@@ -4,11 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-09T21:00:15+00:00</updated>
+<updated>2015-09-09T20:31:53+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-14:/7810</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/129082528043" rel="alternate" type="text/html"/>
+	<title type="html">by Jake Likes Onions</title>
+	<summary type="html"><![CDATA[by Jake Likes Onions]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/e73e8b007da71adbd3c6b0fee747b811/tumblr_nuofbfhL8g1qewacoo1_500.jpg"><br><br><p>by <a href="http://instagram.com/jakelikesonions" target="_blank" rel="noreferrer">Jake Likes Onions</a></p></body></html>
+]]></content>
+	<updated>2015-09-14T17:02:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-14T17:02:03+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-13:/7524</id>
@@ -453,7 +471,7 @@ Via: kickas...]]></summary>
 	<link href="http://www.viedemerde.fr/sante/8616382" rel="alternate" type="text/html"/>
 	<title type="html">depress a une VDM</title>
 	<summary type="html"><![CDATA[Aujourd'hui, et depuis quelque temps, je suis dépressive. Ma famille a depuis pris une habitude désa...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, et depuis quelque temps, je suis d&eacute;pressive. Ma famille a depuis pris une habitude d&eacute;sagr&eacute;able. Chaque soir, d&eacute;s qu'il y a un bulletin m&eacute;t&eacute;o et que le mot "d&eacute;pression", ils se tournent tous vers moi avec piti&eacute; en soupirant. VDM</p></body></html>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, et depuis quelque temps, je suis d&eacute;pressive. Ma famille a depuis pris une habitude d&eacute;sagr&eacute;able. Chaque soir, d&egrave;s qu'il y a un bulletin m&eacute;t&eacute;o et que le mot "d&eacute;pression", ils se tournent tous vers moi avec piti&eacute; en soupirant. VDM</p></body></html>
 ]]></content>
 	<updated>2015-09-13T12:21:52+00:00</updated>
 	<author><name>depress</name></author>
@@ -1449,24 +1467,6 @@ these idiot s fell right into my trap. the menu tonight is rich ppl soup
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-09-09T20:31:53+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-09:/6731</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128728941056" rel="alternate" type="text/html"/>
-	<title type="html">Pun Dog #17 (previously) (via haydenquaver)</title>
-	<summary type="html"><![CDATA[   Pun Dog #17 (previously) (via haydenquaver)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/19e3f5198b491b2763e813797e9488bb/tumblr_nufgj3KkHw1qewacoo2_500.jpg"><br><br><img src="http://40.media.tumblr.com/2fcb39b58c4ac21e43872babe808fc5c/tumblr_nufgj3KkHw1qewacoo1_500.jpg"><br><br><img src="http://40.media.tumblr.com/1add75b86e0c91f480f13e7fa79a3843/tumblr_nufgj3KkHw1qewacoo3_500.jpg"><br><br><p>Pun Dog #17 (<a href="http://tumblr.tastefullyoffensive.com/post/125292722703/pun-dog-16-previously-joke-via" target="_blank" rel="noreferrer">previously</a>) (via <a href="https://www.reddit.com/user/haydenquaver" target="_blank" rel="noreferrer">haydenquaver</a>)</p></body></html>
-]]></content>
-	<updated>2015-09-09T21:00:15+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-09T21:00:15+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
