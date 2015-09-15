@@ -4,11 +4,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-11T16:09:12+00:00</updated>
+<updated>2015-09-04T05:51:47+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-15:/8023</id>
+	<link href="http://oatmeal.tumblr.com/post/125884369766" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/18e56b007dd1cf95947653203a1ea701/tumblr_nsl1ufXZxx1qet9hvo1_500.png"><br><br></body></html>
+]]></content>
+	<updated>2015-08-05T00:11:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://oatmeal.tumblr.com/</id>
+		<link rel="self" href="http://oatmeal.tumblr.com/"/>
+		<updated>2015-08-05T00:11:03+00:00</updated>
+		<title>The Oatmeal</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-15:/8011</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/129157747684" rel="alternate" type="text/html"/>
+	<title type="html">by Eat More Bikes</title>
+	<summary type="html"><![CDATA[by Eat More Bikes]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/9e303ed861b78edafc1928decf16785a/tumblr_nuqb7ety0J1qhy1pno1_500.jpg"><br><br><p>by <a href="http://eatmorebikes.tumblr.com/post/129156089111" target="_blank" rel="noreferrer">Eat More Bikes</a></p></body></html>
+]]></content>
+	<updated>2015-09-15T18:00:13+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-15T18:00:13+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-15:/8016</id>
+	<link href="http://mememaster.tumblr.com/post/129158764109" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/fc9e2952196a2f1587480eeacae56c50/tumblr_n8zysxOMpF1rboqfio1_500.jpg"><br><br></body></html>
+]]></content>
+	<updated>2015-09-15T18:19:13+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-09-15T18:19:13+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-15:/7970</id>
@@ -1353,94 +1407,6 @@ R&eacute;alisation : <strong>Jonathan DUONG</strong></div></div></body></html>
 		<title>Là-bas si j'y suis</title></source>
 
 	<category term="economie"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-09:/6697</id>
-	<link href="http://la-bas.org/la-bas-magazine/au-fil-de-la-bas/joseph-stiglitz-conseille-francois-hollande" rel="alternate" type="text/html"/>
-	<title type="html">Monsieur Hollande, voilà comment inverser cette satanée courbe du chômage</title>
-	<summary type="html"><![CDATA[   Play  
-
-Joseph STIGLITZ : « La Grande fracture »
-par Là-bas si j'y suis https://vimeo.com/1384698...]]></summary>
-	<content type="html"><![CDATA[<html><body><div><div> <div> <div>  </div> </div>
-<div><a href="https://vimeo.com/138469859" rel="noreferrer" target="_blank">Joseph STIGLITZ : &laquo; La Grande fracture &raquo;</a>
-<br><i>par <a href="http://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></i></div> <div><a href="https://vimeo.com/138469859" rel="noreferrer" target="_blank">https://vimeo.com/138469859</a></div>
-</div> <p><strong>Augmenter les imp&ocirc;ts sur les entreprises qui n'investissent pas en France et utiliser ces revenus suppl&eacute;mentaires pour investir dans la jeunesse et les technologies, voil&agrave; les conseils que l'&eacute;conomiste Joseph Stiglitz donnerait &agrave; Fran&ccedil;ois Hollande si seulement Fran&ccedil;ois Hollande lui demandait comment infl&eacute;chir la courbe du ch&ocirc;mage</strong></p> <p><strong><a href="http://la-bas.org/re-ecouter/les-emissions/2015-16/85-milliardaires-dans-un-autobus" rel="noreferrer" target="_blank">&Eacute;coutez l'entretien int&eacute;gral avec Joseph Stiglitz</a>.</strong></p>
-<div>Entretien : <strong>Daniel MERMET</strong><br>
-Traduction : <strong>Laura RAIM</strong><br>
-Image : <strong>Caroline POTHIER</strong><br>
-R&eacute;alisation : <strong>Jonathan DUONG</strong></div></div></body></html>
-]]></content>
-	<updated>2015-09-09T18:07:29+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://la-bas.org/</id>
-		<link rel="self" href="http://la-bas.org/"/>
-		<updated>2015-09-09T18:07:29+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-	<category term="economie"/>
-
-	<category term="video"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-11:/7175</id>
-	<link href="http://mememaster.tumblr.com/post/128852302809" rel="alternate" type="text/html"/>
-	<title type="html">kaisukes:
-
-hroakie:</title>
-	<summary type="html"><![CDATA[kaisukes:
-
-hroakie:
-
-
-
-
-
-
-]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://kaisukes.tumblr.com/post/92311878921/hroakie" target="_blank" rel="noreferrer">kaisukes</a>:</p>
-<blockquote>
-<p><a href="http://hroakie.tumblr.com/post/92285707110" target="_blank" rel="noreferrer">hroakie</a>:</p>
-<blockquote>
-<p><img alt="image" src="http://31.media.tumblr.com/efab147240c7a6dd7dc99395747b2647/tumblr_inline_n8zkkxv0sr1rb90na.png"></p>
-<p><img alt="image" src="http://38.media.tumblr.com/01403285ffcdf81e57719450e36ed229/tumblr_inline_n8zkgbIM2Q1rb90na.png"></p>
-<p><img alt="image" src="http://38.media.tumblr.com/3a68f5479fcc5786486e170f656013bd/tumblr_inline_n8zkggc1Ak1rb90na.jpg"></p>
-</blockquote>
-<p><img alt="image" src="http://31.media.tumblr.com/702aa39f3938ed007819919ab230deca/tumblr_inline_n8zs39bBTl1rwnc7y.png"></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-11T16:07:45+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-11T16:07:45+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-11:/7174</id>
-	<link href="http://mememaster.tumblr.com/post/128852371784" rel="alternate" type="text/html"/>
-	<title type="html">Video</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><br><br></body></html>
-]]></content>
-	<updated>2015-09-11T16:09:12+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-11T16:09:12+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
