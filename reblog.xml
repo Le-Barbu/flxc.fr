@@ -4,11 +4,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-13T16:00:19+00:00</updated>
+<updated>2015-09-13T15:31:23+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-16:/8181</id>
+	<link href="http://mememaster.tumblr.com/post/129219033514" rel="alternate" type="text/html"/>
+	<title type="html">How It’s Made: How It’s Made</title>
+	<summary type="html"><![CDATA[chorusflower:
+
+An episode of How It’s Made where they show you how How It’s Made is made
+
+
+Next up: ...]]></summary>
+	<content type="html"><![CDATA[<html><body><p><a href="http://chorusflower.tumblr.com/post/128010083597" target="_blank" rel="noreferrer">chorusflower</a>:</p>
+<blockquote>
+<p>An episode of How It&rsquo;s Made where they show you how How It&rsquo;s Made is made</p>
+</blockquote>
+
+<p>Next up: Behind the scenes of how the How it&rsquo;s made, How it&rsquo;s made episode was made</p></body></html>
+]]></content>
+	<updated>2015-09-16T15:45:32+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-09-16T15:45:32+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-16:/8126</id>
@@ -1271,37 +1299,6 @@ Boat pun]]></summary>
 		<id>http://tumblr.tastefullyoffensive.com/</id>
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-09-13T15:31:23+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-13:/7570</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/129000773211" rel="alternate" type="text/html"/>
-	<title type="html">When you are having sex and forget to kick the cat out of the room</title>
-	<summary type="html"><![CDATA[moonheart-sunhead:
-
-kittiezandtittiez:
-
-
-
-crying till i die
-]]></summary>
-	<content type="html"><![CDATA[<html><body><p>moonheart-sunhead:
-
-kittiezandtittiez:
-
-
-
-crying till i die</p></body></html>
-]]></content>
-	<updated>2015-09-13T16:00:19+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-13T16:00:19+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
 
 
