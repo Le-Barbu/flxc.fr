@@ -4,11 +4,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-13T15:31:23+00:00</updated>
+<updated>2015-09-13T13:19:24+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-16:/8266</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/129231706808" rel="alternate" type="text/html"/>
+	<title type="html">Mind-Boggling Shower Thoughts, Part 5 (Part 4) (images via...</title>
+	<summary type="html"><![CDATA[          Mind-Boggling Shower Thoughts, Part 5 (Part 4) (images via imgur)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/5e11f0e77fe71a1ac9d473c398dce392/tumblr_nuscfbJlCi1qewacoo3_r1_500.jpg"><br><br><img src="http://41.media.tumblr.com/baf4160d35cbeb46a9186451ba72f9c6/tumblr_nuscfbJlCi1qewacoo2_500.jpg"><br><br><img src="http://41.media.tumblr.com/0e0375e3331c8424fde6c84e93139bc8/tumblr_nuscfbJlCi1qewacoo1_500.jpg"><br><br><img src="http://41.media.tumblr.com/e283768a026242d6d6269179d840e770/tumblr_nuscfbJlCi1qewacoo4_500.jpg"><br><br><img src="http://40.media.tumblr.com/84040ef58f5ec3d1477454def275ef66/tumblr_nuscfbJlCi1qewacoo6_500.jpg"><br><br><img src="http://40.media.tumblr.com/deea1b5469628a0c4e14a0804d518e37/tumblr_nuscfbJlCi1qewacoo5_500.jpg"><br><br><img src="http://36.media.tumblr.com/dde16459a63a5bf586e114cdf53c09fd/tumblr_nuscfbJlCi1qewacoo8_500.jpg"><br><br><img src="http://40.media.tumblr.com/516bce53984fe0a9796641c842e6699e/tumblr_nuscfbJlCi1qewacoo10_500.jpg"><br><br><img src="http://41.media.tumblr.com/771aaeab058e367be754bd0687bb7e7b/tumblr_nuscfbJlCi1qewacoo9_500.jpg"><br><br><img src="http://40.media.tumblr.com/7689185297a56fcb5d9b6ad5906f421c/tumblr_nuscfbJlCi1qewacoo7_500.jpg"><br><br><p><b>Mind-Boggling Shower Thoughts, Part 5</b> (<a href="http://tumblr.tastefullyoffensive.com/post/122434753543/mind-blowing-shower-thoughts-part-4-images-via" target="_blank" rel="noreferrer">Part 4</a>) (images via <a href="http://imgur.com/gallery/EhIJB" target="_blank" rel="noreferrer">imgur</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-16T19:49:59+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-16T19:49:59+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+	<category term="shower thoughts"/>
+
+	<category term="lists"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-16:/8181</id>
@@ -1276,30 +1298,6 @@ carmel
 		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
 		<updated>2015-09-13T13:19:24+00:00</updated>
 		<title>Kawaii desu ne</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-13:/7571</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128998916250" rel="alternate" type="text/html"/>
-	<title type="html">twisteddoodles:
-
-Boat pun</title>
-	<summary type="html"><![CDATA[twisteddoodles:
-
-Boat pun]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/380a9ca05ac6c5fef6767b3ffd98c168/tumblr_nulyctjqeI1rqudgzo1_500.png"><br><br><p><a href="http://www.twisteddoodles.com/post/128981877552/boat-pun" target="_blank" rel="noreferrer">twisteddoodles</a>:</p>
-
-<blockquote><p>Boat pun</p></blockquote></body></html>
-]]></content>
-	<updated>2015-09-13T15:31:23+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-13T15:31:23+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
