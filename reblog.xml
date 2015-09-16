@@ -4,11 +4,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-12T13:04:18+00:00</updated>
+<updated>2015-09-12T15:25:24+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-16:/8096</id>
+	<link href="http://www.computerweekly.com/news/4500253499/Almost-30-of-retailers-use-facial-recognition-technology-to-track-consumers-in-store" rel="alternate" type="text/html"/>
+	<title type="html">Almost 30% of retailers use facial recognition technology to track consumers in store</title>
+	<summary type="html"><![CDATA[La statistique orwellienne du jour qui fait flipper: Il y aurait 30% des commerces en Grande-Bretagn...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>La statistique orwellienne du jour qui fait flipper: Il y aurait 30% des commerces en Grande-Bretagne qui utilisent la reconnaissance faciale des clients qui entrent.<br>
+Ce chiffre me semble anormalement &eacute;lev&eacute;, mais s'il est r&eacute;el, on est vraiment sur une mauvaise pente. :-(<br>(<a href="http://sebsauvage.net/links/?dHUfkA" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-16T06:43:02+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://sebsauvage.net/links/</id>
+		<link rel="self" href="http://sebsauvage.net/links/"/>
+		<updated>2015-09-16T06:43:02+00:00</updated>
+		<title>Liens en vrac de sebsauvage</title></source>
+
+	<category term="privacy"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-16:/8097</id>
+	<link href="http://danstonchat.com/16802.html" rel="alternate" type="text/html"/>
+	<title type="html">DansTonChat #16802</title>
+	<summary type="html"><![CDATA[Neodragon: le soleil brille brille.....BORDEL il est 4h du matin ca fait combien de jour que j&#039;...]]></summary>
+	<content type="html"><![CDATA[<html><body><span>Neodragon:</span> le soleil brille brille.....BORDEL il est 4h du matin ca fait combien de jour que j'ai pas dormi :3 ???<br><span>Korasoa:</span> Je sais pas, surtout qu'il est 17h et pas 4h du matin, 'fin bon...</body></html>
+]]></content>
+	<updated>2015-09-16T08:58:34+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://danstonchat.com/</id>
+		<link rel="self" href="http://danstonchat.com/"/>
+		<updated>2015-09-16T08:58:34+00:00</updated>
+		<title>DansTonChat</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-15:/8044</id>
@@ -1359,43 +1398,6 @@ chlorophyll
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-09-12T15:25:24+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-12:/7393</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/128921619252" rel="alternate" type="text/html"/>
-	<title type="html">Duck!</title>
-	<summary type="html"><![CDATA[Duck!]]></summary>
-	<content type="html"><![CDATA[<html><body><br><br><p>Duck!</p></body></html>
-]]></content>
-	<updated>2015-09-12T15:30:09+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-12T15:30:09+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="vine"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-12:/7361</id>
-	<link href="http://www.gog.com/game/dropsy" rel="alternate" type="text/html"/>
-	<title type="html">Dropsy -10% on GOG.com</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-12T13:04:18+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-12T13:04:18+00:00</updated>
-		<title>Published articles</title></source>
 
 
 </entry>
