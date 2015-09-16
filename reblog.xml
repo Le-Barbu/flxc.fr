@@ -4,11 +4,126 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-12T15:25:24+00:00</updated>
+<updated>2015-09-13T16:00:19+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-16:/8126</id>
+	<link href="https://www.mediapart.fr/journal/france/140915/au-touquet-la-droite-au-dela-du-discours-de-grenoble" rel="alternate" type="text/html"/>
+	<title type="html">Au Touquet, la droite au-delà du discours de Grenoble - Page 1 | Mediapart</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-16T09:55:47+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-16T09:55:47+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-15:/8061</id>
+	<link href="http://www.mncp.fr/les-chomeurs-repondent-mme-pen-ce-vos-mots-vos-idees-crachat-au-visage-chomeurs/" rel="alternate" type="text/html"/>
+	<title type="html">Les chômeurs répondent à Mme Le Pen : « Ce sont vos mots et vos idées qui sont un crachat au visage des chômeurs». - MNCP</title>
+	<summary type="html"><![CDATA[&quot;il n’y a aucun tri acceptable parmi ceux qui souffrent, &nbsp;qui peinent et qui meurent de fa...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>"il n&rsquo;y a aucun tri acceptable parmi ceux qui souffrent, &nbsp;qui peinent et qui meurent de faim"<br><br>
+"Les ch&ocirc;meurs et pr&eacute;caires sont des citoyens libres de leurs id&eacute;es et de leur vote. Mais il est certain que leur pr&eacute;carit&eacute; ne saurait les &eacute;garer dans les marais malsains de l&rsquo;extr&ecirc;me droite. Le repli sur soi, le rejet de l&rsquo;Autre, l&rsquo;individualisme &eacute;go&iuml;ste et la haine sociale ne seront jamais l&rsquo;attitude des ch&ocirc;meurs et des pr&eacute;caires, ni de leurs organisations collectives."<br><br>
+(via Klaire)<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?TXjgxw" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-15T20:36:05+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-09-15T20:36:05+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+	<category term="fb"/>
+
+	<category term="fs"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-15:/8062</id>
+	<link href="http://danstonchat.com/16801.html" rel="alternate" type="text/html"/>
+	<title type="html">DansTonChat #16801</title>
+	<summary type="html"><![CDATA[Claire: Je viens de me faire tuer par une araignée-garou. -.-Tom: Genre, une araignée qui chante en ...]]></summary>
+	<content type="html"><![CDATA[<html><body><span>Claire:</span> Je viens de me faire tuer par une araign&eacute;e-garou. -.-<br><span>Tom:</span> Genre, une araign&eacute;e qui chante en qu&eacute;b&eacute;cois ?</body></html>
+]]></content>
+	<updated>2015-09-15T21:35:20+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://danstonchat.com/</id>
+		<link rel="self" href="http://danstonchat.com/"/>
+		<updated>2015-09-15T21:35:20+00:00</updated>
+		<title>DansTonChat</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-15:/8067</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/129163684254" rel="alternate" type="text/html"/>
+	<title type="html">When your stupid wizard parents force you to make the bed. (vine...</title>
+	<summary type="html"><![CDATA[When your stupid wizard parents force you to make the bed. (vine by Kevin Parry)]]></summary>
+	<content type="html"><![CDATA[<html><body><br><br><p>When your stupid wizard parents force you to make the bed. <br><br>(vine by <a href="https://vine.co/kevinbparry" target="_blank" rel="noreferrer">Kevin Parry</a>)<br></p></body></html>
+]]></content>
+	<updated>2015-09-15T19:45:34+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-15T19:45:34+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+	<category term="vine"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-15:/8064</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/129169280132" rel="alternate" type="text/html"/>
+	<title type="html">(photo by fatbinge)</title>
+	<summary type="html"><![CDATA[(photo by fatbinge)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/2201195dfa8f59b27b2e9182d30a49c1/tumblr_nuqkwfkcDW1qewacoo1_500.jpg"><br><br><p>(photo by <a href="https://www.reddit.com/user/fatbinge" target="_blank" rel="noreferrer">fatbinge</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-15T21:15:29+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-15T21:15:29+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-16:/8091</id>
+	<link href="http://www.viedemerde.fr/inclassable/8617207" rel="alternate" type="text/html"/>
+	<title type="html">juju44 a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, mon lave vaisselle est en panne. Le monsieur du SAV me demande si je l'ai dégivré.  J'a...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, mon lave vaisselle est en panne. Le monsieur du SAV me demande si je l'ai d&eacute;givr&eacute;.  J'ai eu beau lui expliquer que ce n'&eacute;tait pas un frigo, il n'a rien voulu savoir et ne comprend toujours pas pourquoi je refuse de le d&eacute;givrer. VDM</p></body></html>
+]]></content>
+	<updated>2015-09-15T12:36:26+00:00</updated>
+	<author><name>juju44</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-09-15T12:36:26+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-16:/8096</id>
@@ -1188,216 +1303,6 @@ crying till i die</p></body></html>
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-09-13T16:00:19+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-12:/7445</id>
-	<link href="http://www.polemixetlavoixoff.com/une-histoire-politique-des-wampas/" rel="alternate" type="text/html"/>
-	<title type="html">Une Histoire politique des Wampas ?</title>
-	<summary type="html"><![CDATA[De 1983 à aujourd&rsquo;hui, plus de 30 années d&rsquo;Histoire et de politique française&#8230; via...]]></summary>
-	<content type="html"><![CDATA[<html><body><p><img src="http://www.polemixetlavoixoff.com/wp-content/uploads/2015/09/Punk-ouvrier-tour-bus.jpg" alt="Punk-ouvrier tour-bus" width="439" height="269">De <strong>1983</strong> &agrave; aujourd&rsquo;hui,&nbsp;plus de 30 ann&eacute;es d&rsquo;Histoire et de politique fran&ccedil;aise&hellip; via l&rsquo;Histoire des <a href="http://wampas.com" rel="noreferrer" target="_blank"><strong>Wampas</strong></a>&hellip; racont&eacute;e par <strong>Didier Wampas</strong> !<br>
-Avec dedans des vrais morceaux de Marchais, Giscard, Mitterrand, Fabius, Tapie, Chirac, Barre, Balladur, Sarkozy&hellip; et Jean-Louis 2000.<br>
-Juin 2015 &ndash; 30&egrave;me &eacute;dition du&nbsp;<a href="http://www.radiobeton.com/aucard/" rel="noreferrer" target="_blank">Festival Aucard de Tours</a> &ndash; <a href="http://www.radiobeton.com/www/" rel="noreferrer" target="_blank">Radio B&eacute;ton</a>.</p>
-<p>Cet article <a rel="noreferrer" href="http://www.polemixetlavoixoff.com/une-histoire-politique-des-wampas/" target="_blank">Une Histoire politique des Wampas ?</a> est apparu en premier sur <a rel="noreferrer" href="http://www.polemixetlavoixoff.com" target="_blank">Pol&eacute;mix et la voix off</a>.</p></body></html>
-]]></content>
-	<updated>2015-09-12T23:06:26+00:00</updated>
-	<author><name>Polemix et La Voix Off</name></author>
-	<source>
-		<id>http://www.polemixetlavoixoff.com</id>
-		<link rel="self" href="http://www.polemixetlavoixoff.com"/>
-		<updated>2015-09-12T23:06:26+00:00</updated>
-		<title>Polémix et la voix Off</title></source>
-
-	<category term="audio emissions radio"/>
-
-	<category term="didier"/>
-
-	<category term="émission"/>
-
-	<category term="interview"/>
-
-	<category term="polemix"/>
-
-	<category term="politique"/>
-
-	<category term="rock"/>
-
-	<category term="voix off"/>
-
-	<category term="wampas"/>
-
-
-	<link rel="enclosure" 
-		type="audio/mpeg" 
-		length="143580517"
-		href="http://polemix.dooz.org/histoiredeswampas.mp3"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-13:/7503</id>
-	<link href="http://mememaster.tumblr.com/post/128967020574" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/1a239c32ce42595c62079369f68a126b/tumblr_nule76x4Ck1sn75h6o1_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-09-13T03:48:59+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-13T03:48:59+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-12:/7403</id>
-	<link href="http://rue89.nouvelobs.com/2015/09/12/rehane-26-ans-vient-d-famille-croyante-sexe-est-tabou-261147" rel="alternate" type="text/html"/>
-	<title type="html">Rehane, 26 ans, vient d’« une famille croyante où le sexe est tabou »</title>
-	<summary type="html"><![CDATA[      « Il y avait un clivage entre ce que je vivais chez moi et ce que je vivais hors de chez moi, ...]]></summary>
-	<content type="html"><![CDATA[<html><body><h2>&laquo;&nbsp;Il y avait un clivage entre ce que je vivais chez moi et ce que je vivais hors de chez moi, comme s&rsquo;il s&rsquo;agissait de deux mondes oppos&eacute;s et irr&eacute;conciliables.&nbsp;&raquo; Rehane nous raconte sa Vie de baise.</h2>  <p>Belle paire de chaussures, belle gueule et beau costard, Rehane, 26&nbsp;ans, sort &agrave; peine du boulot quand je le rencontre. Il a sorti un mensonge &agrave; sa copine pour venir t&eacute;moigner.</p> <p>L&rsquo;une des particularit&eacute;s de Rehane, dit-il, c&rsquo;est qu&rsquo;il est d&rsquo;origine marocaine et musulmane. Il fait partie de cette g&eacute;n&eacute;ration &laquo;&nbsp;issue de l&rsquo;immigration&nbsp;&raquo;, &eacute;lev&eacute;e &laquo;&nbsp;aux traditions&nbsp;&raquo; et &laquo;&nbsp;&eacute;duqu&eacute;e &agrave; l&rsquo;&eacute;cole fran&ccedil;aise&nbsp;&raquo;, comme il dit.</p> <p>Ses parents sont arriv&eacute;s jeunes en France et ont commenc&eacute; &agrave; travailler t&ocirc;t. &laquo;&nbsp;Leur niveau d&rsquo;&eacute;ducation peut-&ecirc;tre d&eacute;crit comme &ldquo;peu &eacute;lev&eacute;&rdquo;&nbsp;&raquo;, dit-il avec distance. Rehane s&rsquo;est pr&eacute;par&eacute; &agrave; l&rsquo;interview, &ccedil;a se sent.</p> <p>Il continue&nbsp;: </p> <blockquote><p> &laquo;&nbsp;Il y avait un clivage entre ce que je vivais chez moi et ce que je vivais hors de chez moi, comme s&rsquo;il s&rsquo;agissait de deux mondes oppos&eacute;s et irr&eacute;conciliables. J&rsquo;aurais aim&eacute; aborder ces sujets profonds &ndash; la sexualit&eacute; &ndash; avec mes parents, mais c&rsquo;&eacute;tait impossible. On ne parlait pas de &ccedil;a &agrave; la maison.&nbsp;&raquo;</p> </blockquote> <p>Il nous raconte sa Vie de baise.</p> <h2>Une fille me demande de &laquo;&nbsp;sortir avec elle&nbsp;&raquo;</h2> <p><strong>Mon premier souvenir sexuel</strong> remonte &agrave; mes 7/8&nbsp;ans. Mon fr&egrave;re rentre du coll&egrave;ge avec ses amis et me dit&nbsp;: &laquo;&nbsp;On va dans le salon, tu rentres pas, t&rsquo;as compris&nbsp;?&nbsp;&raquo;. J&rsquo;attends un peu, je toque, laisse passer une seconde pour me donner bonne conscience puis ouvre. Ils &eacute;taient tellement captiv&eacute;s par leur film &eacute;rotique sur VHS qu&rsquo;ils ne m&rsquo;ont pas vu. Dans ma t&ecirc;te&nbsp;: &laquo;&nbsp;Mais... mais... elle est toute nue la fille&nbsp;?&nbsp;&raquo;</p> <p>L&rsquo;autre souvenir important s&rsquo;ancre dans l&rsquo;adolescence. D&eacute;but sixi&egrave;me, une fille vient me demander de &laquo;&nbsp;sortir avec elle&nbsp;&raquo;. Je n&rsquo;en reviens pas, une femme s&rsquo;int&eacute;resse &agrave; moi, qui plus est, une femme plus &acirc;g&eacute;e de deux ans, qui a d&eacute;j&agrave; des seins et un cul, contrairement &agrave; ses camarades.</p> <p>Apr&egrave;s les patins, <strong>on en vient rapidement aux attouchements</strong>. Toujours au m&ecirc;me endroit, une cage d&rsquo;escalier dans une tour, &agrave; &eacute;gale distance de son quartier et du mien. Ma main sous son pull, sous son soutien-gorge, je descends dans sa culotte et je la doigte. Je ne me souviens pas si je pouvais d&eacute;j&agrave; jouir, je ne me souviens m&ecirc;me pas si elle me touchait en retour, mais j&rsquo;associe ce souvenir &agrave; un immense plaisir.</p> <p>Quelques mois plus tard, elle a d&eacute;croch&eacute; du syst&egrave;me scolaire. Je ne la voyais plus en cours. Elle m&rsquo;a quitt&eacute; et s&rsquo;est mise avec un autre homme.<strong> Ma premi&egrave;re peine de c&oelig;ur</strong>, ce moment o&ugrave; tu captes &agrave; quel point cet amour qui t&rsquo;a fait du bien vient de te faire tr&egrave;s mal.</p> <h2> &laquo;&nbsp;La religion t&rsquo;interdit &ccedil;a&nbsp;&raquo;</h2> <p><strong>J&rsquo;ai d&eacute;couvert la masturbation </strong>peu de temps apr&egrave;s cette rupture. Tout le monde dormait dans l&rsquo;appartement familial. J&rsquo;ai allum&eacute; la t&eacute;l&eacute; dans le salon, coup&eacute; le son et ai zapp&eacute; sur RTL9. On venait tout juste d&rsquo;avoir la TNT. Un film &eacute;rotique, je ressens une forte excitation,<strong> </strong>je sens que mon sexe est tout dur.<strong> </strong>Je mets ma main dessus et le touche jusqu&rsquo;&agrave; ce que du sperme sorte.</p> <p>Franchement, je ne savais pas quoi en faire. J&rsquo;ai pris un essuie-tout pour m&rsquo;essuyer puis<strong> </strong>je l&rsquo;ai fourr&eacute; sous le canap&eacute;. Je me disais&nbsp;: </p> <blockquote><p> &laquo;&nbsp;Ne laisse pas de preuve, Rehane, tu le mettras toi-m&ecirc;me dans la poubelle ext&eacute;rieure demain.&nbsp;&raquo;</p> </blockquote> <p>Satisfait, je me suis endormi sur le canap&eacute;, sans m&rsquo;en rendre compte.</p> <p>Le lendemain matin, ma m&egrave;re me r&eacute;veille. Elle me dit &ecirc;tre venue pendant la nuit, elle a vu quel type de film je regardais. J&rsquo;ai beau cherch&eacute; une parade &ndash; &laquo;&nbsp;Maman, je te jure, je me suis assoupi devant le catch&nbsp;&raquo; &ndash;, une m&egrave;re, &ccedil;a conna&icirc;t son fils. Elle me r&eacute;primande&nbsp;: &laquo;&nbsp;La religion t&rsquo;interdit de regarder ce genre de films.&nbsp;&raquo; Qu&rsquo;est-ce que je pouvais r&eacute;pliquer &agrave; &ccedil;a&nbsp;? Rien. A partir de l&agrave;, je comprends que <strong>ma sexualit&eacute; n&rsquo;appartient qu&rsquo;&agrave; moi</strong>, &ccedil;a sera mon secret puisqu&rsquo;on me l&rsquo;interdit.</p>  <a href="http://rue89.nouvelobs.com/sites/news/files/assets/image/2015/09/rehane-vie-de-baise.jpg" title="Sculpture d'une femme et un homme en plein &amp;eacute;bats dans une exposition &amp;agrave; Hainan, en Chine, le 28 janvier 2003" rel="noreferrer" target="_blank"><img src="http://rue89.nouvelobs.com/sites/news/files/styles/asset_img_full/public/assets/image/2015/09/rehane-vie-de-baise.jpg" width="464" height="360" alt=""></a><p>Sculpture d&rsquo;une femme et un homme en plein &eacute;bats dans une exposition &agrave; Hainan, en Chine, le 28&nbsp;janvier 2003&nbsp;(STR/AFP)</p>  <p>Cet &eacute;veil &agrave; la sexualit&eacute; fut une intense p&eacute;riode de d&eacute;couvertes et de solitude. Ni ma famille, ni mes potes ne parlaient de la masturbation par exemple. Parfois, je me demandais si je n&rsquo;avais pas un &laquo;&nbsp;probl&egrave;me&nbsp;&raquo;. J&rsquo;ai &eacute;t&eacute; rassur&eacute; le jour o&ugrave; j&rsquo;ai surpris mon fr&egrave;re en train de se masturber. &laquo;&nbsp;Ouf, je ne suis pas le seul.&nbsp;&raquo;</p> <p>Quand personne ne t&rsquo;explique un sujet aussi important que la sexualit&eacute;,<strong> tu cherches des informations l&agrave; o&ugrave; tu peux</strong>, tu testes toi-m&ecirc;me les limites, et &ccedil;a peut amener &agrave; faire des trucs vraiment &laquo;&nbsp;interdits&nbsp;&raquo; (bien plus que manger du porc ou coucher hors mariage). Comme ma premi&egrave;re fois.</p> <h2>Les forums &laquo;&nbsp;hot&nbsp;&raquo; de Caramail</h2> <p>Fin du coll&egrave;ge, l&rsquo;ordinateur et Internet d&eacute;barquent chez moi. Internet, mon royaume, incompr&eacute;hensible pour mes parents et mon fr&egrave;re. A l&rsquo;&eacute;poque, YouPorn n&rsquo;existait pas. <strong>Je t&eacute;l&eacute;chargeais des images pornos</strong> sur <a href="http://fr.wikipedia.org/wiki/LimeWire" target="_blank" rel="noreferrer">LimeWire</a> [un client torrent, ndlr], je ne pouvais pas en t&eacute;l&eacute;charger plus de quinze en une heure tellement la connexion &eacute;tait pourrie.</p> <p>Je me cr&eacute;e un compte sur <a href="https://fr.wikipedia.org/wiki/CaraMail" target="_blank" rel="noreferrer">Caramail</a>. Je discute avec des gens de tous &acirc;ges, de tous milieux sociaux. Je d&eacute;couvre le salon &laquo;&nbsp;hot&nbsp;&raquo; &ndash; o&ugrave; les sujets tournent autour de la sexualit&eacute; &ndash; et je rencontre quelqu&rsquo;un. Un homme. <strong>Avant Internet, jamais je n&rsquo;avais ressenti l&rsquo;envie de faire des rencontres avec des hommes.</strong></p> <p>Avec le recul, je me dis qu&rsquo;Internet a beaucoup influenc&eacute; ma vie sexuelle. Draguer une femme dans un bar&nbsp;? Moi qui suis timide, c&rsquo;est trop risqu&eacute;, elle pourrait me dire non. Si elle me parle en tchat, c&rsquo;est qu&rsquo;elle a d&eacute;j&agrave; &laquo;&nbsp;check&eacute;&nbsp;&raquo; mon profil, ma photo, mon descriptif, je lui plais. Internet ne m&rsquo;a jamais fait sortir de<strong> ma zone de confort</strong>.</p> <p>Je le rajoute sur <a href="https://fr.wikipedia.org/wiki/Windows_Live_Messenger" target="_blank" rel="noreferrer">MSN Messenger</a>. Je mens, je lui dis avoir 17&nbsp;ans, lui en a 27, je veux le rencontrer, il accepte, rendez-vous chez-lui. Il habite loin, moi qui sortais peu du quartier, je dois emprunter plusieurs m&eacute;tros et un RER pour le rejoindre. La grande aventure&nbsp;! Avec lui, je d&eacute;couvre la fellation, il me suce, je le masturbe, je lui donne du plaisir, je le sens, je mets une capote et je le sodomise sur sa demande.</p> <p>Au moment o&ugrave; j&rsquo;&eacute;jacule, <strong>je me sens hyper mal</strong>. J&rsquo;ai l&rsquo;impression d&rsquo;avoir fait un truc vraiment mal. &laquo;&nbsp;J&rsquo;ai bais&eacute; un mec. C&rsquo;est tellement sale, si &ccedil;a se trouve il n&rsquo;est pas propre, il a des maladies.&nbsp;&raquo; Je pars pr&eacute;cipitamment. J&rsquo;ach&egrave;te du gel douche sur la route et je me lave pendant une demi-heure chez moi. Je deviens parano&iuml;aque&nbsp;: &laquo;&nbsp;Je me couperais le zizi plut&ocirc;t que de recoucher avec un homme.&nbsp;&raquo; Et surtout, je ne le dis &agrave; personne. Jamais.</p> <h2>La premi&egrave;re relation sexuelle d&rsquo;amour</h2> <p>Au lyc&eacute;e, je quitte l&rsquo;univers des ZEP [<a href="https://fr.wikipedia.org/wiki/Zone_d%27%C3%A9ducation_prioritaire" target="_blank" rel="noreferrer">zone d&rsquo;&eacute;ducation prioritaire</a>, ndlr]. Je d&eacute;couvre un tout autre monde, les &eacute;l&egrave;ves ont des cours de musique, de th&eacute;&acirc;tre, partent en vacances... Dans ma t&ecirc;te, &ccedil;a devient clair. Je me donnerai les moyens pour avoir acc&egrave;s &agrave; tout &ccedil;a. Les filles et les gar&ccedil;ons parlent de sexe entre eux, ils sortent ensemble sans se cacher, ils s&rsquo;en foutent si leurs parents les voient... c&rsquo;est normal, tout est normal.</p> <p>Je tombe amoureux d&rsquo;une fille du lyc&eacute;e. Je me rappelle que c&rsquo;&eacute;tait important qu&rsquo;elle soit en lyc&eacute;e g&eacute;n&eacute;ral et pas en professionnel, je voulais qu&rsquo;elle soit au m&ecirc;me niveau que moi. J&rsquo;imagine que je cherche d&eacute;j&agrave; &agrave; progresser vers le haut dans la hi&eacute;rarchie sociale.</p> <p>Je la pr&eacute;sente &agrave; ma m&egrave;re. Sa r&eacute;action&nbsp;: </p> <blockquote><p> &laquo;&nbsp;Rehane, c&rsquo;est une fille tr&egrave;s gentille, tr&egrave;s sympathique, tr&egrave;s douce, mais elle n&rsquo;est ni maghr&eacute;bine ni musulmane.&nbsp;&raquo;</p> </blockquote> <p>Dans sa t&ecirc;te, c&rsquo;est cat&eacute;gorique&nbsp;: un musulman avec une musulmane, un Arabe avec une Arabe, un Noir avec une Noire et un &laquo;&nbsp;Fran&ccedil;ais&nbsp;&raquo; avec une &laquo;&nbsp;Fran&ccedil;aise&nbsp;&raquo;.</p> <p>Je couche avec ma copine plusieurs mois apr&egrave;s le d&eacute;but de notre relation. On est chez moi, ni mes parents ni mon fr&egrave;re ne sont-l&agrave;, on sait pertinemment qu&rsquo;on va le faire. Je stresse, elle aussi, la situation est beaucoup plus impressionnante que cette premi&egrave;re fois, avec l&rsquo;homme de Caramail.</p> <p><strong>On le fait dans mon lit</strong>, elle n&rsquo;a pas mal, &ccedil;a dure six minutes, pr&eacute;liminaires compris. On &eacute;change un sourire complice&nbsp;: &laquo;&nbsp;C&rsquo;est bon, on n&rsquo;est plus des d&eacute;butants maintenant. On a fait l&rsquo;amour&nbsp;!&nbsp;&raquo; Je ne lui dis pas que j&rsquo;ai d&eacute;j&agrave; p&eacute;n&eacute;tr&eacute; une personne avant elle.</p> <p>La suite de notre relation me conforte dans une intuition&nbsp;: les filles ont &ndash; en g&eacute;n&eacute;ral &ndash; moins de besoins sexuels que les hommes, ou, en tout cas, que moi. <strong>Je me masturbe alors jusqu&rsquo;&agrave; trois fois par jour.</strong> Frustr&eacute;, je r&eacute;fl&eacute;chis &agrave; un moyen de combler mon app&eacute;tit. Je retourne le probl&egrave;me dans tous les sens&nbsp;: coucher avec une autre fille reviendrait &agrave; la tromper, en plus, trouver une fille qui voudrait juste du sexe, c&rsquo;est mission impossible pour un mec timide comme moi...</p> <p>Finalement, je retourne sur le salon &laquo;&nbsp;hot&nbsp;&raquo; de Caramail et je rencontre un homme trentenaire. Ce plan cul, je l&rsquo;ai conserv&eacute; plusieurs ann&eacute;es. La situation me satisfaisait pleinement&nbsp;: j&rsquo;avais des relations sexuelles amoureuses avec ma copine, un homme pour combler mon app&eacute;tit et la masturbation en dernier recours. A partir de ce moment jusqu&rsquo;&agrave; aujourd&rsquo;hui,<strong> j&rsquo;ai deux sexualit&eacute;s. Deux vies parall&egrave;les.</strong></p> <h2>Mes vies parall&egrave;les</h2> <p>J&rsquo;ai rencontr&eacute; ma copine sur les bancs de l&rsquo;universit&eacute;. Je pense faire un grand bout de chemin avec elle, je l&rsquo;esp&egrave;re. Elle est ath&eacute;e, fran&ccedil;aise et sans origine particuli&egrave;re. Ce n&rsquo;est pas anodin, je pense. Je ne veux pas reproduire le sch&eacute;ma familial &laquo;&nbsp;un musulman se marie avec un musulman&nbsp;&raquo;.</p> <p><strong>Notre derni&egrave;re relation sexuelle </strong>remonte &agrave; la semaine derni&egrave;re. Uniquement de la sodomie. On couche environ une fois par semaine, mais &ccedil;a arrive qu&rsquo;on le fasse une fois par mois. J&rsquo;ai besoin d&rsquo;&ecirc;tre dans de bonnes conditions, pas en p&eacute;riode de dispute ou d&rsquo;accrochage. Autrement dit, on le fait quand on en a tous les deux tr&egrave;s envie et on prend le temps. Logiquement, c&rsquo;est toujours bien.</p> <p>J&rsquo;ai abandonn&eacute; mon plan cul mec l&rsquo;ann&eacute;e derni&egrave;re. Je ne suis plus &eacute;tudiant, j&rsquo;ai les moyens de m&rsquo;inscrire sur des sites de rencontres extra-conjugales. J&rsquo;ai d&ucirc; rencontrer une douzaine de femmes, avec qui j&rsquo;ai eu une ou plusieurs relations sexuelles. Globalement, elles ont la quarantaine. J&rsquo;aime le fait qu&rsquo;elles m&rsquo;&eacute;duquent, qu&rsquo;elles me fassent partager leurs exp&eacute;riences, voire me racontent leurs histoires de couple.</p> <p><strong>Ma fois la plus folle</strong>&nbsp;? J&rsquo;en ai deux en t&ecirc;te. Il y a quelques semaines, une femme m&rsquo;a donn&eacute; rendez-vous dans les toilettes d&rsquo;un caf&eacute;, juste avant le boulot. Pas pratique mais diablement excitant. J&rsquo;ai aussi fait l&rsquo;amour avec une c&eacute;l&eacute;brit&eacute; qu&rsquo;on peut voir &agrave; la t&eacute;l&eacute;.</p> <h2>Ma remise en question</h2> <p>Pendant longtemps, je me suis consid&eacute;r&eacute; comme un vrai con, faisant du mal &agrave; sa copine et aux femmes qui s&rsquo;attachent &agrave; lui. Maintenant, j&rsquo;essaie de relativiser. C&rsquo;est un constat, j&rsquo;ai des besoins diff&eacute;rents. Ne pas le faire serait une source de frustration pour moi. Le faire et lui dire lui ferait du mal. Alors, la solution que j&rsquo;ai trouv&eacute;e, c&rsquo;est de le faire et<strong> ne pas lui dire pour qu&rsquo;on soit heureux</strong>, et &ccedil;a demande de prendre sur soi, de garder des secrets.</p> <p>Notre relation a commenc&eacute; avec une sorte de dogme&nbsp;: &laquo;&nbsp;Nous sommes fid&egrave;les.&nbsp;&raquo; On a d&eacute;j&agrave; abord&eacute; le sujet de l&rsquo;infid&eacute;lit&eacute;. Que faire si jamais une personne nous attire et qu&rsquo;on a envie de coucher avec&nbsp;? Elle, rationnelle et intelligente, con&ccedil;oit que les tentations au cours d&rsquo;une vie sont nombreuses. On s&rsquo;est finalement dit qu&rsquo;il fallait en parler en amont. Mais comment lui dire que mon probl&egrave;me est diff&eacute;rent&nbsp;? J&rsquo;ai besoin de baiser avec plusieurs filles dans la m&ecirc;me semaine. Je ne les aime pas, c&rsquo;est juste du cul.</p> <p>Parfois, je me dis que je suis le pur produit de notre soci&eacute;t&eacute;. Je suis quelqu&rsquo;un de tr&egrave;s ambitieux, je veux r&eacute;ussir dans la vie. Or, l&rsquo;image de l&rsquo;homme qui r&eacute;ussit, c&rsquo;est celle de Barney dans la s&eacute;rie <a href="https://fr.wikipedia.org/wiki/How_I_Met_Your_Mother" target="_blank" rel="noreferrer"> &laquo;&nbsp;How I Met Your Mother&nbsp;?&nbsp;&raquo;</a>&nbsp;: un homme qui pla&icirc;t aux filles et qui baise. J&rsquo;ai l&rsquo;impression d&rsquo;&ecirc;tre ce personnage faux, st&eacute;r&eacute;otype d&rsquo;une famille croyante o&ugrave; le sexe est tabou et d&rsquo;une soci&eacute;t&eacute; o&ugrave; le sexe est partout, m&ecirc;me dans les pubs de caf&eacute;.<strong> J&rsquo;ai l&rsquo;impression d&rsquo;avoir eu les mauvais c&ocirc;t&eacute;s des deux bords.</strong></p></body></html>
-]]></content>
-	<updated>2015-09-12T15:05:39+00:00</updated>
-	<author><name>Benoît Le Corre</name></author>
-	<source>
-		<id>http://rue89.nouvelobs.com/</id>
-		<link rel="self" href="http://rue89.nouvelobs.com/"/>
-		<updated>2015-09-12T15:05:39+00:00</updated>
-		<title>Rue89</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-12:/7401</id>
-	<link href="http://www.mediapart.fr/journal/france/120915/renseignement-une-nouvelle-loi-pour-legaliser-la-surveillance-massive" rel="alternate" type="text/html"/>
-	<title type="html">Une nouvelle loi de surveillance des communications internationales</title>
-	<summary type="html"><![CDATA[
-    
-            
-                    Jérôme Hourdeaux        
-        
-
-
-    
-            
-       ...]]></summary>
-	<content type="html"><![CDATA[<html><body><div>
-    <div>
-            <div>
-                    <a href="http://www.mediapart.fr/biographie/274887" title="Tous les articles de J&eacute;r&ocirc;me Hourdeaux" rel="noreferrer" target="_blank">J&eacute;r&ocirc;me Hourdeaux</a>        </div>
-        </div>
-</div>
-<div>
-    <div>
-            <div>
-                    <p>Le 23 juillet dernier, le Conseil constitutionnel avait censur&eacute; un article de la loi renseignement consacr&eacute; &agrave; la surveillance des communications &eacute;lectroniques internationales par la DGSE, jug&eacute; trop impr&eacute;cis. La nouvelle version du dispositif d&eacute;pos&eacute; &agrave; l'Assembl&eacute;e d&eacute;voile notamment un syst&egrave;me d'espionnage de masse des c&acirc;bles transatlantiques acheminant le trafic internet<i>.</i></p>        </div>
-        </div>
-</div>
-<p>L&rsquo;Assembl&eacute;e nationale a enregistr&eacute;, jeudi 10 septembre, <a href="http://www.assemblee-nationale.fr/14/propositions/pion3042.asp" target="_blank" rel="noreferrer">une proposition de loi</a> qui en dit long sur le dispositif de surv</p><div></div><p><a href="http://www.mediapart.fr/journal/france/120915/une-nouvelle-loi-de-surveillance-des-communications-internationales" target="_blank" rel="noreferrer">lire la suite</a></p></body></html>
-]]></content>
-	<updated>2015-09-12T15:58:54+00:00</updated>
-	<author><name>Jérôme Hourdeaux</name></author>
-	<source>
-		<id>http://www.mediapart.fr</id>
-		<link rel="self" href="http://www.mediapart.fr"/>
-		<updated>2015-09-12T15:58:54+00:00</updated>
-		<title>Mediapart</title></source>
-
-	<category term="france"/>
-
-	<category term="communications internationales"/>
-
-	<category term="dgse"/>
-
-	<category term="libertés publiques"/>
-
-	<category term="renseignement"/>
-
-	<category term="surveillance"/>
-
-	<category term="note de veille"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-12:/7377</id>
-	<link href="http://mememaster.tumblr.com/post/128919914164" rel="alternate" type="text/html"/>
-	<title type="html">nickthegeekbear:
-
-hotcommunist:
-
-rehlaxe:
-
-Have you ever really thought about how when you look at...</title>
-	<summary type="html"><![CDATA[nickthegeekbear:
-
-hotcommunist:
-
-rehlaxe:
-
-Have you ever really thought about how when you look at t...]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://nickthegeekbear.tumblr.com/post/109813240320" target="_blank" rel="noreferrer">nickthegeekbear</a>:</p>
-<blockquote>
-<p><a href="http://hotcommunist.tumblr.com/post/109498356301" target="_blank" rel="noreferrer">hotcommunist</a>:</p>
-<blockquote>
-<p><a href="http://rehlaxe.tumblr.com/post/106867383287" target="_blank" rel="noreferrer">rehlaxe</a>:</p>
-<blockquote>
-<p>Have you ever really thought about how when you look at the moon, it&rsquo;s the same moon Shakespeare and Marie Antoinette and Van Gogh and Cleopatra looked at.</p>
-</blockquote>
-<p>they all looked at the moon<br>they&rsquo;re all dead<br>the moon is killing people<br>wake up america</p>
-</blockquote>
-<p><figure><img src="http://33.media.tumblr.com/939c1c3c4915ec7a8a6773c2db83ca2c/tumblr_inline_nj45ptkmKc1sg7qly.jpg" alt="image"></figure></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-12T15:01:05+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-12T15:01:05+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-12:/7388</id>
-	<link href="http://mememaster.tumblr.com/post/128921341124" rel="alternate" type="text/html"/>
-	<title type="html">eggcats:
-
-fullmemetalalchemist:
-
-why are the pigeons so...</title>
-	<summary type="html"><![CDATA[eggcats:
-
-fullmemetalalchemist:
-
-why are the pigeons so green
-
-chlorophyll 
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/c5a1238d11ea19f19693297868eb19db/tumblr_nj5q00zcMl1qd5mq1o1_500.jpg"><br><br><p><a href="http://eggcats.tumblr.com/post/128674067124" target="_blank" rel="noreferrer">eggcats</a>:</p>
-<blockquote>
-<p><a href="http://fullmemetalalchemist.tumblr.com/post/128008606134" target="_blank" rel="noreferrer">fullmemetalalchemist</a>:</p>
-<blockquote>
-<p>why are the pigeons so green</p>
-</blockquote>
-<p>chlorophyll </p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-12T15:25:24+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-12T15:25:24+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
