@@ -4,11 +4,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-13T18:38:38+00:00</updated>
+<updated>2015-09-13T01:30:49+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-17:/8363</id>
+	<link href="http://www.youtube.com/watch?v=e2MfYHehXpM" rel="alternate" type="text/html"/>
+	<title type="html">Qui veut épouser des oeufs pourris ? #DansTonFlux48</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-17T12:44:25+00:00</updated>
+	<author><name>Dans Ton Flux</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCARLZnOtuJnFoX84i8Cli7w</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCARLZnOtuJnFoX84i8Cli7w"/>
+		<updated>2015-09-17T12:44:25+00:00</updated>
+		<title>Dans Ton Flux</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/e2MfYHehXpM?version=3"/>
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-17:/8398</id>
+	<link href="http://www.viedemerde.fr/sexe/8617870" rel="alternate" type="text/html"/>
+	<title type="html">Traumatiséeavie a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, je dors chez mon copain. Je me réveille au bout de quelques heures pour un besoin urgen...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je dors chez mon copain. Je me r&eacute;veille au bout de quelques heures pour un besoin urgent. Je croise alors sa m&egrave;re qui sort de la salle de bain et qui me lance : "Ah! Toi aussi tu pr&eacute;f&egrave;res cracher plut&ocirc;t qu'avaler ?" Non, moi je voulais juste aller faire pipi. VDM</p></body></html>
+]]></content>
+	<updated>2015-09-16T22:29:08+00:00</updated>
+	<author><name>Traumatiséeavie</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-09-16T22:29:08+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-17:/8397</id>
+	<link href="http://www.viedemerde.fr/inclassable/8617909" rel="alternate" type="text/html"/>
+	<title type="html">MissPoteau2015 a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, je me suis fait klaxonner dans la rue. Non pas à cause de mon physique ravageur, mais p...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je me suis fait klaxonner dans la rue. Non pas &agrave; cause de mon physique ravageur, mais parce qu'en courant sous la pluie je me suis prise un poteau a pleine vitesse. VDM</p></body></html>
+]]></content>
+	<updated>2015-09-17T05:38:52+00:00</updated>
+	<author><name>MissPoteau2015</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-09-17T05:38:52+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-17:/8399</id>
+	<link href="http://floccinaucinihilipilificationa.tumblr.com/post/100840045212/i-was-appointed-by-my-professor-as-a-class" rel="alternate" type="text/html"/>
+	<title type="html">I was appointed by my professor as a class...</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-17T13:33:42+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-17T13:33:42+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-17:/8396</id>
@@ -1147,78 +1222,6 @@ Via: kickas...]]></summary>
 		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
 		<updated>2015-09-13T01:30:49+00:00</updated>
 		<title>Kawaii desu ne</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-13:/7616</id>
-	<link href="http://www.viedemerde.fr/sante/8616382" rel="alternate" type="text/html"/>
-	<title type="html">depress a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, et depuis quelque temps, je suis dépressive. Ma famille a depuis pris une habitude désa...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, et depuis quelque temps, je suis d&eacute;pressive. Ma famille a depuis pris une habitude d&eacute;sagr&eacute;able. Chaque soir, d&egrave;s qu'il y a un bulletin m&eacute;t&eacute;o et que le mot "d&eacute;pression", ils se tournent tous vers moi avec piti&eacute; en soupirant. VDM</p></body></html>
-]]></content>
-	<updated>2015-09-13T12:21:52+00:00</updated>
-	<author><name>depress</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-09-13T12:21:52+00:00</updated>
-		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-13:/7618</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/129010806048" rel="alternate" type="text/html"/>
-	<title type="html">Be different… (photo via yaketysack)</title>
-	<summary type="html"><![CDATA[Be different… (photo via yaketysack)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/53cf90eb425855d3810fdd2cc833dd45/tumblr_numoofhDvd1qewacoo1_500.jpg"><br><br><p>Be different&hellip; (photo via <a href="https://www.reddit.com/user/yaketysack" target="_blank" rel="noreferrer">yaketysack</a>)</p></body></html>
-]]></content>
-	<updated>2015-09-13T18:29:03+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-13T18:29:03+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="at least theyre wearing different pants"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-13:/7619</id>
-	<link href="http://catsass.me/post/100658762984/maman-taime-tu-sais-chaton-maman-prendra-soin" rel="alternate" type="text/html"/>
-	<title type="html">- - Maman t’aime tu sais chaton ? Maman prendra soin...</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-13T18:43:46+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-13T18:43:46+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-13:/7617</id>
-	<link href="http://catsass.me/post/111060460284/yey-catsass-is-moving-happy-valentines-day" rel="alternate" type="text/html"/>
-	<title type="html">- Yey, Catsass is moving! Happy Valentine’s day...</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-13T18:38:38+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-13T18:38:38+00:00</updated>
-		<title>Published articles</title></source>
 
 
 </entry>
