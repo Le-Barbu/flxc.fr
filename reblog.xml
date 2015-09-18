@@ -4,11 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-13T01:24:06+00:00</updated>
+<updated>2015-09-12T15:18:47+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-18:/8409</id>
+	<link href="http://xkcd.com/1579/" rel="alternate" type="text/html"/>
+	<title type="html">Tech Loops</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://imgs.xkcd.com/comics/tech_loops.png" title='And when I think about it, a lot of "things I want to do" are just learning about and discussing new tools for tinkering with the chain.' alt='And when I think about it, a lot of "things I want to do" are just learning about and discussing new tools for tinkering with the chain.'></body></html>
+]]></content>
+	<updated>2015-09-18T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://xkcd.com/</id>
+		<link rel="self" href="http://xkcd.com/"/>
+		<updated>2015-09-18T04:00:00+00:00</updated>
+		<title>xkcd.com</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-17:/8405</id>
@@ -1177,41 +1195,6 @@ if we put chris hemsworth, chris pratt, chris pine, and chris evans into...]]></
 		<link rel="self" href="http://www.viedemerde.fr"/>
 		<updated>2015-09-12T15:18:47+00:00</updated>
 		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-13:/7461</id>
-	<link href="http://kawaiidesune.tumblr.com/post/128958184188" rel="alternate" type="text/html"/>
-	<title type="html">fireyfobbitmedicine:
-
-shingeki-no-shinju:
-
-Some of my favorite...</title>
-	<summary type="html"><![CDATA[          fireyfobbitmedicine:
-
-shingeki-no-shinju:
-
-Some of my favorite anime fansubs
-
-Don’t forget...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/30d94c35c89ea425f7897756e6a47dbf/tumblr_n39lx7WO0l1sdr0nxo1_500.jpg"><br><br><img src="http://41.media.tumblr.com/80aba1e7321024677fd832a452e75343/tumblr_n39lx7WO0l1sdr0nxo2_500.jpg"><br><br><img src="http://41.media.tumblr.com/6dff700b7f659a267874a7e9da1abb06/tumblr_n39lx7WO0l1sdr0nxo3_500.jpg"><br><br><img src="http://41.media.tumblr.com/d3f2029a2468a8119237b4effc10affa/tumblr_n39lx7WO0l1sdr0nxo4_500.jpg"><br><br><img src="http://40.media.tumblr.com/ba47481db747b29816766fcba39f5cd4/tumblr_n39lx7WO0l1sdr0nxo5_500.jpg"><br><br><img src="http://41.media.tumblr.com/85f5fd57936b7ca816d3766344d8abf5/tumblr_n39lx7WO0l1sdr0nxo6_500.jpg"><br><br><img src="http://40.media.tumblr.com/f5f8b087ee318b4780abe23f75d977dc/tumblr_n39lx7WO0l1sdr0nxo7_500.jpg"><br><br><img src="http://36.media.tumblr.com/f88d8af20ac7bd9baf54cfb5182f7fd5/tumblr_n39lx7WO0l1sdr0nxo8_500.jpg"><br><br><img src="http://41.media.tumblr.com/7368ec580740c6f432fb4598e7859e0d/tumblr_n39lx7WO0l1sdr0nxo9_500.jpg"><br><br><img src="http://40.media.tumblr.com/28813df597642b07d3b4f89306ed74ac/tumblr_n39lx7WO0l1sdr0nxo10_500.jpg"><br><br><p><a href="http://fireyfobbitmedicine.tumblr.com/post/111799649870" rel="noreferrer" target="_blank">fireyfobbitmedicine</a>:</p>
-<blockquote>
-<p><a href="http://shingeki-no-shinju.tumblr.com/post/81212993669" rel="noreferrer" target="_blank">shingeki-no-shinju</a>:</p>
-<blockquote>
-<p>Some of my favorite anime fansubs</p>
-</blockquote>
-<p>Don&rsquo;t forget</p>
-<figure><img src="http://33.media.tumblr.com/71ba425eb5942326b7e4c68860676c8b/tumblr_inline_nk72kz13Nl1s6xz5y.png" alt="image"></figure></blockquote></body></html>
-]]></content>
-	<updated>2015-09-13T01:24:06+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://kawaiidesune.tumblr.com/</id>
-		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
-		<updated>2015-09-13T01:24:06+00:00</updated>
-		<title>Kawaii desu ne</title></source>
 
 
 </entry>
