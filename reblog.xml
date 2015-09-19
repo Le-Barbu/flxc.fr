@@ -4,11 +4,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-12T15:18:47+00:00</updated>
+<updated>2015-09-13T19:01:05+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-18:/8614</id>
+	<link href="http://danstonchat.com/16811.html" rel="alternate" type="text/html"/>
+	<title type="html">DansTonChat #16811</title>
+	<summary type="html"><![CDATA[&lt;personal.computer&gt; conseil du jour !&lt;personal.computer&gt; si votre voiture ne veut pas s&...]]></summary>
+	<content type="html"><![CDATA[<html><body><span>&lt;personal.computer&gt;</span> conseil du jour !<br><span>&lt;personal.computer&gt;</span> si votre voiture ne veut pas s'ouvrir avant de lui hurler dessus, de l'insulter, de lui foutre des coup de tatanes et pour finir lui peter une vitre, verifier bien que cest la votre. parce qu'en plus de bien faire rire les flics, vous risquez de vous retrouver avec une plainte pour degradation volontaire au cul et un voisin furieux sur le dos<br><span>&lt;XeroX&gt;</span> ahah y a qu'a toi que ca arrive ca !!<br><span>&lt;personal.computer&gt;</span> "mais je vous jure Monsieur l'agent c'est ma voiture que je suis en train de fracturer. regardez elle a un ptit sapin sent bon !!<br><span>&lt;personal.computer&gt;</span> "z'etes sur ? parce que y a la meme deux voitures plus loin <br><span>&lt;personal.computer&gt;</span> bah oui regardez "tuctuc" (bruit de la telecommande a distance)" ah bah oui effectivement la mienne est la bas...<br><span>&lt;personal.computer&gt;</span> demain je vous expliquerais comment faire rire tout le service d'urgence d'un hopital juste en repondant a la question "comment vous etes vous fait ca ?"...</body></html>
+]]></content>
+	<updated>2015-09-18T20:03:23+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://danstonchat.com/</id>
+		<link rel="self" href="http://danstonchat.com/"/>
+		<updated>2015-09-18T20:03:23+00:00</updated>
+		<title>DansTonChat</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-18:/8648</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/129366595943" rel="alternate" type="text/html"/>
+	<title type="html">Depressed Cat (images via imgur)</title>
+	<summary type="html"><![CDATA[        Depressed Cat (images via imgur)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/b2bfc38377f40c0af91296c5457edcb3/tumblr_nuw1d0zot11qewacoo1_500.jpg"><br><br><img src="http://40.media.tumblr.com/b8425625c0b842c87966ed5455f249c8/tumblr_nuw1d0zot11qewacoo3_r1_500.jpg"><br><br><img src="http://41.media.tumblr.com/0985058aac8de06802261ad2378391bd/tumblr_nuw1d0zot11qewacoo8_r1_500.jpg"><br><br><img src="http://40.media.tumblr.com/c7a947fa4e98cadb52b1280126613c3b/tumblr_nuw1d0zot11qewacoo2_r1_500.jpg"><br><br><img src="http://36.media.tumblr.com/cf3c7d9da1432289fcf7f3dcf0dcff2a/tumblr_nuw1d0zot11qewacoo6_500.jpg"><br><br><img src="http://40.media.tumblr.com/3ad8e7b7bf9491b3827df9bca534baac/tumblr_nuw1d0zot11qewacoo5_500.jpg"><br><br><img src="http://41.media.tumblr.com/7855ea4ae3e0fe4065af9c80fda7161a/tumblr_nuw1d0zot11qewacoo7_500.jpg"><br><br><img src="http://41.media.tumblr.com/9ac37d9201a162409aa0d8e68766ba1b/tumblr_nuw1d0zot11qewacoo4_500.jpg"><br><br><p><b>Depressed Cat</b>&nbsp;(images via <a href="http://imgur.com/gallery/9H72olX" target="_blank" rel="noreferrer">imgur</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-18T19:41:24+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-18T19:41:24+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+	<category term="grumpy cat is a girl"/>
+
+	<category term="cats"/>
+
+	<category term="lists"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-18:/8409</id>
@@ -1143,58 +1185,6 @@ me: why am i not getting anything done</p></body></html>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-09-13T19:01:05+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-14:/7686</id>
-	<link href="http://mememaster.tumblr.com/post/129040720924" rel="alternate" type="text/html"/>
-	<title type="html">razzledazzy:
-
-razzledazzy:
-
-if we put chris hemsworth, chris pratt, chris pine, and chris evans into...</title>
-	<summary type="html"><![CDATA[razzledazzy:
-
-razzledazzy:
-
-if we put chris hemsworth, chris pratt, chris pine, and chris evans into...]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://razzledazzy.tumblr.com/post/86423349653/razzledazzy-if-we-put-chris-hemsworth-chris" target="_blank" rel="noreferrer">razzledazzy</a>:</p>
-<blockquote>
-<p><a href="http://razzledazzy.tumblr.com/post/86423170758/if-we-put-chris-hemsworth-chris-pratt-chris" target="_blank" rel="noreferrer">razzledazzy</a>:</p>
-<blockquote>
-<p>if we put chris hemsworth, chris pratt, chris pine, and chris evans into a room together what would happen</p>
-</blockquote>
-<p><img alt="image" src="http://33.media.tumblr.com/6a0c208a83be51346407b31dc81ce1f1/tumblr_inline_n5ycopmj8z1qh7igi.png"></p>
-<p><em>leave</em></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-14T01:51:13+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-14T01:51:13+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-12:/7415</id>
-	<link href="http://www.viedemerde.fr/inclassable/8616001" rel="alternate" type="text/html"/>
-	<title type="html">MadameDodue a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, samedi, une inconnue a tambouriné à ma porte à 9 h puis m'a engueulée : "Pourquoi c'est...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, samedi, une inconnue a tambourin&eacute; &agrave; ma porte &agrave; 9 h puis m'a engueul&eacute;e : "Pourquoi c'est pas Christelle ? Elle est o&ugrave; Christelle ? Elle est pas l&agrave; Christelle ?" Puis, quand elle a compris son erreur : "Elle habite o&ugrave; Christelle ?" L&agrave;, elle klaxonne sur le parking en hurlant : "Chriisteeelle !" VDM</p></body></html>
-]]></content>
-	<updated>2015-09-12T15:18:47+00:00</updated>
-	<author><name>MadameDodue</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-09-12T15:18:47+00:00</updated>
-		<title>Vie de merde</title></source>
 
 
 </entry>
