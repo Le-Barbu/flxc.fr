@@ -4,11 +4,169 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-14T12:04:19+00:00</updated>
+<updated>2015-09-14T04:00:00+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-18:/8436</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/129304708453" rel="alternate" type="text/html"/>
+	<title type="html">by Pie Comic</title>
+	<summary type="html"><![CDATA[by Pie Comic]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/5eae436a401c6db4577bb3cd7cef2be6/tumblr_nusyn3QsZ21qhnegdo1_500.jpg"><br><br><p>by <a href="http://piecomic.com" target="_blank" rel="noreferrer">Pie Comic</a></p></body></html>
+]]></content>
+	<updated>2015-09-17T21:14:12+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-17T21:14:12+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-18:/8430</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/129329825153" rel="alternate" type="text/html"/>
+	<title type="html">(photo by embee23)</title>
+	<summary type="html"><![CDATA[(photo by embee23)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/069795ef9bed9dd19c9a5c0b481d6930/tumblr_nuuuwjnY4b1qewacoo1_500.jpg"><br><br><p>(photo by&nbsp;<a href="https://www.reddit.com/user/embee23" target="_blank" rel="noreferrer">embee23</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-18T04:24:19+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-18T04:24:19+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-18:/8429</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/129335273133" rel="alternate" type="text/html"/>
+	<title type="html">gifak-net:
+
+video: 
+
+Cat vs. Hand</title>
+	<summary type="html"><![CDATA[gifak-net:
+
+video: 
+
+Cat vs. Hand
+
+
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/e427753c7d97607ae7a10ed991415fdb/tumblr_nuuyr2pfRg1s2yegdo1_400.gif"><br><br><p><a href="http://gifak-net.tumblr.com/post/129333856004" target="_blank" rel="noreferrer">gifak-net</a>:</p>
+<blockquote>
+<p>video:&nbsp;
+
+<a href="http://www.tastefullyoffensive.com/2015/09/cat-vs-hand.html" target="_blank" rel="noreferrer">Cat vs. Hand</a>
+
+</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-09-18T06:23:11+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-18T06:23:11+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-18:/8584</id>
+	<link href="http://www.viedemerde.fr/sexe/8618019" rel="alternate" type="text/html"/>
+	<title type="html">levieux a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, je me fais draguer par une jeune fille de 14 ans. Étant donné que j'en ai 31, je la rep...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je me fais draguer par une jeune fille de 14 ans. &Eacute;tant donn&eacute; que j'en ai 31, je la repousse gentiment. C'est alors qu'elle se met &agrave; pleurer en criant : "Mais pourquoi j'arrive jamais &agrave; me taper un vieux, moi ?" VDM</p></body></html>
+]]></content>
+	<updated>2015-09-17T14:25:26+00:00</updated>
+	<author><name>levieux</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-09-17T14:25:26+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-18:/8582</id>
+	<link href="http://www.viedemerde.fr/inclassable/8618257" rel="alternate" type="text/html"/>
+	<title type="html">touriste a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, étudiante fraîchement débarquée à Paris, une amie me propose gentiment de faire un bout...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, &eacute;tudiante fra&icirc;chement d&eacute;barqu&eacute;e &agrave; Paris, une amie me propose gentiment de faire un bout de chemin avec elle, &eacute;tant donn&eacute; que nous prenons le m&ecirc;me m&eacute;tro. Ravie, j'accepte et la suis, sans pr&ecirc;ter attention au trajet. Nous prenons effectivement le m&ecirc;me m&eacute;tro. Mais pas la m&ecirc;me direction. VDM</p></body></html>
+]]></content>
+	<updated>2015-09-17T21:08:20+00:00</updated>
+	<author><name>touriste</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-09-17T21:08:20+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-18:/8588</id>
+	<link href="http://www.acrimed.org/Liberation-et-la-Fete-de-l-Huma-petites-manipulations-le-retour" rel="alternate" type="text/html"/>
+	<title type="html">Libération et la Fête de l’Huma : petites manipulations, le retour - Acrimed | Action Critique Médias</title>
+	<summary type="html"><![CDATA[&quot;Cette grossière erreur « de transcription » est-elle une perfidie à l’endroit de Mélenchon, ou...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>"Cette grossi&egrave;re erreur &laquo; de transcription &raquo; est-elle une perfidie &agrave; l&rsquo;endroit de M&eacute;lenchon, ou plut&ocirc;t, le fruit d&rsquo;une d&eacute;formation professionnelle du journaliste politique, qui, &agrave; force de ne s&rsquo;int&eacute;resser qu&rsquo;aux ambitions personnelles et aux strat&eacute;gies pour les assouvir, finit par entendre ce qu&rsquo;il a envie d&rsquo;&eacute;crire ? Peu importe, le r&eacute;sultat est le m&ecirc;me et le ver &eacute;tait dans le fruit d&egrave;s lors que le journaliste avait d&eacute;cid&eacute;, ou s&rsquo;&eacute;tait vu ordonner, d&rsquo;&eacute;crire un article sur la F&ecirc;te de l&rsquo;Humanit&eacute; sous un angle qui le dispensait de s&rsquo;int&eacute;resser &agrave;&hellip; la F&ecirc;te de l&rsquo;Humanit&eacute; !"<br><br>
+"Le temps qu&rsquo;il fit, les menus qu&rsquo;on y servit, les incidents qu&rsquo;on y d&eacute;couvrit : c&rsquo;est &agrave; peu pr&egrave;s tout ce que les m&eacute;dias dominants pr&eacute;f&egrave;rent retenir chaque ann&eacute;e de la F&ecirc;te de L&rsquo;Humanit&eacute;. Ce n&rsquo;est pourtant pas faire preuve d&rsquo;une all&eacute;geance particuli&egrave;re &agrave; ce journal et au parti qui le soutient que de constater que cette f&ecirc;te est d&rsquo;abord un gigantesque rassemblement populaire qui m&ecirc;le des publics aux motivations vari&eacute;es et o&ugrave; se m&egrave;nent d&rsquo;innombrables d&eacute;bats : ceux-l&agrave; m&ecirc;mes que les &laquo; grands &raquo; journalistes pr&eacute;f&egrave;rent ignorer, convaincus que le d&eacute;bat d&eacute;mocratique est exclusivement celui qu&rsquo;ils orchestrent. Cette ann&eacute;e encore, la f&ecirc;te de trois jours a fait l&rsquo;objet d&rsquo;une couverture m&eacute;diatique &laquo; exemplaire &raquo;. Et Lib&eacute;ration s&rsquo;est surpass&eacute;."<br><br>
+(cette derni&egrave;re citation date d'il y a 10 ans.... rien n'a donc chang&eacute;)<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?OQInmw" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-18T13:55:26+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-09-18T13:55:26+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+	<category term="fb"/>
+
+	<category term="fs"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-19:/8673</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/129374858508" rel="alternate" type="text/html"/>
+	<title type="html">gifsboom:
+
+Video: Happy Baby Donkey Swings in a Hammock</title>
+	<summary type="html"><![CDATA[   gifsboom:
+
+Video: Happy Baby Donkey Swings in a Hammock
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://33.media.tumblr.com/e6f4d16d9da529c4a085d71c730e3ca4/tumblr_nuw0z2THxp1s02vreo1_500.gif"><br><br><img src="http://31.media.tumblr.com/643d2dbdbd78dd3eb1e7949e3521404e/tumblr_nuw0z2THxp1s02vreo2_500.gif"><br><br><img src="http://31.media.tumblr.com/c1e28c1df2bfa3a2744890f49804b4df/tumblr_nuw0z2THxp1s02vreo3_500.gif"><br><br><p><a href="http://gifsboom.tumblr.com/post/129366115324" target="_blank" rel="noreferrer">gifsboom</a>:</p>
+<blockquote>
+<p>Video:&nbsp;<a href="http://www.tastefullyoffensive.com/2015/09/happy-baby-donkey-swings-in-hammock.html" target="_blank" rel="noreferrer">Happy Baby Donkey Swings in a Hammock</a></p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-09-18T21:58:23+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-18T21:58:23+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-19:/8702</id>
@@ -1040,171 +1198,6 @@ R&eacute;alisation : <strong>Guy COSSON</strong></div></div></body></html>
 		<link rel="self" href="http://xkcd.com/"/>
 		<updated>2015-09-14T04:00:00+00:00</updated>
 		<title>xkcd.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-14:/7775</id>
-	<link href="http://mememaster.tumblr.com/post/129074025959" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/2c8294d9f5246ff97912a1abc3996ead/tumblr_nd13vv5JM01qb2emxo1_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-09-14T14:18:03+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-14T14:18:03+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-14:/7778</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/129074854773" rel="alternate" type="text/html"/>
-	<title type="html">Captain Jack Cable (photo via nrojbrot)</title>
-	<summary type="html"><![CDATA[Captain Jack Cable (photo via nrojbrot)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/72c0c046ebc23ecb54117915b91fca84/tumblr_nuo8igPiWR1qewacoo1_500.jpg"><br><br><p>Captain Jack Cable (photo via <a href="https://www.reddit.com/user/nrojbrot" target="_blank" rel="noreferrer">nrojbrot</a>)<br></p></body></html>
-]]></content>
-	<updated>2015-09-14T14:35:04+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-14T14:35:04+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-14:/7725</id>
-	<link href="http://www.mediapart.fr/journal/culture-idees/140915/mediaporte-lettre-aux-guignols" rel="alternate" type="text/html"/>
-	<title type="html">MediaPorte: «Lettre aux Guignols»</title>
-	<summary type="html"><![CDATA[
-    
-            
-                    La rédaction de Mediapart        
-        
-
-
-    
-           ...]]></summary>
-	<content type="html"><![CDATA[<html><body><div>
-    <div>
-            <div>
-                    <a href="http://www.mediapart.fr/biographie/54054" title="Tous les articles de La r&eacute;daction de Mediapart" rel="noreferrer" target="_blank">La r&eacute;daction de Mediapart</a>        </div>
-        </div>
-</div>
-<div>
-    <div>
-            <div>
-                    <div><img src="http://static.mediapart.fr/files/imagecache/770_pixels/media_64525/Capture_decran_2015-09-14_a_12.07.20.png" alt="" title="" width="770" height="416"><span> <span>&copy; Mediapart.</span></span></div><p><br><i>&laquo;&nbsp;D&eacute;dramatisons, les amis&nbsp;&raquo;</i>, &eacute;crit Didier Porte aux nouveaux auteurs des Guignols de l'info &ndash; dont il d&eacute;voile les noms. Ce qui se passe &agrave; Canal Plus, <i>&laquo;&nbsp;c'est le ba ba du management&nbsp;&raquo;</i>.</p>        </div>
-        </div>
-</div>
-<p><i>&laquo;&nbsp;D&eacute;dramatisons, les amis&nbsp;&raquo;</i>, &eacute;crit Didier Porte aux nouveaux auteurs des Guignols de l'info &ndash; dont il d&eacute;voile l</p><div></div><p><a href="http://www.mediapart.fr/journal/culture-idees/140915/mediaporte-lettre-aux-guignols" target="_blank" rel="noreferrer">lire la suite</a></p></body></html>
-]]></content>
-	<updated>2015-09-14T10:14:00+00:00</updated>
-	<author><name>Géraldine Delacroix</name></author>
-	<source>
-		<id>http://www.mediapart.fr</id>
-		<link rel="self" href="http://www.mediapart.fr"/>
-		<updated>2015-09-14T10:14:00+00:00</updated>
-		<title>Mediapart</title></source>
-
-	<category term="culture-idées"/>
-
-	<category term="canal plus"/>
-
-	<category term="didier porte"/>
-
-	<category term="les guignols"/>
-
-	<category term="médias"/>
-
-	<category term="vidéo"/>
-
-	<category term="vincent bolloré"/>
-
-	<category term="chronique"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-14:/7759</id>
-	<link href="http://www.viedemerde.fr/amour/8616594" rel="alternate" type="text/html"/>
-	<title type="html">jaifaim a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, je suis routier et je mange dans mon camion. Ma femme s'est trompée, et m'a donné le Tu...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je suis routier et je mange dans mon camion. Ma femme s'est tromp&eacute;e, et m'a donn&eacute; le Tupperware de fromage r&acirc;p&eacute;. Je suis seul, en rase campagne et intol&eacute;rant au lactose. J'ai faim. VDM</p></body></html>
-]]></content>
-	<updated>2015-09-13T20:04:53+00:00</updated>
-	<author><name>jaifaim</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-09-13T20:04:53+00:00</updated>
-		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-12:/7409</id>
-	<link href="http://www.youtube.com/watch?v=VkMU1mKdwPI" rel="alternate" type="text/html"/>
-	<title type="html">Film Theory: Neo ISN'T The One in The Matrix Trilogy</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-12T16:48:44+00:00</updated>
-	<author><name>The Film Theorists</name></author>
-	<source>
-		<id>http://www.youtube.com/channel/UC3sznuotAs2ohg_U__Jzj_Q</id>
-		<link rel="self" href="http://www.youtube.com/channel/UC3sznuotAs2ohg_U__Jzj_Q"/>
-		<updated>2015-09-12T16:48:44+00:00</updated>
-		<title>The Film Theorists</title></source>
-
-
-	<link rel="enclosure" 
-		type="application/x-shockwave-flash" 
-		length="1"
-		href="https://www.youtube.com/v/VkMU1mKdwPI?version=3"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-14:/7756</id>
-	<link href="https://www.youtube.com/watch?v=gkilQ87UUj8" rel="alternate" type="text/html"/>
-	<title type="html">Is Gender REAL? – 8-Bit Philosophy - YouTube</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-14T12:44:18+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-14T12:44:18+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-14:/7708</id>
-	<link href="http://danstonchat.com/16794.html" rel="alternate" type="text/html"/>
-	<title type="html">DansTonChat #16794</title>
-	<summary type="html"><![CDATA[Elcapo: alors, parait que la nouvelle meuf de fred c&#039;est une cougar???Kod: Mouais...Kod: Elle a...]]></summary>
-	<content type="html"><![CDATA[<html><body><span>Elcapo:</span> alors, parait que la nouvelle meuf de fred c'est une cougar???<br><span>Kod:</span> Mouais...<br><span>Kod:</span> Elle a 37 ans<br><span>Elcapo:</span> genre! &ccedil;a pourrait &ecirc;tre sa m&egrave;re!!!!<br><span>Kod:</span> Ouais, mais en l'occurrence, c'est la tienne.</body></html>
-]]></content>
-	<updated>2015-09-14T12:04:19+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://danstonchat.com/</id>
-		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-14T12:04:19+00:00</updated>
-		<title>DansTonChat</title></source>
 
 
 </entry>
