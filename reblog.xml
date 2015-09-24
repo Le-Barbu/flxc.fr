@@ -4,11 +4,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-17T05:38:52+00:00</updated>
+<updated>2015-09-17T12:44:25+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-24:/9602</id>
+	<link href="http://danstonchat.com/16831.html" rel="alternate" type="text/html"/>
+	<title type="html">DansTonChat #16831</title>
+	<summary type="html"><![CDATA[Iris: Wah, je viens enfin de download iOS8, c&#039;est génialIris: Pouvoir utiliser d&#039;autres ty...]]></summary>
+	<content type="html"><![CDATA[<html><body><span>Iris:</span> Wah, je viens enfin de download iOS8, c'est g&eacute;nial<br><span>Iris:</span> Pouvoir utiliser d'autres type de clavier et tout<br><span>Yan':</span> Ouais j'sais, c'est plut&ocirc;t cool.<br><span>Iris:</span> Le mieux c'est Swiftkey... J'ai m&ecirc;me plus besoin d'appuyer sur la barre espace, il suffit de faire glisser ton doigt sur les touches pour former les mots !<br><span>Yan':</span> Vraiment ? Omg, &ccedil;a a l'air impressionnant !<br><span>Iris:</span> Quand est-ce qu'Android aura &ccedil;a ? XD<br><span>Yan':</span> Il y a quatre ans.</body></html>
+]]></content>
+	<updated>2015-09-24T21:43:11+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://danstonchat.com/</id>
+		<link rel="self" href="http://danstonchat.com/"/>
+		<updated>2015-09-24T21:43:11+00:00</updated>
+		<title>DansTonChat</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-24:/9606</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/129793206093" rel="alternate" type="text/html"/>
+	<title type="html">(photo by AchillesPDX)</title>
+	<summary type="html"><![CDATA[(photo by AchillesPDX)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/da759d26ddb8cdc9838596a5f2bd9020/tumblr_nv734pHOpx1qewacoo1_r1_500.jpg"><br><br><p>(photo by <a href="https://www.reddit.com/user/AchillesPDX" target="_blank" rel="noreferrer">AchillesPDX</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-24T18:53:13+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-24T18:53:13+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-20:/8785</id>
@@ -1616,42 +1652,6 @@ Driver fleeing wildfire in California
 		type="application/x-shockwave-flash" 
 		length="1"
 		href="https://www.youtube.com/v/e2MfYHehXpM?version=3"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-17:/8398</id>
-	<link href="http://www.viedemerde.fr/sexe/8617870" rel="alternate" type="text/html"/>
-	<title type="html">Traumatiséeavie a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, je dors chez mon copain. Je me réveille au bout de quelques heures pour un besoin urgen...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je dors chez mon copain. Je me r&eacute;veille au bout de quelques heures pour un besoin urgent. Je croise alors sa m&egrave;re qui sort de la salle de bain et qui me lance : "Ah! Toi aussi tu pr&eacute;f&egrave;res cracher plut&ocirc;t qu'avaler ?" Non, moi je voulais juste aller faire pipi. VDM</p></body></html>
-]]></content>
-	<updated>2015-09-16T22:29:08+00:00</updated>
-	<author><name>Traumatiséeavie</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-09-16T22:29:08+00:00</updated>
-		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-17:/8397</id>
-	<link href="http://www.viedemerde.fr/inclassable/8617909" rel="alternate" type="text/html"/>
-	<title type="html">MissPoteau2015 a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, je me suis fait klaxonner dans la rue. Non pas à cause de mon physique ravageur, mais p...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je me suis fait klaxonner dans la rue. Non pas &agrave; cause de mon physique ravageur, mais parce qu'en courant sous la pluie je me suis pris un poteau &agrave; pleine vitesse. VDM</p></body></html>
-]]></content>
-	<updated>2015-09-17T05:38:52+00:00</updated>
-	<author><name>MissPoteau2015</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-09-17T05:38:52+00:00</updated>
-		<title>Vie de merde</title></source>
-
 
 </entry>
 
