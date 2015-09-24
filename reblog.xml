@@ -4,11 +4,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-17T13:11:12+00:00</updated>
+<updated>2015-09-17T05:38:52+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-20:/8785</id>
+	<link href="http://mememaster.tumblr.com/post/129503854249" rel="alternate" type="text/html"/>
+	<title type="html">Textpression</title>
+	<summary type="html"><![CDATA[Textpression]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/d306b458ccadb0fbfa41ff5f9686893a/tumblr_mr4rpxqJfI1qzv7cmo1_500.jpg"><br><br><p>Textpression</p></body></html>
+]]></content>
+	<updated>2015-09-20T17:26:40+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-09-20T17:26:40+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-24:/9540</id>
+	<link href="http://danstonchat.com/16829.html" rel="alternate" type="text/html"/>
+	<title type="html">DansTonChat #16829</title>
+	<summary type="html"><![CDATA[Princesse-Zarite : Tu seras chez toi ce soir ?Xenia-Woodcutter : Euh... Oui. Sauf si...Princesse-Zar...]]></summary>
+	<content type="html"><![CDATA[<html><body><span>Princesse-Zarite :</span> Tu seras chez toi ce soir ?<br><span>Xenia-Woodcutter :</span> Euh... Oui. Sauf si...<br><span>Princesse-Zarite :</span> J&rsquo;peux passer ? topl&eacute; ! Faut que je scanne un truc, c&rsquo;est urgent !!! *-*<br><span>Xenia-Woodcutter :</span> Bah, scanne le avec ta propre "imprimante-scanner toute neuve et qu'est trop bien"... __&rsquo;<br><span>Princesse-Zarite :</span> C&rsquo;est ce que je voulais faire &agrave; la base, mais j&rsquo;ai essay&eacute;, et mon imprimante ne veut pas scanner car, je cite : &laquo; il n&rsquo;y a plus d&rsquo;encre dans la cartouche d&rsquo;impression &raquo;. T_T<br><span>Xenia-Woodcutter :</span> WTF ?!<br><span>Princesse-Zarite :</span> Du coup, j&rsquo;peux passer ? ... *-*</body></html>
+]]></content>
+	<updated>2015-09-24T14:43:38+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://danstonchat.com/</id>
+		<link rel="self" href="http://danstonchat.com/"/>
+		<updated>2015-09-24T14:43:38+00:00</updated>
+		<title>DansTonChat</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-24:/9560</id>
+	<link href="http://www.viedemerde.fr/inclassable/8620761" rel="alternate" type="text/html"/>
+	<title type="html">Jonestown a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, ça fait deux semaines que je suis parti de la maison familiale pour mes études supérieu...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, &ccedil;a fait deux semaines que je suis parti de la maison familiale pour mes &eacute;tudes sup&eacute;rieures. J'appelle mes parents pour prendre des nouvelles. Mon p&egrave;re me dit : "Tu sais, tu manques beaucoup a ta maman". Je l'ai entendue rire derri&egrave;re. VDM</p></body></html>
+]]></content>
+	<updated>2015-09-24T08:59:12+00:00</updated>
+	<author><name>Jonestown</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-09-24T08:59:12+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-20:/8829</id>
@@ -1597,57 +1651,6 @@ Driver fleeing wildfire in California
 		<link rel="self" href="http://www.viedemerde.fr"/>
 		<updated>2015-09-17T05:38:52+00:00</updated>
 		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-17:/8399</id>
-	<link href="http://floccinaucinihilipilificationa.tumblr.com/post/100840045212/i-was-appointed-by-my-professor-as-a-class" rel="alternate" type="text/html"/>
-	<title type="html">I was appointed by my professor as a class...</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-17T13:33:42+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-17T13:33:42+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-17:/8396</id>
-	<link href="http://floccinaucinihilipilificationa.tumblr.com/post/102600876727/prozdvoices-heres-a-youtube-version-of-that" rel="alternate" type="text/html"/>
-	<title type="html">prozdvoices: Here’s a YouTube version of that...</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-17T13:28:18+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-17T13:28:18+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-17:/8389</id>
-	<link href="http://floccinaucinihilipilificationa.tumblr.com/post/118794078244/prozdvoices-no-harry-uhh-you-can-feel" rel="alternate" type="text/html"/>
-	<title type="html">prozdvoices: no harry uhh you can feel...</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-17T13:11:12+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-17T13:11:12+00:00</updated>
-		<title>Published articles</title></source>
 
 
 </entry>
