@@ -4,11 +4,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-14T04:00:00+00:00</updated>
+<updated>2015-09-13T05:00:00+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-23:/9034</id>
+	<link href="http://www.explosm.net/comics/4064/" rel="alternate" type="text/html"/>
+	<title type="html">Comic for 2015.09.22</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="//files.explosm.net/comics/Rob/moth-light.gif"></body></html>
+]]></content>
+	<updated>2015-09-22T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.explosm.net/rss.php</id>
+		<link rel="self" href="http://www.explosm.net/rss.php"/>
+		<updated>2015-09-22T05:00:00+00:00</updated>
+		<title>Explosm.net</title></source>
+
+	<category term="comics"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-23:/9145</id>
+	<link href="http://xkcd.com/1580/" rel="alternate" type="text/html"/>
+	<title type="html">Travel Ghost</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://imgs.xkcd.com/comics/travel_ghosts.png" title="And a different ghost has replaced me in the bedroom." alt="And a different ghost has replaced me in the bedroom."></body></html>
+]]></content>
+	<updated>2015-09-21T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://xkcd.com/</id>
+		<link rel="self" href="http://xkcd.com/"/>
+		<updated>2015-09-21T04:00:00+00:00</updated>
+		<title>xkcd.com</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-18:/8436</id>
@@ -1162,42 +1200,6 @@ R&eacute;alisation : <strong>Guy COSSON</strong></div></div></body></html>
 		<title>Explosm.net</title></source>
 
 	<category term="comics"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-13:/7569</id>
-	<link href="http://oglaf.com/dictum/" rel="alternate" type="text/html"/>
-	<title type="html">Dictum</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><div><p><img src="http://media.oglaf.com/story/ttdictum.gif"></p><p><a href="http://oglaf.com/dictum/" rel="noreferrer" target="_blank"><img src="http://media.oglaf.com/archive/arc-dictum.png" width="400" height="100" border="0" alt="http://oglaf.com/dictum/"></a></p></div></body></html>
-]]></content>
-	<updated>2015-09-13T15:44:17+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://oglaf.com/latest/</id>
-		<link rel="self" href="http://oglaf.com/latest/"/>
-		<updated>2015-09-13T15:44:17+00:00</updated>
-		<title>Oglaf! -- Comics. Often dirty.</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-14:/7661</id>
-	<link href="http://xkcd.com/1577/" rel="alternate" type="text/html"/>
-	<title type="html">Advent</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://imgs.xkcd.com/comics/advent.png" title="The few dozen doors that have little Christmas trees on them are a nice touch." alt="The few dozen doors that have little Christmas trees on them are a nice touch."></body></html>
-]]></content>
-	<updated>2015-09-14T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://xkcd.com/</id>
-		<link rel="self" href="http://xkcd.com/"/>
-		<updated>2015-09-14T04:00:00+00:00</updated>
-		<title>xkcd.com</title></source>
 
 
 </entry>
