@@ -4,11 +4,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-13T05:00:00+00:00</updated>
+<updated>2015-09-14T17:02:03+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-23:/9141</id>
+	<link href="http://la-bas.org/la-bas-magazine/au-fil-de-la-bas/didier-porte-aime-bollore" rel="alternate" type="text/html"/>
+	<title type="html">DIDIER PORTE AIME BOLLORÉ !</title>
+	<summary type="html"><![CDATA[DIDIER PORTE après avoir déclaré sa flamme à Emmanuel Macron dans Là-bas Hebdo n°23, vient nous révé...]]></summary>
+	<content type="html"><![CDATA[<html><body><div><p>DIDIER PORTE apr&egrave;s avoir d&eacute;clar&eacute; sa flamme &agrave; <a href="http://la-bas.org/la-bas-magazine/chroniques/revelation-exclusive-didier-porte-aime-macron" rel="noreferrer" target="_blank">Emmanuel Macron</a> dans <a href="http://la-bas.org/re-ecouter/les-emissions/2015-16/imposer-la-morale-au-petit-peuple-tout-en-lechant-le-cul-des-riches" rel="noreferrer" target="_blank">L&agrave;-bas Hebdo n&deg;23</a>, vient nous r&eacute;v&eacute;ler tout son amour pour le grand chef d'entreprise qu'est VINCENT BOLLOR&Eacute;.</p></div>
+		<div><div> <div> <div>  </div> </div> <div><a href="https://vimeo.com/139679252" rel="noreferrer" target="_blank">https://vimeo.com/139679252</a></div>
+</div>
+<div><i><sup>(cliquez sur "HD" pour afficher la vid&eacute;o en meilleure qualit&eacute;)</sup></i></div><div>Image : <strong>Lucile LATOUR</strong><br>
+Son : <strong>Franck HADERER</strong><br>
+R&eacute;alisation : <strong>Jonathan DUONG</strong></div>
+<p>C'est dans <a href="http://la-bas.org/re-ecouter/les-emissions/2015-16/frederic-lordon-la-grece-est-passee-sous-la-table" rel="noreferrer" target="_blank">L&Agrave;-BAS HEBDO n&deg;24 du vendredi 18 septembre 2015</a>, une &eacute;mission &agrave; &eacute;couter <a href="http://la-bas.org/re-ecouter/les-emissions/2015-16/frederic-lordon-la-grece-est-passee-sous-la-table" rel="noreferrer" target="_blank">ici</a>.</p></div></body></html>
+]]></content>
+	<updated>2015-09-22T10:51:31+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://la-bas.org/</id>
+		<link rel="self" href="http://la-bas.org/"/>
+		<updated>2015-09-22T10:51:31+00:00</updated>
+		<title>Là-bas si j'y suis</title></source>
+
+	<category term="video"/>
+
+	<category term="médias"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-23:/9034</id>
@@ -1180,26 +1208,6 @@ R&eacute;alisation : <strong>Guy COSSON</strong></div></div></body></html>
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-09-14T17:02:03+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-13:/7524</id>
-	<link href="http://www.explosm.net/comics/4054/" rel="alternate" type="text/html"/>
-	<title type="html">Comic for 2015.09.13</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="//files.explosm.net/comics/Kris/everest.png"></body></html>
-]]></content>
-	<updated>2015-09-13T05:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.explosm.net/rss.php</id>
-		<link rel="self" href="http://www.explosm.net/rss.php"/>
-		<updated>2015-09-13T05:00:00+00:00</updated>
-		<title>Explosm.net</title></source>
-
-	<category term="comics"/>
 
 
 </entry>
