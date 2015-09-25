@@ -4,11 +4,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-18T20:03:23+00:00</updated>
+<updated>2015-09-18T17:39:29+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-25:/9715</id>
+	<link href="http://la-bas.org/les-emissions-258/les-emissions/2009-10/mars-218/et-si-on-fermait-la-bourse" rel="alternate" type="text/html"/>
+	<title type="html">&quot;Et si on fermait la Bourse ?&quot; - Là-bas si j'y suis</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-25T11:13:48+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-25T11:13:48+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-25:/9671</id>
@@ -1626,24 +1643,6 @@ Driver fleeing wildfire in California
 		<link rel="self" href="http://www.viedemerde.fr"/>
 		<updated>2015-09-18T17:39:29+00:00</updated>
 		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-18:/8614</id>
-	<link href="http://danstonchat.com/16811.html" rel="alternate" type="text/html"/>
-	<title type="html">DansTonChat #16811</title>
-	<summary type="html"><![CDATA[&lt;personal.computer&gt; conseil du jour !&lt;personal.computer&gt; si votre voiture ne veut pas s&...]]></summary>
-	<content type="html"><![CDATA[<html><body><span>&lt;personal.computer&gt;</span> conseil du jour !<br><span>&lt;personal.computer&gt;</span> si votre voiture ne veut pas s'ouvrir avant de lui hurler dessus, de l'insulter, de lui foutre des coup de tatanes et pour finir lui peter une vitre, verifier bien que cest la votre. parce qu'en plus de bien faire rire les flics, vous risquez de vous retrouver avec une plainte pour degradation volontaire au cul et un voisin furieux sur le dos<br><span>&lt;XeroX&gt;</span> ahah y a qu'a toi que ca arrive ca !!<br><span>&lt;personal.computer&gt;</span> "mais je vous jure Monsieur l'agent c'est ma voiture que je suis en train de fracturer. regardez elle a un ptit sapin sent bon !!<br><span>&lt;personal.computer&gt;</span> "z'etes sur ? parce que y a la meme deux voitures plus loin <br><span>&lt;personal.computer&gt;</span> bah oui regardez "tuctuc" (bruit de la telecommande a distance)" ah bah oui effectivement la mienne est la bas...<br><span>&lt;personal.computer&gt;</span> demain je vous expliquerais comment faire rire tout le service d'urgence d'un hopital juste en repondant a la question "comment vous etes vous fait ca ?"...</body></html>
-]]></content>
-	<updated>2015-09-18T20:03:23+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://danstonchat.com/</id>
-		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-18T20:03:23+00:00</updated>
-		<title>DansTonChat</title></source>
 
 
 </entry>
