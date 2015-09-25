@@ -4,11 +4,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-18T04:00:00+00:00</updated>
+<updated>2015-09-18T20:03:23+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-25:/9671</id>
+	<link href="http://xkcd.com/1582/" rel="alternate" type="text/html"/>
+	<title type="html">Picture a Grassy Field</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://imgs.xkcd.com/comics/picture_a_grassy_field.png" title="Wait, I can fix this. Picture another field. In the middle sits the only creature the first creature is afraid of. Now just-- wait, where did THAT one go?" alt="Wait, I can fix this. Picture another field. In the middle sits the only creature the first creature is afraid of. Now just-- wait, where did THAT one go?"></body></html>
+]]></content>
+	<updated>2015-09-25T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://xkcd.com/</id>
+		<link rel="self" href="http://xkcd.com/"/>
+		<updated>2015-09-25T04:00:00+00:00</updated>
+		<title>xkcd.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-25:/9680</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/129812113473" rel="alternate" type="text/html"/>
+	<title type="html">by Eat More Bikes</title>
+	<summary type="html"><![CDATA[by Eat More Bikes]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/c4d24ba940add5aff4201cded6b0cd94/tumblr_nv7fphnXah1qhy1pno1_500.jpg"><br><br><p>by <a href="http://eatmorebikes.tumblr.com/post/129809266446" target="_blank" rel="noreferrer">Eat More Bikes</a></p></body></html>
+]]></content>
+	<updated>2015-09-25T00:16:09+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-25T00:16:09+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-25:/9678</id>
@@ -1608,48 +1644,6 @@ Driver fleeing wildfire in California
 		<link rel="self" href="http://danstonchat.com/"/>
 		<updated>2015-09-18T20:03:23+00:00</updated>
 		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-18:/8648</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/129366595943" rel="alternate" type="text/html"/>
-	<title type="html">Depressed Cat (images via imgur)</title>
-	<summary type="html"><![CDATA[        Depressed Cat (images via imgur)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/b2bfc38377f40c0af91296c5457edcb3/tumblr_nuw1d0zot11qewacoo1_500.jpg"><br><br><img src="http://40.media.tumblr.com/b8425625c0b842c87966ed5455f249c8/tumblr_nuw1d0zot11qewacoo3_r1_500.jpg"><br><br><img src="http://41.media.tumblr.com/0985058aac8de06802261ad2378391bd/tumblr_nuw1d0zot11qewacoo8_r1_500.jpg"><br><br><img src="http://40.media.tumblr.com/c7a947fa4e98cadb52b1280126613c3b/tumblr_nuw1d0zot11qewacoo2_r1_500.jpg"><br><br><img src="http://36.media.tumblr.com/cf3c7d9da1432289fcf7f3dcf0dcff2a/tumblr_nuw1d0zot11qewacoo6_500.jpg"><br><br><img src="http://40.media.tumblr.com/3ad8e7b7bf9491b3827df9bca534baac/tumblr_nuw1d0zot11qewacoo5_500.jpg"><br><br><img src="http://41.media.tumblr.com/7855ea4ae3e0fe4065af9c80fda7161a/tumblr_nuw1d0zot11qewacoo7_500.jpg"><br><br><img src="http://41.media.tumblr.com/9ac37d9201a162409aa0d8e68766ba1b/tumblr_nuw1d0zot11qewacoo4_500.jpg"><br><br><p><b>Depressed Cat</b>&nbsp;(images via <a href="http://imgur.com/gallery/9H72olX" target="_blank" rel="noreferrer">imgur</a>)</p></body></html>
-]]></content>
-	<updated>2015-09-18T19:41:24+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-18T19:41:24+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="grumpy cat is a girl"/>
-
-	<category term="cats"/>
-
-	<category term="lists"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-18:/8409</id>
-	<link href="http://xkcd.com/1579/" rel="alternate" type="text/html"/>
-	<title type="html">Tech Loops</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://imgs.xkcd.com/comics/tech_loops.png" title='And when I think about it, a lot of "things I want to do" are just learning about and discussing new tools for tinkering with the chain.' alt='And when I think about it, a lot of "things I want to do" are just learning about and discussing new tools for tinkering with the chain.'></body></html>
-]]></content>
-	<updated>2015-09-18T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://xkcd.com/</id>
-		<link rel="self" href="http://xkcd.com/"/>
-		<updated>2015-09-18T04:00:00+00:00</updated>
-		<title>xkcd.com</title></source>
 
 
 </entry>
