@@ -4,11 +4,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-17T12:44:25+00:00</updated>
+<updated>2015-09-18T04:00:00+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-25:/9678</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/129820306858" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[   ]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/949b4cf7c37c00bc579e6fc26da5f240/tumblr_nv36as6fQj1sqx8y7o1_500.jpg"><br><br><img src="http://40.media.tumblr.com/1bc50728fbad822acc14b983b4730337/tumblr_nv36as6fQj1sqx8y7o2_500.jpg"><br><br><img src="http://33.media.tumblr.com/4f5c71b222393026e0567dba3caf743f/tumblr_nv36as6fQj1sqx8y7o3_400.gif"><br><br></body></html>
+]]></content>
+	<updated>2015-09-25T02:34:18+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-25T02:34:18+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-25:/9676</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/129825410075" rel="alternate" type="text/html"/>
+	<title type="html">(photo by thatsamesong)</title>
+	<summary type="html"><![CDATA[(photo by thatsamesong)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/ee4475e9054098a854637e01178f72cf/tumblr_nv7pl4WPT81qewacoo1_r1_500.jpg"><br><br><p>(photo by <a href="https://www.reddit.com/user/thatsamesong" target="_blank" rel="noreferrer">thatsamesong</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-25T04:00:07+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-25T04:00:07+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+	<category term="when you see it"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-24:/9602</id>
@@ -1613,45 +1651,6 @@ Driver fleeing wildfire in California
 		<updated>2015-09-18T04:00:00+00:00</updated>
 		<title>xkcd.com</title></source>
 
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-17:/8405</id>
-	<link href="http://francois.aichelbaum.com/diagnostic/" rel="alternate" type="text/html"/>
-	<title type="html">Diagnostic - D'ici et d'ailleurs</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-17T14:05:19+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-09-17T14:05:19+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-17:/8363</id>
-	<link href="http://www.youtube.com/watch?v=e2MfYHehXpM" rel="alternate" type="text/html"/>
-	<title type="html">Qui veut épouser des oeufs pourris ? #DansTonFlux48</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-17T12:44:25+00:00</updated>
-	<author><name>Dans Ton Flux</name></author>
-	<source>
-		<id>http://www.youtube.com/channel/UCARLZnOtuJnFoX84i8Cli7w</id>
-		<link rel="self" href="http://www.youtube.com/channel/UCARLZnOtuJnFoX84i8Cli7w"/>
-		<updated>2015-09-17T12:44:25+00:00</updated>
-		<title>Dans Ton Flux</title></source>
-
-
-	<link rel="enclosure" 
-		type="application/x-shockwave-flash" 
-		length="1"
-		href="https://www.youtube.com/v/e2MfYHehXpM?version=3"/>
 
 </entry>
 
