@@ -4,11 +4,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-18T13:55:26+00:00</updated>
+<updated>2015-09-17T14:25:26+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-26:/9743</id>
+	<link href="https://www.youtube.com/watch?v=mKTORFmMycQ" rel="alternate" type="text/html"/>
+	<title type="html">eTalks - The Secrets of Food Marketing - YouTube</title>
+	<summary type="html"><![CDATA[Comment le marketing arrive à faire oublier la réalité de l'élevage intensif ?
+
+Un petit focus sur 3...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Comment le marketing arrive &agrave; faire oublier la r&eacute;alit&eacute; de l'&eacute;levage intensif ?<br><br>
+Un petit focus sur 3 &eacute;l&eacute;ments principaux. Sous-titres fran&ccedil;ais disponibles.<br><br>
+(alors, oui, c'est une vid&eacute;o sc&eacute;naris&eacute;e, mais c'est pas le propos)<br><br>
+(et oui, c'est une vid&eacute;o welfariste)<br><br>
+(via DM)<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?Org3og" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-25T14:56:23+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-09-25T14:56:23+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+	<category term="fb"/>
+
+	<category term="fs"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-26:/9884</id>
+	<link href="http://mememaster.tumblr.com/post/129909514109" rel="alternate" type="text/html"/>
+	<title type="html">captaincasualty:
+
+Hello? 911? I just witnessed a murder.</title>
+	<summary type="html"><![CDATA[captaincasualty:
+
+Hello? 911? I just witnessed a murder.
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/tumblr_m9ziv3bdH91qewacoo1_500.jpg"><br><br><p><a href="http://captaincasualty.tumblr.com/post/128173302587" target="_blank" rel="noreferrer">captaincasualty</a>:</p>
+<blockquote>
+<p>Hello? 911? I just witnessed a murder.</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-09-26T12:29:35+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-09-26T12:29:35+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-26:/9752</id>
@@ -1600,48 +1654,6 @@ Cat vs. Hand
 		<link rel="self" href="http://www.viedemerde.fr"/>
 		<updated>2015-09-17T14:25:26+00:00</updated>
 		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-18:/8582</id>
-	<link href="http://www.viedemerde.fr/inclassable/8618257" rel="alternate" type="text/html"/>
-	<title type="html">touriste a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, étudiante fraîchement débarquée à Paris, une amie me propose gentiment de faire un bout...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, &eacute;tudiante fra&icirc;chement d&eacute;barqu&eacute;e &agrave; Paris, une amie me propose gentiment de faire un bout de chemin avec elle, &eacute;tant donn&eacute; que nous prenons le m&ecirc;me m&eacute;tro. Ravie, j'accepte et la suis, sans pr&ecirc;ter attention au trajet. Nous prenons effectivement le m&ecirc;me m&eacute;tro. Mais pas la m&ecirc;me direction. VDM</p></body></html>
-]]></content>
-	<updated>2015-09-17T21:08:20+00:00</updated>
-	<author><name>touriste</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-09-17T21:08:20+00:00</updated>
-		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-18:/8588</id>
-	<link href="http://www.acrimed.org/Liberation-et-la-Fete-de-l-Huma-petites-manipulations-le-retour" rel="alternate" type="text/html"/>
-	<title type="html">Libération et la Fête de l’Huma : petites manipulations, le retour - Acrimed | Action Critique Médias</title>
-	<summary type="html"><![CDATA[&quot;Cette grossière erreur « de transcription » est-elle une perfidie à l’endroit de Mélenchon, ou...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>"Cette grossi&egrave;re erreur &laquo; de transcription &raquo; est-elle une perfidie &agrave; l&rsquo;endroit de M&eacute;lenchon, ou plut&ocirc;t, le fruit d&rsquo;une d&eacute;formation professionnelle du journaliste politique, qui, &agrave; force de ne s&rsquo;int&eacute;resser qu&rsquo;aux ambitions personnelles et aux strat&eacute;gies pour les assouvir, finit par entendre ce qu&rsquo;il a envie d&rsquo;&eacute;crire ? Peu importe, le r&eacute;sultat est le m&ecirc;me et le ver &eacute;tait dans le fruit d&egrave;s lors que le journaliste avait d&eacute;cid&eacute;, ou s&rsquo;&eacute;tait vu ordonner, d&rsquo;&eacute;crire un article sur la F&ecirc;te de l&rsquo;Humanit&eacute; sous un angle qui le dispensait de s&rsquo;int&eacute;resser &agrave;&hellip; la F&ecirc;te de l&rsquo;Humanit&eacute; !"<br><br>
-"Le temps qu&rsquo;il fit, les menus qu&rsquo;on y servit, les incidents qu&rsquo;on y d&eacute;couvrit : c&rsquo;est &agrave; peu pr&egrave;s tout ce que les m&eacute;dias dominants pr&eacute;f&egrave;rent retenir chaque ann&eacute;e de la F&ecirc;te de L&rsquo;Humanit&eacute;. Ce n&rsquo;est pourtant pas faire preuve d&rsquo;une all&eacute;geance particuli&egrave;re &agrave; ce journal et au parti qui le soutient que de constater que cette f&ecirc;te est d&rsquo;abord un gigantesque rassemblement populaire qui m&ecirc;le des publics aux motivations vari&eacute;es et o&ugrave; se m&egrave;nent d&rsquo;innombrables d&eacute;bats : ceux-l&agrave; m&ecirc;mes que les &laquo; grands &raquo; journalistes pr&eacute;f&egrave;rent ignorer, convaincus que le d&eacute;bat d&eacute;mocratique est exclusivement celui qu&rsquo;ils orchestrent. Cette ann&eacute;e encore, la f&ecirc;te de trois jours a fait l&rsquo;objet d&rsquo;une couverture m&eacute;diatique &laquo; exemplaire &raquo;. Et Lib&eacute;ration s&rsquo;est surpass&eacute;."<br><br>
-(cette derni&egrave;re citation date d'il y a 10 ans.... rien n'a donc chang&eacute;)<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?OQInmw" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
-]]></content>
-	<updated>2015-09-18T13:55:26+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.mypersonnaldata.eu/shaarli/</id>
-		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
-		<updated>2015-09-18T13:55:26+00:00</updated>
-		<title>Les liens de Kevin Merigot</title></source>
-
-	<category term="fb"/>
-
-	<category term="fs"/>
 
 
 </entry>
