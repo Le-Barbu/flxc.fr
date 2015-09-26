@@ -4,11 +4,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-17T14:25:26+00:00</updated>
+<updated>2015-09-18T06:23:11+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-26:/9751</id>
+	<link href="http://www.youtube.com/watch?v=qIM0kucdiGM" rel="alternate" type="text/html"/>
+	<title type="html">La hotline - Palmashow</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-26T12:05:49+00:00</updated>
+	<author><name>Palmashow</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCoZoRz4-y6r87ptDp4Jk74g</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCoZoRz4-y6r87ptDp4Jk74g"/>
+		<updated>2015-09-26T12:05:49+00:00</updated>
+		<title>Palmashow</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/qIM0kucdiGM?version=3"/>
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-26:/9743</id>
@@ -1636,24 +1658,6 @@ Cat vs. Hand
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-09-18T06:23:11+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-18:/8584</id>
-	<link href="http://www.viedemerde.fr/sexe/8618019" rel="alternate" type="text/html"/>
-	<title type="html">levieux a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, je me fais draguer par une jeune fille de 14 ans. Étant donné que j'en ai 31, je la rep...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je me fais draguer par une jeune fille de 14 ans. &Eacute;tant donn&eacute; que j'en ai 31, je la repousse gentiment. C'est alors qu'elle se met &agrave; pleurer en criant : "Mais pourquoi j'arrive jamais &agrave; me taper un vieux, moi ?" VDM</p></body></html>
-]]></content>
-	<updated>2015-09-17T14:25:26+00:00</updated>
-	<author><name>levieux</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-09-17T14:25:26+00:00</updated>
-		<title>Vie de merde</title></source>
 
 
 </entry>
