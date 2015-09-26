@@ -4,11 +4,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-18T06:23:11+00:00</updated>
+<updated>2015-09-18T04:24:19+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-26:/9736</id>
+	<link href="http://www.explosm.net/comics/4068/" rel="alternate" type="text/html"/>
+	<title type="html">Comic for 2015.09.26</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="//files.explosm.net/comics/Rob/knife-in-your-pants.png"></body></html>
+]]></content>
+	<updated>2015-09-26T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.explosm.net/rss.php</id>
+		<link rel="self" href="http://www.explosm.net/rss.php"/>
+		<updated>2015-09-26T05:00:00+00:00</updated>
+		<title>Explosm.net</title></source>
+
+	<category term="comics"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-26:/9751</id>
@@ -1621,42 +1641,6 @@ R&eacute;alisation : <strong>Jonathan DUONG</strong></div>
 		<id>http://tumblr.tastefullyoffensive.com/</id>
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-09-18T04:24:19+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-18:/8429</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/129335273133" rel="alternate" type="text/html"/>
-	<title type="html">gifak-net:
-
-video: 
-
-Cat vs. Hand</title>
-	<summary type="html"><![CDATA[gifak-net:
-
-video: 
-
-Cat vs. Hand
-
-
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/e427753c7d97607ae7a10ed991415fdb/tumblr_nuuyr2pfRg1s2yegdo1_400.gif"><br><br><p><a href="http://gifak-net.tumblr.com/post/129333856004" target="_blank" rel="noreferrer">gifak-net</a>:</p>
-<blockquote>
-<p>video:&nbsp;
-
-<a href="http://www.tastefullyoffensive.com/2015/09/cat-vs-hand.html" target="_blank" rel="noreferrer">Cat vs. Hand</a>
-
-</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-18T06:23:11+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-18T06:23:11+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
 
 
