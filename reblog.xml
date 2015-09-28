@@ -4,11 +4,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-23T18:39:01+00:00</updated>
+<updated>2015-09-23T12:12:49+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-28:/10241</id>
+	<link href="http://www.viedemerde.fr/amour/8622258" rel="alternate" type="text/html"/>
+	<title type="html">Loanhh a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, ma copine a quitté l'appartement car elle m'estime incapable de m'en sortir sans elle. ...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, ma copine a quitt&eacute; l'appartement car elle m'estime incapable de m'en sortir sans elle. Dix minutes apr&egrave;s son d&eacute;part : fuite du toit, appartement inond&eacute;, les plombs ont saut&eacute; et elle &eacute;tait la seule &agrave; avoir le num&eacute;ro du propri&eacute;taire. VDM</p></body></html>
+]]></content>
+	<updated>2015-09-28T10:47:08+00:00</updated>
+	<author><name>Loanhh</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-09-28T10:47:08+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-28:/10240</id>
+	<link href="http://www.viedemerde.fr/travail/8622270" rel="alternate" type="text/html"/>
+	<title type="html">tonprof a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, en cours d'art, une élève me présente son dessin. C'est monotone, triste, sans couleurs...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, en cours d'art, une &eacute;l&egrave;ve me pr&eacute;sente son dessin. C'est monotone, triste, sans couleurs. Je lui demande ce qu'elle en pense. "J'aime bien, c'est &agrave; l'image de ma vie, sans int&eacute;r&ecirc;t." VDM</p></body></html>
+]]></content>
+	<updated>2015-09-28T11:09:18+00:00</updated>
+	<author><name>tonprof</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-09-28T11:09:18+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-08:/6477</id>
@@ -1309,51 +1345,6 @@ do u ever make a post and immediately know its going to make you los...]]></summ
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-09-23T12:12:49+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-24:/9302</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/129721354013" rel="alternate" type="text/html"/>
-	<title type="html">Dad to the rescue. [video]</title>
-	<summary type="html"><![CDATA[Dad to the rescue. [video]]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://33.media.tumblr.com/57d88be60161baa5cce75d1944cf28fe/tumblr_nv39a4RxLc1s2yegdo1_400.gif"><br><br><p>Dad to the rescue. [<a href="http://www.tastefullyoffensive.com/2015/09/this-toddler-is-horrible-at-blowing-out.html" target="_blank" rel="noreferrer">video</a>]</p></body></html>
-]]></content>
-	<updated>2015-09-23T17:45:34+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-23T17:45:34+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-24:/9301</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/129724119988" rel="alternate" type="text/html"/>
-	<title type="html">rockpapercynic:
-
-Also this is good advice for literally any...</title>
-	<summary type="html"><![CDATA[rockpapercynic:
-
-Also this is good advice for literally any situation at all.
-Also also, goddamn am ...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/5fa1d9d29ff28353cc2af984d5c22b1a/tumblr_nv45esN79x1ruru4oo1_500.jpg"><br><br><p><a href="http://rockpapercynic.tumblr.com/post/129720053606" target="_blank" rel="noreferrer">rockpapercynic</a>:</p>
-<blockquote>
-<p>Also this is good advice for literally any situation at all.</p>
-<p>Also also, goddamn am I ever hungry for pancakes.</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-23T18:39:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-23T18:39:01+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
