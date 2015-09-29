@@ -4,11 +4,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-23T09:15:22+00:00</updated>
+<updated>2015-09-23T09:15:21+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-29:/10490</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/130135936218" rel="alternate" type="text/html"/>
+	<title type="html">nicholasgurewitch:
+
+PBF#248: “Transmission”...</title>
+	<summary type="html"><![CDATA[nicholasgurewitch:
+
+PBF#248: “Transmission” (http://pbfcomics.com/248/)
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/51d425e9e0fd940cd55c2fd0a44da4cd/tumblr_nuwf2kg45y1r3ibjso1_500.jpg"><br><br><p><a href="http://nicholasgurewitch.tumblr.com/post/130127393799" target="_blank" rel="noreferrer">nicholasgurewitch</a>:</p>
+<blockquote>
+<p>PBF#248: &ldquo;Transmission&rdquo; (<a href="http://pbfcomics.com/248/" target="_blank" rel="noreferrer">http://pbfcomics.com/248/</a>)</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-09-29T15:26:58+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-29T15:26:58+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-29:/10416</id>
@@ -1323,24 +1349,6 @@ Ne jamais oublier que les surveillants ne sont pas forc&eacute;ment bienveillant
 		<id>http://danstonchat.com/</id>
 		<link rel="self" href="http://danstonchat.com/"/>
 		<updated>2015-09-23T09:15:21+00:00</updated>
-		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-23:/9094</id>
-	<link href="http://danstonchat.com/16820.html" rel="alternate" type="text/html"/>
-	<title type="html">DansTonChat #16820</title>
-	<summary type="html"><![CDATA[Meego : Qui respectez-vous le plus sur ce chat ?GamesOfPorn : Je respecte tout le monde fils de pute...]]></summary>
-	<content type="html"><![CDATA[<html><body><span>Meego :</span> Qui respectez-vous le plus sur ce chat ?<br><span>GamesOfPorn :</span> Je respecte tout le monde fils de pute.</body></html>
-]]></content>
-	<updated>2015-09-23T09:15:22+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://danstonchat.com/</id>
-		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-23T09:15:22+00:00</updated>
 		<title>DansTonChat</title></source>
 
 
