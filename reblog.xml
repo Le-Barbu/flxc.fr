@@ -4,11 +4,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-21T08:36:01+00:00</updated>
+<updated>2015-09-21T21:25:42+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-30:/10509</id>
+	<link href="http://www.viedemerde.fr/enfants/8623000" rel="alternate" type="text/html"/>
+	<title type="html">Avocaat a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, je me balade dans un parc avec mes enfants. Un monsieur visiblement bourré nous accoste...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je me balade dans un parc avec mes enfants. Un monsieur visiblement bourr&eacute; nous accoste : "H&eacute; madame ! Vous &ecirc;tes trop bonne !" Mon fils : "C'est m&ecirc;me pas vrai d'abord, maman elle est moche !" VDM</p></body></html>
+]]></content>
+	<updated>2015-09-30T10:49:43+00:00</updated>
+	<author><name>Avocaat</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-09-30T10:49:43+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-30:/10692</id>
+	<link href="https://storify.com/theotix/stop-le-rtfm-et-appliquez-cette-philosophie-de-par" rel="alternate" type="text/html"/>
+	<title type="html">Stop le RTFM et appliquez cette philosophie de partage propre à l'Internet comme on l'aime tant (with tweets) · theotix · Storify</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-09-30T20:28:33+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-09-30T20:28:33+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-30:/10550</id>
@@ -1321,46 +1356,6 @@ This will always be my favorite gifset. Ever.]]></summary>
 		<link rel="self" href="http://www.viedemerde.fr"/>
 		<updated>2015-09-21T21:25:42+00:00</updated>
 		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-24:/9488</id>
-	<link href="http://mememaster.tumblr.com/post/129773784699" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[  ]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/8959af8af2236d822ca4a4c9b38174a2/tumblr_mkz98cO1YI1s88gmbo2_500.jpg"><br><br><img src="http://41.media.tumblr.com/71c8a9940b67ea9f5e536fab9a9c8e89/tumblr_mkz98cO1YI1s88gmbo1_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-09-24T11:51:50+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-24T11:51:50+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-23:/9085</id>
-	<link href="http://secouchermoinsbete.fr/64982-connaissez-vous-la-spirale-de-la-mort-de-la-fourmi" rel="alternate" type="text/html"/>
-	<title type="html">Connaissez-vous la spirale de la mort de la fourmi ?</title>
-	<summary type="html"><![CDATA[Oh mince &nbsp;° °(Permalink)]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Oh mince &nbsp;&deg; &deg;<br>(<a href="http://sebsauvage.net/links/?m5QagQ" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
-]]></content>
-	<updated>2015-09-21T08:36:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://sebsauvage.net/links/</id>
-		<link rel="self" href="http://sebsauvage.net/links/"/>
-		<updated>2015-09-21T08:36:01+00:00</updated>
-		<title>Liens en vrac de sebsauvage</title></source>
-
-	<category term="science"/>
-
-	<category term="nature"/>
 
 
 </entry>
