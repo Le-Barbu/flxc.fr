@@ -4,11 +4,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-21T21:25:42+00:00</updated>
+<updated>2015-09-21T16:38:14+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-30:/10500</id>
+	<link href="https://media.suumitsu.eu/?file=Last%20Week%20Tonight/Last%20Week%20Tonight%20with%20John%20Oliver-%20Migrants%20and%20Refugees%20(HBO).webm&amp;sort=asc" rel="alternate" type="text/html"/>
+	<title type="html">Mitsu'Media – Last Week Tonight/Migrants and Refugees</title>
+	<summary type="html"><![CDATA[C'est in English mais JE RECOMMANDE TRÈS TRÈS CHAUDEMENT(Permalink)]]></summary>
+	<content type="html"><![CDATA[<html><body><p>C'est in English mais JE RECOMMANDE TR&Egrave;S TR&Egrave;S CHAUDEMENT<br>(<a href="https,%20https://suumitsu.eu/links/?bq8NYQ" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-09-29T20:11:21+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://suumitsu.eu/links/</id>
+		<link rel="self" href="https://suumitsu.eu/links/"/>
+		<updated>2015-09-29T20:11:21+00:00</updated>
+		<title>Mitsu'liens</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-09-30:/10514</id>
+	<link href="http://www.viedemerde.fr/sexe/8622808" rel="alternate" type="text/html"/>
+	<title type="html">ainos a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, j'ai demandé à mon homme de faire les courses. Pour pimenter nos ébats en prévision d'u...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, j'ai demand&eacute; &agrave; mon homme de faire les courses. Pour pimenter nos &eacute;bats en pr&eacute;vision d'une nuit coquine, je lui ai demand&eacute; d'acheter du Nutella et de la cr&egrave;me Chantilly. Il pr&eacute;tend qu'il n'a pas trouv&eacute; et &agrave; la place, il a ramen&eacute; de la moutarde. VDM</p></body></html>
+]]></content>
+	<updated>2015-09-29T19:15:25+00:00</updated>
+	<author><name>ainos</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-09-29T19:15:25+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-30:/10509</id>
@@ -1319,42 +1355,6 @@ This will always be my favorite gifset. Ever.]]></summary>
 		<id>http://www.viedemerde.fr</id>
 		<link rel="self" href="http://www.viedemerde.fr"/>
 		<updated>2015-09-21T16:38:14+00:00</updated>
-		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-23:/9041</id>
-	<link href="http://www.viedemerde.fr/inclassable/8619795" rel="alternate" type="text/html"/>
-	<title type="html">Anonyme a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, ma nouvelle colocataire, avec qui j'habite depuis une semaine, vient de mettre une cass...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, ma nouvelle colocataire, avec qui j'habite depuis une semaine, vient de mettre une casserole au micro-ondes. J'ai peur pour la suite. VDM</p></body></html>
-]]></content>
-	<updated>2015-09-21T20:07:40+00:00</updated>
-	<author><name>Anonyme</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-09-21T20:07:40+00:00</updated>
-		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-23:/9040</id>
-	<link href="http://www.viedemerde.fr/travail/8619838" rel="alternate" type="text/html"/>
-	<title type="html">gommettes et coloriage a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, nouveau directeur financier dans ma boîte. En comité de direction, le PDG fait un tour ...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, nouveau directeur financier dans ma bo&icirc;te. En comit&eacute; de direction, le PDG fait un tour de table pour pr&eacute;senter chacun d'entre nous. Arriv&eacute; a mon tour, il h&eacute;site et finit par dire : "Euh et donc Estelle g&egrave;re notamment les cartes de visite." Je suis directrice marketing. VDM</p></body></html>
-]]></content>
-	<updated>2015-09-21T21:25:42+00:00</updated>
-	<author><name>gommettes et coloriage</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-09-21T21:25:42+00:00</updated>
 		<title>Vie de merde</title></source>
 
 
