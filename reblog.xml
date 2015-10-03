@@ -4,11 +4,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-20T21:14:08+00:00</updated>
+<updated>2015-09-20T15:08:18+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-03:/11014</id>
+	<link href="http://danstonchat.com/16851.html" rel="alternate" type="text/html"/>
+	<title type="html">DansTonChat #16851</title>
+	<summary type="html"><![CDATA[trolklas: Bordieux, les brony gagnent du terrain de jour en jour...trolklas: Mon frère sort avec une...]]></summary>
+	<content type="html"><![CDATA[<html><body><span>trolklas:</span> Bordieux, les brony gagnent du terrain de jour en jour...<br><span>trolklas:</span> Mon fr&egrave;re sort avec une bronie<br><span>trolklas:</span> Une fille dans ma classe est une brony<br><span>trolklas:</span> Mon meilleur pote de WoW est un brony<br><span>vavadario:</span> ...alors juuuustement, tant qu'on en parle....<br><span>trolklas:</span> Ah bordel...</body></html>
+]]></content>
+	<updated>2015-10-03T15:09:34+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://danstonchat.com/</id>
+		<link rel="self" href="http://danstonchat.com/"/>
+		<updated>2015-10-03T15:09:34+00:00</updated>
+		<title>DansTonChat</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-03:/11062</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/130407197203" rel="alternate" type="text/html"/>
+	<title type="html">by Heck If I Know Comics</title>
+	<summary type="html"><![CDATA[by Heck If I Know Comics]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/ad5447707ba6ea7945579369f081fc39/tumblr_nvm4tsCBnV1uqooxso1_500.png"><br><br><p>by <a href="http://heckifiknowcomics.tumblr.com/post/130404243859" target="_blank" rel="noreferrer">Heck If I Know Comics</a></p></body></html>
+]]></content>
+	<updated>2015-10-03T15:40:59+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-03T15:40:59+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-03:/11004</id>
@@ -1328,42 +1364,6 @@ I hit words at random on iOS 8’s new predictive text feature so I could see wh
 		<link rel="self" href="https://suumitsu.eu/links/"/>
 		<updated>2015-09-20T15:08:18+00:00</updated>
 		<title>Mitsu'liens</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-20:/8834</id>
-	<link href="http://www.viedemerde.fr/inclassable/8618970" rel="alternate" type="text/html"/>
-	<title type="html">Ricky2000 a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, vivant dans une colocation de "no life" restant constamment enfermés dans leur chambre,...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, vivant dans une colocation de "no life" restant constamment enferm&eacute;s dans leur chambre, j'ai voulu vivifier l'ambiance et le contact humain en pr&eacute;parant des p&acirc;tes bolognaise de ma composition. Je les sers, ils ont pris leur assiette et sont partis la manger dans leur chambre. VDM</p></body></html>
-]]></content>
-	<updated>2015-09-19T19:25:14+00:00</updated>
-	<author><name>Ricky2000</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-09-19T19:25:14+00:00</updated>
-		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-20:/8847</id>
-	<link href="http://danstonchat.com/16813.html" rel="alternate" type="text/html"/>
-	<title type="html">DansTonChat #16813</title>
-	<summary type="html"><![CDATA[Celuui: Je sais que c&#039;est incompréhensible pour toi mais l&#039;essentiel c&#039;est que tu me ...]]></summary>
-	<content type="html"><![CDATA[<html><body><span>Celuui:</span> Je sais que c'est incompr&eacute;hensible pour toi mais l'essentiel c'est que tu me comprennes!</body></html>
-]]></content>
-	<updated>2015-09-20T21:14:08+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://danstonchat.com/</id>
-		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-20T21:14:08+00:00</updated>
-		<title>DansTonChat</title></source>
 
 
 </entry>
