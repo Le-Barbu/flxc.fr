@@ -4,11 +4,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-21T16:38:14+00:00</updated>
+<updated>2015-09-20T21:14:08+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-03:/11004</id>
+	<link href="http://www.youtube.com/watch?v=q6Clx2v7mto" rel="alternate" type="text/html"/>
+	<title type="html">Les préliminaires - Palmashow</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-03T14:57:42+00:00</updated>
+	<author><name>Palmashow</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCoZoRz4-y6r87ptDp4Jk74g</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCoZoRz4-y6r87ptDp4Jk74g"/>
+		<updated>2015-10-03T14:57:42+00:00</updated>
+		<title>Palmashow</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/q6Clx2v7mto?version=3"/>
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-01:/10762</id>
+	<link href="http://www.youtube.com/watch?v=0ZmPTel8BJk" rel="alternate" type="text/html"/>
+	<title type="html">Tu veux danser le moonwalk avec Ménard ? #DansTonFlux 49</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-01T10:25:46+00:00</updated>
+	<author><name>Dans Ton Flux</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCARLZnOtuJnFoX84i8Cli7w</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCARLZnOtuJnFoX84i8Cli7w"/>
+		<updated>2015-10-01T10:25:46+00:00</updated>
+		<title>Dans Ton Flux</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/0ZmPTel8BJk?version=3"/>
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-01:/10726</id>
+	<link href="http://www.youtube.com/watch?v=Wikl6tJEPh0" rel="alternate" type="text/html"/>
+	<title type="html">The White Knight - Cyanide &amp; Happiness Shorts</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-01T10:20:50+00:00</updated>
+	<author><name>ExplosmEntertainment</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw"/>
+		<updated>2015-10-01T10:20:50+00:00</updated>
+		<title>ExplosmEntertainment</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/Wikl6tJEPh0?version=3"/>
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-02:/10796</id>
+	<link href="http://www.explosm.net/comics/4073/" rel="alternate" type="text/html"/>
+	<title type="html">Comic for 2015.10.02</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="//files.explosm.net/comics/Dave/funfactyay.png"></body></html>
+]]></content>
+	<updated>2015-10-02T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.explosm.net/rss.php</id>
+		<link rel="self" href="http://www.explosm.net/rss.php"/>
+		<updated>2015-10-02T05:00:00+00:00</updated>
+		<title>Explosm.net</title></source>
+
+	<category term="comics"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-09-30:/10500</id>
@@ -1278,84 +1364,6 @@ I hit words at random on iOS 8’s new predictive text feature so I could see wh
 		<link rel="self" href="http://danstonchat.com/"/>
 		<updated>2015-09-20T21:14:08+00:00</updated>
 		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-20:/8889</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/129466419841" rel="alternate" type="text/html"/>
-	<title type="html">(photo via imgur)</title>
-	<summary type="html"><![CDATA[(photo via imgur)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/ea7a3b6a63567d126d0a40cf95e0a741/tumblr_nuyhnzSJPS1qewacoo1_r1_500.jpg"><br><br><p>(photo via <a href="http://imgur.com/us3qevc" target="_blank" rel="noreferrer">imgur</a>)</p></body></html>
-]]></content>
-	<updated>2015-09-20T04:00:25+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-20T04:00:25+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-20:/8884</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/129516184288" rel="alternate" type="text/html"/>
-	<title type="html">by Whomp Comic</title>
-	<summary type="html"><![CDATA[   by Whomp Comic]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/2ca502f2b1937e570a2f1d9c4e219ce6/tumblr_nuzspulnIy1qewacoo2_500.jpg"><br><br><img src="http://41.media.tumblr.com/cd2a8d8ded38825c4860f37832b982c5/tumblr_nuzspulnIy1qewacoo3_500.jpg"><br><br><img src="http://36.media.tumblr.com/fe84fc378015cb90601d8a1585661059/tumblr_nuzspulnIy1qewacoo1_500.jpg"><br><br><p>by <a href="http://whompcomic.com/patreon-bonus-comics" target="_blank" rel="noreferrer">Whomp Comic</a></p></body></html>
-]]></content>
-	<updated>2015-09-20T20:25:06+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-20T20:25:06+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-23:/8982</id>
-	<link href="http://mememaster.tumblr.com/post/129682630374" rel="alternate" type="text/html"/>
-	<title type="html">laterovaries:
-
-This will always be my favorite gifset. Ever.</title>
-	<summary type="html"><![CDATA[          laterovaries:
-
-This will always be my favorite gifset. Ever.]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://31.media.tumblr.com/014291cda1028ca6deae17c4be12dffc/tumblr_n1o8syBmjG1ro2waeo1_250.gif"><br><br><img src="http://31.media.tumblr.com/be449d61fa3d88058c478f57f7628345/tumblr_n1o8syBmjG1ro2waeo2_250.gif"><br><br><img src="http://38.media.tumblr.com/7e9d28a314f94d9e8505b0193543b536/tumblr_n1o8syBmjG1ro2waeo3_250.gif"><br><br><img src="http://38.media.tumblr.com/4a466409a7b2ae9618c83f5a92bfc004/tumblr_n1o8syBmjG1ro2waeo4_250.gif"><br><br><img src="http://38.media.tumblr.com/5d69e18f540bcbfdcb3a10480bd9ee28/tumblr_n1o8syBmjG1ro2waeo5_r1_250.gif"><br><br><img src="http://33.media.tumblr.com/3213d553118a7ba826e43ecb0ee43553/tumblr_n1o8syBmjG1ro2waeo6_r1_250.gif"><br><br><img src="http://38.media.tumblr.com/cfe42ec2dc4ec7efc9a291ca2fb72400/tumblr_n1o8syBmjG1ro2waeo7_r1_250.gif"><br><br><img src="http://31.media.tumblr.com/f2093e44169705636faf4698bcbfe209/tumblr_n1o8syBmjG1ro2waeo8_r1_250.gif"><br><br><img src="http://31.media.tumblr.com/9df108232c95ec0891d4dbea112856b4/tumblr_n1o8syBmjG1ro2waeo9_r1_250.gif"><br><br><img src="http://33.media.tumblr.com/605b54e70b5ea7c549297398f81cc941/tumblr_n1o8syBmjG1ro2waeo10_r1_250.gif"><br><br><p><a href="http://laterovaries.tumblr.com/post/95345502057/this-will-always-be-my-favorite-gifset-ever" target="_blank" rel="noreferrer">laterovaries</a>:</p>
-
-<blockquote><p>This will always be my favorite gifset. Ever.</p></blockquote></body></html>
-]]></content>
-	<updated>2015-09-23T02:26:39+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-23T02:26:39+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-23:/9042</id>
-	<link href="http://www.viedemerde.fr/travail/8619679" rel="alternate" type="text/html"/>
-	<title type="html">Anonyme a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, une collègue avec qui je plaisante constamment me demande par mail un renseignement trè...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, une coll&egrave;gue avec qui je plaisante constamment me demande par mail un renseignement tr&egrave;s urgent. Je r&eacute;ponds : "OK, mais une petite pipe avant !!" Elle venait de terminer une pr&eacute;sentation en r&eacute;union pl&eacute;ni&egrave;re et son &eacute;cran d'ordinateur &eacute;tait diffus&eacute; sur &eacute;cran g&eacute;ant. VDM</p></body></html>
-]]></content>
-	<updated>2015-09-21T16:38:14+00:00</updated>
-	<author><name>Anonyme</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-09-21T16:38:14+00:00</updated>
-		<title>Vie de merde</title></source>
 
 
 </entry>
