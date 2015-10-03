@@ -4,11 +4,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-25T22:14:58+00:00</updated>
+<updated>2015-09-26T12:06:07+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-01:/10712</id>
+	<link href="http://www.blaguesdemerde.fr/blague/426702/si-zorro-aurait-eu-un-telephone-il-y-aurait-appele" rel="alternate" type="text/html"/>
+	<title type="html">si-zorro-aurait-eu-un-telephone-il-y-aurait-appele</title>
+	<summary type="html"><![CDATA[Si Zorro aurait eu un téléphone il y aurait appelé en numéro masqué !]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Si Zorro aurait eu un t&eacute;l&eacute;phone il y aurait appel&eacute; en num&eacute;ro masqu&eacute; !</p></body></html>
+]]></content>
+	<updated>2015-10-01T00:00:00+00:00</updated>
+	<author><name>Michel</name></author>
+	<source>
+		<id>http://www.blaguesdemerde.fr//</id>
+		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
+		<updated>2015-10-01T00:00:00+00:00</updated>
+		<title>blaguesdemerde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-01:/10741</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/130231018263" rel="alternate" type="text/html"/>
+	<title type="html">hobolunchbox:
+
+Survey says!</title>
+	<summary type="html"><![CDATA[    hobolunchbox:
+
+Survey says!
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://31.media.tumblr.com/c4442f40a183200433a5597216fb5f59/tumblr_mfvu16ORl01ry46hlo1_250.gif"><br><br><img src="http://38.media.tumblr.com/c47f575135565bb30cd4666557c8d6bd/tumblr_mfvu16ORl01ry46hlo2_250.gif"><br><br><img src="http://33.media.tumblr.com/f6fd58de2565364ca98578ef7f5e1967/tumblr_mfvu16ORl01ry46hlo3_250.gif"><br><br><img src="http://38.media.tumblr.com/d625017c3715452627e3dd6fd5d4fa8e/tumblr_mfvu16ORl01ry46hlo4_250.gif"><br><br><p><a href="http://hobolunchbox.tumblr.com/post/39287270505" target="_blank" rel="noreferrer">hobolunchbox</a>:</p>
+<blockquote>
+<p>Survey says!</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-09-30T23:19:56+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-09-30T23:19:56+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-01:/10739</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/130234110054" rel="alternate" type="text/html"/>
+	<title type="html">Breaking Bus (photo by OthelloMon)</title>
+	<summary type="html"><![CDATA[Breaking Bus (photo by OthelloMon)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/e1fdb3e4cb96e4817818ca4c427841a4/tumblr_nvikskzacL1qewacoo1_500.jpg"><br><br><p><i>Breaking Bus</i> (photo by <a href="https://www.reddit.com/user/OthelloMon" target="_blank" rel="noreferrer">OthelloMon</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-01T00:15:35+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-01T00:15:35+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+	<category term="breaking bad"/>
+
+	<category term="walter white"/>
+
+	<category term="heisenberg"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-02:/10803</id>
+	<link href="http://www.viedemerde.fr/sante/8623489" rel="alternate" type="text/html"/>
+	<title type="html">PZORRO a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, je suis en arrêt de travail suite à un voyage au Burkina Faso où j'ai contracté une mal...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je suis en arr&ecirc;t de travail suite &agrave; un voyage au Burkina Faso o&ugrave; j'ai contract&eacute; une maladie a&eacute;roport&eacute;e. J'ai encore du mal &agrave; savoir comment je vais expliquer &agrave; mon chef que j'ai une fi&egrave;vre Q et qu'elle est transmise g&eacute;n&eacute;ralement lorsqu'on est en contact avec des ch&egrave;vres. VDM</p></body></html>
+]]></content>
+	<updated>2015-10-01T17:17:43+00:00</updated>
+	<author><name>PZORRO</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-10-01T17:17:43+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-03:/10870</id>
@@ -1297,118 +1383,6 @@ Hello? 911? I just witnessed a murder.
 		<link rel="self" href="http://danstonchat.com/"/>
 		<updated>2015-09-26T12:06:07+00:00</updated>
 		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-26:/9808</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/129845959783" rel="alternate" type="text/html"/>
-	<title type="html">lolneincom:
-
-Stylus vs Ball...</title>
-	<summary type="html"><![CDATA[lolneincom:
-
-Stylus vs Ball Penhttp://lolnein.com/2015/09/25/stylusvsballpen/]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://31.media.tumblr.com/f4cf489060cea5128900bd50860174aa/tumblr_nv8g6xRZ2P1sos57no1_500.gif"><br><br><p><a href="http://lolneincom.tumblr.com/post/129842808103/stylus-vs-ball-pen" target="_blank" rel="noreferrer">lolneincom</a>:</p>
-
-<blockquote><p>Stylus vs Ball Pen</p><p><a href="http://lolnein.com/2015/09/25/stylusvsballpen/" target="_blank" rel="noreferrer">http://lolnein.com/2015/09/25/stylusvsballpen/</a></p></blockquote></body></html>
-]]></content>
-	<updated>2015-09-25T13:52:38+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-25T13:52:38+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-26:/9804</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/129853971603" rel="alternate" type="text/html"/>
-	<title type="html">obviousplant:
-
-I updated Home Depot’s in-store Toilet Repair...</title>
-	<summary type="html"><![CDATA[  obviousplant:
-
-I updated Home Depot’s in-store Toilet Repair Solutions guide. See it compared to t...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/c3fa1bea5309e91eac8fb7aca71471f5/tumblr_nv8q7ucNtE1u53c30o2_500.jpg"><br><br><img src="http://41.media.tumblr.com/4fe732f6cfb3887c2b23cf31da14b985/tumblr_nv8q7ucNtE1u53c30o1_500.jpg"><br><br><p><a href="http://obviousplant.tumblr.com/post/129852340538" target="_blank" rel="noreferrer">obviousplant</a>:</p>
-<blockquote>
-<p>I updated Home Depot&rsquo;s in-store Toilet Repair Solutions guide. See it compared to the real one <a href="http://bit.ly/1YFCZkl" target="_blank" rel="noreferrer">on Instagram</a>.</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-25T16:42:56+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-25T16:42:56+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-26:/9834</id>
-	<link href="http://mememaster.tumblr.com/post/129866733079" rel="alternate" type="text/html"/>
-	<title type="html">debthaver:
-
-un-neofriended:
-
-Someone please quickly explain baby clothing sizes to me 
-
-baby clothes...</title>
-	<summary type="html"><![CDATA[debthaver:
-
-un-neofriended:
-
-Someone please quickly explain baby clothing sizes to me 
-
-baby clothes...]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://debthaver.tumblr.com/post/129447459157" target="_blank" rel="noreferrer">debthaver</a>:</p>
-<blockquote>
-<p><a href="http://un-neofriended.tumblr.com/post/129447425952" target="_blank" rel="noreferrer">un-neofriended</a>:</p>
-<blockquote>
-<p>Someone please quickly explain baby clothing sizes to me </p>
-</blockquote>
-<p>baby clothes are smaller than most adult or even childrens clothes. i hope this helps</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-25T20:37:55+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-25T20:37:55+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-26:/9829</id>
-	<link href="http://mememaster.tumblr.com/post/129872598529" rel="alternate" type="text/html"/>
-	<title type="html">raptorific:
-
-I hit words at random on iOS 8’s new predictive text feature so I could see what type...</title>
-	<summary type="html"><![CDATA[raptorific:
-
-I hit words at random on iOS 8’s new predictive text feature so I could see what type o...]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://raptorific.tumblr.com/post/97912700106" target="_blank" rel="noreferrer">raptorific</a>:</p>
-<blockquote>
-<p>I hit words at random on iOS 8&rsquo;s new predictive text feature so I could see what type of sentence my phone thinks I&rsquo;m likely to say, and</p>
-<p><img alt="image" src="http://33.media.tumblr.com/3a7a7453e243a723309e25522628b4ec/tumblr_inline_nc62cn7nsx1qglqe6.jpg"></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-25T22:14:58+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-25T22:14:58+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
