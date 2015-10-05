@@ -4,11 +4,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-27T04:25:20+00:00</updated>
+<updated>2015-09-27T01:52:54+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-05:/11487</id>
+	<link href="http://www.labandepasdessinee.com/bpd/336-qui" rel="alternate" type="text/html"/>
+	<title type="html">La Bande Pas Dessinée » 336 - Qui ?</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-05T20:18:50+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-10-05T20:18:50+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-05:/11485</id>
+	<link href="http://www.labandepasdessinee.com/bpd/327-cru" rel="alternate" type="text/html"/>
+	<title type="html">La Bande Pas Dessinée » 327 - Cru</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-05T20:11:36+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-10-05T20:11:36+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-05:/11470</id>
@@ -1377,59 +1411,6 @@ DOG GHOST COMIC PART 1 / 2
 		<id>http://mememaster.tumblr.com/</id>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-09-27T01:52:54+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-27:/9989</id>
-	<link href="http://mememaster.tumblr.com/post/129960287319" rel="alternate" type="text/html"/>
-	<title type="html">captioned-vines:
-
-weloveshortvideos:
-
-The appropriate gift for...</title>
-	<summary type="html"><![CDATA[captioned-vines:
-
-weloveshortvideos:
-
-The appropriate gift for someone you care about
-
-Child: “I car...]]></summary>
-	<content type="html"><![CDATA[<html><body><br><br><p><a href="http://captioned-vines.tumblr.com/post/129959692659" target="_blank" rel="noreferrer">captioned-vines</a>:</p>
-<blockquote>
-<p><a href="http://weloveshortvideos.tumblr.com/post/104038907614" target="_blank" rel="noreferrer">weloveshortvideos</a>:</p>
-<blockquote>
-<p>The appropriate gift for someone you care about</p>
-</blockquote>
-<p>Child:&nbsp;&ldquo;I care about you. Here&rsquo;s some pinecones on a stick. Uh, they&rsquo;re lovely.&rdquo;</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-27T03:34:54+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-27T03:34:54+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-27:/9982</id>
-	<link href="http://mememaster.tumblr.com/post/129963115564" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[  ]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/eecf48a8931424fe6b17d479670d786f/tumblr_nt331vbinH1r3i2kko1_500.jpg"><br><br><img src="http://38.media.tumblr.com/7336fff8fe2098c224f777216d3e7426/tumblr_nt331vbinH1r3i2kko2_500.gif"><br><br></body></html>
-]]></content>
-	<updated>2015-09-27T04:25:20+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-27T04:25:20+00:00</updated>
 		<title>Comedy Blog</title></source>
 
 
