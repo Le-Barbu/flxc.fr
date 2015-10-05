@@ -4,11 +4,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-26T12:29:35+00:00</updated>
+<updated>2015-09-25T14:56:23+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-05:/11275</id>
+	<link href="http://www.labandepasdessinee.com/bpd/65-indiscretion" rel="alternate" type="text/html"/>
+	<title type="html">La Bande Pas Dessinée » 65 - Indiscrétion</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-05T15:26:53+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-10-05T15:26:53+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-03:/11144</id>
@@ -130,7 +147,7 @@ Ce sch&eacute;ma implique non seulement que l&rsquo;annonceur passe par une agen
 	<content type="html"><![CDATA[<html><body><p>Si Zorro aurait eu un t&eacute;l&eacute;phone il y aurait appel&eacute; en num&eacute;ro masqu&eacute; !</p></body></html>
 ]]></content>
 	<updated>2015-10-01T00:00:00+00:00</updated>
-	<author><name>Michel</name></author>
+	<author><name></name></author>
 	<source>
 		<id>http://www.blaguesdemerde.fr//</id>
 		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
@@ -1433,32 +1450,6 @@ Un petit focus sur 3 &eacute;l&eacute;ments principaux. Sous-titres fran&ccedil;
 	<category term="fb"/>
 
 	<category term="fs"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-26:/9884</id>
-	<link href="http://mememaster.tumblr.com/post/129909514109" rel="alternate" type="text/html"/>
-	<title type="html">captaincasualty:
-
-Hello? 911? I just witnessed a murder.</title>
-	<summary type="html"><![CDATA[captaincasualty:
-
-Hello? 911? I just witnessed a murder.
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/tumblr_m9ziv3bdH91qewacoo1_500.jpg"><br><br><p><a href="http://captaincasualty.tumblr.com/post/128173302587" target="_blank" rel="noreferrer">captaincasualty</a>:</p>
-<blockquote>
-<p>Hello? 911? I just witnessed a murder.</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-26T12:29:35+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-26T12:29:35+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
