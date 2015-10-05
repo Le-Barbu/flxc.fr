@@ -4,11 +4,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-25T14:56:23+00:00</updated>
+<updated>2015-09-27T04:25:20+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-05:/11470</id>
+	<link href="http://www.labandepasdessinee.com/bpd/254-decouverte" rel="alternate" type="text/html"/>
+	<title type="html">La Bande Pas Dessinée » 254 - Découverte</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-05T19:34:52+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-10-05T19:34:52+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-05:/11457</id>
+	<link href="http://www.labandepasdessinee.com/bpd/114-complexe" rel="alternate" type="text/html"/>
+	<title type="html">La Bande Pas Dessinée » 114 - Complexe</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-05T19:33:38+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-10-05T19:33:38+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-05:/11446</id>
+	<link href="http://www.labandepasdessinee.com/bpd/108-attachement" rel="alternate" type="text/html"/>
+	<title type="html">La Bande Pas Dessinée » 108 - Attachement</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-05T19:31:49+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-10-05T19:31:49+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-05:/11275</id>
@@ -1380,76 +1431,6 @@ Child: “I car...]]></summary>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-09-27T04:25:20+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-26:/9736</id>
-	<link href="http://www.explosm.net/comics/4068/" rel="alternate" type="text/html"/>
-	<title type="html">Comic for 2015.09.26</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="//files.explosm.net/comics/Rob/knife-in-your-pants.png"></body></html>
-]]></content>
-	<updated>2015-09-26T05:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.explosm.net/rss.php</id>
-		<link rel="self" href="http://www.explosm.net/rss.php"/>
-		<updated>2015-09-26T05:00:00+00:00</updated>
-		<title>Explosm.net</title></source>
-
-	<category term="comics"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-26:/9751</id>
-	<link href="http://www.youtube.com/watch?v=qIM0kucdiGM" rel="alternate" type="text/html"/>
-	<title type="html">La hotline - Palmashow</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-09-26T12:05:49+00:00</updated>
-	<author><name>Palmashow</name></author>
-	<source>
-		<id>http://www.youtube.com/channel/UCoZoRz4-y6r87ptDp4Jk74g</id>
-		<link rel="self" href="http://www.youtube.com/channel/UCoZoRz4-y6r87ptDp4Jk74g"/>
-		<updated>2015-09-26T12:05:49+00:00</updated>
-		<title>Palmashow</title></source>
-
-
-	<link rel="enclosure" 
-		type="application/x-shockwave-flash" 
-		length="1"
-		href="https://www.youtube.com/v/qIM0kucdiGM?version=3"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-26:/9743</id>
-	<link href="https://www.youtube.com/watch?v=mKTORFmMycQ" rel="alternate" type="text/html"/>
-	<title type="html">eTalks - The Secrets of Food Marketing - YouTube</title>
-	<summary type="html"><![CDATA[Comment le marketing arrive à faire oublier la réalité de l'élevage intensif ?
-
-Un petit focus sur 3...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Comment le marketing arrive &agrave; faire oublier la r&eacute;alit&eacute; de l'&eacute;levage intensif ?<br><br>
-Un petit focus sur 3 &eacute;l&eacute;ments principaux. Sous-titres fran&ccedil;ais disponibles.<br><br>
-(alors, oui, c'est une vid&eacute;o sc&eacute;naris&eacute;e, mais c'est pas le propos)<br><br>
-(et oui, c'est une vid&eacute;o welfariste)<br><br>
-(via DM)<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?Org3og" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
-]]></content>
-	<updated>2015-09-25T14:56:23+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.mypersonnaldata.eu/shaarli/</id>
-		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
-		<updated>2015-09-25T14:56:23+00:00</updated>
-		<title>Les liens de Kevin Merigot</title></source>
-
-	<category term="fb"/>
-
-	<category term="fs"/>
 
 
 </entry>
