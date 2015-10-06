@@ -4,11 +4,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-27T01:52:54+00:00</updated>
+<updated>2015-09-26T22:15:13+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-05:/11489</id>
+	<link href="http://www.labandepasdessinee.com/bpd/389-rancune" rel="alternate" type="text/html"/>
+	<title type="html">La Bande Pas Dessinée » 389 - Rancune</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-05T20:45:58+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-10-05T20:45:58+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-05:/11487</id>
@@ -232,7 +249,7 @@ Ce sch&eacute;ma implique non seulement que l&rsquo;annonceur passe par une agen
 	<content type="html"><![CDATA[<html><body><p>Si Zorro aurait eu un t&eacute;l&eacute;phone il y aurait appel&eacute; en num&eacute;ro masqu&eacute; !</p></body></html>
 ]]></content>
 	<updated>2015-10-01T00:00:00+00:00</updated>
-	<author><name></name></author>
+	<author><name>Michel</name></author>
 	<source>
 		<id>http://www.blaguesdemerde.fr//</id>
 		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
@@ -1394,24 +1411,6 @@ DOG GHOST COMIC PART 1 / 2
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-09-26T22:15:13+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-27:/9999</id>
-	<link href="http://mememaster.tumblr.com/post/129954557654" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/38fb28000e736bf866bd0673cfa79fe7/tumblr_n46bho8NZD1sie0t3o1_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-09-27T01:52:54+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-27T01:52:54+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
