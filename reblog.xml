@@ -4,11 +4,407 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-11T22:11:36+00:00</updated>
+<updated>2015-09-29T22:30:13+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-06:/11602</id>
+	<link href="http://www.explosm.net/comics/4078/" rel="alternate" type="text/html"/>
+	<title type="html">Comic for 2015.10.06</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="//files.explosm.net/comics/Rob/going-to-be-a-dad2.png"></body></html>
+]]></content>
+	<updated>2015-10-06T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.explosm.net/rss.php</id>
+		<link rel="self" href="http://www.explosm.net/rss.php"/>
+		<updated>2015-10-06T05:00:00+00:00</updated>
+		<title>Explosm.net</title></source>
+
+	<category term="comics"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-03:/11136</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/130425550203" rel="alternate" type="text/html"/>
+	<title type="html">mynameisdevon:
+
+submariet:
+
+lntruding:
+
+ soviet russian grandma...</title>
+	<summary type="html"><![CDATA[mynameisdevon:
+
+submariet:
+
+lntruding:
+
+ soviet russian grandma cats complaining about their grandch...]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/5510536590215515c7024d767f350592/tumblr_mxs5ftlKRY1sj8e1io1_500.jpg"><br><br><p><a href="http://mynameisdevon.tumblr.com/post/99271515474" target="_blank" rel="noreferrer">mynameisdevon</a>:</p>
+<blockquote>
+<p><a href="http://submariet.tumblr.com/post/79217556632" target="_blank" rel="noreferrer">submariet</a>:</p>
+<blockquote>
+<p><a href="http://lntruding.tumblr.com/post/74683842775" target="_blank" rel="noreferrer">lntruding</a>:</p>
+<blockquote>
+<p>&nbsp;soviet russian grandma cats complaining about their grandchildren and swapping recipes</p>
+</blockquote>
+<p>THEY HAVE EAR HOLES let me die</p>
+</blockquote>
+<p>BABUSHKATS</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-10-03T20:45:10+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-03T20:45:10+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-04:/11170</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/130432492731" rel="alternate" type="text/html"/>
+	<title type="html">by It’s the Tie</title>
+	<summary type="html"><![CDATA[      by It’s the Tie]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/10234c0622e560b3a4911e0fce40414f/tumblr_nvo0o84Rjy1qewacoo4_500.png"><br><br><img src="http://40.media.tumblr.com/8819d7ba9d9a1f91fc7115924ba911cc/tumblr_nvo0o84Rjy1qewacoo5_500.png"><br><br><img src="http://41.media.tumblr.com/ad3f96c30b33335e41cc04acaa600ae2/tumblr_nvo0o84Rjy1qewacoo2_500.png"><br><br><img src="http://40.media.tumblr.com/12de296b9f4c4bee5b73fa2dd4c935f2/tumblr_nvo0o84Rjy1qewacoo1_500.png"><br><br><img src="http://40.media.tumblr.com/c4b9f3b522dea4114c6aaf4f94850313/tumblr_nvo0o84Rjy1qewacoo6_500.png"><br><br><img src="http://41.media.tumblr.com/cc930364d5fa8dc128022b63d09ade9a/tumblr_nvo0o84Rjy1qewacoo3_500.png"><br><br><p>by <a href="http://itsthetie.com/comic/adventures-of-god-2-2/" target="_blank" rel="noreferrer">It&rsquo;s the Tie</a></p></body></html>
+]]></content>
+	<updated>2015-10-03T22:40:32+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-03T22:40:32+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-04:/11207</id>
+	<link href="http://mememaster.tumblr.com/post/130469264449" rel="alternate" type="text/html"/>
+	<title type="html">speakintongueandcheek:
+
+shisnojon:
+
+heliolisk:
+
+any cookie is bite sized if you try hard...</title>
+	<summary type="html"><![CDATA[speakintongueandcheek:
+
+shisnojon:
+
+heliolisk:
+
+any cookie is bite sized if you try hard enough
+
+
+
+A...]]></summary>
+	<content type="html"><![CDATA[<html><body><p><a href="http://speakintongueandcheek.tumblr.com/post/66897805790" target="_blank" rel="noreferrer">speakintongueandcheek</a>:</p>
+<blockquote>
+<p><a href="http://shisnojon.tumblr.com/post/66890418578" target="_blank" rel="noreferrer">shisnojon</a>:</p>
+<blockquote>
+<p><a href="http://heliolisk.tumblr.com/post/66890160672" target="_blank" rel="noreferrer">heliolisk</a>:</p>
+<blockquote>
+<p>any cookie is bite sized if you try hard enough</p>
+</blockquote>
+<p><img alt="image" src="http://33.media.tumblr.com/e1889c523f25a8fef7dc4345b4b20d65/tumblr_inline_mw7ujfq9RU1ryu1ol.jpg"></p>
+</blockquote>
+<p><strong>ANY COOKIE IS BITE SIZED IF YOU TRY HARD ENOUGH</strong></p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-10-04T12:11:08+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-10-04T12:11:08+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-04:/11203</id>
+	<link href="http://mememaster.tumblr.com/post/130469650884" rel="alternate" type="text/html"/>
+	<title type="html">h0odrich:
+
+this looks like a man just got switched into a cats...</title>
+	<summary type="html"><![CDATA[  h0odrich:
+
+this looks like a man just got switched into a cats body and he’s having some self real...]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/cbed8722d19728f9cdc8e62b000aada0/tumblr_ndokk92AaF1rw1wnno1_400.gif"><br><br><img src="http://38.media.tumblr.com/698524d360bf6ecdb21c69bb25f6aed0/tumblr_ndokk92AaF1rw1wnno2_400.gif"><br><br><p><a href="http://h0odrich.tumblr.com/post/100435710967" target="_blank" rel="noreferrer">h0odrich</a>:</p>
+
+<blockquote><p>this looks like a man just got switched into a cats body and he&rsquo;s having some self realization of the situation and he&rsquo;s buggin</p></blockquote></body></html>
+]]></content>
+	<updated>2015-10-04T12:21:26+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-10-04T12:21:26+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-04:/11261</id>
+	<link href="http://mememaster.tumblr.com/post/130480159714" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://31.media.tumblr.com/c897d99c7d3aa53f47960fa230c76ebc/tumblr_n1ioyjTLW01tt9ejso1_250.gif"><br><br></body></html>
+]]></content>
+	<updated>2015-10-04T15:47:15+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-10-04T15:47:15+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-04:/11258</id>
+	<link href="http://mememaster.tumblr.com/post/130480292319" rel="alternate" type="text/html"/>
+	<title type="html">perfectly timed photos</title>
+	<summary type="html"><![CDATA[          perfectly timed photos]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/f8e0eff116be8957be952b9d2eeedda4/tumblr_nsgh1qurHr1rxe0y7o1_500.jpg"><br><br><img src="http://40.media.tumblr.com/6a1254c128f09040b80bac2cdfb86015/tumblr_nsgh1qurHr1rxe0y7o2_500.jpg"><br><br><img src="http://36.media.tumblr.com/3160ae3698a5dcfefe9e2fe0431b6030/tumblr_nsgh1qurHr1rxe0y7o3_500.jpg"><br><br><img src="http://41.media.tumblr.com/a9775784bb4d56833070cc92e6bfcfb5/tumblr_nsgh1qurHr1rxe0y7o4_500.jpg"><br><br><img src="http://40.media.tumblr.com/02dc133d35c856b0fe2a7e08486ab2bd/tumblr_nsgh1qurHr1rxe0y7o5_500.jpg"><br><br><img src="http://40.media.tumblr.com/8bae0f790cb90b0f59acad959ee315c4/tumblr_nsgh1qurHr1rxe0y7o6_500.jpg"><br><br><img src="http://36.media.tumblr.com/b814f2a8fd0941cfcc24db353cd0327a/tumblr_nsgh1qurHr1rxe0y7o7_500.jpg"><br><br><img src="http://41.media.tumblr.com/da50bd9d46c0be47f9b8f66fff1c7f5a/tumblr_nsgh1qurHr1rxe0y7o8_500.jpg"><br><br><img src="http://41.media.tumblr.com/0e855b6a90f8689845a12ed30beda039/tumblr_nsgh1qurHr1rxe0y7o9_500.jpg"><br><br><img src="http://41.media.tumblr.com/4361e5e991ac08d894978fca75391e17/tumblr_nsgh1qurHr1rxe0y7o10_500.jpg"><br><br><p>perfectly timed photos</p></body></html>
+]]></content>
+	<updated>2015-10-04T15:49:28+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-10-04T15:49:28+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-05:/11271</id>
+	<link href="http://danstonchat.com/16860.html" rel="alternate" type="text/html"/>
+	<title type="html">DansTonChat #16860</title>
+	<summary type="html"><![CDATA[OmegaSim : Bah, je suis encore un gosse à l&#039;intérieur et j&#039;assume !Sycareus : Ce qui est m...]]></summary>
+	<content type="html"><![CDATA[<html><body><span>OmegaSim :</span> Bah, je suis encore un gosse &agrave; l'int&eacute;rieur et j'assume !<br><span>Sycareus :</span> Ce qui est mieux qu'&ecirc;tre &agrave; l'int&eacute;rieur d'un gosse</body></html>
+]]></content>
+	<updated>2015-10-05T15:26:40+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://danstonchat.com/</id>
+		<link rel="self" href="http://danstonchat.com/"/>
+		<updated>2015-10-05T15:26:40+00:00</updated>
+		<title>DansTonChat</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-05:/11333</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/130485131138" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/4bd6a3490ec8de562ad716a7c20fdfdf/tumblr_nvmmz4XetF1qdrpsco1_500.jpg"><br><br></body></html>
+]]></content>
+	<updated>2015-10-04T17:04:42+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-04T17:04:42+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-05:/11330</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/130502092003" rel="alternate" type="text/html"/>
+	<title type="html">(photo by twelvecountries)</title>
+	<summary type="html"><![CDATA[(photo by twelvecountries)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/dcc8262a6516dc06dc1f359e8e1f094e/tumblr_nvps6yYFUu1qewacoo1_500.jpg"><br><br><p>(photo by <a href="https://www.reddit.com/user/twelvecountries" target="_blank" rel="noreferrer">twelvecountries</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-04T21:11:22+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-04T21:11:22+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-05:/11318</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/130553236793" rel="alternate" type="text/html"/>
+	<title type="html">Sleeping Sea Otter Gets a Rude Awakening in Alaska</title>
+	<summary type="html"><![CDATA[Sleeping Sea Otter Gets a Rude Awakening in Alaska]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/6f8ccaa45dd9675dc0f2a2f800425260/tumblr_nvq44j0nUl1tlb56zo1_400.gif"><br><br><p><a href="http://www.tastefullyoffensive.com/2015/10/sleeping-otter-gets-rude-awakening-in.html" target="_blank" rel="noreferrer">Sleeping Sea Otter Gets a Rude Awakening in Alaska</a></p></body></html>
+]]></content>
+	<updated>2015-10-05T15:32:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-05T15:32:01+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-05:/11390</id>
+	<link href="http://mememaster.tumblr.com/post/130524919054" rel="alternate" type="text/html"/>
+	<title type="html">freelance-honey-badger:
+
+peanutbutterandjeri:
+
+clientsfromhell:
+
+Me: “How can I help you today,...</title>
+	<summary type="html"><![CDATA[freelance-honey-badger:
+
+peanutbutterandjeri:
+
+clientsfromhell:
+
+Me: “How can I help you today, ma'a...]]></summary>
+	<content type="html"><![CDATA[<html><body><p><a href="http://freelance-honey-badger.tumblr.com/post/130477227626/peanutbutterandjeri-clientsfromhell-me-how" target="_blank" rel="noreferrer">freelance-honey-badger</a>:</p>
+
+<blockquote><p><a href="http://peanutbutterandjeri.tumblr.com/post/130176413980" target="_blank" rel="noreferrer">peanutbutterandjeri</a>:</p>
+<blockquote>
+<p><a href="http://clientsfromhell.tumblr.com/post/4963761018" target="_blank" rel="noreferrer">clientsfromhell</a>:</p>
+<blockquote>
+<p><strong>Me</strong>: &ldquo;How can I help you today, ma'am?&rdquo;<br><br><strong>Client</strong>: &ldquo;Is e-mail internet&rdquo;?<br><br><strong>Me</strong>: &ldquo;I beg your pardon?&rdquo;<br><br><strong>Client</strong>: &ldquo;Is e-mail on the internet? I have no internet, can I still read my e-mail?&rdquo;<br><br><strong>Me</strong>: &ldquo;Well yes, you must be able to get online to view your e-mail.&rdquo;<br><br><strong>Client</strong>: &ldquo;Oh, dear. I can&rsquo;t see my e-mail.&rdquo;<br><br><strong>Me</strong>: &ldquo;Well, let&rsquo;s see. Can you open up Internet Explorer for me and tell me what you see?&rdquo;<br><br><strong>Client</strong>: &ldquo;Open what?&rdquo;<br><br><strong>Me</strong>: &ldquo;Your browser, can you open up your browser?&rdquo;<br><br><strong>Client</strong>: &ldquo;My&hellip;my&hellip;?&rdquo;<br><br><strong>Me</strong>: &ldquo;What you click on when you want to browse the internet?&rdquo;<br><br><strong>Client</strong>: &ldquo;I don&rsquo;t use anything, I just turn my computer on, and it&rsquo;s there.&rdquo;<br><br><strong>Me</strong>: &ldquo;Okay. Do you see the little blue &lsquo;e&rsquo; icon on your desktop?&rdquo;<br><br><strong>Client</strong>: &ldquo;You mean I have to start writing letters again?&rdquo;<br><br><strong>Me</strong>: &ldquo;I&rsquo;m&hellip;what, I&rsquo;m sorry?&rdquo;<br><br><strong>Client</strong>: &ldquo;I don&rsquo;t have any pens at my desk. I just want my e-mail again.&rdquo;<br><br><strong>Me</strong>: &ldquo;No, ma'am, your desktop, on your computer screen. Can you click on the little blue &lsquo;e&rsquo; on your computer screen for me?&rdquo;<br><br><strong>Client</strong>: &ldquo;Oh, this is too much work. I&rsquo;m too upset. Just send me my e-mail. Can&rsquo;t you send me my e-mail?&rdquo;<br><br><strong>Me</strong>: &ldquo;We&hellip;okay, ma'am. Can you tell me what color the lights are on your router right now?&rdquo;<br><br><strong>Client</strong>: &ldquo;My what?&rdquo;<br><br><strong>Me</strong>: &ldquo;The little box with green or possibly a couple of red lights on it right now - it&rsquo;s most likely near your computer?&rdquo;</p>
+<p><strong>Client</strong>: &ldquo;Lights and boxes, boxes and lights, just get my e-mail for me.</p>
+<p><br><strong>Me</strong>: &ldquo;My test is showing that you should be able to get online right now. Can you tell me what you&rsquo;re seeing on your computer screen?&rdquo;<br><br><strong>Client</strong>: &ldquo;It&rsquo;s been the same thing for the last two hours.&rdquo;<br><br><strong>Me</strong>: &ldquo;An error message?&rdquo;<br><br><strong>Client</strong>: &ldquo;No, just stars. It&rsquo;s black and moving stars.&rdquo;<br><br><strong>Me</strong>: &ldquo;&hellip;Do you see your mouse next to your keyboard?&rdquo;<br><br><strong>Client</strong>: &ldquo;Yes.&rdquo;</p>
+<p><strong>Me</strong>: &ldquo;Move it for me.&rdquo;<br><br><strong>Client</strong>: &ldquo;Move it?&rdquo;<br><br><strong>Me</strong>: &ldquo;Yes. Move it.&rdquo;<br><br><strong>Client</strong>: &ldquo;My e-mail!&rdquo;</p>
+</blockquote>
+<p>WOW.</p>
+</blockquote>
+
+<p>My interactions with my coworkers almost everyday.</p></blockquote></body></html>
+]]></content>
+	<updated>2015-10-05T03:16:48+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-10-05T03:16:48+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-05:/11389</id>
+	<link href="http://mememaster.tumblr.com/post/130525788514" rel="alternate" type="text/html"/>
+	<title type="html">mystiquemonique:
+
+Realest comment I’ve ever seen</title>
+	<summary type="html"><![CDATA[  mystiquemonique:
+
+Realest comment I’ve ever seen
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/e70c40a3409234da8830bdd015ddf659/tumblr_nmb54p7q3M1r5yty8o1_500.jpg"><br><br><img src="http://40.media.tumblr.com/bd6420bd38804331da48e3b8ea605f00/tumblr_nmb54p7q3M1r5yty8o2_500.jpg"><br><br><p><a href="http://mystiquemonique.tumblr.com/post/115524755365" target="_blank" rel="noreferrer">mystiquemonique</a>:</p>
+<blockquote>
+<p>Realest comment I&rsquo;ve ever seen</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-10-05T03:30:10+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-10-05T03:30:10+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-05:/11384</id>
+	<link href="http://mememaster.tumblr.com/post/130526431334" rel="alternate" type="text/html"/>
+	<title type="html">thesochillnetwork:
+
+An attack on Titan</title>
+	<summary type="html"><![CDATA[thesochillnetwork:
+
+An attack on Titan
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://33.media.tumblr.com/31b71142e3b3176e1ed55ea0240debb7/tumblr_n8jyad36XS1qeablwo1_500.gif"><br><br><p><a href="http://thesochillnetwork.tumblr.com/post/91456086219" target="_blank" rel="noreferrer">thesochillnetwork</a>:</p>
+<blockquote>
+<p>An attack on Titan</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-10-05T03:40:07+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-10-05T03:40:07+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-05:/11381</id>
+	<link href="http://mememaster.tumblr.com/post/130527049424" rel="alternate" type="text/html"/>
+	<title type="html">welcome to my kitchen</title>
+	<summary type="html"><![CDATA[     welcome to my kitchen]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/e507a63b908d70b24562e2ade115fa6e/tumblr_ntw01rE1Ey1untrd2o1_500.png"><br><br><img src="http://40.media.tumblr.com/60bf3aae12bbd50745925e0b1fd3d050/tumblr_ntw01rE1Ey1untrd2o2_500.png"><br><br><img src="http://40.media.tumblr.com/87edd41dbec0bd88485355eb725e7234/tumblr_ntw01rE1Ey1untrd2o3_500.png"><br><br><img src="http://41.media.tumblr.com/6e39d6bb47d7f466d9903a02b0644aba/tumblr_ntw01rE1Ey1untrd2o4_500.png"><br><br><img src="http://40.media.tumblr.com/80dcc57ea8a19ed530fedc6654f5819d/tumblr_ntw01rE1Ey1untrd2o5_500.png"><br><br><p>welcome to my kitchen</p></body></html>
+]]></content>
+	<updated>2015-10-05T03:50:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-10-05T03:50:00+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-06:/11507</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/130578376423" rel="alternate" type="text/html"/>
+	<title type="html">catsbeaversandducks:
+
+Reasons Cats Ruin Your Life - By Adam...</title>
+	<summary type="html"><![CDATA[        catsbeaversandducks:
+
+Reasons Cats Ruin Your Life - By Adam Ellis
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/4e15a4ba65c7e43fa14d3937aab465a3/tumblr_nvre2husQ71qh66wqo1_500.jpg"><br><br><img src="http://40.media.tumblr.com/4e78043af38cad7b6430c3330e8b091d/tumblr_nvre2husQ71qh66wqo2_500.jpg"><br><br><img src="http://40.media.tumblr.com/b3243bf165355ee2252f64760288959e/tumblr_nvre2husQ71qh66wqo3_500.jpg"><br><br><img src="http://40.media.tumblr.com/b9b550633a29c33f8284f66ae4186ed8/tumblr_nvre2husQ71qh66wqo4_500.jpg"><br><br><img src="http://41.media.tumblr.com/fa8682f4cb4dfe88b98545d9926dcc7e/tumblr_nvre2husQ71qh66wqo5_500.jpg"><br><br><img src="http://40.media.tumblr.com/8ebbfa8a33116555624874f08b5197a4/tumblr_nvre2husQ71qh66wqo6_500.jpg"><br><br><img src="http://41.media.tumblr.com/408ae78fd65bebe2180f68e879ec823f/tumblr_nvre2husQ71qh66wqo8_500.jpg"><br><br><img src="http://36.media.tumblr.com/68e96af3dc7f06e1013ac2c590138ced/tumblr_nvre2husQ71qh66wqo9_500.jpg"><br><br><p><a href="http://catsbeaversandducks.tumblr.com/post/130560925506" target="_blank" rel="noreferrer">catsbeaversandducks</a>:</p>
+<blockquote>
+<p><b>Reasons Cats Ruin Your Life</b> - By <a href="https://www.facebook.com/buzzfeedadam" target="_blank" rel="noreferrer">Adam Ellis</a></p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-10-05T22:54:21+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-05T22:54:21+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-06:/11500</id>
@@ -989,368 +1385,6 @@ By The Oatmeal
 
 	<category term="lists"/>
 
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-30:/10587</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/130174597993" rel="alternate" type="text/html"/>
-	<title type="html">by Noob the Loser</title>
-	<summary type="html"><![CDATA[     by Noob the Loser]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/6c144468268d3b08d86763c7d4f279b6/tumblr_n87t9du1ir1sllg9yo1_500.jpg"><br><br><img src="http://40.media.tumblr.com/1f1b82545e2560250cea5a45eb730bdb/tumblr_n87t9du1ir1sllg9yo2_500.jpg"><br><br><img src="http://41.media.tumblr.com/59df7c341e7af55d594c661247bbdddf/tumblr_n87t9du1ir1sllg9yo3_500.jpg"><br><br><img src="http://41.media.tumblr.com/5fb6de958c22646e306edec149d4b9bd/tumblr_n87t9du1ir1sllg9yo4_500.jpg"><br><br><img src="http://31.media.tumblr.com/8358282277475cf48652c81363bcdb85/tumblr_n87t9du1ir1sllg9yo5_400.gif"><br><br><p>by <a href="http://noobtheloser.tumblr.com/post/90808235375" target="_blank" rel="noreferrer">Noob the Loser</a></p></body></html>
-]]></content>
-	<updated>2015-09-30T02:34:33+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-30T02:34:33+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="behind the gif"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-30:/10640</id>
-	<link href="http://mememaster.tumblr.com/post/130195756074" rel="alternate" type="text/html"/>
-	<title type="html">vanessa-lifts:
-
-“WE MADE THESE”</title>
-	<summary type="html"><![CDATA[vanessa-lifts:
-
-“WE MADE THESE”]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/c1e13580bddfb4b2ead9b15607f29547/tumblr_nqs44dBSuB1sn75h6o1_500.jpg"><br><br><p><a href="http://vanessa-lifts.tumblr.com/post/124018147254/we-made-these" target="_blank" rel="noreferrer">vanessa-lifts</a>:</p>
-
-<blockquote><p>&ldquo;WE MADE THESE&rdquo;</p></blockquote></body></html>
-]]></content>
-	<updated>2015-09-30T11:44:32+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-30T11:44:32+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-29:/10490</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/130135936218" rel="alternate" type="text/html"/>
-	<title type="html">nicholasgurewitch:
-
-PBF#248: “Transmission”...</title>
-	<summary type="html"><![CDATA[nicholasgurewitch:
-
-PBF#248: “Transmission” (http://pbfcomics.com/248/)
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/51d425e9e0fd940cd55c2fd0a44da4cd/tumblr_nuwf2kg45y1r3ibjso1_500.jpg"><br><br><p><a href="http://nicholasgurewitch.tumblr.com/post/130127393799" target="_blank" rel="noreferrer">nicholasgurewitch</a>:</p>
-<blockquote>
-<p>PBF#248: &ldquo;Transmission&rdquo; (<a href="http://pbfcomics.com/248/" target="_blank" rel="noreferrer">http://pbfcomics.com/248/</a>)</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-29T15:26:58+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-29T15:26:58+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-29:/10416</id>
-	<link href="https://mlleweb.wordpress.com/2015/09/27/mes-amis-racistes/" rel="alternate" type="text/html"/>
-	<title type="html">Mes amis racistes | Le Blog de Mlle Web</title>
-	<summary type="html"><![CDATA[Bon article (via http://www.mypersonnaldata.eu/shaarli/?X5anlA)(Permalink)]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Bon article (via <a href="http://www.mypersonnaldata.eu/shaarli/?X5anlA" rel="noreferrer" target="_blank">http://www.mypersonnaldata.eu/shaarli/?X5anlA</a>)<br>(<a href="http://sebsauvage.net/links/?-qEREA" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
-]]></content>
-	<updated>2015-09-29T08:28:50+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://sebsauvage.net/links/</id>
-		<link rel="self" href="http://sebsauvage.net/links/"/>
-		<updated>2015-09-29T08:28:50+00:00</updated>
-		<title>Liens en vrac de sebsauvage</title></source>
-
-	<category term="society"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-29:/10420</id>
-	<link href="http://danstonchat.com/16843.html" rel="alternate" type="text/html"/>
-	<title type="html">DansTonChat #16843</title>
-	<summary type="html"><![CDATA[&lt;Étienne&gt; Marau!&lt;richy&gt; voleur! &lt;Teldryn&gt; Faquin&lt;richy&gt; Coureuse de remparts...]]></summary>
-	<content type="html"><![CDATA[<html><body><span>&lt;&Eacute;tienne&gt;</span> Marau!<br><span>&lt;richy&gt;</span> voleur! <br><span>&lt;Teldryn&gt;</span> Faquin<br><span>&lt;richy&gt;</span> Coureuse de remparts<br><span>&lt;&Eacute;tienne&gt;</span> Puterelle<br><span>&lt;richy&gt;</span> Ane b&acirc;t&eacute;!<br><span>&lt;&Eacute;tienne&gt;</span> Boit-sans-soif<br><span>&lt;Teldryn&gt;</span> Ta glossolalie me parcoure le navet! <br><span>&lt;richy&gt;</span> Fot-en-cul<br><span>&lt;Teldryn&gt;</span> R&eacute;sidu de poulpe m&eacute;nopaus&eacute; !! <br><span>&lt;kevine&gt;</span> konar!  <br><span>&lt;Teldryn&gt;</span> ...</body></html>
-]]></content>
-	<updated>2015-09-29T15:09:10+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://danstonchat.com/</id>
-		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-29T15:09:10+00:00</updated>
-		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-29:/10421</id>
-	<link href="http://danstonchat.com/16842.html" rel="alternate" type="text/html"/>
-	<title type="html">DansTonChat #16842</title>
-	<summary type="html"><![CDATA[Link: Mais tu as quoi en fait ? C&#039;est pas un rhumeMouton: Hum... Une perte d&#039;appétit lié a...]]></summary>
-	<content type="html"><![CDATA[<html><body><span>Link:</span> Mais tu as quoi en fait ? C'est pas un rhume<br><span>Mouton:</span> Hum... Une perte d'app&eacute;tit li&eacute; a un &eacute;coulement du nez mais comme quand je me mouche bin &ccedil;a coule pas du bon sens... je bouffe de la morve toute la journ&eacute;e. Ce qui explique ma perte d'app&eacute;tit. Mais comme la morve c'est un poil gluant, elle se colle dans ma gorge ce qui cr&eacute;er un g&egrave;ne et du coup je tousse pour l'&eacute;liminer. Mais je suis mal foutue, &ccedil;a fait pas de glaire, donc mon corps a trouv&eacute; une autre solution pour &eacute;vacuer tout &ccedil;a : je vomis.<br><span>Mouton:</span> Mais oui : un rhume.<br><span>Link:</span> D'accord :/<br><span>Mouton:</span> Moi je fais pas dans la dentelle, si d&eacute;j&agrave; j'ai un rhume, faut qu'il soit badass.</body></html>
-]]></content>
-	<updated>2015-09-29T15:09:11+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://danstonchat.com/</id>
-		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-09-29T15:09:11+00:00</updated>
-		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-29:/10468</id>
-	<link href="http://mememaster.tumblr.com/post/130128803659" rel="alternate" type="text/html"/>
-	<title type="html">kreuzader:
-
-the chosen one</title>
-	<summary type="html"><![CDATA[kreuzader:
-
-the chosen one
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/90db1d3ced09eed05eed632087331ce7/tumblr_nhsfdn8rQv1qfyxjeo1_500.jpg"><br><br><p><a href="http://kreuzader.tumblr.com/post/107454371848" target="_blank" rel="noreferrer">kreuzader</a>:</p>
-<blockquote>
-<p>the chosen one</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-29T12:40:07+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-29T12:40:07+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-29:/10355</id>
-	<link href="http://mememaster.tumblr.com/post/130089252314" rel="alternate" type="text/html"/>
-	<title type="html">tibets:
-
-here is a lovely horse that is about to eat a dog</title>
-	<summary type="html"><![CDATA[tibets:
-
-here is a lovely horse that is about to eat a dog]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/a78756c202ee1057dfe3c134d149919c/tumblr_mlh5oymV3G1qam8b5o1_500.jpg"><br><br><p><a href="http://tibets.tumblr.com/post/48313616911/here-is-a-lovely-horse-that-is-about-to-eat-a-dog" target="_blank" rel="noreferrer">tibets</a>:</p>
-
-<blockquote><p>here is a lovely horse that is about to eat a dog</p></blockquote></body></html>
-]]></content>
-	<updated>2015-09-28T22:09:54+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-28T22:09:54+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-29:/10351</id>
-	<link href="http://mememaster.tumblr.com/post/130094709359" rel="alternate" type="text/html"/>
-	<title type="html">bloogue:al-grave:“What do you play?”“The Clarinet, you?”“I play...</title>
-	<summary type="html"><![CDATA[bloogue:al-grave:“What do you play?”“The Clarinet, you?”“I play the fucking HAMMER”
-
-
-I like how the...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://33.media.tumblr.com/6c2b8e2ff29a3ef8f1e07e408f76cfbe/tumblr_nb073uy7rY1sgnfa7o1_500.gif"><br><br><p><a href="http://bloogue.tumblr.com/post/109797909722/al-grave-what-do-you-play-the-clarinet" target="_blank" rel="noreferrer">bloogue</a>:</p><blockquote><p><a href="http://al-grave.tumblr.com/post/96623089460/what-do-you-play-the-clarinet-you-i-play-the" target="_blank" rel="noreferrer">al-grave</a>:</p><blockquote><p>&ldquo;What do you play?&rdquo;</p><p>&ldquo;The Clarinet, you?&rdquo;</p><p>&ldquo;I play the fucking <i><b>HAMMER</b></i>&rdquo;</p>
-</blockquote>
-
-<p>I like how the brass guy knew it was coming while the bass clarinet still gets caught off guard</p></blockquote></body></html>
-]]></content>
-	<updated>2015-09-28T23:42:07+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-28T23:42:07+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-29:/10340</id>
-	<link href="http://mememaster.tumblr.com/post/130109623944" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/74a42df96c4db589372328d1e7e62c7c/tumblr_ndtc6posZX1sal0x8o1_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-09-29T03:37:45+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-09-29T03:37:45+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-29:/10319</id>
-	<link href="http://oatmeal.tumblr.com/post/130075680611" rel="alternate" type="text/html"/>
-	<title type="html">This basically sums up the internet today.</title>
-	<summary type="html"><![CDATA[This basically sums up the internet today.]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/d9e29693780a86384b973125599a92d9/tumblr_nvehjcGNaq1qet9hvo1_500.png"><br><br><p>This basically sums up the internet today.</p></body></html>
-]]></content>
-	<updated>2015-09-28T18:47:36+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://oatmeal.tumblr.com/</id>
-		<link rel="self" href="http://oatmeal.tumblr.com/"/>
-		<updated>2015-09-28T18:47:36+00:00</updated>
-		<title>The Oatmeal</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-28:/10241</id>
-	<link href="http://www.viedemerde.fr/amour/8622258" rel="alternate" type="text/html"/>
-	<title type="html">Loanhh a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, ma copine a quitté l'appartement car elle m'estime incapable de m'en sortir sans elle. ...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, ma copine a quitt&eacute; l'appartement car elle m'estime incapable de m'en sortir sans elle. Dix minutes apr&egrave;s son d&eacute;part : fuite du toit, appartement inond&eacute;, les plombs ont saut&eacute; et elle &eacute;tait la seule &agrave; avoir le num&eacute;ro du propri&eacute;taire. VDM</p></body></html>
-]]></content>
-	<updated>2015-09-28T10:47:08+00:00</updated>
-	<author><name>Loanhh</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-09-28T10:47:08+00:00</updated>
-		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-28:/10240</id>
-	<link href="http://www.viedemerde.fr/travail/8622270" rel="alternate" type="text/html"/>
-	<title type="html">tonprof a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, en cours d'art, une élève me présente son dessin. C'est monotone, triste, sans couleurs...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, en cours d'art, une &eacute;l&egrave;ve me pr&eacute;sente son dessin. C'est monotone, triste, sans couleurs. Je lui demande ce qu'elle en pense. "J'aime bien, c'est &agrave; l'image de ma vie, sans int&eacute;r&ecirc;t." VDM</p></body></html>
-]]></content>
-	<updated>2015-09-28T11:09:18+00:00</updated>
-	<author><name>tonprof</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-09-28T11:09:18+00:00</updated>
-		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-08:/6477</id>
-	<link href="http://konachan.com/post/show/206308" rel="alternate" type="text/html"/>
-	<title type="html">animal bird building bunny drink fan fish food fox frog japanese_clothes night original scenic snail sui_(petit_comet) water</title>
-	<summary type="html"><![CDATA[
-        
-      ]]></summary>
-	<content type="html"><![CDATA[<html><body><img alt="animal bird building bunny drink fan fish food fox frog japanese_clothes night original scenic snail sui_(petit_comet) water" src="http://konachan.com/data/preview/96/65/9665c639c64dc72141cbbd835302790c.jpg"></body></html>
-]]></content>
-	<updated>2015-09-08T18:27:59+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://konachan.com/</id>
-		<link rel="self" href="http://konachan.com/"/>
-		<updated>2015-09-08T18:27:59+00:00</updated>
-		<title>konachan.com/</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/jpeg" 
-		length="1"
-		href="http://konachan.com/sample/9665c639c64dc72141cbbd835302790c/Konachan.com%20-%20206308%20sample.jpg"/>
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://konachan.com/data/preview/96/65/9665c639c64dc72141cbbd835302790c.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-11:/7217</id>
-	<link href="http://konachan.com/post/show/206439" rel="alternate" type="text/html"/>
-	<title type="html">afraco building butterfly flowers headdress long_hair original petals red_eyes scenic sword torii water weapon white_hair</title>
-	<summary type="html"><![CDATA[
-        
-      ]]></summary>
-	<content type="html"><![CDATA[<html><body><img alt="afraco building butterfly flowers headdress long_hair original petals red_eyes scenic sword torii water weapon white_hair" src="http://konachan.com/data/preview/d8/f1/d8f1a155bf0a210aef227975fdde836f.jpg"></body></html>
-]]></content>
-	<updated>2015-09-11T20:35:56+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://konachan.com/</id>
-		<link rel="self" href="http://konachan.com/"/>
-		<updated>2015-09-11T20:35:56+00:00</updated>
-		<title>konachan.com/</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/jpeg" 
-		length="1"
-		href="http://konachan.com/sample/d8f1a155bf0a210aef227975fdde836f/Konachan.com%20-%20206439%20sample.jpg"/>
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://konachan.com/data/preview/d8/f1/d8f1a155bf0a210aef227975fdde836f.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-11:/7237</id>
-	<link href="http://konachan.com/post/show/206443" rel="alternate" type="text/html"/>
-	<title type="html">animal bird fruit hat male nomiya_(no_38) original penguin seifuku snow teddy_bear water watermelon</title>
-	<summary type="html"><![CDATA[
-        
-      ]]></summary>
-	<content type="html"><![CDATA[<html><body><img alt="animal bird fruit hat male nomiya_(no_38) original penguin seifuku snow teddy_bear water watermelon" src="http://konachan.com/data/preview/40/f9/40f972b489e86ad545c668adf72149f8.jpg"></body></html>
-]]></content>
-	<updated>2015-09-11T22:11:36+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://konachan.com/</id>
-		<link rel="self" href="http://konachan.com/"/>
-		<updated>2015-09-11T22:11:36+00:00</updated>
-		<title>konachan.com/</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/jpeg" 
-		length="1"
-		href="http://konachan.com/image/40f972b489e86ad545c668adf72149f8/Konachan.com%20-%20206443%20animal%20bird%20fruit%20hat%20male%20nomiya_%28no_38%29%20original%20penguin%20seifuku%20snow%20teddy_bear%20water%20watermelon.jpg"/>
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://konachan.com/data/preview/40/f9/40f972b489e86ad545c668adf72149f8.jpg"/>
 
 </entry>
 
