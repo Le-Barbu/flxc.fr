@@ -4,11 +4,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-29T22:30:13+00:00</updated>
+<updated>2015-09-29T17:18:59+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-07:/11700</id>
+	<link href="http://www.luc-damas.fr/humeurs/vdcdm/" rel="alternate" type="text/html"/>
+	<title type="html">VdCdM</title>
+	<summary type="html"><![CDATA[
+]]></summary>
+	<content type="html"><![CDATA[<html><body><p><img src="http://www.luc-damas.fr/humeurs/images/vdcdm.png" alt="vdcdm" width="800" height="446"></p>
+<img src="http://feeds.feedburner.com/~r/lucdamas/humeurs/~4/3ky3Swcce1o" height="1" width="1" alt=""></body></html>
+]]></content>
+	<updated>2015-10-06T18:57:09+00:00</updated>
+	<author><name>Luc</name></author>
+	<source>
+		<id>http://www.luc-damas.fr/humeurs</id>
+		<link rel="self" href="http://www.luc-damas.fr/humeurs"/>
+		<updated>2015-10-06T18:57:09+00:00</updated>
+		<title>Humeurs illustrées</title></source>
+
+	<category term="enseignement"/>
+
+	<category term="informatique"/>
+
+	<category term="css"/>
+
+	<category term="js"/>
+
+	<category term="programmation"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-06:/11602</id>
@@ -807,7 +837,7 @@ Ce sch&eacute;ma implique non seulement que l&rsquo;annonceur passe par une agen
 	<content type="html"><![CDATA[<html><body><p>Si Zorro aurait eu un t&eacute;l&eacute;phone il y aurait appel&eacute; en num&eacute;ro masqu&eacute; !</p></body></html>
 ]]></content>
 	<updated>2015-10-01T00:00:00+00:00</updated>
-	<author><name>Michel</name></author>
+	<author><name></name></author>
 	<source>
 		<id>http://www.blaguesdemerde.fr//</id>
 		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
@@ -1362,28 +1392,6 @@ By The Oatmeal
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-09-29T17:18:59+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-09-30:/10590</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/130160025876" rel="alternate" type="text/html"/>
-	<title type="html">Alternate Names for Animals (photos via Imgur)Related: Name...</title>
-	<summary type="html"><![CDATA[         Alternate Names for Animals (photos via Imgur)Related: Name Improvements for Everyday Stuff]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/89de4f012d57323d0a0d01b7f9cd12e4/tumblr_nvgm8x1nUK1qewacoo1_500.png"><br><br><img src="http://41.media.tumblr.com/0caa131984692382d4841f4387abab49/tumblr_nvgm8x1nUK1qewacoo2_500.png"><br><br><img src="http://40.media.tumblr.com/b62bcaecf4e5b4fac0507cc3662fd45d/tumblr_nvgm8x1nUK1qewacoo7_500.png"><br><br><img src="http://40.media.tumblr.com/7866846b48225b5afd7e96262343bb30/tumblr_nvgm8x1nUK1qewacoo5_500.jpg"><br><br><img src="http://40.media.tumblr.com/bd3bbac37abb1ca1ca9f0041cdcce579/tumblr_nvgm8x1nUK1qewacoo9_500.png"><br><br><img src="http://36.media.tumblr.com/8467723a67b268fabbae0d74dee36fa4/tumblr_nvgm8x1nUK1qewacoo8_500.png"><br><br><img src="http://40.media.tumblr.com/318169f93cf408314b24acd8de04359f/tumblr_nvgm8x1nUK1qewacoo4_500.png"><br><br><img src="http://40.media.tumblr.com/526f4b803bf4258e8413b67005518fa6/tumblr_nvgm8x1nUK1qewacoo6_500.png"><br><br><img src="http://40.media.tumblr.com/3affa7c0984d9c583028c0d2d437696a/tumblr_nvgm8x1nUK1qewacoo3_500.png"><br><br><p><b>Alternate Names for Animals</b> (photos via <a href="http://imgur.com/gallery/F01kW" target="_blank" rel="noreferrer">Imgur</a>)<br><br>Related:&nbsp;<a href="http://tumblr.tastefullyoffensive.com/post/93406864043/name-improvements-for-everyday-stuff" target="_blank" rel="noreferrer">Name Improvements for Everyday Stuff</a></p></body></html>
-]]></content>
-	<updated>2015-09-29T22:30:13+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-29T22:30:13+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="animals"/>
-
-	<category term="lists"/>
 
 
 </entry>
