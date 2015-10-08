@@ -4,11 +4,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-09-30T23:19:56+00:00</updated>
+<updated>2015-10-01T00:00:00+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-08:/12099</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/130747817748" rel="alternate" type="text/html"/>
+	<title type="html">Enter if you dare. (photo via LallaBean)</title>
+	<summary type="html"><![CDATA[Enter if you dare. (photo via LallaBean)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/bfea183585c69231421788edfa06ea5c/tumblr_nvwmeihT5X1qewacoo1_500.jpg"><br><br><p>Enter if you dare. (photo via <a href="https://www.reddit.com/user/LallaBean" target="_blank" rel="noreferrer">LallaBean</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-08T13:49:30+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-08T13:49:30+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+	<category term="halloween"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-01:/10744</id>
@@ -1574,32 +1594,6 @@ Ce sch&eacute;ma implique non seulement que l&rsquo;annonceur passe par une agen
 		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
 		<updated>2015-10-01T00:00:00+00:00</updated>
 		<title>blaguesdemerde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-01:/10741</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/130231018263" rel="alternate" type="text/html"/>
-	<title type="html">hobolunchbox:
-
-Survey says!</title>
-	<summary type="html"><![CDATA[    hobolunchbox:
-
-Survey says!
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://31.media.tumblr.com/c4442f40a183200433a5597216fb5f59/tumblr_mfvu16ORl01ry46hlo1_250.gif"><br><br><img src="http://38.media.tumblr.com/c47f575135565bb30cd4666557c8d6bd/tumblr_mfvu16ORl01ry46hlo2_250.gif"><br><br><img src="http://33.media.tumblr.com/f6fd58de2565364ca98578ef7f5e1967/tumblr_mfvu16ORl01ry46hlo3_250.gif"><br><br><img src="http://38.media.tumblr.com/d625017c3715452627e3dd6fd5d4fa8e/tumblr_mfvu16ORl01ry46hlo4_250.gif"><br><br><p><a href="http://hobolunchbox.tumblr.com/post/39287270505" target="_blank" rel="noreferrer">hobolunchbox</a>:</p>
-<blockquote>
-<p>Survey says!</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-09-30T23:19:56+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-09-30T23:19:56+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
