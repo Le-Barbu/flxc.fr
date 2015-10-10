@@ -4,11 +4,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-05T20:45:58+00:00</updated>
+<updated>2015-10-04T20:35:37+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-09:/12328</id>
+	<link href="http://la-bas.org/la-bas-magazine/entretiens/violence-montree-violence-cachee" rel="alternate" type="text/html"/>
+	<title type="html">Violence montrée, violence cachée</title>
+	<summary type="html"><![CDATA[   Play  
+
+2 900 SALARIÉS PERDENT LEURS CHEMISES
+par Là-bas si j'y suis https://vimeo.com/141880283
+...]]></summary>
+	<content type="html"><![CDATA[<html><body><div><div> <div> <div>  </div> </div>
+<div><a href="https://vimeo.com/141880283" rel="noreferrer" target="_blank">2 900 SALARI&Eacute;S PERDENT LEURS CHEMISES</a>
+<br><i>par <a href="http://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></i></div> <div><a href="https://vimeo.com/141880283" rel="noreferrer" target="_blank">https://vimeo.com/141880283</a></div>
+</div> <p>Apprenant la suppression de 2 900 emplois, des salari&eacute;s en col&egrave;re arrachent la chemise de deux dirigeants. Gouvernement et m&eacute;dias unanimes se d&eacute;cha&icirc;nent et condamnent violemment cette violence. Une fa&ccedil;on de dissimuler la vraie violence faite aux salari&eacute;s d'Air France et d'ailleurs. Une fa&ccedil;on de faire diversion par rapport au plan de dislocation de l'entreprise. Ces voyous et ces lyncheurs, qui sont-ils ? Que disent-ils ? &Agrave; Roissy, rencontre avec des pilotes, des personnels au sol et des syndicalistes.</p> <p><strong>Extrait de L&Agrave;-BAS Hebdo #25 <a href="http://la-bas.org/les-emissions-258/les-emissions/2015-16/2-900-salaries-perdent-leurs-chemises" rel="noreferrer" target="_blank">&laquo; 2 900 SALARI&Eacute;S PERDENT LEUR CHEMISE &raquo;</a>, une &eacute;mission &agrave; &eacute;couter en int&eacute;gralit&eacute; sur <a href="http://la-bas.org/les-emissions-258/les-emissions/2015-16/2-900-salaries-perdent-leurs-chemises" rel="noreferrer" target="_blank">la-bas.org/les-emissions-258/les-emissions/2015-16/2-900-salaries-perdent-leurs-chemises</a></strong></p>
+<div>Animation : <strong>Daniel MERMET</strong><br>
+R&eacute;alisation : <strong>Jonathan DUONG</strong><br>
+Image : <strong>Lucile LATOUR</strong><br>
+Son : <strong>Franck HADERER</strong><br>
+Pr&eacute;paration : <strong>Ana&euml;lle VERZAUX</strong> et <strong>Gr&eacute;gory SALOMONOVITCH</strong></div></div></body></html>
+]]></content>
+	<updated>2015-10-09T10:23:50+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://la-bas.org/</id>
+		<link rel="self" href="http://la-bas.org/"/>
+		<updated>2015-10-09T10:23:50+00:00</updated>
+		<title>Là-bas si j'y suis</title></source>
+
+	<category term="luttes"/>
+
+	<category term="mondialisation libérale"/>
+
+	<category term="video"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-06:/11515</id>
@@ -1581,23 +1617,6 @@ There is a lot of stuff going on...]]></summary>
 		<link rel="self" href="http://www.viedemerde.fr"/>
 		<updated>2015-10-04T20:35:37+00:00</updated>
 		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-05:/11489</id>
-	<link href="http://www.labandepasdessinee.com/bpd/389-rancune" rel="alternate" type="text/html"/>
-	<title type="html">La Bande Pas Dessinée » 389 - Rancune</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-10-05T20:45:58+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-10-05T20:45:58+00:00</updated>
-		<title>Published articles</title></source>
 
 
 </entry>
