@@ -4,11 +4,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-05T19:33:38+00:00</updated>
+<updated>2015-10-05T20:18:50+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-09:/12188</id>
+	<link href="http://www.blaguesdemerde.fr/blague/424497/pourquoi-les-francais-adorent-les-blagues-belges-p" rel="alternate" type="text/html"/>
+	<title type="html">pourquoi-les-francais-adorent-les-blagues-belges-p</title>
+	<summary type="html"><![CDATA[Pourquoi les français adorent les blagues belges ?Parce qu'elles sont très faciles à comprendre !]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Pourquoi les fran&ccedil;ais adorent les blagues belges ?<br><br>Parce qu'elles sont tr&egrave;s faciles &agrave; comprendre !</p></body></html>
+]]></content>
+	<updated>2015-10-09T00:00:00+00:00</updated>
+	<author><name>Le Belge</name></author>
+	<source>
+		<id>http://www.blaguesdemerde.fr//</id>
+		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
+		<updated>2015-10-09T00:00:00+00:00</updated>
+		<title>blaguesdemerde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-09:/12186</id>
+	<link href="http://www.blaguesdemerde.fr/blague/427761/comment-les-nones-se-reproduisent-elles-en-couvant" rel="alternate" type="text/html"/>
+	<title type="html">comment-les-nones-se-reproduisent-elles-en-couvant</title>
+	<summary type="html"><![CDATA[Comment les nones se reproduisent-elles ? En couvant !]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Comment les nones se reproduisent-elles ? <br><br>En couvant !</p></body></html>
+]]></content>
+	<updated>2015-10-09T00:00:00+00:00</updated>
+	<author><name>Jordan ????</name></author>
+	<source>
+		<id>http://www.blaguesdemerde.fr//</id>
+		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
+		<updated>2015-10-09T00:00:00+00:00</updated>
+		<title>blaguesdemerde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-09:/12194</id>
+	<link href="http://danstonchat.com/16874.html" rel="alternate" type="text/html"/>
+	<title type="html">DansTonChat #16874</title>
+	<summary type="html"><![CDATA[Eelia: Pourquoi le petit garçon a-t-il lâché sa glace ? Parce qu&#039;il s&#039;est fait renverser p...]]></summary>
+	<content type="html"><![CDATA[<html><body><span>Eelia:</span> Pourquoi le petit gar&ccedil;on a-t-il l&acirc;ch&eacute; sa glace ? Parce qu'il s'est fait renverser par un bus.<br><span>Ludescal:</span> Le con aussi, qu'est-ce qu'il foutait attach&eacute; au milieu de la route ?<br><span>Eelia:</span> Il &eacute;tait puni<br><span>Ludescal:</span> Pourquoi la petite fille est-elle tomb&eacute;e de la balan&ccedil;oire ?<br><span>Eelia:</span> Parcequ'elle n'a pas de bras.<br><span>Eelia:</span> Qu'est-ce qui est rouge et a la m&ecirc;me odeur que de la peinture bleue ?<br><span>Ludescal:</span> Je ne sais pas.<br><span>Eelia:</span> De la peinture rouge.<br><span>Eelia:</span> Qu'est-ce qui est vert et qui a des roues ?<br><span>Ludescal:</span> Une voiture verte ?<br><span>Eelia:</span> Non. De l'herbe. J'ai menti pour les roues.<br><span>Ludescal:</span> Oh.<br><span>Eelia:</span> Qu'est-ce que l'avocat a dit &agrave; l'autre avocat ?<br><span>Ludescal:</span> Je ne sais pas.<br><span>Eelia:</span> "Nous sommes tous les deux des avocats."<br><span>Eelia:</span> Comment fait-on pleurer un plombier ?<br><span>Ludescal:</span> Avec un tuyau ?<br><span>Eelia:</span> Il suffit de tuer toute sa famille.<br><span>Eelia:</span> Qu'est-ce que le fermier a dit quand il a perdu son tracteur ?<br><span>Ludescal:</span> O&ugrave; est mon tracteur ?<br><span>Eelia:</span> Exact.<br><span>Eelia:</span> Comment fais-tu tomber un clown de la balan&ccedil;oire ?<br><span>Ludescal:</span> En le poussant ?<br><span>Eelia:</span> En lui donnant un coup de hache. <br><span>Eelia:</span> Comment appelle-t-on un noir sur la lune ?<br><span>Ludescal:</span> Avec du poulet ?<br><span>Eelia:</span> Un astronaute.<br><span>Eelia:</span> huehuehue</body></html>
+]]></content>
+	<updated>2015-10-09T15:04:37+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://danstonchat.com/</id>
+		<link rel="self" href="http://danstonchat.com/"/>
+		<updated>2015-10-09T15:04:37+00:00</updated>
+		<title>DansTonChat</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-09:/12297</id>
@@ -1538,57 +1592,6 @@ There is a lot of stuff going on...]]></summary>
 		<id>http://flxc.fr/rss</id>
 		<link rel="self" href="http://flxc.fr/rss"/>
 		<updated>2015-10-05T20:18:50+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-05:/11485</id>
-	<link href="http://www.labandepasdessinee.com/bpd/327-cru" rel="alternate" type="text/html"/>
-	<title type="html">La Bande Pas Dessinée » 327 - Cru</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-10-05T20:11:36+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-10-05T20:11:36+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-05:/11470</id>
-	<link href="http://www.labandepasdessinee.com/bpd/254-decouverte" rel="alternate" type="text/html"/>
-	<title type="html">La Bande Pas Dessinée » 254 - Découverte</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-10-05T19:34:52+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-10-05T19:34:52+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-05:/11457</id>
-	<link href="http://www.labandepasdessinee.com/bpd/114-complexe" rel="alternate" type="text/html"/>
-	<title type="html">La Bande Pas Dessinée » 114 - Complexe</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-10-05T19:33:38+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-10-05T19:33:38+00:00</updated>
 		<title>Published articles</title></source>
 
 
