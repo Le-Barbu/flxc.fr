@@ -4,11 +4,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-05T20:18:50+00:00</updated>
+<updated>2015-10-05T20:45:58+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-06:/11515</id>
+	<link href="http://www.youtube.com/watch?v=mVKIva2KddY" rel="alternate" type="text/html"/>
+	<title type="html">Aaron</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-06T16:26:48+00:00</updated>
+	<author><name>Neil Cicierega</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCDrJor35jYVnuC3JgRzheIw</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCDrJor35jYVnuC3JgRzheIw"/>
+		<updated>2015-10-06T16:26:48+00:00</updated>
+		<title>Neil Cicierega</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/mVKIva2KddY?version=3"/>
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-09:/12188</id>
@@ -18,7 +40,7 @@
 	<content type="html"><![CDATA[<html><body><p>Pourquoi les fran&ccedil;ais adorent les blagues belges ?<br><br>Parce qu'elles sont tr&egrave;s faciles &agrave; comprendre !</p></body></html>
 ]]></content>
 	<updated>2015-10-09T00:00:00+00:00</updated>
-	<author><name>Le Belge</name></author>
+	<author><name></name></author>
 	<source>
 		<id>http://www.blaguesdemerde.fr//</id>
 		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
@@ -36,7 +58,7 @@
 	<content type="html"><![CDATA[<html><body><p>Comment les nones se reproduisent-elles ? <br><br>En couvant !</p></body></html>
 ]]></content>
 	<updated>2015-10-09T00:00:00+00:00</updated>
-	<author><name>Jordan ????</name></author>
+	<author><name></name></author>
 	<source>
 		<id>http://www.blaguesdemerde.fr//</id>
 		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
@@ -1575,23 +1597,6 @@ There is a lot of stuff going on...]]></summary>
 		<id>http://flxc.fr/rss</id>
 		<link rel="self" href="http://flxc.fr/rss"/>
 		<updated>2015-10-05T20:45:58+00:00</updated>
-		<title>Published articles</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-05:/11487</id>
-	<link href="http://www.labandepasdessinee.com/bpd/336-qui" rel="alternate" type="text/html"/>
-	<title type="html">La Bande Pas Dessinée » 336 - Qui ?</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-10-05T20:18:50+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://flxc.fr/rss</id>
-		<link rel="self" href="http://flxc.fr/rss"/>
-		<updated>2015-10-05T20:18:50+00:00</updated>
 		<title>Published articles</title></source>
 
 
