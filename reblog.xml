@@ -4,11 +4,161 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-04T17:04:42+00:00</updated>
+<updated>2015-10-03T20:45:10+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-11:/12627</id>
+	<link href="http://mememaster.tumblr.com/post/130943199509" rel="alternate" type="text/html"/>
+	<title type="html">skylarkjanina:
+
+kaosunseen:
+
+
+
+THAT IS THE BEST USE OF THAT...</title>
+	<summary type="html"><![CDATA[  skylarkjanina:
+
+kaosunseen:
+
+
+
+THAT IS THE BEST USE OF THAT PICTURE I HAVE SEEN IN A LONG TIME
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/tumblr_m8tq7hvFGY1rxk8rjo1_500.png"><br><br><img src="http://36.media.tumblr.com/tumblr_m8tq7hvFGY1rxk8rjo2_500.png"><br><br><p><a href="http://skylarkjanina.tumblr.com/post/63336392338" target="_blank" rel="noreferrer">skylarkjanina</a>:</p>
+<blockquote>
+<p><a href="http://kaosunseen.tumblr.com/post/30298680460" target="_blank" rel="noreferrer">kaosunseen</a>:</p>
+<blockquote>
+<p><img src="http://38.media.tumblr.com/tumblr_m9edyqSPIb1r0hqyw.jpg" alt="image"></p>
+</blockquote>
+<p>THAT IS THE BEST USE OF THAT PICTURE I HAVE SEEN IN A LONG TIME</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-10-11T12:25:39+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-10-11T12:25:39+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-11:/12681</id>
+	<link href="http://danstonchat.com/16878.html" rel="alternate" type="text/html"/>
+	<title type="html">DansTonChat #16878</title>
+	<summary type="html"><![CDATA[&lt;Magus&gt; Je viens de m&#039;auto spoiler en allant vérifier la règle 34 sur un anime&lt;Ben&gt;...]]></summary>
+	<content type="html"><![CDATA[<html><body><span>&lt;Magus&gt;</span> Je viens de m'auto spoiler en allant v&eacute;rifier la r&egrave;gle 34 sur un anime<br><span>&lt;Ben&gt;</span> Le comble ultime du geek ...</body></html>
+]]></content>
+	<updated>2015-10-11T16:45:54+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://danstonchat.com/</id>
+		<link rel="self" href="http://danstonchat.com/"/>
+		<updated>2015-10-11T16:45:54+00:00</updated>
+		<title>DansTonChat</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-11:/12688</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/130955634573" rel="alternate" type="text/html"/>
+	<title type="html">(photo via cant_trust_hillary)</title>
+	<summary type="html"><![CDATA[(photo via cant_trust_hillary)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/0b645166289fd1c08577c1ff2c67c0e0/tumblr_nw2dwj5dfx1qewacoo1_500.jpg"><br><br><p>(photo via <a href="https://www.reddit.com/user/CANT_TRUST_HILLARY" target="_blank" rel="noreferrer">cant_trust_hillary</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-11T16:31:31+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-11T16:31:31+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-11:/12687</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/130956852573" rel="alternate" type="text/html"/>
+	<title type="html">There are two types of girls on Halloween. (vine by AlliCattt)</title>
+	<summary type="html"><![CDATA[There are two types of girls on Halloween. (vine by AlliCattt)]]></summary>
+	<content type="html"><![CDATA[<html><body><br><br><p>There are two types of girls on Halloween. (vine by&nbsp;<a href="https://vine.co/AlliCattt" target="_blank" rel="noreferrer">AlliCattt</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-11T16:51:55+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-11T16:51:55+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+	<category term="vine"/>
+
+	<category term="halloween"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-11:/12714</id>
+	<link href="http://www.blaguesdemerde.fr/blague/426558/c-est-un-homme-qui-croise-un-copain-dans-la-rue-se" rel="alternate" type="text/html"/>
+	<title type="html">c-est-un-homme-qui-croise-un-copain-dans-la-rue-se</title>
+	<summary type="html"><![CDATA[C'est un homme qui croise un copain dans la rue. Ses vêtements sont déchiré, sa tête en sang et ses ...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>C'est un homme qui croise un copain dans la rue. Ses v&ecirc;tements sont d&eacute;chir&eacute;, sa t&ecirc;te en sang et ses cheveux arrach&eacute;s.<br><br>- Mais que t'est-il arriv&eacute; ?<br><br>- J'ai enterr&eacute; ma belle m&egrave;re ...<br><br>- Pourquoi es-tu donc dans cette &eacute;tat ?<br><br>- Parce qu'elle ne voulait pas !</p></body></html>
+]]></content>
+	<updated>2015-10-11T00:00:00+00:00</updated>
+	<author><name>natssou44</name></author>
+	<source>
+		<id>http://www.blaguesdemerde.fr//</id>
+		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
+		<updated>2015-10-11T00:00:00+00:00</updated>
+		<title>blaguesdemerde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-15:/12756</id>
+	<link href="http://www.blaguesdemerde.fr/blague/426416/qu-elle-est-la-difference-entre-un-intello-et-un-p" rel="alternate" type="text/html"/>
+	<title type="html">qu-elle-est-la-difference-entre-un-intello-et-un-p</title>
+	<summary type="html"><![CDATA[Qu'elle est la différence entre un intello et un pédophile ? Aucune, ils ont tout les deux sautés la...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Qu'elle est la diff&eacute;rence entre un intello et un p&eacute;dophile ? <br><br>Aucune, ils ont tout les deux saut&eacute;s la classe de CP !</p></body></html>
+]]></content>
+	<updated>2015-10-12T00:00:00+00:00</updated>
+	<author><name>Vava</name></author>
+	<source>
+		<id>http://www.blaguesdemerde.fr//</id>
+		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
+		<updated>2015-10-12T00:00:00+00:00</updated>
+		<title>blaguesdemerde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-15:/12749</id>
+	<link href="http://www.blaguesdemerde.fr/blague/426378/qu-est-ce-qui-entre-par-une-oreille-ressort-par-l-" rel="alternate" type="text/html"/>
+	<title type="html">qu-est-ce-qui-entre-par-une-oreille-ressort-par-l-</title>
+	<summary type="html"><![CDATA[Qu'est-ce qui entre par une oreille, ressort par l'autre mais reste en tête ?Une pioche !]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Qu'est-ce qui entre par une oreille, ressort par l'autre mais reste en t&ecirc;te ?<br><br>Une pioche !</p></body></html>
+]]></content>
+	<updated>2015-10-14T00:00:00+00:00</updated>
+	<author><name>SwapoSKop</name></author>
+	<source>
+		<id>http://www.blaguesdemerde.fr//</id>
+		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
+		<updated>2015-10-14T00:00:00+00:00</updated>
+		<title>blaguesdemerde</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-15:/12878</id>
@@ -1393,165 +1543,6 @@ lntruding:
 		<id>http://tumblr.tastefullyoffensive.com/</id>
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-10-03T20:45:10+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-04:/11170</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/130432492731" rel="alternate" type="text/html"/>
-	<title type="html">by It’s the Tie</title>
-	<summary type="html"><![CDATA[      by It’s the Tie]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/10234c0622e560b3a4911e0fce40414f/tumblr_nvo0o84Rjy1qewacoo4_500.png"><br><br><img src="http://40.media.tumblr.com/8819d7ba9d9a1f91fc7115924ba911cc/tumblr_nvo0o84Rjy1qewacoo5_500.png"><br><br><img src="http://41.media.tumblr.com/ad3f96c30b33335e41cc04acaa600ae2/tumblr_nvo0o84Rjy1qewacoo2_500.png"><br><br><img src="http://40.media.tumblr.com/12de296b9f4c4bee5b73fa2dd4c935f2/tumblr_nvo0o84Rjy1qewacoo1_500.png"><br><br><img src="http://40.media.tumblr.com/c4b9f3b522dea4114c6aaf4f94850313/tumblr_nvo0o84Rjy1qewacoo6_500.png"><br><br><img src="http://41.media.tumblr.com/cc930364d5fa8dc128022b63d09ade9a/tumblr_nvo0o84Rjy1qewacoo3_500.png"><br><br><p>by <a href="http://itsthetie.com/comic/adventures-of-god-2-2/" target="_blank" rel="noreferrer">It&rsquo;s the Tie</a></p></body></html>
-]]></content>
-	<updated>2015-10-03T22:40:32+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-03T22:40:32+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-04:/11207</id>
-	<link href="http://mememaster.tumblr.com/post/130469264449" rel="alternate" type="text/html"/>
-	<title type="html">speakintongueandcheek:
-
-shisnojon:
-
-heliolisk:
-
-any cookie is bite sized if you try hard...</title>
-	<summary type="html"><![CDATA[speakintongueandcheek:
-
-shisnojon:
-
-heliolisk:
-
-any cookie is bite sized if you try hard enough
-
-
-
-A...]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://speakintongueandcheek.tumblr.com/post/66897805790" target="_blank" rel="noreferrer">speakintongueandcheek</a>:</p>
-<blockquote>
-<p><a href="http://shisnojon.tumblr.com/post/66890418578" target="_blank" rel="noreferrer">shisnojon</a>:</p>
-<blockquote>
-<p><a href="http://heliolisk.tumblr.com/post/66890160672" target="_blank" rel="noreferrer">heliolisk</a>:</p>
-<blockquote>
-<p>any cookie is bite sized if you try hard enough</p>
-</blockquote>
-<p><img alt="image" src="http://33.media.tumblr.com/e1889c523f25a8fef7dc4345b4b20d65/tumblr_inline_mw7ujfq9RU1ryu1ol.jpg"></p>
-</blockquote>
-<p><strong>ANY COOKIE IS BITE SIZED IF YOU TRY HARD ENOUGH</strong></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-04T12:11:08+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-04T12:11:08+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-04:/11203</id>
-	<link href="http://mememaster.tumblr.com/post/130469650884" rel="alternate" type="text/html"/>
-	<title type="html">h0odrich:
-
-this looks like a man just got switched into a cats...</title>
-	<summary type="html"><![CDATA[  h0odrich:
-
-this looks like a man just got switched into a cats body and he’s having some self real...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/cbed8722d19728f9cdc8e62b000aada0/tumblr_ndokk92AaF1rw1wnno1_400.gif"><br><br><img src="http://38.media.tumblr.com/698524d360bf6ecdb21c69bb25f6aed0/tumblr_ndokk92AaF1rw1wnno2_400.gif"><br><br><p><a href="http://h0odrich.tumblr.com/post/100435710967" target="_blank" rel="noreferrer">h0odrich</a>:</p>
-
-<blockquote><p>this looks like a man just got switched into a cats body and he&rsquo;s having some self realization of the situation and he&rsquo;s buggin</p></blockquote></body></html>
-]]></content>
-	<updated>2015-10-04T12:21:26+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-04T12:21:26+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-04:/11261</id>
-	<link href="http://mememaster.tumblr.com/post/130480159714" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://31.media.tumblr.com/c897d99c7d3aa53f47960fa230c76ebc/tumblr_n1ioyjTLW01tt9ejso1_250.gif"><br><br></body></html>
-]]></content>
-	<updated>2015-10-04T15:47:15+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-04T15:47:15+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-04:/11258</id>
-	<link href="http://mememaster.tumblr.com/post/130480292319" rel="alternate" type="text/html"/>
-	<title type="html">perfectly timed photos</title>
-	<summary type="html"><![CDATA[          perfectly timed photos]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/f8e0eff116be8957be952b9d2eeedda4/tumblr_nsgh1qurHr1rxe0y7o1_500.jpg"><br><br><img src="http://40.media.tumblr.com/6a1254c128f09040b80bac2cdfb86015/tumblr_nsgh1qurHr1rxe0y7o2_500.jpg"><br><br><img src="http://36.media.tumblr.com/3160ae3698a5dcfefe9e2fe0431b6030/tumblr_nsgh1qurHr1rxe0y7o3_500.jpg"><br><br><img src="http://41.media.tumblr.com/a9775784bb4d56833070cc92e6bfcfb5/tumblr_nsgh1qurHr1rxe0y7o4_500.jpg"><br><br><img src="http://40.media.tumblr.com/02dc133d35c856b0fe2a7e08486ab2bd/tumblr_nsgh1qurHr1rxe0y7o5_500.jpg"><br><br><img src="http://40.media.tumblr.com/8bae0f790cb90b0f59acad959ee315c4/tumblr_nsgh1qurHr1rxe0y7o6_500.jpg"><br><br><img src="http://36.media.tumblr.com/b814f2a8fd0941cfcc24db353cd0327a/tumblr_nsgh1qurHr1rxe0y7o7_500.jpg"><br><br><img src="http://41.media.tumblr.com/da50bd9d46c0be47f9b8f66fff1c7f5a/tumblr_nsgh1qurHr1rxe0y7o8_500.jpg"><br><br><img src="http://41.media.tumblr.com/0e855b6a90f8689845a12ed30beda039/tumblr_nsgh1qurHr1rxe0y7o9_500.jpg"><br><br><img src="http://41.media.tumblr.com/4361e5e991ac08d894978fca75391e17/tumblr_nsgh1qurHr1rxe0y7o10_500.jpg"><br><br><p>perfectly timed photos</p></body></html>
-]]></content>
-	<updated>2015-10-04T15:49:28+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-04T15:49:28+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-05:/11271</id>
-	<link href="http://danstonchat.com/16860.html" rel="alternate" type="text/html"/>
-	<title type="html">DansTonChat #16860</title>
-	<summary type="html"><![CDATA[OmegaSim : Bah, je suis encore un gosse à l&#039;intérieur et j&#039;assume !Sycareus : Ce qui est m...]]></summary>
-	<content type="html"><![CDATA[<html><body><span>OmegaSim :</span> Bah, je suis encore un gosse &agrave; l'int&eacute;rieur et j'assume !<br><span>Sycareus :</span> Ce qui est mieux qu'&ecirc;tre &agrave; l'int&eacute;rieur d'un gosse</body></html>
-]]></content>
-	<updated>2015-10-05T15:26:40+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://danstonchat.com/</id>
-		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-10-05T15:26:40+00:00</updated>
-		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-05:/11333</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/130485131138" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/4bd6a3490ec8de562ad716a7c20fdfdf/tumblr_nvmmz4XetF1qdrpsco1_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-10-04T17:04:42+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-04T17:04:42+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
 
 
