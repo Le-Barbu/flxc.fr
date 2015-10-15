@@ -4,11 +4,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-05T17:39:27+00:00</updated>
+<updated>2015-10-05T03:50:00+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-15:/13113</id>
+	<link href="http://www.viedemerde.fr/sante/8627763" rel="alternate" type="text/html"/>
+	<title type="html">Anonyme a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, je suis professeur de yoga et j'ai une sciatique. J'ai juste voulu ramasser une chausse...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je suis professeur de yoga et j'ai une sciatique. J'ai juste voulu ramasser une chaussette. VDM</p></body></html>
+]]></content>
+	<updated>2015-10-12T10:25:26+00:00</updated>
+	<author><name>Anonyme</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-10-12T10:25:26+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-15:/13101</id>
+	<link href="http://www.viedemerde.fr/inclassable/8628419" rel="alternate" type="text/html"/>
+	<title type="html">Anonyme a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, ma meilleure amie me demande si je n'ai pas un tampon pour la dépanner. Apparemment, el...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, ma meilleure amie me demande si je n'ai pas un tampon pour la d&eacute;panner. Apparemment, elle a oubli&eacute; le fait que je ne suis pas une fille. VDM</p></body></html>
+]]></content>
+	<updated>2015-10-14T05:01:11+00:00</updated>
+	<author><name>Anonyme</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-10-14T05:01:11+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-15:/13099</id>
+	<link href="http://www.viedemerde.fr/travail/8628459" rel="alternate" type="text/html"/>
+	<title type="html">Berk berk berk a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, commerciale porte à porte, je discute avec la petite fille de la dame que ma collègue e...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, commerciale porte &agrave; porte, je discute avec la petite fille de la dame que ma coll&egrave;gue essaie de d&eacute;marcher. Elle me colle un lapin en peluche tr&egrave;s r&eacute;aliste dans les mains. "C'est mon lapin, quand il est mort, j'&eacute;tais triste, alors on l'a empaill&eacute; avec maman dans la cuisine." Ah. VDM</p></body></html>
+]]></content>
+	<updated>2015-10-14T08:28:40+00:00</updated>
+	<author><name>Berk berk berk</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-10-14T08:28:40+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-15:/13098</id>
+	<link href="http://www.viedemerde.fr/inclassable/8628465" rel="alternate" type="text/html"/>
+	<title type="html">Orya a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, alors que je traverse en voiture au ralenti une petite rue de mon quartier, une parfait...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, alors que je traverse en voiture au ralenti une petite rue de mon quartier, une parfaite inconnue a ouvert ma porti&egrave;re c&ocirc;t&eacute; passager, vol&eacute; la baguette de pain pos&eacute;e sur le si&egrave;ge, a claqu&eacute; la porti&egrave;re, puis est repartie l'air de rien. VDM</p></body></html>
+]]></content>
+	<updated>2015-10-14T08:54:45+00:00</updated>
+	<author><name>Orya</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-10-14T08:54:45+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-15:/13142</id>
+	<link href="http://grisebouille.net/ailleurs-cest-pire/" rel="alternate" type="text/html"/>
+	<title type="html">Ailleurs, c’est pire | Grise Bouille</title>
+	<summary type="html"><![CDATA[C'est pertinent (via http://tools.aldarone.fr/share/?T9LkJA)(Permalink)]]></summary>
+	<content type="html"><![CDATA[<html><body><p>C'est pertinent (via <a href="http://tools.aldarone.fr/share/?T9LkJA" rel="noreferrer" target="_blank">http://tools.aldarone.fr/share/?T9LkJA</a>)<br>(<a href="http://sebsauvage.net/links/?1GEVvg" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-14T06:06:54+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://sebsauvage.net/links/</id>
+		<link rel="self" href="http://sebsauvage.net/links/"/>
+		<updated>2015-10-14T06:06:54+00:00</updated>
+		<title>Liens en vrac de sebsauvage</title></source>
+
+	<category term="society"/>
+
+	<category term="psychology"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-15:/12858</id>
@@ -1487,131 +1581,6 @@ An attack on Titan
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-10-05T03:50:00+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-06:/11507</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/130578376423" rel="alternate" type="text/html"/>
-	<title type="html">catsbeaversandducks:
-
-Reasons Cats Ruin Your Life - By Adam...</title>
-	<summary type="html"><![CDATA[        catsbeaversandducks:
-
-Reasons Cats Ruin Your Life - By Adam Ellis
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/4e15a4ba65c7e43fa14d3937aab465a3/tumblr_nvre2husQ71qh66wqo1_500.jpg"><br><br><img src="http://40.media.tumblr.com/4e78043af38cad7b6430c3330e8b091d/tumblr_nvre2husQ71qh66wqo2_500.jpg"><br><br><img src="http://40.media.tumblr.com/b3243bf165355ee2252f64760288959e/tumblr_nvre2husQ71qh66wqo3_500.jpg"><br><br><img src="http://40.media.tumblr.com/b9b550633a29c33f8284f66ae4186ed8/tumblr_nvre2husQ71qh66wqo4_500.jpg"><br><br><img src="http://41.media.tumblr.com/fa8682f4cb4dfe88b98545d9926dcc7e/tumblr_nvre2husQ71qh66wqo5_500.jpg"><br><br><img src="http://40.media.tumblr.com/8ebbfa8a33116555624874f08b5197a4/tumblr_nvre2husQ71qh66wqo6_500.jpg"><br><br><img src="http://41.media.tumblr.com/408ae78fd65bebe2180f68e879ec823f/tumblr_nvre2husQ71qh66wqo8_500.jpg"><br><br><img src="http://36.media.tumblr.com/68e96af3dc7f06e1013ac2c590138ced/tumblr_nvre2husQ71qh66wqo9_500.jpg"><br><br><p><a href="http://catsbeaversandducks.tumblr.com/post/130560925506" target="_blank" rel="noreferrer">catsbeaversandducks</a>:</p>
-<blockquote>
-<p><b>Reasons Cats Ruin Your Life</b> - By <a href="https://www.facebook.com/buzzfeedadam" target="_blank" rel="noreferrer">Adam Ellis</a></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-05T22:54:21+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-05T22:54:21+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-06:/11500</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/130618829008" rel="alternate" type="text/html"/>
-	<title type="html">4gifs:
-
-The struggle of a Concert Dad</title>
-	<summary type="html"><![CDATA[4gifs:
-
-The struggle of a Concert Dad
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/d3fecd5e66033b52aa03daca446b97c0/tumblr_nvskqrp4Gz1tlb56zo1_400.gif"><br><br><p><a href="http://4gifs.tumblr.com/post/130608310089" target="_blank" rel="noreferrer">4gifs</a>:</p>
-<blockquote>
-<p>The struggle of a Concert Dad</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-06T14:46:30+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-06T14:46:30+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-06:/11579</id>
-	<link href="http://mememaster.tumblr.com/post/130597733814" rel="alternate" type="text/html"/>
-	<title type="html">thegreenwolf:
-
-sisterofthewolves:
-
-Red wolves (canis...</title>
-	<summary type="html"><![CDATA[thegreenwolf:
-
-sisterofthewolves:
-
-Red wolves (canis rufus)
-source
-
-There is a lot of stuff going on...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/c95e974521784bf174fb8991fb556c64/tumblr_mrbv22KikQ1s7i1rro1_500.jpg"><br><br><p><a href="http://thegreenwolf.tumblr.com/post/110328938562" target="_blank" rel="noreferrer">thegreenwolf</a>:</p>
-<blockquote>
-<p><a href="http://sisterofthewolves.tumblr.com/post/58149617993" target="_blank" rel="noreferrer">sisterofthewolves</a>:</p>
-<blockquote>
-<p><b>Red wolves (canis rufus</b>)</p>
-<p><a href="http://www.flickr.com/photos/laura-kali/9396601979/" target="_blank" rel="noreferrer"><i>source</i></a></p>
-</blockquote>
-<p>There is a lot of stuff going on in this image.</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-06T04:20:24+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-06T04:20:24+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-06:/11558</id>
-	<link href="http://kawaiidesune.tumblr.com/post/130611765118" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/9b7e07596af83f653d77d10f7f659176/tumblr_numlhzEbhj1u7b31go1_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-10-06T11:36:55+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://kawaiidesune.tumblr.com/</id>
-		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
-		<updated>2015-10-06T11:36:55+00:00</updated>
-		<title>Kawaii desu ne</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-06:/11608</id>
-	<link href="http://www.viedemerde.fr/inclassable/8625088" rel="alternate" type="text/html"/>
-	<title type="html">Anonyme a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, durant un cours de dessin, ma professeur, un peu âgée, me fait une démonstration dans m...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, durant un cours de dessin, ma professeur, un peu &acirc;g&eacute;e, me fait une d&eacute;monstration dans mon carnet. Quelques minutes plus tard, elle revient et demande &agrave; voir mes croquis. Elle s'est extasi&eacute;e devant son propre dessin. VDM</p></body></html>
-]]></content>
-	<updated>2015-10-05T17:39:27+00:00</updated>
-	<author><name>Anonyme</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-10-05T17:39:27+00:00</updated>
-		<title>Vie de merde</title></source>
 
 
 </entry>
