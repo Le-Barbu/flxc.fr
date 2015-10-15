@@ -4,11 +4,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-04T20:35:37+00:00</updated>
+<updated>2015-10-06T14:15:40+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-15:/12905</id>
+	<link href="http://www.youtube.com/watch?v=CLiGp0xVz1Q" rel="alternate" type="text/html"/>
+	<title type="html">Tu veux faire le crapaud avec Rocco Siffredi ? #DansTonFlux 50</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-15T18:50:34+00:00</updated>
+	<author><name>Dans Ton Flux</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCARLZnOtuJnFoX84i8Cli7w</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCARLZnOtuJnFoX84i8Cli7w"/>
+		<updated>2015-10-15T18:50:34+00:00</updated>
+		<title>Dans Ton Flux</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/CLiGp0xVz1Q?version=3"/>
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-11:/12638</id>
+	<link href="http://oglaf.com/hotbroiler/" rel="alternate" type="text/html"/>
+	<title type="html">Hot Broiler</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><div><p><img src="http://media.oglaf.com/story/tthotbroiler.gif"></p><p><a href="http://oglaf.com/hotbroiler/" rel="noreferrer" target="_blank"><img src="http://media.oglaf.com/archive/arc_hotbroiler.png" width="400" height="100" border="0" alt="http://oglaf.com/hotbroiler/"></a></p></div></body></html>
+]]></content>
+	<updated>2015-10-11T14:10:51+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://oglaf.com/latest/</id>
+		<link rel="self" href="http://oglaf.com/latest/"/>
+		<updated>2015-10-11T14:10:51+00:00</updated>
+		<title>Oglaf! -- Comics. Often dirty.</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-09:/12328</id>
@@ -1574,49 +1614,6 @@ There is a lot of stuff going on...]]></summary>
 		<title>Liens en vrac de sebsauvage</title></source>
 
 	<category term="streisand"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-05:/11375</id>
-	<link href="http://mememaster.tumblr.com/post/130544785834" rel="alternate" type="text/html"/>
-	<title type="html">flightcub:
-
-*capitalist voice* well, we could make sure everyone lives comfortably, but it would...</title>
-	<summary type="html"><![CDATA[flightcub:
-
-*capitalist voice* well, we could make sure everyone lives comfortably, but it would mak...]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://flightcub.tumblr.com/post/127798125097" target="_blank" rel="noreferrer">flightcub</a>:</p>
-<blockquote>
-<p>*capitalist voice* well, we could make sure everyone lives comfortably, but it would make the money sad</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-05T12:06:19+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-05T12:06:19+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-05:/11420</id>
-	<link href="http://www.viedemerde.fr/sexe/8624805" rel="alternate" type="text/html"/>
-	<title type="html">pompir a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, ça fait trois jours que mon frère a pris le contrôle de mon ordinateur, mon téléphone, ...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, &ccedil;a fait trois jours que mon fr&egrave;re a pris le contr&ocirc;le de mon ordinateur, mon t&eacute;l&eacute;phone, ma tablette et ma t&eacute;l&eacute;, sur lesquels il diffuse du porno sado-masochiste en continu. Un conseil : ne vous f&acirc;chez jamais avec un ing&eacute;nieur informaticien. VDM</p></body></html>
-]]></content>
-	<updated>2015-10-04T20:35:37+00:00</updated>
-	<author><name>pompir</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-10-04T20:35:37+00:00</updated>
-		<title>Vie de merde</title></source>
 
 
 </entry>
