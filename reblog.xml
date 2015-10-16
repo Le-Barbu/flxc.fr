@@ -4,11 +4,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-06T19:39:05+00:00</updated>
+<updated>2015-10-07T08:34:54+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-16:/13213</id>
+	<link href="http://mememaster.tumblr.com/post/131257858739" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[        ]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/b960517764e262a834f430f3ebce7696/tumblr_ns3ycj85fP1rw6hhbo1_500.jpg"><br><br><img src="http://36.media.tumblr.com/1507caf1dad5683590b2922b9b8167a3/tumblr_ns3ycj85fP1rw6hhbo2_500.jpg"><br><br><img src="http://41.media.tumblr.com/2be9481ed768852585f61f05c10d9db6/tumblr_ns3ycj85fP1rw6hhbo3_500.jpg"><br><br><img src="http://41.media.tumblr.com/6c75018779a5bbe53a4d4049cf528663/tumblr_ns3ycj85fP1rw6hhbo4_500.jpg"><br><br><img src="http://40.media.tumblr.com/9787028b94dc9facc176d97296380c89/tumblr_ns3ycj85fP1rw6hhbo5_500.jpg"><br><br><img src="http://41.media.tumblr.com/1517f396ccfd5d499474d27a7a480181/tumblr_ns3ycj85fP1rw6hhbo6_500.jpg"><br><br><img src="http://40.media.tumblr.com/a2592c24b6787b7faf51c2c86a4a4c1f/tumblr_ns3ycj85fP1rw6hhbo7_500.jpg"><br><br><img src="http://40.media.tumblr.com/3717bfa6262d89b8383b82c409684d2c/tumblr_ns3ycj85fP1rw6hhbo8_500.jpg"><br><br></body></html>
+]]></content>
+	<updated>2015-10-16T02:14:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-10-16T02:14:01+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-16:/13204</id>
+	<link href="http://mememaster.tumblr.com/post/131262498154" rel="alternate" type="text/html"/>
+	<title type="html">Video</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><br><br></body></html>
+]]></content>
+	<updated>2015-10-16T03:35:47+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-10-16T03:35:47+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-16:/13201</id>
+	<link href="http://mememaster.tumblr.com/post/131263116249" rel="alternate" type="text/html"/>
+	<title type="html">animal-factbook:
+
+15 minutes into photosynthesis and chill</title>
+	<summary type="html"><![CDATA[animal-factbook:
+
+15 minutes into photosynthesis and chill
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/d887477d78e4f1a89b068fba984d2930/tumblr_nw98r0vbkL1upwzm1o1_500.jpg"><br><br><p><a href="http://animal-factbook.tumblr.com/post/131211459540" target="_blank" rel="noreferrer">animal-factbook</a>:</p>
+<blockquote>
+<p>15 minutes into photosynthesis and chill</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-10-16T03:47:07+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-10-16T03:47:07+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-16:/13236</id>
@@ -1466,71 +1528,6 @@ Do bananas float?...]]></summary>
 		<link rel="self" href="http://danstonchat.com/"/>
 		<updated>2015-10-07T08:34:54+00:00</updated>
 		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-07:/11816</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/130685535425" rel="alternate" type="text/html"/>
-	<title type="html">will5nevercome:
-
-Absent
-(Buy a print of this comic)</title>
-	<summary type="html"><![CDATA[will5nevercome:
-
-Absent
-(Buy a print of this comic)
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/a760f0e03465db18c7aca43237e07e02/tumblr_nvtx13CafF1qfxn77o1_500.png"><br><br><p><a href="http://will5nevercome.tumblr.com/post/130681712867" target="_blank" rel="noreferrer">will5nevercome</a>:</p>
-<blockquote>
-<p>Absent</p>
-<p>(<a href="http://shop.will5nevercome.com/product/single-comic-print-signed?comicID=483" target="_blank" rel="noreferrer">Buy a print of this comic</a>)<br></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-07T15:00:17+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-07T15:00:17+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-07:/11826</id>
-	<link href="http://mememaster.tumblr.com/post/130687276804" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/127e37c60a2caf47a9c2a389a512f68f/tumblr_nqqphursiS1qz4dkmo1_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-10-07T15:37:59+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-07T15:37:59+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-07:/11837</id>
-	<link href="http://www.viedemerde.fr/sante/8625553" rel="alternate" type="text/html"/>
-	<title type="html">Anonyme a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, et depuis ma naissance, j'ai une excroissance sur le côté droit du visage de la superfi...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, et depuis ma naissance, j'ai une excroissance sur le c&ocirc;t&eacute; droit du visage de la superficie d'un doigt. &Ccedil;a n'aurait pas &eacute;t&eacute; trop d&eacute;rangeant si elle n'appuyait pas sur "raccrocher" chaque fois que je porte mon t&eacute;l&eacute;phone &agrave; l'oreille. VDM</p></body></html>
-]]></content>
-	<updated>2015-10-06T19:39:05+00:00</updated>
-	<author><name>Anonyme</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-10-06T19:39:05+00:00</updated>
-		<title>Vie de merde</title></source>
 
 
 </entry>
