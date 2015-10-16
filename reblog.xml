@@ -4,11 +4,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-07T02:46:53+00:00</updated>
+<updated>2015-10-07T01:51:42+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-16:/13375</id>
+	<link href="http://www.mediapart.fr/journal/france/300915/le-jt-de-la-parisienne-liberee" rel="alternate" type="text/html"/>
+	<title type="html">Le JT de la Parisienne Libérée - Page 1 | Mediapart</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-16T17:43:23+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://flxc.fr/rss</id>
+		<link rel="self" href="http://flxc.fr/rss"/>
+		<updated>2015-10-16T17:43:23+00:00</updated>
+		<title>Published articles</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-11:/12717</id>
@@ -1496,55 +1513,6 @@ Kevin should also probably have an actual slide to look at.
 		<id>http://mememaster.tumblr.com/</id>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-10-07T01:51:42+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-07:/11759</id>
-	<link href="http://mememaster.tumblr.com/post/130658319549" rel="alternate" type="text/html"/>
-	<title type="html">liasangria:
-
-doctorstoptheimpala:
-
-klainersandcrisscolfers:
-
-doctorstoptheimpala:
-
-Do bananas...</title>
-	<summary type="html"><![CDATA[liasangria:
-
-doctorstoptheimpala:
-
-klainersandcrisscolfers:
-
-doctorstoptheimpala:
-
-Do bananas float?...]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://liasangria.tumblr.com/post/69839395177/doctorstoptheimpala-klainersandcrisscolfers" target="_blank" rel="noreferrer">liasangria</a>:</p>
-<blockquote>
-<p><a href="http://doctorstoptheimpala.tumblr.com" target="_blank" rel="noreferrer">doctorstoptheimpala</a>:</p>
-<blockquote>
-<p><a href="http://klainersandcrisscolfers.tumblr.com/post/45941510064/klainecrisscolfer-do-bananas-float-yes" target="_blank" rel="noreferrer">klainersandcrisscolfers</a>:</p>
-<blockquote>
-<p><a href="http://doctorstoptheimpala.tumblr.com" target="_blank" rel="noreferrer">doctorstoptheimpala</a>:</p>
-<blockquote>
-<p>Do bananas float?</p>
-</blockquote>
-<div><img src="http://33.media.tumblr.com/029f42d5a3e90396eb59425238927f9b/tumblr_inline_mk16zt6vwV1qz4rgp.jpg" alt="image"><p>Yes. Yes they do.</p>
-</div></blockquote>
-<p>thank you</p>
-</blockquote>
-<p>that is a really nice photograph of that floating banana</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-07T02:46:53+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-07T02:46:53+00:00</updated>
 		<title>Comedy Blog</title></source>
 
 
