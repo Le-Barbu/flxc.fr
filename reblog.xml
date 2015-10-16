@@ -4,11 +4,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-07T08:34:54+00:00</updated>
+<updated>2015-10-07T07:06:59+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-16:/13226</id>
+	<link href="http://la-bas.org/la-bas-magazine/entretiens/le-hareng-de-bismarck" rel="alternate" type="text/html"/>
+	<title type="html">LE HARENG DE BISMARCK</title>
+	<summary type="html"><![CDATA[   Play  
+
+MÉLENCHON : LE POISON ALLEMAND EST L'OPIUM DES RICHES
+par Là-bas si j'y suis https://vime...]]></summary>
+	<content type="html"><![CDATA[<html><body><div><div> <div> <div>  </div> </div>
+<div><a href="https://vimeo.com/142532718" rel="noreferrer" target="_blank">M&Eacute;LENCHON : LE POISON ALLEMAND EST L'OPIUM DES RICHES</a>
+<br><i>par <a href="http://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></i></div> <div><a href="https://vimeo.com/142532718" rel="noreferrer" target="_blank">https://vimeo.com/142532718</a></div>
+</div><h5>Un entretien avec Jean-Luc M&Eacute;LENCHON &agrave; &eacute;couter en int&eacute;gralit&eacute; sur : <a href="http://la-bas.org/les-emissions-258/les-emissions/2015-16/melenchon-poison-allemand" rel="noreferrer" target="_blank">la-bas.org/les-emissions-258/les-emissions/2015-16/melenchon-poison-allemand</a></h5></div>
+		<div><p><i>&laquo; L'Allemagne, c'est un mod&egrave;le pour ceux qui ne s'int&eacute;ressent pas &agrave; la vie, (...) personne n'a envie d'&ecirc;tre allemand, pas m&ecirc;me les Allemands ! La preuve : ils ne font pas d'enfants. &raquo;</i> <strong>Jean-Luc M&eacute;lenchon</strong> n'y va pas de main morte avec nos voisins et leur mod&egrave;le tant admir&eacute; par nos &eacute;lites hexagonales. Apr&egrave;s l'&eacute;pisode grec et le scandale Volkswagen, il enfonce le clou.</p> <p><i>&laquo; Les moutons fran&ccedil;ais b&ecirc;lent pitoyablement dans leur enclos quand claque le fouet des faces de pierre qui gouvernent outre-Rhin. (...) Certes en France il y a toujours eu un fort parti de germanol&acirc;tres, (...) mais comment peuvent-ils aujourd'hui supporter que les dirigeants allemands et leurs m&eacute;diacrates parlent sur ce ton &agrave; la France et au reste de l'Europe ? Pourquoi taisent-ils le naufrage auquel l'Allemagne se destine ? Pourquoi nous demandent-ils d'admirer un pr&eacute;sent aussi calamiteux et un futur aussi pitoyable ? &raquo;</i></p> <p>Le scandale Volkswagen, le m&eacute;pris pour la Gr&egrave;ce, l'ordolib&eacute;ralisme, la r&eacute;unification (dont on c&eacute;l&egrave;bre les 25 ans), la loi du sang, l'accueil des r&eacute;fugi&eacute;s... <strong>M&eacute;lenchon </strong> d&eacute;monte le mod&egrave;le allemand sans prendre de gant. Il y a urgence, <i>&laquo; le poison allemand est l'opium des riches. Changer nos vies et faire changer l'Allemagne est une seule et m&ecirc;me chose. Il faut le faire avant qu'il ne soit trop tard. &raquo;</i></p>
+<div>Entretien : <strong>Daniel MERMET</strong><br>
+R&eacute;alisation : <strong>Jonathan DUONG</strong><br>
+Image : <strong>Lucile LATOUR</strong></div></div>
+		<div><p><span>
+<a href="http://www.plon.fr/ouvrage/le-hareng-de-bismarck/9782259241328" rel="noreferrer" target="_blank"><img src="http://la-bas.org/IMG/jpg/9782259241328.jpg" width="130" height="200" alt=""></a></span><a href="http://www.plon.fr/ouvrage/le-hareng-de-bismarck/9782259241328" rel="noreferrer" target="_blank"><i>Le hareng de Bismarck, ou le poison allemand</i></a>, un livre de <strong>Jean-Luc M&Eacute;LENCHON</strong> (2015, &eacute;ditions Plon)</p></div></body></html>
+]]></content>
+	<updated>2015-10-16T09:40:38+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://la-bas.org/</id>
+		<link rel="self" href="http://la-bas.org/"/>
+		<updated>2015-10-16T09:40:38+00:00</updated>
+		<title>Là-bas si j'y suis</title></source>
+
+	<category term="video"/>
+
+	<category term="union européenne"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-16:/13213</id>
@@ -1510,24 +1544,6 @@ Do bananas float?...]]></summary>
 		<title>Liens en vrac de sebsauvage</title></source>
 
 	<category term="games"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-07:/11789</id>
-	<link href="http://danstonchat.com/16864.html" rel="alternate" type="text/html"/>
-	<title type="html">DansTonChat #16864</title>
-	<summary type="html"><![CDATA[Lio : Fondue chez Patrick le 12 décembre, Gary est ok. T&#039;es in ?Soso : T&#039;es au courant que...]]></summary>
-	<content type="html"><![CDATA[<html><body><span>Lio :</span> Fondue chez Patrick le 12 d&eacute;cembre, Gary est ok. T'es in ?<br><span>Soso :</span> T'es au courant que tes amis viennent tout droit du dessin anim&eacute; "Bob l'&eacute;ponge"...</body></html>
-]]></content>
-	<updated>2015-10-07T08:34:54+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://danstonchat.com/</id>
-		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-10-07T08:34:54+00:00</updated>
-		<title>DansTonChat</title></source>
 
 
 </entry>
