@@ -4,11 +4,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-07T07:06:59+00:00</updated>
+<updated>2015-10-07T02:46:53+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-11:/12717</id>
+	<link href="http://www.youtube.com/watch?v=Q8eIx-4zd8U" rel="alternate" type="text/html"/>
+	<title type="html">LE RIRE ULTIME !</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-11T19:00:57+00:00</updated>
+	<author><name>SQUEEZIE</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCWeg2Pkate69NFdBeuRFTAw</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCWeg2Pkate69NFdBeuRFTAw"/>
+		<updated>2015-10-11T19:00:57+00:00</updated>
+		<title>SQUEEZIE</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/Q8eIx-4zd8U?version=3"/>
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-16:/13226</id>
@@ -1524,26 +1546,6 @@ Do bananas float?...]]></summary>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-10-07T02:46:53+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-07:/11785</id>
-	<link href="http://www.lesnumeriques.com/jeux-video/dowino-a-blind-legend-p20709/a-blind-legend-jeu-a-jouer-yeux-fermes-disponible-sur-mobile-n45999.html" rel="alternate" type="text/html"/>
-	<title type="html">A Blind Legend : le jeu à jouer les yeux fermés, disponible sur mobile</title>
-	<summary type="html"><![CDATA[Ah tiens, ça semble original comme jeu. à essayer...(Permalink)]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Ah tiens, &ccedil;a semble original comme jeu. &agrave; essayer...<br>(<a href="http://sebsauvage.net/links/?sk832A" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-07T07:06:59+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://sebsauvage.net/links/</id>
-		<link rel="self" href="http://sebsauvage.net/links/"/>
-		<updated>2015-10-07T07:06:59+00:00</updated>
-		<title>Liens en vrac de sebsauvage</title></source>
-
-	<category term="games"/>
 
 
 </entry>
