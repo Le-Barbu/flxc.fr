@@ -4,11 +4,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-06T05:00:00+00:00</updated>
+<updated>2015-10-06T19:39:05+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-16:/13236</id>
+	<link href="http://www.viedemerde.fr/travail/8629049" rel="alternate" type="text/html"/>
+	<title type="html">Anonyme a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, prof au lycée, je donne par inadvertance un coup de coude dans le store blanc du vidéop...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, prof au lyc&eacute;e, je donne par inadvertance un coup de coude dans le store blanc du vid&eacute;oprojecteur, qui remonte brusquement, percute l'horloge au dessus du tableau, qui me tombe sur la t&ecirc;te. Le tout devant mes &eacute;l&egrave;ves. VDM</p></body></html>
+]]></content>
+	<updated>2015-10-15T16:48:28+00:00</updated>
+	<author><name>Anonyme</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-10-15T16:48:28+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-16:/13296</id>
+	<link href="http://mememaster.tumblr.com/post/131279891354" rel="alternate" type="text/html"/>
+	<title type="html">kingfucko:
+coolthingoftheday:
+
+
+
+Bonsai apple tree growing a...</title>
+	<summary type="html"><![CDATA[kingfucko:
+coolthingoftheday:
+
+
+
+Bonsai apple tree growing a full-sized apple.
+
+
+it must have worked...]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/73eb9f8c0e3fe1cb01c7eafdd2dff06b/tumblr_nt4lgskdT01u38l26o1_500.jpg"><br><br><p><a href="http://kingfucko.tumblr.com/post/130925281751" target="_blank" rel="noreferrer">kingfucko</a>:</p><blockquote>
+<p><a href="http://coolthingoftheday.tumblr.com/post/130896224360" target="_blank" rel="noreferrer">coolthingoftheday</a>:</p>
+<blockquote>
+<p>
+
+Bonsai apple tree growing a full-sized apple.
+<br></p>
+</blockquote>
+<p>it must have worked so hard!<br></p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-10-16T12:16:34+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-10-16T12:16:34+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-15:/13197</id>
@@ -1473,56 +1531,6 @@ Absent
 		<link rel="self" href="http://www.viedemerde.fr"/>
 		<updated>2015-10-06T19:39:05+00:00</updated>
 		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-07:/11700</id>
-	<link href="http://www.luc-damas.fr/humeurs/vdcdm/" rel="alternate" type="text/html"/>
-	<title type="html">VdCdM</title>
-	<summary type="html"><![CDATA[
-]]></summary>
-	<content type="html"><![CDATA[<html><body><p><img src="http://www.luc-damas.fr/humeurs/images/vdcdm.png" alt="vdcdm" width="800" height="446"></p>
-<img src="http://feeds.feedburner.com/~r/lucdamas/humeurs/~4/3ky3Swcce1o" height="1" width="1" alt=""></body></html>
-]]></content>
-	<updated>2015-10-06T18:57:09+00:00</updated>
-	<author><name>Luc</name></author>
-	<source>
-		<id>http://www.luc-damas.fr/humeurs</id>
-		<link rel="self" href="http://www.luc-damas.fr/humeurs"/>
-		<updated>2015-10-06T18:57:09+00:00</updated>
-		<title>Humeurs illustrées</title></source>
-
-	<category term="enseignement"/>
-
-	<category term="informatique"/>
-
-	<category term="css"/>
-
-	<category term="js"/>
-
-	<category term="programmation"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-06:/11602</id>
-	<link href="http://www.explosm.net/comics/4078/" rel="alternate" type="text/html"/>
-	<title type="html">Comic for 2015.10.06</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="//files.explosm.net/comics/Rob/going-to-be-a-dad2.png"></body></html>
-]]></content>
-	<updated>2015-10-06T05:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.explosm.net/rss.php</id>
-		<link rel="self" href="http://www.explosm.net/rss.php"/>
-		<updated>2015-10-06T05:00:00+00:00</updated>
-		<title>Explosm.net</title></source>
-
-	<category term="comics"/>
 
 
 </entry>
