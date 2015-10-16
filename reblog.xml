@@ -4,11 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-07T01:51:42+00:00</updated>
+<updated>2015-10-06T21:45:35+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-16:/13412</id>
+	<link href="http://www.dailymotion.com/video/x39wbfq" rel="alternate" type="text/html"/>
+	<title type="html">Sarkozy dit une phrase incompréhensible - vidéo dailymotion</title>
+	<summary type="html"><![CDATA[Sarkozy dit une phrase incompréhensible - vidéo dailymotion]]></summary>
+	<content type="html"><![CDATA[<html><body><a href="http://www.dailymotion.com/video/x39wbfq" rel="noreferrer" target="_blank"><img src="http://s1.dmcdn.net/O4A3a/526x297-gB9.jpg"></a><br><a href="http://www.dailymotion.com/video/x39wbfq" rel="noreferrer" target="_blank">Sarkozy dit une phrase incompr&eacute;hensible - vid&eacute;o dailymotion</a></body></html>
+]]></content>
+	<updated>2015-10-16T16:33:50+00:00</updated>
+	<author><name>Dailymotion Bridge</name></author>
+	<source>
+		<id>https://www.dailymotion.com/</id>
+		<link rel="self" href="https://www.dailymotion.com/"/>
+		<updated>2015-10-16T16:33:50+00:00</updated>
+		<title>Spi0n</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-16:/13375</id>
@@ -1471,48 +1489,6 @@ This is probably my favorite photo on the internet.
 		<id>http://mememaster.tumblr.com/</id>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-10-06T21:45:35+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-07:/11761</id>
-	<link href="http://mememaster.tumblr.com/post/130654929894" rel="alternate" type="text/html"/>
-	<title type="html">ummzaksbest:
-
-asapscience:
-
-biolegend:
-
-Kevin should also...</title>
-	<summary type="html"><![CDATA[ummzaksbest:
-
-asapscience:
-
-biolegend:
-
-Kevin should also probably have an actual slide to look at.
-...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/74c361b36eca8280eb02796fbe3b0933/tumblr_nqrpkxcDcL1rjpadvo1_500.jpg"><br><br><p><a href="http://ummzaksbest.tumblr.com/post/124429481891" target="_blank" rel="noreferrer">ummzaksbest</a>:</p>
-<blockquote>
-<p><a href="http://asapscience.tumblr.com/post/122867858533" target="_blank" rel="noreferrer">asapscience</a>:</p>
-<blockquote>
-<p><a href="http://biolegend.tumblr.com/post/122865896704" target="_blank" rel="noreferrer">biolegend</a>:</p>
-<blockquote>
-<p>Kevin should also probably have an actual slide to look at.</p>
-</blockquote>
-<p>kevin, slide or not, we appreciate your effort.&nbsp;</p>
-</blockquote>
-<p>Support Kevin&rsquo;s scientific endeavors.</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-07T01:51:42+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-07T01:51:42+00:00</updated>
 		<title>Comedy Blog</title></source>
 
 
