@@ -4,25 +4,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-07T02:13:00+00:00</updated>
+<updated>2015-10-07T16:06:31+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
 
 <entry>
+	<id>tag:flxc.fr,2015-10-16:/13393</id>
+	<link href="http://mememaster.tumblr.com/post/131297317009" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/59837c86013b54594a1addde0b72362d/tumblr_mvull4IkUW1rgs4eco1_500.jpg"><br><br></body></html>
+]]></content>
+	<updated>2015-10-16T18:41:39+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-10-16T18:41:39+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-16:/13431</id>
+	<link href="http://kawaiidesune.tumblr.com/post/131301835313" rel="alternate" type="text/html"/>
+	<title type="html">everydaylouie:
+
+cookin’ up trouble</title>
+	<summary type="html"><![CDATA[everydaylouie:
+
+cookin’ up trouble
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/dd1140e2162150c1b748621f5563788b/tumblr_ndegwhIKkb1r85hlio1_500.gif"><br><br><p><a href="http://everydaylouie.tumblr.com/post/99933224259" rel="noreferrer" target="_blank">everydaylouie</a>:</p>
+<blockquote>
+<p><i>cookin&rsquo; up trouble</i></p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-10-16T20:03:37+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://kawaiidesune.tumblr.com/</id>
+		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
+		<updated>2015-10-16T20:03:37+00:00</updated>
+		<title>Kawaii desu ne</title></source>
+
+
+</entry>
+
+<entry>
 	<id>tag:flxc.fr,2015-10-17:/13467</id>
 	<link href="http://www.allocine.fr" rel="alternate" type="text/html"/>
-	<title type="html">2015-10-17 15:21:18</title>
+	<title type="html">2015-10-17 15:53:47</title>
 	<summary type="html"><![CDATA[       04:06          Faux Raccord N°138 - Les gaffes de Une Nuit en Enfer      ]]></summary>
 	<content type="html"><![CDATA[<html><body><div> <span> <img data-attr='{"src":"http://fr.web.img1.acsta.net/c_120_68/videothumbnails/15/10/15/18/39/208311.jpg"}' src="http://fr.web.img6.acsta.net/c_120_68/commons/emptymedia/entities/empty_videoportal.jpg"></span> <div> <time datetime="PT4M6S"><i></i> 04:06 </time></div> </div> <figcaption><div> <div> <div> <span> <span> <strong>Faux Raccord</strong> N&deg;138 - Les gaffes de Une Nuit en Enfer </span> </span> </div> </div> </div> </figcaption></body></html>
 ]]></content>
-	<updated>2015-10-17T15:21:18+00:00</updated>
+	<updated>2015-10-17T15:53:47+00:00</updated>
 	<author><name></name></author>
 	<source>
 		<id>http://www.allocine.fr/video/programme-12284/saison-24580//</id>
 		<link rel="self" href="http://www.allocine.fr/video/programme-12284/saison-24580//"/>
-		<updated>2015-10-17T15:21:18+00:00</updated>
+		<updated>2015-10-17T15:53:47+00:00</updated>
 		<title>Allo Cine : Faux Raccord</title></source>
 
 
@@ -1425,63 +1469,6 @@ this cat looks like ron swanson
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-10-07T16:06:31+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-07:/11881</id>
-	<link href="http://mememaster.tumblr.com/post/130688747499" rel="alternate" type="text/html"/>
-	<title type="html">linkhayashi:
-
-vangoghsdad:
-
-I fucking love Daniel...</title>
-	<summary type="html"><![CDATA[
-
-    
-
-linkhayashi:
-
-vangoghsdad:
-
-I fucking love Daniel Radcliffe.
-
-When the wizard thing doesn’t ...]]></summary>
-	<content type="html"><![CDATA[<html><body><video width="400" height="225" poster="http://media.tumblr.com/tumblr_nuajayIMKC1t19itf_frame1.jpg" preload="none" data-crt-video data-crt-options='{"duration":114,"hdUrl":"http:\/\/mememaster.tumblr.com\/video_file\/130688747499\/tumblr_nuajayIMKC1t19itf","filmstrip":{"url":"http:\/\/38.media.tumblr.com\/previews\/tumblr_nuajayIMKC1t19itf_filmstrip.jpg","width":"200","height":"112"}}'><source src="http://mememaster.tumblr.com/video_file/130688747499/tumblr_nuajayIMKC1t19itf/480" type="video/mp4"></source></video><br><br><p><a href="http://linkhayashi.tumblr.com/post/130641696879" target="_blank" rel="noreferrer">linkhayashi</a>:</p>
-<blockquote>
-<p><a href="http://vangoghsdad.tumblr.com/post/128814978317" target="_blank" rel="noreferrer">vangoghsdad</a>:</p>
-<blockquote>
-<p>I fucking love Daniel Radcliffe.</p>
-</blockquote>
-<p>When the wizard thing doesn&rsquo;t work out. But seriously this is fucking awesome XD<br></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-07T16:08:39+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-07T16:08:39+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-07:/11706</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/130656214528" rel="alternate" type="text/html"/>
-	<title type="html">(photo by antmagic1)</title>
-	<summary type="html"><![CDATA[(photo by antmagic1)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/094546bdbd56108568d77639cfd57475/tumblr_nvtvhonAg01qewacoo1_r1_500.jpg"><br><br><p>(photo by&nbsp;<a href="https://www.reddit.com/user/Antmagic1" target="_blank" rel="noreferrer">antmagic1</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-07T02:13:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-07T02:13:00+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
