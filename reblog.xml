@@ -4,11 +4,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-06T22:50:21+00:00</updated>
+<updated>2015-10-06T18:45:31+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-15:/12767</id>
+	<link href="https://reflets.info/la-france-le-monsieur-plus-de-la-securite-biometrique-en-europe/" rel="alternate" type="text/html"/>
+	<title type="html">La France, le monsieur plus de la sécurité biométrique en Europe ?</title>
+	<summary type="html"><![CDATA[Si le doute persistait, nous savons désormais quel type de société souhaite le gouvernement français...]]></summary>
+	<content type="html"><![CDATA[<html><body><p><a href="https://reflets.info/wp-content/uploads/2015/10/france-smart-borders.png" data-rel="lightbox-0" title="" rel="noreferrer" target="_blank"><img src="https://reflets.info/wp-content/uploads/2015/10/france-smart-borders-350x256.png" alt="france-smart-borders" width="350" height="256"></a>Si le doute persistait, nous savons d&eacute;sormais quel type de soci&eacute;t&eacute; souhaite le gouvernement fran&ccedil;ais. Une soci&eacute;t&eacute; de la suspicion, du fichage. Le r&ecirc;ve de l&rsquo;ultra-conservateur Nicolas Sarkozy se met peu &agrave; peu en place, par le truchement d&rsquo;un gouvernement &eacute;tiquet&eacute; &agrave; gauche. Paradoxe ?</p>
+<p>La loi sur le renseignement instaure la collecte massive de donn&eacute;es pour un traitement par des algorithmes. Une violation patente de l&rsquo;un des piliers de notre d&eacute;mocratie : le secret des correspondances. Les plus r&eacute;tifs &agrave; ce changement de paradigme y voient la manifestation de la transformation du pays en Etat totalitaire. Sur le papier, ce n&rsquo;est pas compl&egrave;tement faux.</p>
+<h2>Par ici les donn&eacute;es biom&eacute;triques !</h2>
+<p>Au niveau europ&eacute;en, la France se d&eacute;marque &eacute;galement. L&rsquo;Union europ&eacute;enne voudrait instaurer un syst&egrave;me de contr&ocirc;le aux fronti&egrave;res qui fait appel au traitement des donn&eacute;es biom&eacute;triques. Pour l&rsquo;instant, le projet ne concernerait que les non-r&eacute;sidents de l&rsquo;Union europ&eacute;enne. Mais c&rsquo;&eacute;tait sans compter sur la France. En pointe de la lutte contre les m&eacute;chants terroristes qui ne manqueront pas d&rsquo;envahir Paris <a href="https://reflets.info/alerte-daesh-et-les-migrants-pourraient-envahir-radio-france/" target="_blank" rel="noreferrer">et plus sp&eacute;cifiquement Radio-France</a>, la d&eacute;l&eacute;gation fran&ccedil;aise a souhait&eacute; que ces contr&ocirc;les biom&eacute;triques (ainsi que, bien entendu, le stockage et le traitement de ces donn&eacute;es) s&rsquo;appliquent &eacute;galement aux ressortissants de l&rsquo;Union europ&eacute;enne.</p>
+<p>Un petit d&eacute;tail qui serait pass&eacute; inaper&ccedil;u sans la veille de <a href="http://www.statewatch.org/news/2015/oct/france-smart-borders-for-all.htm" target="_blank" rel="noreferrer">Statewatch</a>. <a href="https://reflets.info/wp-content/uploads/2015/10/eu-council-smart-borders-FR-12272-15.pdf" target="_blank" rel="noreferrer">Le document fran&ccedil;ais</a> appelant &agrave; l&rsquo;inclusion des r&eacute;sidents de l&rsquo;UE dans le projet &laquo;&nbsp;smart borders&nbsp;&raquo; (on dit fronti&egrave;res intelligentes, pas fronti&egrave;res intrusives) n&rsquo;est pas public. Statewatch a probablement fait une demande pour l&rsquo;obtenir (ce que nous avons &eacute;galement fait ce jour).<del></del></p>
+<p><a href="https://reflets.info/wp-content/uploads/2015/10/europe-frontieres.png" data-rel="lightbox-1" title="" rel="noreferrer" target="_blank"><img src="https://reflets.info/wp-content/uploads/2015/10/europe-frontieres-550x427.png" alt="europe-frontieres" width="550" height="427"></a></p>
+<p>L&rsquo;aspect s&eacute;mantique de ce document est int&eacute;ressant. On y retrouve toute la phras&eacute;ologie des tenants de la surveillance. Les fronti&egrave;res sont, on l&rsquo;a vu &laquo;&nbsp;intelligentes&nbsp;&raquo; et pas intrusives. Ces contr&ocirc;les biom&eacute;triques qui incluent les empreintes digitales et l&rsquo;iris, permettront de &laquo;&nbsp;fluidifier&nbsp;&raquo; et rendre ainsi plus rapides les passages aux fronti&egrave;res. Cela permettrait &eacute;galement, toujours selon la d&eacute;l&eacute;gation fran&ccedil;aise, de renforcer le principe m&ecirc;me de la libre circulation des personnes. On croirait entendre le directeur commercial d&rsquo;Amesys qui expliquait qu&rsquo;en vendant un syst&egrave;me de surveillance massive &agrave; un terroriste, on lutte contre le terrorisme&hellip;</p></body></html>
+]]></content>
+	<updated>2015-10-13T11:21:18+00:00</updated>
+	<author><name>kitetoa</name></author>
+	<source>
+		<id>https://reflets.info</id>
+		<link rel="self" href="https://reflets.info"/>
+		<updated>2015-10-13T11:21:18+00:00</updated>
+		<title>Reflets</title></source>
+
+	<category term="société"/>
+
+	<category term="technos"/>
+
+	<category term="amesys"/>
+
+	<category term="biométrie"/>
+
+	<category term="contrôle"/>
+
+	<category term="france"/>
+
+	<category term="frontières"/>
+
+	<category term="smart borders"/>
+
+	<category term="ue"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-17:/13565</id>
@@ -479,7 +521,7 @@ THAT IS THE BEST USE OF THAT PICTURE I HAVE SEEN IN A LONG TIME
 	<content type="html"><![CDATA[<html><body><p>Qu'elle est la diff&eacute;rence entre un intello et un p&eacute;dophile ? <br><br>Aucune, ils ont tout les deux saut&eacute;s la classe de CP !</p></body></html>
 ]]></content>
 	<updated>2015-10-12T00:00:00+00:00</updated>
-	<author><name></name></author>
+	<author><name>Vava</name></author>
 	<source>
 		<id>http://www.blaguesdemerde.fr//</id>
 		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
@@ -497,7 +539,7 @@ THAT IS THE BEST USE OF THAT PICTURE I HAVE SEEN IN A LONG TIME
 	<content type="html"><![CDATA[<html><body><p>Qu'est-ce qui entre par une oreille, ressort par l'autre mais reste en t&ecirc;te ?<br><br>Une pioche !</p></body></html>
 ]]></content>
 	<updated>2015-10-14T00:00:00+00:00</updated>
-	<author><name></name></author>
+	<author><name>SwapoSKop</name></author>
 	<source>
 		<id>http://www.blaguesdemerde.fr//</id>
 		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
@@ -1434,32 +1476,6 @@ Nailed it.]]></summary>
 		<id>http://tumblr.tastefullyoffensive.com/</id>
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-10-06T18:45:31+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-07:/11710</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/130644818074" rel="alternate" type="text/html"/>
-	<title type="html">4gifs:
-
-Roll out. [video]</title>
-	<summary type="html"><![CDATA[4gifs:
-
-Roll out. [video]
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://31.media.tumblr.com/51b7d1354166aad6bbacb599eb162af8/tumblr_nvtj4ghEhn1tlb56zo1_400.gif"><br><br><p><a href="http://4gifs.tumblr.com/post/130641265644" target="_blank" rel="noreferrer">4gifs</a>:</p>
-<blockquote>
-<p>Roll out. [<a href="http://www.tastefullyoffensive.com/2015/10/they-see-me-rollin.html" target="_blank" rel="noreferrer">video</a>]</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-06T22:50:21+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-06T22:50:21+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
 
 
