@@ -4,11 +4,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-07T22:30:23+00:00</updated>
+<updated>2015-10-07T17:00:21+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-19:/13780</id>
+	<link href="http://www.explosm.net/comics/4091/" rel="alternate" type="text/html"/>
+	<title type="html">Comic for 2015.10.19</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="//files.explosm.net/comics/Dave/halloweener.png"></body></html>
+]]></content>
+	<updated>2015-10-19T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.explosm.net/rss.php</id>
+		<link rel="self" href="http://www.explosm.net/rss.php"/>
+		<updated>2015-10-19T05:00:00+00:00</updated>
+		<title>Explosm.net</title></source>
+
+	<category term="comics"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-19:/13826</id>
+	<link href="http://xkcd.com/1592/" rel="alternate" type="text/html"/>
+	<title type="html">Overthinking</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://imgs.xkcd.com/comics/overthinking.png" title='On the other hand, it took us embarrassingly long to clue in to the lung cancer/cigarette thing, so I guess the real lesson is "figuring out which ideas are true is hard."' alt='On the other hand, it took us embarrassingly long to clue in to the lung cancer/cigarette thing, so I guess the real lesson is "figuring out which ideas are true is hard."'></body></html>
+]]></content>
+	<updated>2015-10-19T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://xkcd.com/</id>
+		<link rel="self" href="http://xkcd.com/"/>
+		<updated>2015-10-19T04:00:00+00:00</updated>
+		<title>xkcd.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-19:/13913</id>
+	<link href="http://mememaster.tumblr.com/post/131502326774" rel="alternate" type="text/html"/>
+	<title type="html">for a second I thought the cat was organizing them</title>
+	<summary type="html"><![CDATA[     for a second I thought the cat was organizing them]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/74bf35ea8a69403f3ff5729316e28661/tumblr_n4ssiq2InK1rvyr29o1_500.jpg"><br><br><img src="http://41.media.tumblr.com/cf74ad63569fa67363b2f08195a5fb20/tumblr_n4ssiq2InK1rvyr29o2_500.jpg"><br><br><img src="http://41.media.tumblr.com/014e74603fd2d3b53c329065db15fc1e/tumblr_n4ssiq2InK1rvyr29o3_500.jpg"><br><br><img src="http://41.media.tumblr.com/138eac4051ddeb1ad512f2d42b03b3d5/tumblr_n4ssiq2InK1rvyr29o4_500.jpg"><br><br><img src="http://40.media.tumblr.com/69f9bd7a67ea2316c9dc230a5716ba9b/tumblr_n4ssiq2InK1rvyr29o5_500.jpg"><br><br><p>for a second I thought the cat was organizing them</p></body></html>
+]]></content>
+	<updated>2015-10-19T18:42:50+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-10-19T18:42:50+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-19:/13802</id>
@@ -261,16 +317,16 @@ cookin’ up trouble
 <entry>
 	<id>tag:flxc.fr,2015-10-17:/13467</id>
 	<link href="http://www.allocine.fr" rel="alternate" type="text/html"/>
-	<title type="html">2015-10-19 19:07:30</title>
+	<title type="html">2015-10-19 19:39:23</title>
 	<summary type="html"><![CDATA[       04:06          Faux Raccord N°138 - Les gaffes de Une Nuit en Enfer      39 311 vues   ]]></summary>
 	<content type="html"><![CDATA[<html><body><div> <span> <img data-attr='{"src":"http://fr.web.img1.acsta.net/c_120_68/videothumbnails/15/10/15/18/39/208311.jpg"}' src="http://fr.web.img6.acsta.net/c_120_68/commons/emptymedia/entities/empty_videoportal.jpg"></span> <div> <time datetime="PT4M6S"><i></i> 04:06 </time></div> </div> <figcaption><div> <div> <div> <span> <span> <strong>Faux Raccord</strong> N&deg;138 - Les gaffes de Une Nuit en Enfer </span> </span> </div> </div> <div> <span>39&nbsp;311 vues</span> </div> </div> </figcaption></body></html>
 ]]></content>
-	<updated>2015-10-19T19:07:30+00:00</updated>
+	<updated>2015-10-19T19:39:23+00:00</updated>
 	<author><name></name></author>
 	<source>
 		<id>http://www.allocine.fr/video/programme-12284/saison-24580//</id>
 		<link rel="self" href="http://www.allocine.fr/video/programme-12284/saison-24580//"/>
-		<updated>2015-10-19T19:07:30+00:00</updated>
+		<updated>2015-10-19T19:39:23+00:00</updated>
 		<title>Allo Cine : Faux Raccord</title></source>
 
 
@@ -1376,84 +1432,6 @@ small overly dressed child found laying in leaf pile for hours 
 		<id>http://tumblr.tastefullyoffensive.com/</id>
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-10-07T17:00:21+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-07:/11943</id>
-	<link href="http://mememaster.tumblr.com/post/130700795539" rel="alternate" type="text/html"/>
-	<title type="html">dcstreet:
-
-micdotcom:
-
-Watch: A Texas mom took on textbook...</title>
-	<summary type="html"><![CDATA[        dcstreet:
-
-micdotcom:
-
-Watch: A Texas mom took on textbook writers for erasing slavery — and...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://31.media.tumblr.com/469ae6e79751696e74aed1f31516e282/tumblr_nvt2kwsYUZ1r83d7lo1_400.gif"><br><br><img src="http://33.media.tumblr.com/b54195b00207d1c3232d2330901b8f7a/tumblr_nvt2kwsYUZ1r83d7lo2_400.gif"><br><br><img src="http://33.media.tumblr.com/2155b84f8f84425f40703b074483c35c/tumblr_nvt2kwsYUZ1r83d7lo3_400.gif"><br><br><img src="http://33.media.tumblr.com/6ba3081fd6de929df4a5e1677a2dec12/tumblr_nvt2kwsYUZ1r83d7lo4_400.gif"><br><br><img src="http://38.media.tumblr.com/cdcdae9acf0681a4f0b8d11ff718487d/tumblr_nvt2kwsYUZ1r83d7lo5_400.gif"><br><br><img src="http://31.media.tumblr.com/97e4dd21c1bfecabdd587ad243bff4a9/tumblr_nvt2kwsYUZ1r83d7lo6_400.gif"><br><br><img src="http://38.media.tumblr.com/d7b8551124b54611d1c4c33ba3bfd84f/tumblr_nvt2kwsYUZ1r83d7lo7_400.gif"><br><br><img src="http://38.media.tumblr.com/78a5e09495baf56a5ea18edea8472fff/tumblr_nvt2kwsYUZ1r83d7lo8_400.gif"><br><br><p><a href="http://dcstreet.tumblr.com/post/130643937691/micdotcom-watch-a-texas-mom-took-on-textbook" target="_blank" rel="noreferrer">dcstreet</a>:</p>
-
-<blockquote><p><a href="http://micdotcom.tumblr.com/post/130622263635" target="_blank" rel="noreferrer">micdotcom</a>:</p>
-<blockquote>
-<h2>Watch: <b><a href="http://mic.com/articles/126273/this-mom-just-took-on-a-textbook-that-downplayed-slavery-and-won-an-important-victory?utm_source=policymicTBLR&amp;utm_medium=main&amp;utm_campaign=social" target="_blank" rel="noreferrer">A Texas mom took on textbook writers for erasing slavery &mdash; and won.</a></b>
-</h2>
-</blockquote>
-
-<p>Stay Woke</p></blockquote></body></html>
-]]></content>
-	<updated>2015-10-07T19:55:54+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-07T19:55:54+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-08:/11984</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/130704772998" rel="alternate" type="text/html"/>
-	<title type="html">(photo by HairlipCraven)</title>
-	<summary type="html"><![CDATA[(photo by HairlipCraven)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/75376ad5f0b128af8e601ec0ac206ea4/tumblr_nvvbptKtVr1qewacoo1_500.jpg"><br><br><p>(photo by <a href="https://www.reddit.com/user/HairlipCraven" target="_blank" rel="noreferrer">HairlipCraven</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-07T21:01:05+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-07T21:01:05+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-08:/11982</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/130709954452" rel="alternate" type="text/html"/>
-	<title type="html">saskiakeultjes:
-
-shelf esteem</title>
-	<summary type="html"><![CDATA[saskiakeultjes:
-
-shelf esteem
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/1cdab83ef42817e84ee770559bbe1c18/tumblr_nubqhrG9n31rxzliio1_r1_500.jpg"><br><br><p><a href="http://saskiakeultjes.tumblr.com/post/128583742226" target="_blank" rel="noreferrer">saskiakeultjes</a>:</p>
-<blockquote>
-<p>shelf esteem</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-07T22:30:23+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-07T22:30:23+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
 
 
