@@ -4,11 +4,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-07T23:14:54+00:00</updated>
+<updated>2015-10-07T22:30:23+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-19:/13802</id>
+	<link href="http://danstonchat.com/16897.html" rel="alternate" type="text/html"/>
+	<title type="html">DansTonChat #16897</title>
+	<summary type="html"><![CDATA[aihe: c&#039;est dingue mais, quand on y pense...wiwi: hum ?aihe: j&#039;ai touché plus de boobs dep...]]></summary>
+	<content type="html"><![CDATA[<html><body><span>aihe:</span> c'est dingue mais, quand on y pense...<br><span>wiwi:</span> hum ?<br><span>aihe:</span> j'ai touch&eacute; plus de boobs depuis mon coming-out qu'avant</body></html>
+]]></content>
+	<updated>2015-10-19T13:41:10+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://danstonchat.com/</id>
+		<link rel="self" href="http://danstonchat.com/"/>
+		<updated>2015-10-19T13:41:10+00:00</updated>
+		<title>DansTonChat</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-19:/13835</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/131462393728" rel="alternate" type="text/html"/>
+	<title type="html">If Cats Were Scientists (photos via Eat Liver)Related: Cats Who...</title>
+	<summary type="html"><![CDATA[          If Cats Were Scientists (photos via Eat Liver)Related: Cats Who Have Serious Hoarding Issu...]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/f5f544750f5e5078d2b6376e654d85c9/tumblr_nwg44cW1qj1qewacoo1_500.jpg"><br><br><img src="http://41.media.tumblr.com/6e2f3123c041444fbe4ab5cc1591ac61/tumblr_nwg44cW1qj1qewacoo2_500.jpg"><br><br><img src="http://40.media.tumblr.com/fd8d15c750846602347d64cdacec911a/tumblr_nwg44cW1qj1qewacoo5_500.png"><br><br><img src="http://41.media.tumblr.com/20ec73db59235693be20508a44f9b69b/tumblr_nwg44cW1qj1qewacoo4_500.jpg"><br><br><img src="http://41.media.tumblr.com/97d4685fb63deea09112b576d8158e11/tumblr_nwg44cW1qj1qewacoo6_500.png"><br><br><img src="http://36.media.tumblr.com/8f8a242e4dd02e243c80a95f4d4056a5/tumblr_nwg44cW1qj1qewacoo7_500.png"><br><br><img src="http://41.media.tumblr.com/aa15607132fa3a474a02a0f4016b9ca0/tumblr_nwg44cW1qj1qewacoo9_500.png"><br><br><img src="http://41.media.tumblr.com/c104215d6736472d5ee67757d1427b20/tumblr_nwg44cW1qj1qewacoo10_500.png"><br><br><img src="http://41.media.tumblr.com/4c36c7331d504d5c8b6503066a049747/tumblr_nwg44cW1qj1qewacoo8_500.png"><br><br><img src="http://40.media.tumblr.com/9681b217e73658691ad153f2187edcdf/tumblr_nwg44cW1qj1qewacoo3_r1_500.jpg"><br><br><p><b>If Cats Were Scientists&nbsp;</b>(photos via <a href="http://www.eatliver.com/if-cats-were-scientists" target="_blank" rel="noreferrer">Eat Liver</a>)<br><br>Related:&nbsp;<a href="http://tumblr.tastefullyoffensive.com/post/122875446778/cats-who-have-serious-hoarding-issues-photos-via" target="_blank" rel="noreferrer">Cats Who Have Serious Hoarding Issues</a></p></body></html>
+]]></content>
+	<updated>2015-10-19T02:29:57+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-19T02:29:57+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+	<category term="cats"/>
+
+	<category term="lists"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-19:/13857</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/131490070568" rel="alternate" type="text/html"/>
+	<title type="html">(photo by jaker2343)</title>
+	<summary type="html"><![CDATA[(photo by jaker2343)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/4646d6b768216bc1f1dada16a39ca6e0/tumblr_nwh1q8VPIo1qewacoo1_500.jpg"><br><br><p>(photo by <a href="https://www.reddit.com/user/jaker2343" target="_blank" rel="noreferrer">jaker2343</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-19T14:32:32+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-19T14:32:32+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-18:/13717</id>
@@ -1397,70 +1455,6 @@ shelf esteem
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-10-07T22:30:23+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-08:/12024</id>
-	<link href="http://mememaster.tumblr.com/post/130711947449" rel="alternate" type="text/html"/>
-	<title type="html">More Photos</title>
-	<summary type="html"><![CDATA[          More Photos]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/baea95fb17cefaf066ae168c92a723e8/tumblr_ntq2499Ydt1ql08jto7_500.jpg"><br><br><img src="http://40.media.tumblr.com/7592e0445fe1cd2ef38c5f80f2026fc4/tumblr_ntq2499Ydt1ql08jto6_500.jpg"><br><br><img src="http://40.media.tumblr.com/5b566f3ba55a28a832d0cde0708f680b/tumblr_ntq2499Ydt1ql08jto1_500.jpg"><br><br><img src="http://40.media.tumblr.com/47c8aee46360d1c31dcac2c1a5f1c079/tumblr_ntq2499Ydt1ql08jto3_500.jpg"><br><br><img src="http://36.media.tumblr.com/6bbcf6384cec9f843d59d3a5b73b8370/tumblr_ntq2499Ydt1ql08jto2_500.jpg"><br><br><img src="http://40.media.tumblr.com/159eed514eda8511e7893d25af7d7227/tumblr_ntq2499Ydt1ql08jto4_500.jpg"><br><br><img src="http://41.media.tumblr.com/fcb5a80931aaefbd655b6f0914bb8899/tumblr_ntq2499Ydt1ql08jto8_500.jpg"><br><br><img src="http://41.media.tumblr.com/c9757d0a68bd32e0374df0b2da7c9389/tumblr_ntq2499Ydt1ql08jto9_500.jpg"><br><br><img src="http://36.media.tumblr.com/4c5e29f6b2d28052e4fc54ef52fa03aa/tumblr_ntq2499Ydt1ql08jto10_500.jpg"><br><br><img src="http://40.media.tumblr.com/2fb151b673e21e84c96b552173423183/tumblr_ntq2499Ydt1ql08jto5_500.jpg"><br><br><p><b><a href="http://enmanuel1994.trulyspectaculargalleries.net/5107283-14289962" target="_blank" rel="noreferrer">More Photos</a></b></p></body></html>
-]]></content>
-	<updated>2015-10-07T23:07:32+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-07T23:07:32+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-08:/12019</id>
-	<link href="http://mememaster.tumblr.com/post/130712169294" rel="alternate" type="text/html"/>
-	<title type="html">pineplapple:
-
-turning up at a party with your cool friend</title>
-	<summary type="html"><![CDATA[pineplapple:
-
-turning up at a party with your cool friend
-
-]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://pineplapple.tumblr.com/post/98378305400" target="_blank" rel="noreferrer">pineplapple</a>:</p>
-<blockquote>
-<p>turning up at a party with your cool friend</p>
-<p><img src="http://33.media.tumblr.com/0ffc2a31a6c2633e73c0dab18546c556/tumblr_inline_ncgbsdxV691qk81vk.gif" alt="image"></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-07T23:11:53+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-07T23:11:53+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-08:/12016</id>
-	<link href="http://mememaster.tumblr.com/post/130712330139" rel="alternate" type="text/html"/>
-	<title type="html">how</title>
-	<summary type="html"><![CDATA[  how]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/6437827ef3789bfc1bccbd7b3e115e24/tumblr_n915p3GIHo1r3gb3zo1_250.gif"><br><br><img src="http://33.media.tumblr.com/25d05d9ffecfc15209df42190fb1b7a6/tumblr_n915p3GIHo1r3gb3zo2_250.gif"><br><br><p>how</p></body></html>
-]]></content>
-	<updated>2015-10-07T23:14:54+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-07T23:14:54+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
