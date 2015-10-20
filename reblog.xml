@@ -4,11 +4,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-07T17:00:21+00:00</updated>
+<updated>2015-09-30T21:32:00+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-20:/13930</id>
+	<link href="http://www.viedemerde.fr/sante/8630737" rel="alternate" type="text/html"/>
+	<title type="html">FarmGirlintheTrain a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, alors que j'étais en train de faire une crise d'asthme dans le train après avoir couru ...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, alors que j'&eacute;tais en train de faire une crise d'asthme dans le train apr&egrave;s avoir couru pour ne pas le rater, une dame vient me voir et me dit : "Excusez-moi mais pourriez-vous faire moins de bruit ? J'ai l'impression d'&ecirc;tre dans une ferme." VDM</p></body></html>
+]]></content>
+	<updated>2015-10-19T20:15:27+00:00</updated>
+	<author><name>FarmGirlintheTrain</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-10-19T20:15:27+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-20:/13965</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/131520453168" rel="alternate" type="text/html"/>
+	<title type="html">catsbeaversandducks:
+
+By Sad Animal Facts</title>
+	<summary type="html"><![CDATA[          catsbeaversandducks:
+
+By Sad Animal Facts
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/95cf9a026aa1241581809fc8e77309dc/tumblr_nwhgui2Ukm1qh66wqo9_500.png"><br><br><img src="http://40.media.tumblr.com/b1a2b1d0e51eda15b43d806f1c7640bb/tumblr_nwhgui2Ukm1qh66wqo10_500.png"><br><br><img src="http://41.media.tumblr.com/ee84fb4c7145be683e04b292eece0a35/tumblr_nwhgui2Ukm1qh66wqo1_500.png"><br><br><img src="http://41.media.tumblr.com/2596e5ffbafa32c8590160318c7606b5/tumblr_nwhgui2Ukm1qh66wqo2_500.png"><br><br><img src="http://41.media.tumblr.com/c746ee9c479f99c452701cd2b70ff25e/tumblr_nwhgui2Ukm1qh66wqo3_500.png"><br><br><img src="http://40.media.tumblr.com/188da47d672ab41139d1e34714696952/tumblr_nwhgui2Ukm1qh66wqo4_500.png"><br><br><img src="http://36.media.tumblr.com/98279df58241aaa878af80214294cc4a/tumblr_nwhgui2Ukm1qh66wqo5_500.png"><br><br><img src="http://40.media.tumblr.com/f0989cf3cde64254dd301ba94ccb0baa/tumblr_nwhgui2Ukm1qh66wqo8_500.png"><br><br><img src="http://41.media.tumblr.com/a7480077bd0c8b11a2b8a6815c1df493/tumblr_nwhgui2Ukm1qh66wqo7_500.png"><br><br><img src="http://36.media.tumblr.com/a4ba1996b862174dccb066b8870bf0b3/tumblr_nwhgui2Ukm1qh66wqo6_500.png"><br><br><p><a href="http://catsbeaversandducks.tumblr.com/post/131506780156" target="_blank" rel="noreferrer">catsbeaversandducks</a>:</p>
+<blockquote>
+<p>By <a href="https://instagram.com/sadanimalfacts/" target="_blank" rel="noreferrer">Sad Animal Facts</a></p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-10-19T23:52:41+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-19T23:52:41+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-19:/13780</id>
@@ -1337,102 +1381,6 @@ Spooky
 		<link rel="self" href="http://www.mypersonnaldata.eu/weblog/"/>
 		<updated>2015-09-30T21:32:00+00:00</updated>
 		<title>Le cancre est là</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-06:/11514</id>
-	<link href="http://unodieuxconnard.com/2015/10/06/radicalisation-en-ligne-fabriquer-une-bombe-politique/" rel="alternate" type="text/html"/>
-	<title type="html">Radicalisation en ligne : fabriquer une bombe politique</title>
-	<summary type="html"><![CDATA[En France, les élections, c&rsquo;est une grande passion.
-On aime tellement ça, que souvent, le même...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>En France, les &eacute;lections, c&rsquo;est une grande passion.</p>
-<p>On aime tellement &ccedil;a, que souvent, le m&ecirc;me&nbsp;candidat a du mal &agrave; ne pas se pr&eacute;senter &agrave; plusieurs postes &eacute;lectifs. C&rsquo;est dire !&nbsp;Mais il y a toujours des r&acirc;leurs pour emb&ecirc;ter ces enthousiastes de la premi&egrave;re heure.&nbsp;Heureusement, en France, on a une autre passion : c&rsquo;est faire n&rsquo;importe quoi. Au nez et &agrave; la barbe de journalistes occup&eacute;s &agrave; commenter des sujets plus importants, comme par exemple savoir ce qui est &agrave; la mode &agrave; la plage en ce moment ou si les gens appr&eacute;cient d&rsquo;&ecirc;tre bloqu&eacute;s par une gr&eacute;ve quelconque.</p>
-<p>Tout cela combin&eacute; nous a permis d&rsquo;atteindre un niveau artistique dans ces domaines qui force l&rsquo;admiration.</p>
-<p>Et comme il serait &eacute;go&iuml;ste de ne pas partager avec ses petits camarades, aujourd&rsquo;hui, on va apprendre comment atteindre un niveau de n&rsquo;importe quoi qui pique les yeux.</p>
-<p>Pr&ecirc;ts ? Alors cliquez-donc !</p>
-<div data-shortcode="caption"><a href="https://odieuxconnard.files.wordpress.com/2015/10/bombepolitique3.jpg" rel="noreferrer" target="_blank"><img title="J'aurais bien pris Jon Snow, mais bon, tout le monde sait qu'il knows nothing." src="https://odieuxconnard.files.wordpress.com/2015/10/apercubombe.jpg?w=470&amp;h=359" alt="ApercuBombe" width="470" height="359"></a><p>Cliquez sur ce personnage d&rsquo;une s&eacute;rie fort m&eacute;connue pour en savoir plus.</p></div>
-<p>Je remercie d&rsquo;avance les &eacute;tudiants en pharmacie d&rsquo;Angers, que je sais nombreux &agrave; me lire, pour fournir en aspirine les pauvres qui seront parvenus au bout de l&rsquo;image et sans &ecirc;tre morts tu&eacute;s par tant de m&eacute;diocrit&eacute; politique. Pour ceux qui auraient des doutes, <a href="http://www.legifrance.gouv.fr/" rel="noreferrer" target="_blank">Legifrance.gouv.fr</a> et <a href="http://www.vie-publique.fr/" rel="noreferrer" target="_blank">Vie-publique.fr</a> devraient vous confirmer que le contenu de cette image est tristement vrai. Et ce sont des sites officiels, alors &ccedil;a risque d&rsquo;&ecirc;tre compliqu&eacute; de les accuser d&rsquo;avoir &eacute;crit n&rsquo;importe quoi.</p>
-<p>Laissez-&ccedil;a &agrave; nos&nbsp;d&eacute;put&eacute;s.</p>
-<p>Ho, et &eacute;videmment, une fois de plus, tout &ccedil;a ne va pas du tout profiter aux extr&ecirc;mes. Non. Mais nooon, on vous dit !</p><br><a rel="noreferrer" href="http://feeds.wordpress.com/1.0/gocomments/odieuxconnard.wordpress.com/4646/" target="_blank"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/odieuxconnard.wordpress.com/4646/"></a> <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=unodieuxconnard.com&amp;blog=8336322&amp;post=4646&amp;subd=odieuxconnard&amp;ref=&amp;feed=1" width="1" height="1"></body></html>
-]]></content>
-	<updated>2015-10-06T11:41:00+00:00</updated>
-	<author><name>Un odieux connard</name></author>
-	<source>
-		<id>http://unodieuxconnard.com</id>
-		<link rel="self" href="http://unodieuxconnard.com"/>
-		<updated>2015-10-06T11:41:00+00:00</updated>
-		<title>Le blog d'un odieux connard</title></source>
-
-	<category term="politique"/>
-
-	<category term="bad"/>
-
-	<category term="breaking"/>
-
-	<category term="comul"/>
-
-	<category term="député"/>
-
-	<category term="européen"/>
-
-	<category term="interdiction."/>
-
-	<category term="jesse"/>
-
-	<category term="loi"/>
-
-	<category term="mandat"/>
-
-	<category term="parlement"/>
-
-	<category term="pipeau"/>
-
-	<category term="sénateur"/>
-
-	<category term="walther"/>
-
-
-	<link rel="enclosure" 
-		type="" 
-		length="1"
-		href="http://odieuxconnard.files.wordpress.com/2015/10/apercubombe.jpg?w=150"/>
-
-	<link rel="enclosure" 
-		type="" 
-		length="1"
-		href="http://2.gravatar.com/avatar/ee3c02264a44019dab805203e6df5df3?s=96&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&amp;r=G"/>
-
-	<link rel="enclosure" 
-		type="" 
-		length="1"
-		href="https://odieuxconnard.files.wordpress.com/2015/10/apercubombe.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-07:/11909</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/130691274342" rel="alternate" type="text/html"/>
-	<title type="html">shubbabang:
-
-small overly dressed child found laying in leaf...</title>
-	<summary type="html"><![CDATA[        shubbabang:
-
-small overly dressed child found laying in leaf pile for hours 
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/e5cd2b8c4ca5b0e274c2db5608d2bccb/tumblr_nvuxp8HJZz1r1ymomo1_500.png"><br><br><img src="http://40.media.tumblr.com/78da46a5639f179d2103d082d6dd0362/tumblr_nvuxp8HJZz1r1ymomo2_500.png"><br><br><img src="http://41.media.tumblr.com/d08eb336d474fb2df80b63fcdf1de1a3/tumblr_nvuxp8HJZz1r1ymomo3_500.png"><br><br><img src="http://40.media.tumblr.com/3bda34bd64174d6e7c457d75b8916bd2/tumblr_nvuxp8HJZz1r1ymomo4_500.png"><br><br><img src="http://40.media.tumblr.com/e5ee4f6f641f8ed9a92b82314768ba9c/tumblr_nvuxp8HJZz1r1ymomo5_500.png"><br><br><img src="http://41.media.tumblr.com/6c7f05548bea56fa01c5bcbd6c608671/tumblr_nvuxp8HJZz1r1ymomo6_500.png"><br><br><img src="http://36.media.tumblr.com/e3230cd0b62e14d40b7ebd91b126b500/tumblr_nvuxp8HJZz1r1ymomo7_500.png"><br><br><img src="http://40.media.tumblr.com/98462da39e0a3b9b390e293146fda58a/tumblr_nvuxp8HJZz1r1ymomo8_500.png"><br><br><p><a href="http://shubbabang.tumblr.com/post/130689815626" target="_blank" rel="noreferrer">shubbabang</a>:</p>
-<blockquote>
-<p>small overly dressed child found laying in leaf pile for hours&nbsp;</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-07T17:00:21+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-07T17:00:21+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
