@@ -1,35 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Error</title>
-<style>
-    body {
-        width: 35em;
-        margin: 0 auto;
-        font-family: Tahoma, Verdana, Arial, sans-serif;
-    }
-</style>
-</head>
-<body>
-<h1>An error occurred.</h1>
-<p>Sorry, the page you are looking for is currently unavailable.<br/>
-Please try again later.</p>
-<p>If you are the system administrator of this resource then you should check
-the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
-<p><em>Faithfully yours, nginx.</em></p>
-</body>
-</html>
-HTTP/1.1 200 OK
-Server: nginx/1.8.0
-Date: Tue, 20 Oct 2015 18:31:49 GMT
-Content-Type: text/xml; charset=utf-8
-Transfer-Encoding: chunked
-Connection: keep-alive
-X-Powered-By: PHP/5.6.13
-Content-Language: auto
-Last-Modified: Tue, 20 Oct 2015 11:51:14 GMT
-
-1f60
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="atom-to-html.xsl"?>
 
@@ -165,9 +133,7 @@ By Sad Animal Facts
 	<link href="http://tumblr.tastefullyoffensive.com/post/131462393728" rel="alternate" type="text/html"/>
 	<title type="html">If Cats Were Scientists (photos via Eat Liver)Related: Cats Who...</title>
 	<summary type="html"><![CDATA[          If Cats Were Scientists (photos via Eat Liver)Related: Cats Who Have Serious Hoarding Issu...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/f5f544750f5e5078d2b6376e654d85c9/tumblr_nwg44cW1qj1qewacoo1_500.jpg"><br><br><img src=
-2000
-"http://41.media.tumblr.com/6e2f3123c041444fbe4ab5cc1591ac61/tumblr_nwg44cW1qj1qewacoo2_500.jpg"><br><br><img src="http://40.media.tumblr.com/fd8d15c750846602347d64cdacec911a/tumblr_nwg44cW1qj1qewacoo5_500.png"><br><br><img src="http://41.media.tumblr.com/20ec73db59235693be20508a44f9b69b/tumblr_nwg44cW1qj1qewacoo4_500.jpg"><br><br><img src="http://41.media.tumblr.com/97d4685fb63deea09112b576d8158e11/tumblr_nwg44cW1qj1qewacoo6_500.png"><br><br><img src="http://36.media.tumblr.com/8f8a242e4dd02e243c80a95f4d4056a5/tumblr_nwg44cW1qj1qewacoo7_500.png"><br><br><img src="http://41.media.tumblr.com/aa15607132fa3a474a02a0f4016b9ca0/tumblr_nwg44cW1qj1qewacoo9_500.png"><br><br><img src="http://41.media.tumblr.com/c104215d6736472d5ee67757d1427b20/tumblr_nwg44cW1qj1qewacoo10_500.png"><br><br><img src="http://41.media.tumblr.com/4c36c7331d504d5c8b6503066a049747/tumblr_nwg44cW1qj1qewacoo8_500.png"><br><br><img src="http://40.media.tumblr.com/9681b217e73658691ad153f2187edcdf/tumblr_nwg44cW1qj1qewacoo3_r1_500.jpg"><br><br><p><b>If Cats Were Scientists&nbsp;</b>(photos via <a href="http://www.eatliver.com/if-cats-were-scientists" target="_blank" rel="noreferrer">Eat Liver</a>)<br><br>Related:&nbsp;<a href="http://tumblr.tastefullyoffensive.com/post/122875446778/cats-who-have-serious-hoarding-issues-photos-via" target="_blank" rel="noreferrer">Cats Who Have Serious Hoarding Issues</a></p></body></html>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/f5f544750f5e5078d2b6376e654d85c9/tumblr_nwg44cW1qj1qewacoo1_500.jpg"><br><br><img src="http://41.media.tumblr.com/6e2f3123c041444fbe4ab5cc1591ac61/tumblr_nwg44cW1qj1qewacoo2_500.jpg"><br><br><img src="http://40.media.tumblr.com/fd8d15c750846602347d64cdacec911a/tumblr_nwg44cW1qj1qewacoo5_500.png"><br><br><img src="http://41.media.tumblr.com/20ec73db59235693be20508a44f9b69b/tumblr_nwg44cW1qj1qewacoo4_500.jpg"><br><br><img src="http://41.media.tumblr.com/97d4685fb63deea09112b576d8158e11/tumblr_nwg44cW1qj1qewacoo6_500.png"><br><br><img src="http://36.media.tumblr.com/8f8a242e4dd02e243c80a95f4d4056a5/tumblr_nwg44cW1qj1qewacoo7_500.png"><br><br><img src="http://41.media.tumblr.com/aa15607132fa3a474a02a0f4016b9ca0/tumblr_nwg44cW1qj1qewacoo9_500.png"><br><br><img src="http://41.media.tumblr.com/c104215d6736472d5ee67757d1427b20/tumblr_nwg44cW1qj1qewacoo10_500.png"><br><br><img src="http://41.media.tumblr.com/4c36c7331d504d5c8b6503066a049747/tumblr_nwg44cW1qj1qewacoo8_500.png"><br><br><img src="http://40.media.tumblr.com/9681b217e73658691ad153f2187edcdf/tumblr_nwg44cW1qj1qewacoo3_r1_500.jpg"><br><br><p><b>If Cats Were Scientists&nbsp;</b>(photos via <a href="http://www.eatliver.com/if-cats-were-scientists" target="_blank" rel="noreferrer">Eat Liver</a>)<br><br>Related:&nbsp;<a href="http://tumblr.tastefullyoffensive.com/post/122875446778/cats-who-have-serious-hoarding-issues-photos-via" target="_blank" rel="noreferrer">Cats Who Have Serious Hoarding Issues</a></p></body></html>
 ]]></content>
 	<updated>2015-10-19T02:29:57+00:00</updated>
 	<author><name></name></author>
@@ -263,9 +229,7 @@ my ascent into adulthood
 <p>Au niveau europ&eacute;en, la France se d&eacute;marque &eacute;galement. L&rsquo;Union europ&eacute;enne voudrait instaurer un syst&egrave;me de contr&ocirc;le aux fronti&egrave;res qui fait appel au traitement des donn&eacute;es biom&eacute;triques. Pour l&rsquo;instant, le projet ne concernerait que les non-r&eacute;sidents de l&rsquo;Union europ&eacute;enne. Mais c&rsquo;&eacute;tait sans compter sur la France. En pointe de la lutte contre les m&eacute;chants terroristes qui ne manqueront pas d&rsquo;envahir Paris <a href="https://reflets.info/alerte-daesh-et-les-migrants-pourraient-envahir-radio-france/" target="_blank" rel="noreferrer">et plus sp&eacute;cifiquement Radio-France</a>, la d&eacute;l&eacute;gation fran&ccedil;aise a souhait&eacute; que ces contr&ocirc;les biom&eacute;triques (ainsi que, bien entendu, le stockage et le traitement de ces donn&eacute;es) s&rsquo;appliquent &eacute;galement aux ressortissants de l&rsquo;Union europ&eacute;enne.</p>
 <p>Un petit d&eacute;tail qui serait pass&eacute; inaper&ccedil;u sans la veille de <a href="http://www.statewatch.org/news/2015/oct/france-smart-borders-for-all.htm" target="_blank" rel="noreferrer">Statewatch</a>. <a href="https://reflets.info/wp-content/uploads/2015/10/eu-council-smart-borders-FR-12272-15.pdf" target="_blank" rel="noreferrer">Le document fran&ccedil;ais</a> appelant &agrave; l&rsquo;inclusion des r&eacute;sidents de l&rsquo;UE dans le projet &laquo;&nbsp;smart borders&nbsp;&raquo; (on dit fronti&egrave;res intelligentes, pas fronti&egrave;res intrusives) n&rsquo;est pas public. Statewatch a probablement fait une demande pour l&rsquo;obtenir (ce que nous avons &eacute;galement fait ce jour).<del></del></p>
 <p><a href="https://reflets.info/wp-content/uploads/2015/10/europe-frontieres.png" data-rel="lightbox-1" title="" rel="noreferrer" target="_blank"><img src="https://reflets.info/wp-content/uploads/2015/10/europe-frontieres-550x427.png" alt="europe-frontieres" width="550" height="427"></a></p>
-<p>L&rsquo;aspect s&eacute;mantique de ce document est int&eacute;ressant. On y retrouve toute la phra
-2000
-s&eacute;ologie des tenants de la surveillance. Les fronti&egrave;res sont, on l&rsquo;a vu &laquo;&nbsp;intelligentes&nbsp;&raquo; et pas intrusives. Ces contr&ocirc;les biom&eacute;triques qui incluent les empreintes digitales et l&rsquo;iris, permettront de &laquo;&nbsp;fluidifier&nbsp;&raquo; et rendre ainsi plus rapides les passages aux fronti&egrave;res. Cela permettrait &eacute;galement, toujours selon la d&eacute;l&eacute;gation fran&ccedil;aise, de renforcer le principe m&ecirc;me de la libre circulation des personnes. On croirait entendre le directeur commercial d&rsquo;Amesys qui expliquait qu&rsquo;en vendant un syst&egrave;me de surveillance massive &agrave; un terroriste, on lutte contre le terrorisme&hellip;</p></body></html>
+<p>L&rsquo;aspect s&eacute;mantique de ce document est int&eacute;ressant. On y retrouve toute la phras&eacute;ologie des tenants de la surveillance. Les fronti&egrave;res sont, on l&rsquo;a vu &laquo;&nbsp;intelligentes&nbsp;&raquo; et pas intrusives. Ces contr&ocirc;les biom&eacute;triques qui incluent les empreintes digitales et l&rsquo;iris, permettront de &laquo;&nbsp;fluidifier&nbsp;&raquo; et rendre ainsi plus rapides les passages aux fronti&egrave;res. Cela permettrait &eacute;galement, toujours selon la d&eacute;l&eacute;gation fran&ccedil;aise, de renforcer le principe m&ecirc;me de la libre circulation des personnes. On croirait entendre le directeur commercial d&rsquo;Amesys qui expliquait qu&rsquo;en vendant un syst&egrave;me de surveillance massive &agrave; un terroriste, on lutte contre le terrorisme&hellip;</p></body></html>
 ]]></content>
 	<updated>2015-10-13T11:21:18+00:00</updated>
 	<author><name>kitetoa</name></author>
@@ -440,9 +404,7 @@ cookin’ up trouble
 	<author><name></name></author>
 	<source>
 		<id>http://flxc.fr/rss</id>
-		<link rel="self" hre
-2000
-f="http://flxc.fr/rss"/>
+		<link rel="self" href="http://flxc.fr/rss"/>
 		<updated>2015-10-16T17:43:23+00:00</updated>
 		<title>Published articles</title></source>
 
@@ -572,9 +534,7 @@ Image : <strong>Lucile LATOUR</strong></div></div>
 	<link href="http://www.viedemerde.fr/travail/8629049" rel="alternate" type="text/html"/>
 	<title type="html">Anonyme a une VDM</title>
 	<summary type="html"><![CDATA[Aujourd'hui, prof au lycée, je donne par inadvertance un coup de coude dans le store blanc du vidéop...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, prof au lyc&
-1000
-eacute;e, je donne par inadvertance un coup de coude dans le store blanc du vid&eacute;oprojecteur, qui remonte brusquement, percute l'horloge au dessus du tableau, qui me tombe sur la t&ecirc;te. Le tout devant mes &eacute;l&egrave;ves. VDM</p></body></html>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, prof au lyc&eacute;e, je donne par inadvertance un coup de coude dans le store blanc du vid&eacute;oprojecteur, qui remonte brusquement, percute l'horloge au dessus du tableau, qui me tombe sur la t&ecirc;te. Le tout devant mes &eacute;l&egrave;ves. VDM</p></body></html>
 ]]></content>
 	<updated>2015-10-15T16:48:28+00:00</updated>
 	<author><name>Anonyme</name></author>
@@ -684,8 +644,6 @@ THAT IS THE BEST USE OF THAT PICTURE I HAVE SEEN IN A LONG TIME
 
 
 </entry>
-
-2000
 
 <entry>
 	<id>tag:flxc.fr,2015-10-11:/12681</id>
@@ -842,9 +800,7 @@ THAT IS THE BEST USE OF THAT PICTURE I HAVE SEEN IN A LONG TIME
 	<link href="http://tumblr.tastefullyoffensive.com/post/131190538823" rel="alternate" type="text/html"/>
 	<title type="html">Dogs Who’ve Made Terrible Life Choices (photos via bored...</title>
 	<summary type="html"><![CDATA[          Dogs Who’ve Made Terrible Life Choices (photos via bored panda)Related: Before and After P...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/7aa462e89d842d6bd06d62855d1d3052/tumblr_nw8low21HQ1qewacoo1_50
-2000
-0.jpg"><br><br><img src="http://40.media.tumblr.com/f210df7ebb0bf915e4762ce3530d8222/tumblr_nw8low21HQ1qewacoo9_r1_500.png"><br><br><img src="http://40.media.tumblr.com/fd4001d41ced36c75bab5b335c0e0e3a/tumblr_nw8low21HQ1qewacoo6_r2_500.png"><br><br><img src="http://41.media.tumblr.com/21322690f42563126cf65a45802599ef/tumblr_nw8low21HQ1qewacoo4_r1_500.jpg"><br><br><img src="http://40.media.tumblr.com/73c3bdd5bbf6f908a25b34a232bfa5c9/tumblr_nw8low21HQ1qewacoo7_r1_500.png"><br><br><img src="http://41.media.tumblr.com/d8b2d32f6906e448f85eab66450700b7/tumblr_nw8low21HQ1qewacoo8_r1_500.png"><br><br><img src="http://41.media.tumblr.com/1ff0bdae59665c8d9bc08abffd72ea9b/tumblr_nw8low21HQ1qewacoo3_r2_500.jpg"><br><br><img src="http://41.media.tumblr.com/fcfa090fbf6467c6c30bf4bfedf612e1/tumblr_nw8low21HQ1qewacoo2_r2_500.png"><br><br><img src="http://40.media.tumblr.com/55a928957a7bfef685d2c11f7ebf6585/tumblr_nw8low21HQ1qewacoo10_r1_500.png"><br><br><img src="http://41.media.tumblr.com/7f12ef7d67fcde55e207fad48c6a7ffe/tumblr_nw8low21HQ1qewacoo5_r1_500.jpg"><br><br><p><b>Dogs Who&rsquo;ve Made Terrible Life Choices</b> (photos via <a href="http://www.boredpanda.com/funny-dog-fails/" target="_blank" rel="noreferrer">bored panda</a>)<br><br>Related:&nbsp;<a href="http://tumblr.tastefullyoffensive.com/post/117394277741/before-and-after-photos-of-dogs-growing-up-images" target="_blank" rel="noreferrer">Before and After Photos of Dogs Growing Up</a></p></body></html>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/7aa462e89d842d6bd06d62855d1d3052/tumblr_nw8low21HQ1qewacoo1_500.jpg"><br><br><img src="http://40.media.tumblr.com/f210df7ebb0bf915e4762ce3530d8222/tumblr_nw8low21HQ1qewacoo9_r1_500.png"><br><br><img src="http://40.media.tumblr.com/fd4001d41ced36c75bab5b335c0e0e3a/tumblr_nw8low21HQ1qewacoo6_r2_500.png"><br><br><img src="http://41.media.tumblr.com/21322690f42563126cf65a45802599ef/tumblr_nw8low21HQ1qewacoo4_r1_500.jpg"><br><br><img src="http://40.media.tumblr.com/73c3bdd5bbf6f908a25b34a232bfa5c9/tumblr_nw8low21HQ1qewacoo7_r1_500.png"><br><br><img src="http://41.media.tumblr.com/d8b2d32f6906e448f85eab66450700b7/tumblr_nw8low21HQ1qewacoo8_r1_500.png"><br><br><img src="http://41.media.tumblr.com/1ff0bdae59665c8d9bc08abffd72ea9b/tumblr_nw8low21HQ1qewacoo3_r2_500.jpg"><br><br><img src="http://41.media.tumblr.com/fcfa090fbf6467c6c30bf4bfedf612e1/tumblr_nw8low21HQ1qewacoo2_r2_500.png"><br><br><img src="http://40.media.tumblr.com/55a928957a7bfef685d2c11f7ebf6585/tumblr_nw8low21HQ1qewacoo10_r1_500.png"><br><br><img src="http://41.media.tumblr.com/7f12ef7d67fcde55e207fad48c6a7ffe/tumblr_nw8low21HQ1qewacoo5_r1_500.jpg"><br><br><p><b>Dogs Who&rsquo;ve Made Terrible Life Choices</b> (photos via <a href="http://www.boredpanda.com/funny-dog-fails/" target="_blank" rel="noreferrer">bored panda</a>)<br><br>Related:&nbsp;<a href="http://tumblr.tastefullyoffensive.com/post/117394277741/before-and-after-photos-of-dogs-growing-up-images" target="_blank" rel="noreferrer">Before and After Photos of Dogs Growing Up</a></p></body></html>
 ]]></content>
 	<updated>2015-10-15T01:13:57+00:00</updated>
 	<author><name></name></author>
@@ -964,9 +920,7 @@ See a bonus costume on Facebook
 	<link href="http://www.viedemerde.fr/travail/8628459" rel="alternate" type="text/html"/>
 	<title type="html">Berk berk berk a une VDM</title>
 	<summary type="html"><![CDATA[Aujourd'hui, commerciale porte à porte, je discute avec la petite fille de la dame que ma collègue e...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, commerciale porte &agrave; porte, je discute avec la petite fille de la dame que ma coll&egrave;gue essaie de d&eacute;marcher. Elle me colle un lapin en peluche tr&egrave;s r&eacute;aliste dans les mains. "C'est mon lapin, quand il est
-2000
- mort, j'&eacute;tais triste, alors on l'a empaill&eacute; avec maman dans la cuisine." Ah. VDM</p></body></html>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, commerciale porte &agrave; porte, je discute avec la petite fille de la dame que ma coll&egrave;gue essaie de d&eacute;marcher. Elle me colle un lapin en peluche tr&egrave;s r&eacute;aliste dans les mains. "C'est mon lapin, quand il est mort, j'&eacute;tais triste, alors on l'a empaill&eacute; avec maman dans la cuisine." Ah. VDM</p></body></html>
 ]]></content>
 	<updated>2015-10-14T08:28:40+00:00</updated>
 	<author><name>Berk berk berk</name></author>
@@ -1086,9 +1040,7 @@ See a bonus costume on Facebook
 2 900 SALARIÉS PERDENT LEURS CHEMISES
 par Là-bas si j'y suis https://vimeo.com/141880283
 ...]]></summary>
-	<content type="html"><![CDATA[<html><body><div><div> <div> <div
-1ff8
->  </div> </div>
+	<content type="html"><![CDATA[<html><body><div><div> <div> <div>  </div> </div>
 <div><a href="https://vimeo.com/141880283" rel="noreferrer" target="_blank">2 900 SALARI&Eacute;S PERDENT LEURS CHEMISES</a>
 <br><i>par <a href="http://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></i></div> <div><a href="https://vimeo.com/141880283" rel="noreferrer" target="_blank">https://vimeo.com/141880283</a></div>
 </div> <p>Apprenant la suppression de 2 900 emplois, des salari&eacute;s en col&egrave;re arrachent la chemise de deux dirigeants. Gouvernement et m&eacute;dias unanimes se d&eacute;cha&icirc;nent et condamnent violemment cette violence. Une fa&ccedil;on de dissimuler la vraie violence faite aux salari&eacute;s d'Air France et d'ailleurs. Une fa&ccedil;on de faire diversion par rapport au plan de dislocation de l'entreprise. Ces voyous et ces lyncheurs, qui sont-ils ? Que disent-ils ? &Agrave; Roissy, rencontre avec des pilotes, des personnels au sol et des syndicalistes.</p> <p><strong>Extrait de L&Agrave;-BAS Hebdo #25 <a href="http://la-bas.org/les-emissions-258/les-emissions/2015-16/2-900-salaries-perdent-leurs-chemises" rel="noreferrer" target="_blank">&laquo; 2 900 SALARI&Eacute;S PERDENT LEUR CHEMISE &raquo;</a>, une &eacute;mission &agrave; &eacute;couter en int&eacute;gralit&eacute; sur <a href="http://la-bas.org/les-emissions-258/les-emissions/2015-16/2-900-salaries-perdent-leurs-chemises" rel="noreferrer" target="_blank">la-bas.org/les-emissions-258/les-emissions/2015-16/2-900-salaries-perdent-leurs-chemises</a></strong></p>
@@ -1219,8 +1171,6 @@ English is a difficult language. <br><br>It can be understood through tough thor
 <p>you need to stop</p></blockquote></body></html>
 ]]></content>
 	<updated>2015-10-09T14:46:07+00:00</updated>
-1000
-
 	<author><name></name></author>
 	<source>
 		<id>http://mememaster.tumblr.com/</id>
@@ -1332,8 +1282,6 @@ Original on my site he...]]></summary>
 	<link href="http://tumblr.tastefullyoffensive.com/post/130753199993" rel="alternate" type="text/html"/>
 	<title type="html">redbulling:
 
-1a8f
-
 Spooky</title>
 	<summary type="html"><![CDATA[  redbulling:
 
@@ -1441,6 +1389,3 @@ Spooky
 </feed>
 <!-- vim:ft=xml
 	  -->
-
-0
-
