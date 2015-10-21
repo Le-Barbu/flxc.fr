@@ -4,11 +4,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-09T14:46:07+00:00</updated>
+<updated>2015-10-09T00:00:00+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-21:/14346</id>
+	<link href="http://www.youtube.com/watch?v=o4LMEvxVksM" rel="alternate" type="text/html"/>
+	<title type="html">Breakfast and furious (McFly &amp; Carlito)</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-21T16:32:14+00:00</updated>
+	<author><name>Golden Moustache</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCJruTcTs7Gn2Tk7YC-ENeHQ</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCJruTcTs7Gn2Tk7YC-ENeHQ"/>
+		<updated>2015-10-21T16:32:14+00:00</updated>
+		<title>Golden Moustache</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/o4LMEvxVksM?version=3"/>
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-21:/14193</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/131573744483" rel="alternate" type="text/html"/>
+	<title type="html">danmeth:
+
+The only bad thing about fall.</title>
+	<summary type="html"><![CDATA[danmeth:
+
+The only bad thing about fall.
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/c9aaddc674862fa0786589c8395f77c1/tumblr_nwjbgo14w71qzol4do1_500.png"><br><br><p><a href="http://danmeth.tumblr.com/post/131572056257" target="_blank" rel="noreferrer">danmeth</a>:</p>
+<blockquote>
+<p>The only bad thing about fall.</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-10-20T20:25:55+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-20T20:25:55+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-21:/14218</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/131606461638" rel="alternate" type="text/html"/>
+	<title type="html">Trolled by nature. (photos via imgur)</title>
+	<summary type="html"><![CDATA[          Trolled by nature. (photos via imgur)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/d0fc05ad0776b4f71c854ad7f4dd8c16/tumblr_nwk4jr4rA21qewacoo1_500.jpg"><br><br><img src="http://40.media.tumblr.com/d9f935282384b0cdb9f86b8614e2771a/tumblr_nwk4jr4rA21qewacoo2_r1_500.jpg"><br><br><img src="http://36.media.tumblr.com/fc42e8ba708e8caeea23eac3c0c10d42/tumblr_nwk4jr4rA21qewacoo3_500.jpg"><br><br><img src="http://40.media.tumblr.com/858a4bcb798215a20fc9f1c23a391472/tumblr_nwk4jr4rA21qewacoo4_500.jpg"><br><br><img src="http://41.media.tumblr.com/e881211d5f7041f5c9b34e2bdb8e52e5/tumblr_nwk4jr4rA21qewacoo5_500.jpg"><br><br><img src="http://36.media.tumblr.com/0e29c4fd340a1316d21225cddb38a08a/tumblr_nwk4jr4rA21qewacoo6_500.jpg"><br><br><img src="http://40.media.tumblr.com/bab4d1b66a6c331ac2ec32dbb00bb051/tumblr_nwk4jr4rA21qewacoo7_500.jpg"><br><br><img src="http://41.media.tumblr.com/2f5e60f6e8a9f5c029dfa26c871435f5/tumblr_nwk4jr4rA21qewacoo8_500.jpg"><br><br><img src="http://41.media.tumblr.com/aa18555710f48131c1abee86ea803dfe/tumblr_nwk4jr4rA21qewacoo9_500.jpg"><br><br><img src="http://40.media.tumblr.com/19be22bf2521a05cf803ef98a5cbe1da/tumblr_nwk4jr4rA21qewacoo10_r1_500.jpg"><br><br><p>Trolled by nature. (photos via <a href="http://imgur.com/gallery/f7ppr" target="_blank" rel="noreferrer">imgur</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-21T06:26:15+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-21T06:26:15+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+	<category term="natures laser pointer"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-21:/14233</id>
@@ -1219,80 +1287,6 @@ Pr&eacute;paration : <strong>Ana&euml;lle VERZAUX</strong> et <strong>Gr&eacute;
 		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
 		<updated>2015-10-09T00:00:00+00:00</updated>
 		<title>blaguesdemerde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-09:/12186</id>
-	<link href="http://www.blaguesdemerde.fr/blague/427761/comment-les-nones-se-reproduisent-elles-en-couvant" rel="alternate" type="text/html"/>
-	<title type="html">comment-les-nones-se-reproduisent-elles-en-couvant</title>
-	<summary type="html"><![CDATA[Comment les nones se reproduisent-elles ? En couvant !]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Comment les nones se reproduisent-elles ? <br><br>En couvant !</p></body></html>
-]]></content>
-	<updated>2015-10-09T00:00:00+00:00</updated>
-	<author><name>Jordan ????</name></author>
-	<source>
-		<id>http://www.blaguesdemerde.fr//</id>
-		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
-		<updated>2015-10-09T00:00:00+00:00</updated>
-		<title>blaguesdemerde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-09:/12194</id>
-	<link href="http://danstonchat.com/16874.html" rel="alternate" type="text/html"/>
-	<title type="html">DansTonChat #16874</title>
-	<summary type="html"><![CDATA[Eelia: Pourquoi le petit garçon a-t-il lâché sa glace ? Parce qu&#039;il s&#039;est fait renverser p...]]></summary>
-	<content type="html"><![CDATA[<html><body><span>Eelia:</span> Pourquoi le petit gar&ccedil;on a-t-il l&acirc;ch&eacute; sa glace ? Parce qu'il s'est fait renverser par un bus.<br><span>Ludescal:</span> Le con aussi, qu'est-ce qu'il foutait attach&eacute; au milieu de la route ?<br><span>Eelia:</span> Il &eacute;tait puni<br><span>Ludescal:</span> Pourquoi la petite fille est-elle tomb&eacute;e de la balan&ccedil;oire ?<br><span>Eelia:</span> Parcequ'elle n'a pas de bras.<br><span>Eelia:</span> Qu'est-ce qui est rouge et a la m&ecirc;me odeur que de la peinture bleue ?<br><span>Ludescal:</span> Je ne sais pas.<br><span>Eelia:</span> De la peinture rouge.<br><span>Eelia:</span> Qu'est-ce qui est vert et qui a des roues ?<br><span>Ludescal:</span> Une voiture verte ?<br><span>Eelia:</span> Non. De l'herbe. J'ai menti pour les roues.<br><span>Ludescal:</span> Oh.<br><span>Eelia:</span> Qu'est-ce que l'avocat a dit &agrave; l'autre avocat ?<br><span>Ludescal:</span> Je ne sais pas.<br><span>Eelia:</span> "Nous sommes tous les deux des avocats."<br><span>Eelia:</span> Comment fait-on pleurer un plombier ?<br><span>Ludescal:</span> Avec un tuyau ?<br><span>Eelia:</span> Il suffit de tuer toute sa famille.<br><span>Eelia:</span> Qu'est-ce que le fermier a dit quand il a perdu son tracteur ?<br><span>Ludescal:</span> O&ugrave; est mon tracteur ?<br><span>Eelia:</span> Exact.<br><span>Eelia:</span> Comment fais-tu tomber un clown de la balan&ccedil;oire ?<br><span>Ludescal:</span> En le poussant ?<br><span>Eelia:</span> En lui donnant un coup de hache. <br><span>Eelia:</span> Comment appelle-t-on un noir sur la lune ?<br><span>Ludescal:</span> Avec du poulet ?<br><span>Eelia:</span> Un astronaute.<br><span>Eelia:</span> huehuehue</body></html>
-]]></content>
-	<updated>2015-10-09T15:04:37+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://danstonchat.com/</id>
-		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-10-09T15:04:37+00:00</updated>
-		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-09:/12297</id>
-	<link href="http://mememaster.tumblr.com/post/130815150219" rel="alternate" type="text/html"/>
-	<title type="html">ziraseal:
-
-naturemetaltolkien:
-
-
-
-English is a difficult language. It can be understood through...</title>
-	<summary type="html"><![CDATA[ziraseal:
-
-naturemetaltolkien:
-
-
-
-English is a difficult language. It can be understood through toug...]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://ziraseal.tumblr.com/post/119307759774/naturemetaltolkien-english-is-a-difficult" target="_blank" rel="noreferrer">ziraseal</a>:</p>
-
-<blockquote><p><a href="http://naturemetaltolkien.tumblr.com/post/119049238885/english-is-a-difficult-language-it-can-be" target="_blank" rel="noreferrer">naturemetaltolkien</a>:</p>
-
-<blockquote><p>
-
-English is a difficult language. <br><br>It can be understood through tough thorough thought, though.<br><br></p></blockquote>
-
-<p>you need to stop</p></blockquote></body></html>
-]]></content>
-	<updated>2015-10-09T14:46:07+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-09T14:46:07+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
