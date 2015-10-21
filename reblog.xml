@@ -4,11 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-09T15:45:21+00:00</updated>
+<updated>2015-10-09T19:43:28+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-21:/14298</id>
+	<link href="http://www.viedemerde.fr/animaux/8631287" rel="alternate" type="text/html"/>
+	<title type="html">Junny a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, dans le noir, je joue avec les coussinets de mon chat. Je palpe, je palpe, et rigole de...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, dans le noir, je joue avec les coussinets de mon chat. Je palpe, je palpe, et rigole de cette consistance dr&ocirc;lement amusante. Ah non, c'&eacute;tait ses couilles. VDM</p></body></html>
+]]></content>
+	<updated>2015-10-20T23:04:57+00:00</updated>
+	<author><name>Junny</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-10-20T23:04:57+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-20:/14135</id>
@@ -1300,33 +1318,6 @@ me: i cant im doing gymnastics on the top of mt eve...]]></summary>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-10-09T19:43:28+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-10:/12381</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/130817914206" rel="alternate" type="text/html"/>
-	<title type="html">birdandmoon:
-
-Happy fall! Here’s a comic about the wonders of...</title>
-	<summary type="html"><![CDATA[birdandmoon:
-
-Happy fall! Here’s a comic about the wonders of fall migration.
-Original on my site he...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/393aaf6dd5aa332193cf3f236dd8cd04/tumblr_nvyl0w99Gx1rtlspxo1_500.jpg"><br><br><p><a href="http://birdandmoon.tumblr.com/post/130816470330" target="_blank" rel="noreferrer">birdandmoon</a>:</p>
-<blockquote>
-<p>Happy fall! Here&rsquo;s a comic about the wonders of fall migration.</p>
-<p>Original on my site <a href="http://birdandmoon.com/comic/amazing-fall-migrations/" target="_blank" rel="noreferrer">here</a>.<br></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-09T15:45:21+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-09T15:45:21+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
