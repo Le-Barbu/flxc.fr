@@ -4,11 +4,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-09T19:43:28+00:00</updated>
+<updated>2015-10-09T14:46:07+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-21:/14233</id>
+	<link href="http://www.slate.fr/story/108377/video-retour-vers-le-futur-2015" rel="alternate" type="text/html"/>
+	<title type="html">«Retour vers le futur»: Cette vidéo imagine l'arrivée de Marty McFly à notre époque | Slate.fr</title>
+	<summary type="html"><![CDATA[En effet, il y a un petit gap ^^(Permalink)]]></summary>
+	<content type="html"><![CDATA[<html><body><p>En effet, il y a un petit gap ^^<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?DO0X2w" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-21T07:52:31+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-10-21T07:52:31+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+	<category term="fb"/>
+
+	<category term="fs"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-21:/14298</id>
@@ -1270,53 +1292,6 @@ English is a difficult language. <br><br>It can be understood through tough thor
 		<id>http://mememaster.tumblr.com/</id>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-10-09T14:46:07+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-10:/12406</id>
-	<link href="http://mememaster.tumblr.com/post/130830294144" rel="alternate" type="text/html"/>
-	<title type="html">terrakion:
-
-alt-j:
-
-michaxl:
-
-gf: babe come over
-me: i cant im doing gymnastics on the top of mt...</title>
-	<summary type="html"><![CDATA[terrakion:
-
-alt-j:
-
-michaxl:
-
-gf: babe come over
-me: i cant im doing gymnastics on the top of mt eve...]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://terrakion.tumblr.com/post/81151690176/alt-j-michaxl-gf-babe-come-over-me-i-cant" target="_blank" rel="noreferrer">terrakion</a>:</p>
-<blockquote>
-<p><a href="http://alt-j.tumblr.com/post/81151661649/michaxl-gf-babe-come-over-me-i-cant-im-doing" target="_blank" rel="noreferrer">alt-j</a>:</p>
-<blockquote>
-<p><a href="http://michaxl.com/post/81072688173/gf-babe-come-over-me-i-cant-im-doing-gymnastics" target="_blank" rel="noreferrer">michaxl</a>:</p>
-<blockquote>
-<p>gf: babe come over</p>
-<p>me: i cant im doing gymnastics on the top of mt everest</p>
-<p>gf: my parents are out ;)</p>
-<p>me:</p>
-<p><img alt="image" src="http://38.media.tumblr.com/d6919306d52241eef5263aab299cebef/tumblr_inline_n37arp4XXY1ro2d9f.gif"></p>
-</blockquote>
-<p>IS HE OKAY??!!!!?</p>
-</blockquote>
-<p>yes hes with his girlfriend now</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-09T19:43:28+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-09T19:43:28+00:00</updated>
 		<title>Comedy Blog</title></source>
 
 
