@@ -4,11 +4,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-14T05:01:11+00:00</updated>
+<updated>2015-10-15T02:34:56+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-22:/14520</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/131688185961" rel="alternate" type="text/html"/>
+	<title type="html">by It’s the Tie</title>
+	<summary type="html"><![CDATA[by It’s the Tie]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/ec1dd6add2870de2e689a1954c0090ea/tumblr_nwmnhoAiFU1qewacoo1_500.png"><br><br><p>by <a href="http://itsthetie.com/comic/school/" target="_blank" rel="noreferrer">It&rsquo;s the Tie</a></p></body></html>
+]]></content>
+	<updated>2015-10-22T15:30:16+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-22T15:30:16+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-22:/14529</id>
+	<link href="https://www.youtube.com/watch?v=th5EL-KJ2Lw" rel="alternate" type="text/html"/>
+	<title type="html">Mouvement perpétuel / Energie libre ? : Incroyables Expériences [82] Free energy / perpetuum mobile - YouTube</title>
+	<summary type="html"><![CDATA[Vous reprendrez bien un peu d'énergie libre ?(Permalink)]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Vous reprendrez bien un peu d'&eacute;nergie libre ?<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?GwGP2w" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-22T15:46:22+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-10-22T15:46:22+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+	<category term="fb"/>
+
+	<category term="fs"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-22:/14556</id>
+	<link href="http://danstonchat.com/16908.html" rel="alternate" type="text/html"/>
+	<title type="html">DansTonChat #16908</title>
+	<summary type="html"><![CDATA[* luc560 has joinedThotoin: Bienvenue luc560, petit test d&#039;entrée sur le chan : répète très vit...]]></summary>
+	<content type="html"><![CDATA[<html><body><span>*</span> luc560 has joined<br><span>Thotoin:</span> Bienvenue luc560, petit test d'entr&eacute;e sur le chan : r&eacute;p&egrave;te tr&egrave;s vite "l'abeille coule"<br><span>luc560:</span> lol t con, &ccedil;a marche ka loral xD<br><span>Thotoin:</span> Je suis on ne peut plus s&eacute;rieux, fais-le ou pars<br><span>luc560:</span> ok<br><span>luc560:</span> l'abeille coule<br><span>luc560:</span> labeille coule<br><span>luc560:</span> l'abeille coule<br><span>luc560:</span> l'abeille coule<br><span>luc560:</span> l'abeille coul<br><span>*</span> luc560 was kicked by Modobot'o (PAS DE SPAM NI DE MAJUSCULES!)<br><span>Thotoin:</span> Haha, il a dit "couille"<br><span>*</span> Thotoin was kicked by Modobot'o (SURVEILLEZ VOTRE LANGAGUE!)</body></html>
+]]></content>
+	<updated>2015-10-22T17:59:12+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://danstonchat.com/</id>
+		<link rel="self" href="http://danstonchat.com/"/>
+		<updated>2015-10-22T17:59:12+00:00</updated>
+		<title>DansTonChat</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-22:/14563</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/131695528958" rel="alternate" type="text/html"/>
+	<title type="html">Photo</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/124594e302c0bd98aa7c3094aa4ca5ce/tumblr_nvtwnw2Zon1tmjfioo1_500.jpg"><br><br></body></html>
+]]></content>
+	<updated>2015-10-22T18:06:09+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-22T18:06:09+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-22:/14583</id>
@@ -1189,86 +1265,6 @@ THAT IS THE BEST USE OF THAT PICTURE I HAVE SEEN IN A LONG TIME
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-10-15T02:34:56+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-15:/12866</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131201192628" rel="alternate" type="text/html"/>
-	<title type="html">Excuse this shameless plug. (sketch by ElleMauMau)</title>
-	<summary type="html"><![CDATA[Excuse this shameless plug. (sketch by ElleMauMau)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/6c6ba8611608a1c04c4cb2fc91ec4c45/tumblr_nw8unegqXa1qewacoo1_500.jpg"><br><br><p>Excuse this shameless plug. (sketch by <a href="http://instagram.com/ElleMauMau" target="_blank" rel="noreferrer">ElleMauMau</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-15T04:18:50+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-15T04:18:50+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-15:/12860</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131230988648" rel="alternate" type="text/html"/>
-	<title type="html">obviousplant:
-
-See a bonus costume on Facebook</title>
-	<summary type="html"><![CDATA[          obviousplant:
-
-See a bonus costume on Facebook
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/81eb87ccf88db698181e79c3efa3f715/tumblr_nw9vj7kYnR1u53c30o1_500.jpg"><br><br><img src="http://40.media.tumblr.com/eca2507c97a1d10ae7fb7aba0717f0bc/tumblr_nw9vj7kYnR1u53c30o10_500.jpg"><br><br><img src="http://41.media.tumblr.com/7cfc22a7b7fea5e724187a2a0f88168e/tumblr_nw9vj7kYnR1u53c30o9_500.jpg"><br><br><img src="http://36.media.tumblr.com/694d8361ccd22e3a445cb94ba5feb609/tumblr_nw9vj7kYnR1u53c30o8_500.jpg"><br><br><img src="http://40.media.tumblr.com/e487905c63770e267d1c6385345bfcd0/tumblr_nw9vj7kYnR1u53c30o7_500.jpg"><br><br><img src="http://40.media.tumblr.com/83852cc5bbf5bcdc732fce1bdab2cd9f/tumblr_nw9vj7kYnR1u53c30o6_500.jpg"><br><br><img src="http://40.media.tumblr.com/7bc345fd5f8292016100026a2c77576b/tumblr_nw9vj7kYnR1u53c30o5_500.jpg"><br><br><img src="http://40.media.tumblr.com/7fe23d7200e15b368e558e3477cee718/tumblr_nw9vj7kYnR1u53c30o4_500.jpg"><br><br><img src="http://41.media.tumblr.com/097a7d8d880532a2b51e711f5d2496f4/tumblr_nw9vj7kYnR1u53c30o3_500.jpg"><br><br><img src="http://41.media.tumblr.com/1ed4a0eeb4f7145b52790e125d135c86/tumblr_nw9vj7kYnR1u53c30o2_500.jpg"><br><br><p><a href="http://obviousplant.tumblr.com/post/131229770823" target="_blank" rel="noreferrer">obviousplant</a>:</p>
-<blockquote>
-<p>See a bonus costume on <a href="https://www.facebook.com/obviousplant" target="_blank" rel="noreferrer">Facebook</a></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-15T17:59:56+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-15T17:59:56+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-15:/13113</id>
-	<link href="http://www.viedemerde.fr/sante/8627763" rel="alternate" type="text/html"/>
-	<title type="html">Anonyme a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, je suis professeur de yoga et j'ai une sciatique. J'ai juste voulu ramasser une chausse...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je suis professeur de yoga et j'ai une sciatique. J'ai juste voulu ramasser une chaussette. VDM</p></body></html>
-]]></content>
-	<updated>2015-10-12T10:25:26+00:00</updated>
-	<author><name>Anonyme</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-10-12T10:25:26+00:00</updated>
-		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-15:/13101</id>
-	<link href="http://www.viedemerde.fr/inclassable/8628419" rel="alternate" type="text/html"/>
-	<title type="html">Anonyme a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, ma meilleure amie me demande si je n'ai pas un tampon pour la dépanner. Apparemment, el...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, ma meilleure amie me demande si je n'ai pas un tampon pour la d&eacute;panner. Apparemment, elle a oubli&eacute; le fait que je ne suis pas une fille. VDM</p></body></html>
-]]></content>
-	<updated>2015-10-14T05:01:11+00:00</updated>
-	<author><name>Anonyme</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-10-14T05:01:11+00:00</updated>
-		<title>Vie de merde</title></source>
 
 
 </entry>
