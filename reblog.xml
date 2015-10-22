@@ -4,11 +4,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-15T17:07:11+00:00</updated>
+<updated>2015-10-14T05:01:11+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-22:/14583</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/131701495643" rel="alternate" type="text/html"/>
+	<title type="html">(photo by popatre)</title>
+	<summary type="html"><![CDATA[(photo by popatre)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/888a5d48d56716427f04715a12b1039d/tumblr_nwn0tcsRLx1qewacoo1_r1_500.jpg"><br><br><p>(photo by <a href="https://www.reddit.com/user/popatre" target="_blank" rel="noreferrer">popatre</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-22T19:58:24+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-22T19:58:24+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-22:/14469</id>
+	<link href="http://www.dailymotion.com/video/x3akwoo" rel="alternate" type="text/html"/>
+	<title type="html">Une classe d&amp;amp;#039;étudiantes japonaises aux apparences trompeuses - vidéo dailymotion</title>
+	<summary type="html"><![CDATA[Une classe d&#039;étudiantes japonaises aux apparences trompeuses - vidéo dailymotion]]></summary>
+	<content type="html"><![CDATA[<html><body><a href="http://www.dailymotion.com/video/x3akwoo" rel="noreferrer" target="_blank"><img src="http://s2.dmcdn.net/PBlOu/526x297-iBN.png"></a><br><a href="http://www.dailymotion.com/video/x3akwoo" rel="noreferrer" target="_blank">Une classe d'&eacute;tudiantes japonaises aux apparences trompeuses - vid&eacute;o dailymotion</a></body></html>
+]]></content>
+	<updated>2015-10-22T09:47:05+00:00</updated>
+	<author><name>Dailymotion Bridge</name></author>
+	<source>
+		<id>https://www.dailymotion.com/</id>
+		<link rel="self" href="https://www.dailymotion.com/"/>
+		<updated>2015-10-22T09:47:05+00:00</updated>
+		<title>Spi0n</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-22:/14504</id>
+	<link href="http://www.dailymotion.com/video/x3alnrv" rel="alternate" type="text/html"/>
+	<title type="html">Kinetic Blocks : Une table qui manipule les objets - vidéo dailymotion</title>
+	<summary type="html"><![CDATA[Kinetic Blocks : Une table qui manipule les objets - vidéo dailymotion]]></summary>
+	<content type="html"><![CDATA[<html><body><a href="http://www.dailymotion.com/video/x3alnrv" rel="noreferrer" target="_blank"><img src="http://s1.dmcdn.net/PB2H9/526x297-CMQ.jpg"></a><br><a href="http://www.dailymotion.com/video/x3alnrv" rel="noreferrer" target="_blank">Kinetic Blocks : Une table qui manipule les objets - vid&eacute;o dailymotion</a></body></html>
+]]></content>
+	<updated>2015-10-22T13:39:53+00:00</updated>
+	<author><name>Dailymotion Bridge</name></author>
+	<source>
+		<id>https://www.dailymotion.com/</id>
+		<link rel="self" href="https://www.dailymotion.com/"/>
+		<updated>2015-10-22T13:39:53+00:00</updated>
+		<title>Spi0n</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-22:/14503</id>
+	<link href="http://www.dailymotion.com/video/x3alwn2" rel="alternate" type="text/html"/>
+	<title type="html">Il piège son chat avec un verre d&amp;amp;#039;eau - vidéo dailymotion</title>
+	<summary type="html"><![CDATA[Il piège son chat avec un verre d&#039;eau - vidéo dailymotion]]></summary>
+	<content type="html"><![CDATA[<html><body><a href="http://www.dailymotion.com/video/x3alwn2" rel="noreferrer" target="_blank"><img src="http://s1.dmcdn.net/PBl_A/526x297-bgb.jpg"></a><br><a href="http://www.dailymotion.com/video/x3alwn2" rel="noreferrer" target="_blank">Il pi&egrave;ge son chat avec un verre d'eau - vid&eacute;o dailymotion</a></body></html>
+]]></content>
+	<updated>2015-10-22T14:07:17+00:00</updated>
+	<author><name>Dailymotion Bridge</name></author>
+	<source>
+		<id>https://www.dailymotion.com/</id>
+		<link rel="self" href="https://www.dailymotion.com/"/>
+		<updated>2015-10-22T14:07:17+00:00</updated>
+		<title>Spi0n</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-22:/14422</id>
@@ -1197,82 +1269,6 @@ See a bonus costume on Facebook
 		<link rel="self" href="http://www.viedemerde.fr"/>
 		<updated>2015-10-14T05:01:11+00:00</updated>
 		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-15:/13099</id>
-	<link href="http://www.viedemerde.fr/travail/8628459" rel="alternate" type="text/html"/>
-	<title type="html">Berk berk berk a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, commerciale porte à porte, je discute avec la petite fille de la dame que ma collègue e...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, commerciale porte &agrave; porte, je discute avec la petite fille de la dame que ma coll&egrave;gue essaie de d&eacute;marcher. Elle me colle un lapin en peluche tr&egrave;s r&eacute;aliste dans les mains. "C'est mon lapin, quand il est mort, j'&eacute;tais triste, alors on l'a empaill&eacute; avec maman dans la cuisine." Ah. VDM</p></body></html>
-]]></content>
-	<updated>2015-10-14T08:28:40+00:00</updated>
-	<author><name>Berk berk berk</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-10-14T08:28:40+00:00</updated>
-		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-15:/13098</id>
-	<link href="http://www.viedemerde.fr/inclassable/8628465" rel="alternate" type="text/html"/>
-	<title type="html">Orya a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, alors que je traverse en voiture au ralenti une petite rue de mon quartier, une parfait...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, alors que je traverse en voiture au ralenti une petite rue de mon quartier, une parfaite inconnue a ouvert ma porti&egrave;re c&ocirc;t&eacute; passager, vol&eacute; la baguette de pain pos&eacute;e sur le si&egrave;ge, a claqu&eacute; la porti&egrave;re, puis est repartie l'air de rien. VDM</p></body></html>
-]]></content>
-	<updated>2015-10-14T08:54:45+00:00</updated>
-	<author><name>Orya</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-10-14T08:54:45+00:00</updated>
-		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-15:/13142</id>
-	<link href="http://grisebouille.net/ailleurs-cest-pire/" rel="alternate" type="text/html"/>
-	<title type="html">Ailleurs, c’est pire | Grise Bouille</title>
-	<summary type="html"><![CDATA[C'est pertinent (via http://tools.aldarone.fr/share/?T9LkJA)(Permalink)]]></summary>
-	<content type="html"><![CDATA[<html><body><p>C'est pertinent (via <a href="http://tools.aldarone.fr/share/?T9LkJA" rel="noreferrer" target="_blank">http://tools.aldarone.fr/share/?T9LkJA</a>)<br>(<a href="http://sebsauvage.net/links/?1GEVvg" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-14T06:06:54+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://sebsauvage.net/links/</id>
-		<link rel="self" href="http://sebsauvage.net/links/"/>
-		<updated>2015-10-14T06:06:54+00:00</updated>
-		<title>Liens en vrac de sebsauvage</title></source>
-
-	<category term="society"/>
-
-	<category term="psychology"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-15:/12858</id>
-	<link href="https://vimeo.com/142532718" rel="alternate" type="text/html"/>
-	<title type="html">Jean-Luc MÉLENCHON : LE HARENG DE BISMARCK</title>
-	<summary type="html"><![CDATA[« L'Allemagne, c'est un modèle pour ceux qui ne s'intéressent pas à la vie, (...) personne n'a envie...]]></summary>
-	<content type="html"><![CDATA[<html><body><p></p><p></p><p>&laquo; L'Allemagne, c'est un mod&egrave;le pour ceux qui ne s'int&eacute;ressent pas &agrave; la vie, (...) personne n'a envie d'&ecirc;tre allemand, pas m&ecirc;me les Allemands ! La preuve : ils ne font pas d'enfants. &raquo; Jean-Luc M&eacute;lenchon n'y va pas de main morte avec nos voisins et leur mod&egrave;le tant admir&eacute; par nos &eacute;lites hexagonales. Apr&egrave;s l'&eacute;pisode grec et le scandale Volkswagen, il enfonce le clou.</p> <p>&laquo; Les moutons fran&ccedil;ais b&ecirc;lent pitoyablement dans leur enclos quand claque le fouet des faces de pierre qui gouvernent outre-Rhin. (...) Certes en France il y a toujours eu un fort parti de germanol&acirc;tres, (...) mais comment peuvent-ils aujourd'hui supporter que les dirigeants allemands et leurs m&eacute;diacrates parlent sur ce ton &agrave; la France et au reste de l'Europe ? Pourquoi taisent-ils le naufrage auquel l'Allemagne se destine ? Pourquoi nous demandent-ils d'admirer un pr&eacute;sent aussi calamiteux et un futur aussi pitoyable ? &raquo;</p> <p>Le scandale Volkswagen, le m&eacute;pris pour la Gr&egrave;ce, l'ordolib&eacute;ralisme, la r&eacute;unification (dont on c&eacute;l&egrave;bre les 25 ans), la loi du sang, l'accueil des r&eacute;fugi&eacute;s... M&eacute;lenchon d&eacute;monte le mod&egrave;le allemand sans prendre de gant. Il y a urgence, &laquo; le poison allemand est l'opium des riches. Changer nos vies et faire changer l'Allemagne est une seule et m&ecirc;me chose. Il faut le faire avant qu'il ne soit trop tard. &raquo;</p> <p>Un entretien avec Jean-Luc M&Eacute;LENCHON &agrave; &eacute;couter en int&eacute;gralit&eacute; sur : <a href="http://la-bas.org/les-emissions-258/les-emissions/2015-16/melenchon-le-poison-allemand-est-l-opium-des-riches" target="_blank" rel="noreferrer">la-bas.org/les-emissions-258/les-emissions/2015-16/melenchon-le-poison-allemand-est-l-opium-des-riches</a></p> <p>&Agrave; lire : &laquo; Le hareng de Bismarck, ou le poison allemand &raquo;, un livre de Jean-Luc M&Eacute;LENCHON (2015, &eacute;ditions Plon)</p> <p>Entretien : Daniel MERMET<br> R&eacute;alisation : Jonathan DUONG<br> Image : Lucile LATOUR</p><p><strong>Cast:</strong> <a href="https://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></p><p><strong>Tags:</strong>  <a href="https://vimeo.com/tag:L%26agrave%3B-bas+si+j%27y+suis" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a>,  <a href="https://vimeo.com/tag:Daniel+Mermet" rel="noreferrer" target="_blank">Daniel Mermet</a>,  <a href="https://vimeo.com/tag:Air+France" rel="noreferrer" target="_blank">Air France</a>,  <a href="https://vimeo.com/tag:Chemise" rel="noreferrer" target="_blank">Chemise</a>  and <a href="https://vimeo.com/tag:G%26eacute%3Brard+Mordillat" rel="noreferrer" target="_blank">G&eacute;rard Mordillat</a></p></body></html>
-]]></content>
-	<updated>2015-10-15T17:07:11+00:00</updated>
-	<author><name>Là-bas si j\'y suis</name></author>
-	<source>
-		<id>https://vimeo.com/labas/videos</id>
-		<link rel="self" href="https://vimeo.com/labas/videos"/>
-		<updated>2015-10-15T17:07:11+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
 
 
 </entry>
