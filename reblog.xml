@@ -4,11 +4,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-06T16:26:48+00:00</updated>
+<updated>2015-10-15T17:07:11+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-22:/14422</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/131657760533" rel="alternate" type="text/html"/>
+	<title type="html">How you know you’ve had enough. (vine by afv)</title>
+	<summary type="html"><![CDATA[How you know you’ve had enough. (vine by afv)]]></summary>
+	<content type="html"><![CDATA[<html><body><br><br><p>How you know you&rsquo;ve had enough. (vine by <a href="https://vine.co/v/eVWEdi5v0Ih" target="_blank" rel="noreferrer">afv</a>)<br></p></body></html>
+]]></content>
+	<updated>2015-10-22T01:59:06+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-22T01:59:06+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+	<category term="vine"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-22:/14427</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/131667834036" rel="alternate" type="text/html"/>
+	<title type="html">“Make sure the house is babyproof.” (vine...</title>
+	<summary type="html"><![CDATA[“Make sure the house is babyproof.” (vine by Brittlestar)]]></summary>
+	<content type="html"><![CDATA[<html><body><br><br><p>&ldquo;Make sure the house is babyproof.&rdquo; (vine by&nbsp;<a href="https://vine.co/v/e555j7rq3gU" target="_blank" rel="noreferrer">Brittlestar</a>)<br></p></body></html>
+]]></content>
+	<updated>2015-10-22T05:00:31+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-22T05:00:31+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+	<category term="vine"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-22:/14487</id>
+	<link href="http://www.klaire.fr/a-la-une/atena-farghadani/" rel="alternate" type="text/html"/>
+	<title type="html">Atena Farghadani | Klaire fait Grr</title>
+	<summary type="html"><![CDATA[…(Permalink)]]></summary>
+	<content type="html"><![CDATA[<html><body><p>&hellip;<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?YTe4-Q" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-22T13:14:26+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-10-22T13:14:26+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+	<category term="fb"/>
+
+	<category term="fs"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-22:/14431</id>
+	<link href="http://www.youtube.com/watch?v=5G0_Qlu1NdQ" rel="alternate" type="text/html"/>
+	<title type="html">Whaddaya Say - Cyanide &amp; Happiness Shorts</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-22T05:26:18+00:00</updated>
+	<author><name>ExplosmEntertainment</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw"/>
+		<updated>2015-10-22T05:26:18+00:00</updated>
+		<title>ExplosmEntertainment</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/5G0_Qlu1NdQ?version=3"/>
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-21:/14212</id>
@@ -1190,104 +1274,6 @@ See a bonus costume on Facebook
 		<updated>2015-10-15T17:07:11+00:00</updated>
 		<title>Là-bas si j'y suis</title></source>
 
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-15:/12905</id>
-	<link href="http://www.youtube.com/watch?v=CLiGp0xVz1Q" rel="alternate" type="text/html"/>
-	<title type="html">Tu veux faire le crapaud avec Rocco Siffredi ? #DansTonFlux 50</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-10-15T18:50:34+00:00</updated>
-	<author><name>Dans Ton Flux</name></author>
-	<source>
-		<id>http://www.youtube.com/channel/UCARLZnOtuJnFoX84i8Cli7w</id>
-		<link rel="self" href="http://www.youtube.com/channel/UCARLZnOtuJnFoX84i8Cli7w"/>
-		<updated>2015-10-15T18:50:34+00:00</updated>
-		<title>Dans Ton Flux</title></source>
-
-
-	<link rel="enclosure" 
-		type="application/x-shockwave-flash" 
-		length="1"
-		href="https://www.youtube.com/v/CLiGp0xVz1Q?version=3"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-11:/12638</id>
-	<link href="http://oglaf.com/hotbroiler/" rel="alternate" type="text/html"/>
-	<title type="html">Hot Broiler</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><div><p><img src="http://media.oglaf.com/story/tthotbroiler.gif"></p><p><a href="http://oglaf.com/hotbroiler/" rel="noreferrer" target="_blank"><img src="http://media.oglaf.com/archive/arc_hotbroiler.png" width="400" height="100" border="0" alt="http://oglaf.com/hotbroiler/"></a></p></div></body></html>
-]]></content>
-	<updated>2015-10-11T14:10:51+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://oglaf.com/latest/</id>
-		<link rel="self" href="http://oglaf.com/latest/"/>
-		<updated>2015-10-11T14:10:51+00:00</updated>
-		<title>Oglaf! -- Comics. Often dirty.</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-09:/12328</id>
-	<link href="http://la-bas.org/la-bas-magazine/entretiens/violence-montree-violence-cachee" rel="alternate" type="text/html"/>
-	<title type="html">Violence montrée, violence cachée</title>
-	<summary type="html"><![CDATA[   Play  
-
-2 900 SALARIÉS PERDENT LEURS CHEMISES
-par Là-bas si j'y suis https://vimeo.com/141880283
-...]]></summary>
-	<content type="html"><![CDATA[<html><body><div><div> <div> <div>  </div> </div>
-<div><a href="https://vimeo.com/141880283" rel="noreferrer" target="_blank">2 900 SALARI&Eacute;S PERDENT LEURS CHEMISES</a>
-<br><i>par <a href="http://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></i></div> <div><a href="https://vimeo.com/141880283" rel="noreferrer" target="_blank">https://vimeo.com/141880283</a></div>
-</div> <p>Apprenant la suppression de 2 900 emplois, des salari&eacute;s en col&egrave;re arrachent la chemise de deux dirigeants. Gouvernement et m&eacute;dias unanimes se d&eacute;cha&icirc;nent et condamnent violemment cette violence. Une fa&ccedil;on de dissimuler la vraie violence faite aux salari&eacute;s d'Air France et d'ailleurs. Une fa&ccedil;on de faire diversion par rapport au plan de dislocation de l'entreprise. Ces voyous et ces lyncheurs, qui sont-ils ? Que disent-ils ? &Agrave; Roissy, rencontre avec des pilotes, des personnels au sol et des syndicalistes.</p> <p><strong>Extrait de L&Agrave;-BAS Hebdo #25 <a href="http://la-bas.org/les-emissions-258/les-emissions/2015-16/2-900-salaries-perdent-leurs-chemises" rel="noreferrer" target="_blank">&laquo; 2 900 SALARI&Eacute;S PERDENT LEUR CHEMISE &raquo;</a>, une &eacute;mission &agrave; &eacute;couter en int&eacute;gralit&eacute; sur <a href="http://la-bas.org/les-emissions-258/les-emissions/2015-16/2-900-salaries-perdent-leurs-chemises" rel="noreferrer" target="_blank">la-bas.org/les-emissions-258/les-emissions/2015-16/2-900-salaries-perdent-leurs-chemises</a></strong></p>
-<div>Animation : <strong>Daniel MERMET</strong><br>
-R&eacute;alisation : <strong>Jonathan DUONG</strong><br>
-Image : <strong>Lucile LATOUR</strong><br>
-Son : <strong>Franck HADERER</strong><br>
-Pr&eacute;paration : <strong>Ana&euml;lle VERZAUX</strong> et <strong>Gr&eacute;gory SALOMONOVITCH</strong></div></div></body></html>
-]]></content>
-	<updated>2015-10-09T10:23:50+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://la-bas.org/</id>
-		<link rel="self" href="http://la-bas.org/"/>
-		<updated>2015-10-09T10:23:50+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-	<category term="luttes"/>
-
-	<category term="mondialisation libérale"/>
-
-	<category term="video"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-06:/11515</id>
-	<link href="http://www.youtube.com/watch?v=mVKIva2KddY" rel="alternate" type="text/html"/>
-	<title type="html">Aaron</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-10-06T16:26:48+00:00</updated>
-	<author><name>Neil Cicierega</name></author>
-	<source>
-		<id>http://www.youtube.com/channel/UCDrJor35jYVnuC3JgRzheIw</id>
-		<link rel="self" href="http://www.youtube.com/channel/UCDrJor35jYVnuC3JgRzheIw"/>
-		<updated>2015-10-06T16:26:48+00:00</updated>
-		<title>Neil Cicierega</title></source>
-
-
-	<link rel="enclosure" 
-		type="application/x-shockwave-flash" 
-		length="1"
-		href="https://www.youtube.com/v/mVKIva2KddY?version=3"/>
 
 </entry>
 
