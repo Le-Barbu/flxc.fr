@@ -4,11 +4,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-15T02:34:56+00:00</updated>
+<updated>2015-10-14T18:45:03+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-23:/14626</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/131731796613" rel="alternate" type="text/html"/>
+	<title type="html">by Loading Artist</title>
+	<summary type="html"><![CDATA[      by Loading Artist]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/22994aa6c8e36505b3d22c4cf6372a79/tumblr_nwnqs3oU091qewacoo1_500.jpg"><br><br><img src="http://41.media.tumblr.com/82915b878db84628431180ed01c3c1b2/tumblr_nwnqs3oU091qewacoo2_500.jpg"><br><br><img src="http://40.media.tumblr.com/4b0c9a0c80b5e37a4133390e8edfe973/tumblr_nwnqs3oU091qewacoo3_500.jpg"><br><br><img src="http://36.media.tumblr.com/daa3cc5e1c55d1040f1322b2cbe76dde/tumblr_nwnqs3oU091qewacoo4_500.jpg"><br><br><img src="http://40.media.tumblr.com/4272c94d4f767848b6ee0d2fe0fdbb90/tumblr_nwnqs3oU091qewacoo5_500.jpg"><br><br><img src="http://36.media.tumblr.com/13897cb250267505b180bc3ebef9ad00/tumblr_nwnqs3oU091qewacoo6_500.jpg"><br><br><p>by <a href="http://www.loadingartist.com/comic/face-your-fear/" target="_blank" rel="noreferrer">Loading Artist</a></p></body></html>
+]]></content>
+	<updated>2015-10-23T05:19:15+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-23T05:19:15+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-23:/14631</id>
+	<link href="http://www.viedemerde.fr/inclassable/8631977" rel="alternate" type="text/html"/>
+	<title type="html">Anonyme a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, je me laisse convaincre par un petit resto bien sympa, qui propose des plats prétendus ...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je me laisse convaincre par un petit resto bien sympa, qui propose des plats pr&eacute;tendus faits maison. Par cet argument, je commande un plat cher, s&ucirc;r de la qualit&eacute; de celui-ci. Je suis le seul client, et le bruit du micro-ondes qui se d&eacute;clenche me dit que je me suis fait avoir. VDM</p></body></html>
+]]></content>
+	<updated>2015-10-22T17:30:56+00:00</updated>
+	<author><name>Anonyme</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-10-22T17:30:56+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-23:/14616</id>
+	<link href="http://xkcd.com/1594/" rel="alternate" type="text/html"/>
+	<title type="html">Human Subjects</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://imgs.xkcd.com/comics/human_subjects.png" title="After meeting with a few of the subjects, the IRB actually recommended that you stop stressing out so much about safety guidelines." alt="After meeting with a few of the subjects, the IRB actually recommended that you stop stressing out so much about safety guidelines."></body></html>
+]]></content>
+	<updated>2015-10-23T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://xkcd.com/</id>
+		<link rel="self" href="http://xkcd.com/"/>
+		<updated>2015-10-23T04:00:00+00:00</updated>
+		<title>xkcd.com</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-22:/14520</id>
@@ -1207,64 +1261,6 @@ THAT IS THE BEST USE OF THAT PICTURE I HAVE SEEN IN A LONG TIME
 		<title>Tastefully Offensive on Tumblr</title></source>
 
 	<category term="teenage aliens"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-15:/12870</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131185786208" rel="alternate" type="text/html"/>
-	<title type="html">Where do they sell this? (photo by super_medium_sized)</title>
-	<summary type="html"><![CDATA[Where do they sell this? (photo by super_medium_sized)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/a091cadde656e4d5dfa94a72a615e47e/tumblr_nw8i1a2kbQ1qewacoo1_500.jpg"><br><br><p>Where do they sell this? (photo by&nbsp;<a href="https://www.reddit.com/user/super_medium_sized" target="_blank" rel="noreferrer">super_medium_sized</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-14T23:46:22+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-14T23:46:22+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-15:/12869</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131190538823" rel="alternate" type="text/html"/>
-	<title type="html">Dogs Who’ve Made Terrible Life Choices (photos via bored...</title>
-	<summary type="html"><![CDATA[          Dogs Who’ve Made Terrible Life Choices (photos via bored panda)Related: Before and After P...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/7aa462e89d842d6bd06d62855d1d3052/tumblr_nw8low21HQ1qewacoo1_500.jpg"><br><br><img src="http://40.media.tumblr.com/f210df7ebb0bf915e4762ce3530d8222/tumblr_nw8low21HQ1qewacoo9_r1_500.png"><br><br><img src="http://40.media.tumblr.com/fd4001d41ced36c75bab5b335c0e0e3a/tumblr_nw8low21HQ1qewacoo6_r2_500.png"><br><br><img src="http://41.media.tumblr.com/21322690f42563126cf65a45802599ef/tumblr_nw8low21HQ1qewacoo4_r1_500.jpg"><br><br><img src="http://40.media.tumblr.com/73c3bdd5bbf6f908a25b34a232bfa5c9/tumblr_nw8low21HQ1qewacoo7_r1_500.png"><br><br><img src="http://41.media.tumblr.com/d8b2d32f6906e448f85eab66450700b7/tumblr_nw8low21HQ1qewacoo8_r1_500.png"><br><br><img src="http://41.media.tumblr.com/1ff0bdae59665c8d9bc08abffd72ea9b/tumblr_nw8low21HQ1qewacoo3_r2_500.jpg"><br><br><img src="http://41.media.tumblr.com/fcfa090fbf6467c6c30bf4bfedf612e1/tumblr_nw8low21HQ1qewacoo2_r2_500.png"><br><br><img src="http://40.media.tumblr.com/55a928957a7bfef685d2c11f7ebf6585/tumblr_nw8low21HQ1qewacoo10_r1_500.png"><br><br><img src="http://41.media.tumblr.com/7f12ef7d67fcde55e207fad48c6a7ffe/tumblr_nw8low21HQ1qewacoo5_r1_500.jpg"><br><br><p><b>Dogs Who&rsquo;ve Made Terrible Life Choices</b> (photos via <a href="http://www.boredpanda.com/funny-dog-fails/" target="_blank" rel="noreferrer">bored panda</a>)<br><br>Related:&nbsp;<a href="http://tumblr.tastefullyoffensive.com/post/117394277741/before-and-after-photos-of-dogs-growing-up-images" target="_blank" rel="noreferrer">Before and After Photos of Dogs Growing Up</a></p></body></html>
-]]></content>
-	<updated>2015-10-15T01:13:57+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-15T01:13:57+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="dogs"/>
-
-	<category term="lists"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-15:/12868</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131195256463" rel="alternate" type="text/html"/>
-	<title type="html">(via brutaltruth)</title>
-	<summary type="html"><![CDATA[(via brutaltruth)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/57a20e40e0f90c05c659535a9a71c2d6/tumblr_nw8pu8QYWG1qewacoo1_500.jpg"><br><br><p>(via&nbsp;<a href="https://www.reddit.com/user/BrutalFuckingTruth" target="_blank" rel="noreferrer">brutaltruth</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-15T02:34:56+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-15T02:34:56+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
