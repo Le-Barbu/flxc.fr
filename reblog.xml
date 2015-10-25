@@ -4,11 +4,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-16T20:03:37+00:00</updated>
+<updated>2015-10-17T15:52:19+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-25:/15018</id>
+	<link href="http://www.youtube.com/watch?v=gUlrl5lOftQ" rel="alternate" type="text/html"/>
+	<title type="html">SURICATE - LES DISSOCIÉS (Bande Annonce)</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-25T16:57:36+00:00</updated>
+	<author><name>Golden Moustache</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCJruTcTs7Gn2Tk7YC-ENeHQ</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCJruTcTs7Gn2Tk7YC-ENeHQ"/>
+		<updated>2015-10-25T16:57:36+00:00</updated>
+		<title>Golden Moustache</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/gUlrl5lOftQ?version=3"/>
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-25:/14981</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/131879647718" rel="alternate" type="text/html"/>
+	<title type="html">ohcaptainmycaptain1918:
+
+theinturnetexplorer:
+
+well that...</title>
+	<summary type="html"><![CDATA[      ohcaptainmycaptain1918:
+
+theinturnetexplorer:
+
+well that neighbor feud took an amusing turn.
+
+...]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/855b7848578f100716220734b93de9e8/tumblr_nwn5kcAi4L1qgthdfo1_500.jpg"><br><br><img src="http://40.media.tumblr.com/2aca3c30e372e964059df1c741a5f9a8/tumblr_nwn5kcAi4L1qgthdfo2_500.jpg"><br><br><img src="http://40.media.tumblr.com/81e4c6de0e573195283e2ecfadd7ccf0/tumblr_nwn5kcAi4L1qgthdfo3_500.jpg"><br><br><img src="http://40.media.tumblr.com/349c90fb1cdfce4ff8e725f0ed683c14/tumblr_nwn5kcAi4L1qgthdfo4_500.jpg"><br><br><img src="http://40.media.tumblr.com/a8c883feb17817984446676428e898ae/tumblr_nwn5kcAi4L1qgthdfo5_500.jpg"><br><br><img src="http://40.media.tumblr.com/cce3ba5744d21b7aa3599d9e5c4fb68b/tumblr_nwn5kcAi4L1qgthdfo6_500.jpg"><br><br><p><a href="http://ohcaptainmycaptain1918.tumblr.com/post/131832938384" target="_blank" rel="noreferrer">ohcaptainmycaptain1918</a>:</p>
+<blockquote>
+<p><a href="http://theinturnetexplorer.tumblr.com/post/131774912016" target="_blank" rel="noreferrer">theinturnetexplorer</a>:</p>
+<blockquote>
+<p>well that neighbor feud took an amusing turn.</p>
+</blockquote>
+<p>Imagine your OTP</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-10-25T14:17:44+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-25T14:17:44+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-25:/15022</id>
+	<link href="http://www.viedemerde.fr/inclassable/8633006" rel="alternate" type="text/html"/>
+	<title type="html">mini-moy a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, changement d'heure, je dois me lever à 5 h du matin pour une compétition sportive. Je v...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, changement d'heure, je dois me lever &agrave; 5 h du matin pour une comp&eacute;tition sportive. Je viens de me r&eacute;veiller : mon radio-r&eacute;veil indique 4 h, ma montre 5 h, et mon portable 6 h. VDM</p></body></html>
+]]></content>
+	<updated>2015-10-25T11:16:44+00:00</updated>
+	<author><name>mini-moy</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-10-25T11:16:44+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-25:/15024</id>
+	<link href="http://danstonchat.com/16915.html" rel="alternate" type="text/html"/>
+	<title type="html">DansTonChat #16915</title>
+	<summary type="html"><![CDATA[J.E: Y a un mec qui me harcèle pour que je lui trouve une meuf à sauter OoBignose: WAT?!Bignose: mai...]]></summary>
+	<content type="html"><![CDATA[<html><body><span>J.E:</span> Y a un mec qui me harc&egrave;le pour que je lui trouve une meuf &agrave; sauter Oo<br><span>Bignose:</span> WAT?!<br><span>Bignose:</span> mais &ccedil;a va pas la t&ecirc;te<br><span>J.E:</span> Un ancien camarade de classe..<br><span>Bignose:</span> Il s'imagine que c'est comme les coins &agrave; champignons ?!<br><span>Bignose:</span> ...<br><span>Bignose:</span> Oula<br><span>Bignose:</span> Mauvaise comparaison</body></html>
+]]></content>
+	<updated>2015-10-25T17:34:34+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://danstonchat.com/</id>
+		<link rel="self" href="http://danstonchat.com/"/>
+		<updated>2015-10-25T17:34:34+00:00</updated>
+		<title>DansTonChat</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-25:/14986</id>
@@ -1237,86 +1330,6 @@ my ascent into adulthood
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-10-17T15:52:19+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-18:/13633</id>
-	<link href="http://danstonchat.com/16895.html" rel="alternate" type="text/html"/>
-	<title type="html">DansTonChat #16895</title>
-	<summary type="html"><![CDATA[Luz : Comment mettre un rateau a quelqu&#039;un SANS le blesser ?Akkfor : avec beaucoup de lubrifian...]]></summary>
-	<content type="html"><![CDATA[<html><body><span>Luz :</span> Comment mettre un rateau a quelqu'un SANS le blesser ?<br><span>Akkfor :</span> avec beaucoup de lubrifiant !</body></html>
-]]></content>
-	<updated>2015-10-18T12:45:13+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://danstonchat.com/</id>
-		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-10-18T12:45:13+00:00</updated>
-		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-18:/13655</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131394214807" rel="alternate" type="text/html"/>
-	<title type="html">“The name is Pond, …” (via zombie421)</title>
-	<summary type="html"><![CDATA[“The name is Pond, …” (via zombie421)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/81ad2fcbe7954cf2d29cfdb018f3db2b/tumblr_nweax2P2YY1qewacoo1_500.jpg"><br><br><p>&ldquo;The name is Pond, &hellip;&rdquo; (via <a href="https://www.reddit.com/user/Zombie421" target="_blank" rel="noreferrer">zombie421</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-18T04:00:32+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-18T04:00:32+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-16:/13393</id>
-	<link href="http://mememaster.tumblr.com/post/131297317009" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/59837c86013b54594a1addde0b72362d/tumblr_mvull4IkUW1rgs4eco1_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-10-16T18:41:39+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-16T18:41:39+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-16:/13431</id>
-	<link href="http://kawaiidesune.tumblr.com/post/131301835313" rel="alternate" type="text/html"/>
-	<title type="html">everydaylouie:
-
-cookin’ up trouble</title>
-	<summary type="html"><![CDATA[everydaylouie:
-
-cookin’ up trouble
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/dd1140e2162150c1b748621f5563788b/tumblr_ndegwhIKkb1r85hlio1_500.gif"><br><br><p><a href="http://everydaylouie.tumblr.com/post/99933224259" rel="noreferrer" target="_blank">everydaylouie</a>:</p>
-<blockquote>
-<p><i>cookin&rsquo; up trouble</i></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-16T20:03:37+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://kawaiidesune.tumblr.com/</id>
-		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
-		<updated>2015-10-16T20:03:37+00:00</updated>
-		<title>Kawaii desu ne</title></source>
 
 
 </entry>
