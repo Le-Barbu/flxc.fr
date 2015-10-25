@@ -4,11 +4,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-16T16:33:50+00:00</updated>
+<updated>2015-10-16T20:03:37+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-25:/14986</id>
+	<link href="http://www.dailymotion.com/video/x3aypi4" rel="alternate" type="text/html"/>
+	<title type="html">Un enfant moine donne un cours de kung-fu à Jackie Chan - vidéo dailymotion</title>
+	<summary type="html"><![CDATA[Un enfant moine donne un cours de kung-fu à Jackie Chan - vidéo dailymotion]]></summary>
+	<content type="html"><![CDATA[<html><body><a href="http://www.dailymotion.com/video/x3aypi4" rel="noreferrer" target="_blank"><img src="http://s2.dmcdn.net/PGfQc/526x297-20J.jpg"></a><br><a href="http://www.dailymotion.com/video/x3aypi4" rel="noreferrer" target="_blank">Un enfant moine donne un cours de kung-fu &agrave; Jackie Chan - vid&eacute;o dailymotion</a></body></html>
+]]></content>
+	<updated>2015-10-25T11:24:25+00:00</updated>
+	<author><name>Dailymotion Bridge</name></author>
+	<source>
+		<id>https://www.dailymotion.com/</id>
+		<link rel="self" href="https://www.dailymotion.com/"/>
+		<updated>2015-10-25T11:24:25+00:00</updated>
+		<title>Spi0n</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-25:/14985</id>
+	<link href="http://www.dailymotion.com/video/x3ayrnc" rel="alternate" type="text/html"/>
+	<title type="html">Les mécanismes de montre les plus ingénieux - vidéo dailymotion</title>
+	<summary type="html"><![CDATA[Les mécanismes de montre les plus ingénieux - vidéo dailymotion]]></summary>
+	<content type="html"><![CDATA[<html><body><a href="http://www.dailymotion.com/video/x3ayrnc" rel="noreferrer" target="_blank"><img src="http://s1.dmcdn.net/PGhyg/526x297-Oc5.png"></a><br><a href="http://www.dailymotion.com/video/x3ayrnc" rel="noreferrer" target="_blank">Les m&eacute;canismes de montre les plus ing&eacute;nieux - vid&eacute;o dailymotion</a></body></html>
+]]></content>
+	<updated>2015-10-25T12:06:37+00:00</updated>
+	<author><name>Dailymotion Bridge</name></author>
+	<source>
+		<id>https://www.dailymotion.com/</id>
+		<link rel="self" href="https://www.dailymotion.com/"/>
+		<updated>2015-10-25T12:06:37+00:00</updated>
+		<title>Spi0n</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-25:/14820</id>
@@ -1281,42 +1317,6 @@ cookin’ up trouble
 		<link rel="self" href="http://kawaiidesune.tumblr.com/"/>
 		<updated>2015-10-16T20:03:37+00:00</updated>
 		<title>Kawaii desu ne</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-17:/13467</id>
-	<link href="http://www.allocine.fr" rel="alternate" type="text/html"/>
-	<title type="html">2015-10-19 19:39:23</title>
-	<summary type="html"><![CDATA[       04:06          Faux Raccord N°138 - Les gaffes de Une Nuit en Enfer      39 311 vues   ]]></summary>
-	<content type="html"><![CDATA[<html><body><div> <span> <img data-attr='{"src":"http://fr.web.img1.acsta.net/c_120_68/videothumbnails/15/10/15/18/39/208311.jpg"}' src="http://fr.web.img6.acsta.net/c_120_68/commons/emptymedia/entities/empty_videoportal.jpg"></span> <div> <time datetime="PT4M6S"><i></i> 04:06 </time></div> </div> <figcaption><div> <div> <div> <span> <span> <strong>Faux Raccord</strong> N&deg;138 - Les gaffes de Une Nuit en Enfer </span> </span> </div> </div> <div> <span>39&nbsp;311 vues</span> </div> </div> </figcaption></body></html>
-]]></content>
-	<updated>2015-10-19T19:39:23+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.allocine.fr/video/programme-12284/saison-24580//</id>
-		<link rel="self" href="http://www.allocine.fr/video/programme-12284/saison-24580//"/>
-		<updated>2015-10-19T19:39:23+00:00</updated>
-		<title>Allo Cine : Faux Raccord</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-16:/13412</id>
-	<link href="http://www.dailymotion.com/video/x39wbfq" rel="alternate" type="text/html"/>
-	<title type="html">Sarkozy dit une phrase incompréhensible - vidéo dailymotion</title>
-	<summary type="html"><![CDATA[Sarkozy dit une phrase incompréhensible - vidéo dailymotion]]></summary>
-	<content type="html"><![CDATA[<html><body><a href="http://www.dailymotion.com/video/x39wbfq" rel="noreferrer" target="_blank"><img src="http://s1.dmcdn.net/O4A3a/526x297-gB9.jpg"></a><br><a href="http://www.dailymotion.com/video/x39wbfq" rel="noreferrer" target="_blank">Sarkozy dit une phrase incompr&eacute;hensible - vid&eacute;o dailymotion</a></body></html>
-]]></content>
-	<updated>2015-10-16T16:33:50+00:00</updated>
-	<author><name>Dailymotion Bridge</name></author>
-	<source>
-		<id>https://www.dailymotion.com/</id>
-		<link rel="self" href="https://www.dailymotion.com/"/>
-		<updated>2015-10-16T16:33:50+00:00</updated>
-		<title>Spi0n</title></source>
 
 
 </entry>
