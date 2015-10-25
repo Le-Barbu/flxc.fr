@@ -4,11 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-17T15:52:19+00:00</updated>
+<updated>2015-10-13T11:21:18+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-25:/15047</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/131894001720" rel="alternate" type="text/html"/>
+	<title type="html">Snoutlet (via sourpig)</title>
+	<summary type="html"><![CDATA[Snoutlet (via sourpig)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/21d258b5759c9c6ec36f832ee347c013/tumblr_nwsg0byKf81qewacoo1_500.jpg"><br><br><p>Snoutlet (via <a href="https://www.reddit.com/user/SourPig" target="_blank" rel="noreferrer">sourpig</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-25T18:30:16+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-25T18:30:16+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-25:/15018</id>
@@ -1312,24 +1330,6 @@ my ascent into adulthood
 	<category term="smart borders"/>
 
 	<category term="ue"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-17:/13565</id>
-	<link href="http://mememaster.tumblr.com/post/131354174534" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/5e427b1cd40af4c6ea85ca31cfb6621f/tumblr_mglb66kGR11qhde4uo1_500.png"><br><br></body></html>
-]]></content>
-	<updated>2015-10-17T15:52:19+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-17T15:52:19+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
