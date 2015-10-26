@@ -4,11 +4,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-21T06:26:15+00:00</updated>
+<updated>2015-10-21T16:32:14+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-26:/15281</id>
+	<link href="http://danstonchat.com/16917.html" rel="alternate" type="text/html"/>
+	<title type="html">DansTonChat #16917</title>
+	<summary type="html"><![CDATA[&lt;GrandToasteur&gt; je suis en vie&lt;GrandToasteur&gt; pour le moment&lt;GrandToasteur&gt; je me ...]]></summary>
+	<content type="html"><![CDATA[<html><body><span>&lt;GrandToasteur&gt;</span> je suis en vie<br><span>&lt;GrandToasteur&gt;</span> pour le moment<br><span>&lt;GrandToasteur&gt;</span> je me suis fait virer de cours tout &agrave; l'heure<br><span>&lt;GrandToasteur&gt;</span> on parlait du bouquin le suicide de Durkheim et du suicide positif ou n&eacute;gatif (actif ou passif en gros)<br><span>&lt;GrandToasteur&gt;</span> et il nous donnait des exemples<br><span>&lt;GrandToasteur&gt;</span> je lui dit qu'en fait le fait de vivre c'est un tr&egrave;s long suicide passif<br><span>&lt;GrandToasteur&gt;</span> et comme je lui ai pourri son exemple, bah il m'a foutu dehors<br><span>&lt;GrandToasteur&gt;</span> j'ai une vie fascinante en fait<br><span>&lt;Orange&gt;</span> Ouai j'vois &ccedil;a</body></html>
+]]></content>
+	<updated>2015-10-26T19:12:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://danstonchat.com/</id>
+		<link rel="self" href="http://danstonchat.com/"/>
+		<updated>2015-10-26T19:12:03+00:00</updated>
+		<title>DansTonChat</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-26:/15280</id>
+	<link href="http://danstonchat.com/16918.html" rel="alternate" type="text/html"/>
+	<title type="html">DansTonChat #16918</title>
+	<summary type="html"><![CDATA[&lt;Bhakuren&gt; Nouille mec j&#039;avais 10 ans et dans la cours un connard sort ça, genre harry po...]]></summary>
+	<content type="html"><![CDATA[<html><body><span>&lt;Bhakuren&gt;</span> Nouille mec j'avais 10 ans et dans la cours un connard sort &ccedil;a, genre harry potter c'&eacute;tait ma vie a cet age la<br><span>&lt;Nouille&gt;</span> Bhakuren: Moi j'lui aurais coll&eacute; une tarte<br><span>&lt;Nouille&gt;</span> et j'lui aurais vol&eacute; son go&ucirc;ter en prime<br><span>&lt;Nouille&gt;</span> et sa virginit&eacute;<br><span>&lt;Bhakuren&gt;</span> je l'ai fait<br><span>&lt;Bhakuren&gt;</span> enfin juste la droite hein</body></html>
+]]></content>
+	<updated>2015-10-26T19:12:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://danstonchat.com/</id>
+		<link rel="self" href="http://danstonchat.com/"/>
+		<updated>2015-10-26T19:12:03+00:00</updated>
+		<title>DansTonChat</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-25:/15015</id>
@@ -1835,52 +1871,6 @@ And some are...</title>
 		type="application/x-shockwave-flash" 
 		length="1"
 		href="https://www.youtube.com/v/o4LMEvxVksM?version=3"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-21:/14193</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131573744483" rel="alternate" type="text/html"/>
-	<title type="html">danmeth:
-
-The only bad thing about fall.</title>
-	<summary type="html"><![CDATA[danmeth:
-
-The only bad thing about fall.
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/c9aaddc674862fa0786589c8395f77c1/tumblr_nwjbgo14w71qzol4do1_500.png"><br><br><p><a href="http://danmeth.tumblr.com/post/131572056257" target="_blank" rel="noreferrer">danmeth</a>:</p>
-<blockquote>
-<p>The only bad thing about fall.</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-20T20:25:55+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-20T20:25:55+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-21:/14218</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131606461638" rel="alternate" type="text/html"/>
-	<title type="html">Trolled by nature. (photos via imgur)</title>
-	<summary type="html"><![CDATA[          Trolled by nature. (photos via imgur)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/d0fc05ad0776b4f71c854ad7f4dd8c16/tumblr_nwk4jr4rA21qewacoo1_500.jpg"><br><br><img src="http://40.media.tumblr.com/d9f935282384b0cdb9f86b8614e2771a/tumblr_nwk4jr4rA21qewacoo2_r1_500.jpg"><br><br><img src="http://36.media.tumblr.com/fc42e8ba708e8caeea23eac3c0c10d42/tumblr_nwk4jr4rA21qewacoo3_500.jpg"><br><br><img src="http://40.media.tumblr.com/858a4bcb798215a20fc9f1c23a391472/tumblr_nwk4jr4rA21qewacoo4_500.jpg"><br><br><img src="http://41.media.tumblr.com/e881211d5f7041f5c9b34e2bdb8e52e5/tumblr_nwk4jr4rA21qewacoo5_500.jpg"><br><br><img src="http://36.media.tumblr.com/0e29c4fd340a1316d21225cddb38a08a/tumblr_nwk4jr4rA21qewacoo6_500.jpg"><br><br><img src="http://40.media.tumblr.com/bab4d1b66a6c331ac2ec32dbb00bb051/tumblr_nwk4jr4rA21qewacoo7_500.jpg"><br><br><img src="http://41.media.tumblr.com/2f5e60f6e8a9f5c029dfa26c871435f5/tumblr_nwk4jr4rA21qewacoo8_500.jpg"><br><br><img src="http://41.media.tumblr.com/aa18555710f48131c1abee86ea803dfe/tumblr_nwk4jr4rA21qewacoo9_500.jpg"><br><br><img src="http://40.media.tumblr.com/19be22bf2521a05cf803ef98a5cbe1da/tumblr_nwk4jr4rA21qewacoo10_r1_500.jpg"><br><br><p>Trolled by nature. (photos via <a href="http://imgur.com/gallery/f7ppr" target="_blank" rel="noreferrer">imgur</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-21T06:26:15+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-21T06:26:15+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="natures laser pointer"/>
-
 
 </entry>
 
