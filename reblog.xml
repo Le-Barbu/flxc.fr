@@ -4,11 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-20T17:50:39+00:00</updated>
+<updated>2015-10-20T17:27:16+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-26:/15206</id>
+	<link href="http://danstonchat.com/16916.html" rel="alternate" type="text/html"/>
+	<title type="html">DansTonChat #16916</title>
+	<summary type="html"><![CDATA[Pancake : Nan mais, vu les hanches que j&#039;ai, j&#039;aurai aucune difficultée à accoucherPancake...]]></summary>
+	<content type="html"><![CDATA[<html><body><span>Pancake :</span> Nan mais, vu les hanches que j'ai, j'aurai aucune difficult&eacute;e &agrave; accoucher<br><span>Pancake :</span> Enfin si j'&eacute;tais une femme, mais &ccedil;a c'est du d&eacute;tail hein.</body></html>
+]]></content>
+	<updated>2015-10-26T12:47:57+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://danstonchat.com/</id>
+		<link rel="self" href="http://danstonchat.com/"/>
+		<updated>2015-10-26T12:47:57+00:00</updated>
+		<title>DansTonChat</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-26:/15188</id>
@@ -1829,28 +1847,6 @@ The only bad thing about fall.
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-10-20T17:27:16+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-20:/14143</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131565109198" rel="alternate" type="text/html"/>
-	<title type="html">#ScaryWordsIn5Words (via @midnight)“My phone’s at one percent.”</title>
-	<summary type="html"><![CDATA[          #ScaryWordsIn5Words (via @midnight)“My phone’s at one percent.”]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/ecedab53aa173eeb4decda512945b117/tumblr_nwj5kfgLhx1qewacoo8_500.jpg"><br><br><img src="http://41.media.tumblr.com/addf2166e6f5395037cd7143acbe3ebe/tumblr_nwj5kfgLhx1qewacoo1_500.png"><br><br><img src="http://36.media.tumblr.com/9b2df6f7aceb1cbb70e96ffb31420c3a/tumblr_nwj5kfgLhx1qewacoo6_500.png"><br><br><img src="http://40.media.tumblr.com/00771ca029d87f56b95acd3265f5eab8/tumblr_nwj5kfgLhx1qewacoo4_500.png"><br><br><img src="http://36.media.tumblr.com/fed1af02fd9656b739d7a5fd256709e5/tumblr_nwj5kfgLhx1qewacoo3_500.png"><br><br><img src="http://40.media.tumblr.com/b2576de08b4a91469c37f877b4b47a22/tumblr_nwj5kfgLhx1qewacoo5_500.png"><br><br><img src="http://36.media.tumblr.com/93042c2e962ce6f8cb542e05533aa101/tumblr_nwj5kfgLhx1qewacoo9_500.png"><br><br><img src="http://41.media.tumblr.com/8d003d733cfe581a7dcaf8201b35eb39/tumblr_nwj5kfgLhx1qewacoo10_500.png"><br><br><img src="http://41.media.tumblr.com/58146711ae1baf976696474b303a9a1a/tumblr_nwj5kfgLhx1qewacoo7_500.png"><br><br><img src="http://40.media.tumblr.com/60abc1af8596f55ea79c1683bff0606c/tumblr_nwj5kfgLhx1qewacoo2_500.png"><br><br><p><a href="https://twitter.com/hashtag/ScaryStoryIn5Words?src=hash" target="_blank" rel="noreferrer"><b>#ScaryWordsIn5Words</b></a> (via <a href="https://twitter.com/midnight" target="_blank" rel="noreferrer">@midnight</a>)<br><br>&ldquo;My phone&rsquo;s at one percent.&rdquo;<br></p></body></html>
-]]></content>
-	<updated>2015-10-20T17:50:39+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-20T17:50:39+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="twitter"/>
-
-	<category term="lists"/>
 
 
 </entry>
