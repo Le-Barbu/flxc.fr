@@ -4,11 +4,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-19T18:42:50+00:00</updated>
+<updated>2015-10-19T05:00:00+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-26:/15116</id>
+	<link href="http://www.explosm.net/comics/4098/" rel="alternate" type="text/html"/>
+	<title type="html">Comic for 2015.10.26</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="//files.explosm.net/comics/Dave/hackeddddd.png"></body></html>
+]]></content>
+	<updated>2015-10-26T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.explosm.net/rss.php</id>
+		<link rel="self" href="http://www.explosm.net/rss.php"/>
+		<updated>2015-10-26T05:00:00+00:00</updated>
+		<title>Explosm.net</title></source>
+
+	<category term="comics"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-26:/15098</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/131921134238" rel="alternate" type="text/html"/>
+	<title type="html">Nailed it. (via imgur)</title>
+	<summary type="html"><![CDATA[Nailed it. (via imgur)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/2f3a5f5626839af1b69c766540229c59/tumblr_nwt0vc2X4z1qewacoo1_r1_500.png"><br><br><p>Nailed it. (via <a href="http://imgur.com/SAcMX2g" target="_blank" rel="noreferrer">imgur</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-26T01:45:12+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-26T01:45:12+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+	<category term="halloween"/>
+
+	<category term="avocado"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-26:/15112</id>
@@ -1275,42 +1317,6 @@ By Sad Animal Facts
 		<title>Explosm.net</title></source>
 
 	<category term="comics"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-19:/13826</id>
-	<link href="http://xkcd.com/1592/" rel="alternate" type="text/html"/>
-	<title type="html">Overthinking</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://imgs.xkcd.com/comics/overthinking.png" title='On the other hand, it took us embarrassingly long to clue in to the lung cancer/cigarette thing, so I guess the real lesson is "figuring out which ideas are true is hard."' alt='On the other hand, it took us embarrassingly long to clue in to the lung cancer/cigarette thing, so I guess the real lesson is "figuring out which ideas are true is hard."'></body></html>
-]]></content>
-	<updated>2015-10-19T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://xkcd.com/</id>
-		<link rel="self" href="http://xkcd.com/"/>
-		<updated>2015-10-19T04:00:00+00:00</updated>
-		<title>xkcd.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-19:/13913</id>
-	<link href="http://mememaster.tumblr.com/post/131502326774" rel="alternate" type="text/html"/>
-	<title type="html">for a second I thought the cat was organizing them</title>
-	<summary type="html"><![CDATA[     for a second I thought the cat was organizing them]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/74bf35ea8a69403f3ff5729316e28661/tumblr_n4ssiq2InK1rvyr29o1_500.jpg"><br><br><img src="http://41.media.tumblr.com/cf74ad63569fa67363b2f08195a5fb20/tumblr_n4ssiq2InK1rvyr29o2_500.jpg"><br><br><img src="http://41.media.tumblr.com/014e74603fd2d3b53c329065db15fc1e/tumblr_n4ssiq2InK1rvyr29o3_500.jpg"><br><br><img src="http://41.media.tumblr.com/138eac4051ddeb1ad512f2d42b03b3d5/tumblr_n4ssiq2InK1rvyr29o4_500.jpg"><br><br><img src="http://40.media.tumblr.com/69f9bd7a67ea2316c9dc230a5716ba9b/tumblr_n4ssiq2InK1rvyr29o5_500.jpg"><br><br><p>for a second I thought the cat was organizing them</p></body></html>
-]]></content>
-	<updated>2015-10-19T18:42:50+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-19T18:42:50+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
