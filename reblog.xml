@@ -4,11 +4,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-19T02:29:57+00:00</updated>
+<updated>2015-10-19T18:42:50+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-26:/15112</id>
+	<link href="http://www.viedemerde.fr/travail/8633247" rel="alternate" type="text/html"/>
+	<title type="html">coyelle a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, je suis assignée aux urgences de l'hôpital. Mon premier patient est un homme qui a essa...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, je suis assign&eacute;e aux urgences de l'h&ocirc;pital. Mon premier patient est un homme qui a essay&eacute; d'aller chercher une cuill&egrave;re &agrave; caf&eacute; coinc&eacute;e dans son rectum avec un aspirateur. VDM</p></body></html>
+]]></content>
+	<updated>2015-10-25T21:41:59+00:00</updated>
+	<author><name>coyelle</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-10-25T21:41:59+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-26:/15131</id>
+	<link href="https://linuxfr.org/news/ddrescue-dd_rescue-myrescue-recuperer-ses-donnees-apres-un-crash-disque" rel="alternate" type="text/html"/>
+	<title type="html">ddrescue, dd_rescue, myrescue : récupérer ses données après un crash disque - LinuxFr.org</title>
+	<summary type="html"><![CDATA[Un article sur les outils de la dernière chance pour récupérer des données sur un disque dur qui com...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Un article sur les outils de la derni&egrave;re chance pour r&eacute;cup&eacute;rer des donn&eacute;es sur un disque dur qui commence &agrave; rendre l'&acirc;me.<br>(<a href="http://sebsauvage.net/links/?YqhZOA" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-26T07:26:45+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://sebsauvage.net/links/</id>
+		<link rel="self" href="http://sebsauvage.net/links/"/>
+		<updated>2015-10-26T07:26:45+00:00</updated>
+		<title>Liens en vrac de sebsauvage</title></source>
+
+	<category term="system"/>
+
+	<category term="tips"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-25:/15085</id>
@@ -1271,46 +1311,6 @@ By Sad Animal Facts
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-10-19T18:42:50+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-19:/13802</id>
-	<link href="http://danstonchat.com/16897.html" rel="alternate" type="text/html"/>
-	<title type="html">DansTonChat #16897</title>
-	<summary type="html"><![CDATA[aihe: c&#039;est dingue mais, quand on y pense...wiwi: hum ?aihe: j&#039;ai touché plus de boobs dep...]]></summary>
-	<content type="html"><![CDATA[<html><body><span>aihe:</span> c'est dingue mais, quand on y pense...<br><span>wiwi:</span> hum ?<br><span>aihe:</span> j'ai touch&eacute; plus de boobs depuis mon coming-out qu'avant</body></html>
-]]></content>
-	<updated>2015-10-19T13:41:10+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://danstonchat.com/</id>
-		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-10-19T13:41:10+00:00</updated>
-		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-19:/13835</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131462393728" rel="alternate" type="text/html"/>
-	<title type="html">If Cats Were Scientists (photos via Eat Liver)Related: Cats Who...</title>
-	<summary type="html"><![CDATA[          If Cats Were Scientists (photos via Eat Liver)Related: Cats Who Have Serious Hoarding Issu...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/f5f544750f5e5078d2b6376e654d85c9/tumblr_nwg44cW1qj1qewacoo1_500.jpg"><br><br><img src="http://41.media.tumblr.com/6e2f3123c041444fbe4ab5cc1591ac61/tumblr_nwg44cW1qj1qewacoo2_500.jpg"><br><br><img src="http://40.media.tumblr.com/fd8d15c750846602347d64cdacec911a/tumblr_nwg44cW1qj1qewacoo5_500.png"><br><br><img src="http://41.media.tumblr.com/20ec73db59235693be20508a44f9b69b/tumblr_nwg44cW1qj1qewacoo4_500.jpg"><br><br><img src="http://41.media.tumblr.com/97d4685fb63deea09112b576d8158e11/tumblr_nwg44cW1qj1qewacoo6_500.png"><br><br><img src="http://36.media.tumblr.com/8f8a242e4dd02e243c80a95f4d4056a5/tumblr_nwg44cW1qj1qewacoo7_500.png"><br><br><img src="http://41.media.tumblr.com/aa15607132fa3a474a02a0f4016b9ca0/tumblr_nwg44cW1qj1qewacoo9_500.png"><br><br><img src="http://41.media.tumblr.com/c104215d6736472d5ee67757d1427b20/tumblr_nwg44cW1qj1qewacoo10_500.png"><br><br><img src="http://41.media.tumblr.com/4c36c7331d504d5c8b6503066a049747/tumblr_nwg44cW1qj1qewacoo8_500.png"><br><br><img src="http://40.media.tumblr.com/9681b217e73658691ad153f2187edcdf/tumblr_nwg44cW1qj1qewacoo3_r1_500.jpg"><br><br><p><b>If Cats Were Scientists&nbsp;</b>(photos via <a href="http://www.eatliver.com/if-cats-were-scientists" target="_blank" rel="noreferrer">Eat Liver</a>)<br><br>Related:&nbsp;<a href="http://tumblr.tastefullyoffensive.com/post/122875446778/cats-who-have-serious-hoarding-issues-photos-via" target="_blank" rel="noreferrer">Cats Who Have Serious Hoarding Issues</a></p></body></html>
-]]></content>
-	<updated>2015-10-19T02:29:57+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-19T02:29:57+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="cats"/>
-
-	<category term="lists"/>
 
 
 </entry>
