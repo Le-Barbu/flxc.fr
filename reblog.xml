@@ -4,11 +4,565 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-19T23:52:41+00:00</updated>
+<updated>2015-10-19T20:15:27+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-26:/15171</id>
+	<link href="http://farmbot.io/2015/10/14/how-much-food-can-farmbot-grow/" rel="alternate" type="text/html"/>
+	<title type="html">How Much Food Can FarmBot Grow?</title>
+	<summary type="html"><![CDATA[We are often asked questions relating to FarmBot&#8217;s yield. &#8220;How big of a FarmBot do I nee...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>We are often asked questions relating to FarmBot&rsquo;s yield. <em>&ldquo;How big of a FarmBot do I need to grow all of my food?&rdquo;</em> is a common one.&nbsp;While we don&rsquo;t yet have any empirical data to share with you, we have done an analysis answering this very question. Let&rsquo;s dive in&nbsp;to see the results.</p>
+<h2>Gathering Data</h2>
+<p>We compiled a set of 33 common crops (seen in the table below) that could be compatible with FarmBot in the relative near future. You&rsquo;ll notice that we did&nbsp;not include tall crops such as sunflowers and corn, and there are no fruit trees or berry bushes (with the exception of strawberries). Additionally, there are no grain crops included because it is unlikely that growing grains would be efficient with FarmBot hardware in comparison to larger scale specialized equipment.</p>
+<p>After choosing the crops, we needed to find three pieces of data for each: average yield per harvest (kg/m&sup2;/harvest), average days till harvest (days/harvest), and&nbsp;caloric density (calories/kg). We found this information from the&nbsp;USDA&nbsp;and a wide range of other sources online (see below for resources list).</p>
+<h2>Crunching Numbers</h2>
+<p>Right off the bat, we made an assumption that FarmBot can increase yield per harvest by about 12% by&nbsp;packing plants in a denser <a href="https://en.wikipedia.org/wiki/Hexagonal_tiling" rel="noreferrer" target="_blank">hexagonal packing structure</a>&nbsp;instead of a traditional <a href="https://en.wikipedia.org/wiki/Square_tiling" rel="noreferrer" target="_blank">cubic packing structure</a>. Using this new yield data and the days/harvest values, we calculated daily yield values for each crop in kg/m&sup2;/day. Multiplying&nbsp;this figure with the caloric density provided&nbsp;a&nbsp;daily caloric yield for each crop in calories/m&sup2;/day.</p>
+<table dir="ltr" border="1" width="1093" cellspacing="0" cellpadding="0"><colgroup><col width="140"><col width="113"><col width="155"><col width="94"><col width="88"><col width="113"><col width="124"></colgroup><tbody><tr><td data-sheets-value='[null,2,"Crop"]'><strong>Crop</strong></td>
+<td data-sheets-value='[null,2,"kg/m^2/harvest (cubic packing)"]'><strong>kg/m&sup2;/harvest (cubic packing)</strong></td>
+<td data-sheets-value='[null,2,"kg/m^2/harvest (hexagonal packing)"]'><strong>kg/m&sup2;/harvest (hexagonal packing)</strong></td>
+<td data-sheets-value='[null,2,"Days/harvest"]'><strong>Days/harvest</strong></td>
+<td data-sheets-value='[null,2,"kg/m^2/day"]'><strong>kg/m&sup2;/day</strong></td>
+<td data-sheets-value='[null,2,"Calories/kg"]'><strong>Calories/kg</strong></td>
+<td data-sheets-value='[null,2,"Calories/m^2/day"]'><strong>Calories/m&sup2;/day</strong></td>
+</tr><tr><td data-sheets-value='[null,2,"Artichoke"]'>Artichoke</td>
+<td data-sheets-value="[null,3,null,1.233]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.23</td>
+<td data-sheets-value="[null,3,null,1.4237429335370513]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">1.42</td>
+<td data-sheets-value="[null,3,null,120]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>120.00</td>
+<td data-sheets-value="[null,3,null,0.011864524446142093]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0119</td>
+<td data-sheets-value="[null,3,null,470]">470</td>
+<td data-sheets-value="[null,3,null,5.5763264896867835]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">5.58</td>
+</tr><tr><td data-sheets-value='[null,2,"Arugula"]'>Arugula</td>
+<td data-sheets-value="[null,3,null,0.785]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>0.79</td>
+<td data-sheets-value="[null,3,null,0.9064381207028267]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">0.91</td>
+<td data-sheets-value="[null,3,null,35]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>35.00</td>
+<td data-sheets-value="[null,3,null,0.025898232020080764]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0259</td>
+<td data-sheets-value="[null,3,null,250]">250</td>
+<td data-sheets-value="[null,3,null,6.4745580050201905]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">6.47</td>
+</tr><tr><td data-sheets-value='[null,2,"Asparagus"]'>Asparagus</td>
+<td data-sheets-value="[null,3,null,0.493]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>0.49</td>
+<td data-sheets-value="[null,3,null,0.5692662337662338]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">0.57</td>
+<td data-sheets-value="[null,3,null,360]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>360.00</td>
+<td data-sheets-value="[null,3,null,0.0015812950937950938]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0016</td>
+<td data-sheets-value="[null,3,null,200]">200</td>
+<td data-sheets-value="[null,3,null,0.31625901875901874]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.32</td>
+</tr><tr><td data-sheets-value='[null,2,"Beets"]'>Beets</td>
+<td data-sheets-value="[null,3,null,1.569]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.57</td>
+<td data-sheets-value="[null,3,null,1.8117215431627196]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">1.81</td>
+<td data-sheets-value="[null,3,null,60]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>60.00</td>
+<td data-sheets-value="[null,3,null,0.030195359052711992]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0302</td>
+<td data-sheets-value="[null,3,null,430]">430</td>
+<td data-sheets-value="[null,3,null,12.984004392666156]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">12.98</td>
+</tr><tr><td data-sheets-value='[null,2,"Bell Pepper"]'>Bell Pepper</td>
+<td data-sheets-value="[null,3,null,0.773]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>0.77</td>
+<td data-sheets-value="[null,3,null,0.8925817417876243]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">0.89</td>
+<td data-sheets-value="[null,3,null,90]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>90.00</td>
+<td data-sheets-value="[null,3,null,0.009917574908751382]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0099</td>
+<td data-sheets-value="[null,3,null,250]">250</td>
+<td data-sheets-value="[null,3,null,2.4793937271878455]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">2.48</td>
+</tr><tr><td data-sheets-value='[null,2,"Black Beans"]'>Black Beans</td>
+<td data-sheets-value="[null,3,null,0.157]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>0.16</td>
+<td data-sheets-value="[null,3,null,0.18128762414056535]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">0.18</td>
+<td data-sheets-value="[null,3,null,85]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>85.00</td>
+<td data-sheets-value="[null,3,null,0.0021327955781242983]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0021</td>
+<td data-sheets-value="[null,3,null,3390]">3390</td>
+<td data-sheets-value="[null,3,null,7.230177009841371]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">7.23</td>
+</tr><tr><td data-sheets-value='[null,2,"Broccoli"]'>Broccoli</td>
+<td data-sheets-value="[null,3,null,1.177]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.18</td>
+<td data-sheets-value="[null,3,null,1.3590798319327733]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">1.36</td>
+<td data-sheets-value="[null,3,null,65]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>65.00</td>
+<td data-sheets-value="[null,3,null,0.020908920491273436]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0209</td>
+<td data-sheets-value="[null,3,null,340]">340</td>
+<td data-sheets-value="[null,3,null,7.109032967032968]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">7.11</td>
+</tr><tr><td data-sheets-value='[null,2,"Brussel Sprouts"]'>Brussel Sprouts</td>
+<td data-sheets-value="[null,3,null,1.793]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.79</td>
+<td data-sheets-value="[null,3,null,2.070373949579832]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">2.07</td>
+<td data-sheets-value="[null,3,null,110]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>110.00</td>
+<td data-sheets-value="[null,3,null,0.018821581359816656]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0188</td>
+<td data-sheets-value="[null,3,null,430]">430</td>
+<td data-sheets-value="[null,3,null,8.093279984721162]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">8.09</td>
+</tr><tr><td data-sheets-value='[null,2,"Cabbage"]'>Cabbage</td>
+<td data-sheets-value="[null,3,null,3.53]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>3.53</td>
+<td data-sheets-value="[null,3,null,4.076084797555386]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">4.08</td>
+<td data-sheets-value="[null,3,null,90]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>90.00</td>
+<td data-sheets-value="[null,3,null,0.04528983108394873]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0453</td>
+<td data-sheets-value="[null,3,null,250]">250</td>
+<td data-sheets-value="[null,3,null,11.322457770987183]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">11.32</td>
+</tr><tr><td data-sheets-value='[null,2,"Carrots"]'>Carrots</td>
+<td data-sheets-value="[null,3,null,3.363]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>3.36</td>
+<td data-sheets-value="[null,3,null,3.883250190985485]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">3.88</td>
+<td data-sheets-value="[null,3,null,70]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>70.00</td>
+<td data-sheets-value="[null,3,null,0.05547500272836407]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0555</td>
+<td data-sheets-value="[null,3,null,410]">410</td>
+<td data-sheets-value="[null,3,null,22.74475111862927]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">22.74</td>
+</tr><tr><td data-sheets-value='[null,2,"Cauliflower"]'>Cauliflower</td>
+<td data-sheets-value="[null,3,null,1.345]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.35</td>
+<td data-sheets-value="[null,3,null,1.5530691367456073]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">1.55</td>
+<td data-sheets-value="[null,3,null,80]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>80.00</td>
+<td data-sheets-value="[null,3,null,0.01941336420932009]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0194</td>
+<td data-sheets-value="[null,3,null,250]">250</td>
+<td data-sheets-value="[null,3,null,4.853341052330022]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">4.85</td>
+</tr><tr><td data-sheets-value='[null,2,"Celery"]'>Celery</td>
+<td data-sheets-value="[null,3,null,3.587]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>3.59</td>
+<td data-sheets-value="[null,3,null,4.141902597402598]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">4.14</td>
+<td data-sheets-value="[null,3,null,180]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>180.00</td>
+<td data-sheets-value="[null,3,null,0.02301056998556999]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0230</td>
+<td data-sheets-value="[null,3,null,160]">160</td>
+<td data-sheets-value="[null,3,null,3.6816911976911983]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">3.68</td>
+</tr><tr><td data-sheets-value='[null,2,"Chard"]'>Chard</td>
+<td data-sheets-value="[null,3,null,1.681]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.68</td>
+<td data-sheets-value="[null,3,null,1.941047746371276]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">1.94</td>
+<td data-sheets-value="[null,3,null,50]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>50.00</td>
+<td data-sheets-value="[null,3,null,0.03882095492742552]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0388</td>
+<td data-sheets-value="[null,3,null,190]">190</td>
+<td data-sheets-value="[null,3,null,7.375981436210849]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">7.38</td>
+</tr><tr><td data-sheets-value='[null,2,"Collards"]'>Collards</td>
+<td data-sheets-value="[null,3,null,1.824]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.82</td>
+<td data-sheets-value="[null,3,null,2.1061695951107717]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">2.11</td>
+<td data-sheets-value="[null,3,null,40]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>40.00</td>
+<td data-sheets-value="[null,3,null,0.05265423987776929]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0527</td>
+<td data-sheets-value="[null,3,null,320]">320</td>
+<td data-sheets-value="[null,3,null,16.849356760886174]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">16.85</td>
+</tr><tr><td data-sheets-value='[null,2,"Cucumber"]'>Cucumber</td>
+<td data-sheets-value="[null,3,null,1.962]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.96</td>
+<td data-sheets-value="[null,3,null,2.2655179526355997]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">2.27</td>
+<td data-sheets-value="[null,3,null,60]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>60.00</td>
+<td data-sheets-value="[null,3,null,0.03775863254392666]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0378</td>
+<td data-sheets-value="[null,3,null,160]">160</td>
+<td data-sheets-value="[null,3,null,6.041381207028266]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">6.04</td>
+</tr><tr><td data-sheets-value='[null,2,"Eggplant"]'>Eggplant</td>
+<td data-sheets-value="[null,3,null,2.186]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>2.19</td>
+<td data-sheets-value="[null,3,null,2.5241703590527123]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">2.52</td>
+<td data-sheets-value="[null,3,null,90]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>90.00</td>
+<td data-sheets-value="[null,3,null,0.028046337322807913]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0280</td>
+<td data-sheets-value="[null,3,null,250]">250</td>
+<td data-sheets-value="[null,3,null,7.011584330701979]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">7.01</td>
+</tr><tr><td data-sheets-value='[null,2,"Garlic"]'>Garlic</td>
+<td data-sheets-value="[null,3,null,0.482]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>0.48</td>
+<td data-sheets-value="[null,3,null,0.5565645530939649]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">0.56</td>
+<td data-sheets-value="[null,3,null,90]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>90.00</td>
+<td data-sheets-value="[null,3,null,0.006184050589932944]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0062</td>
+<td data-sheets-value="[null,3,null,1490]">1490</td>
+<td data-sheets-value="[null,3,null,9.214235379000087]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">9.21</td>
+</tr><tr><td data-sheets-value='[null,2,"Kale"]'>Kale</td>
+<td data-sheets-value="[null,3,null,1.824]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.82</td>
+<td data-sheets-value="[null,3,null,2.1061695951107717]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">2.11</td>
+<td data-sheets-value="[null,3,null,50]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>50.00</td>
+<td data-sheets-value="[null,3,null,0.04212339190221544]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0421</td>
+<td data-sheets-value="[null,3,null,490]">490</td>
+<td data-sheets-value="[null,3,null,20.640462032085566]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">20.64</td>
+</tr><tr><td data-sheets-value='[null,2,"Kohlrabi"]'>Kohlrabi</td>
+<td data-sheets-value="[null,3,null,1.625]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.63</td>
+<td data-sheets-value="[null,3,null,1.8763846447669976]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">1.88</td>
+<td data-sheets-value="[null,3,null,65]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>65.00</td>
+<td data-sheets-value="[null,3,null,0.028867456073338425]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0289</td>
+<td data-sheets-value="[null,3,null,270]">270</td>
+<td data-sheets-value="[null,3,null,7.794213139801375]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">7.79</td>
+</tr><tr><td data-sheets-value='[null,2,"Lettuce"]'>Lettuce</td>
+<td data-sheets-value="[null,3,null,3.026]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>3.03</td>
+<td data-sheets-value="[null,3,null,3.494116883116883]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">3.49</td>
+<td data-sheets-value="[null,3,null,55]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>55.00</td>
+<td data-sheets-value="[null,3,null,0.06352939787485243]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0635</td>
+<td data-sheets-value="[null,3,null,150]">150</td>
+<td data-sheets-value="[null,3,null,9.529409681227865]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">9.53</td>
+</tr><tr><td data-sheets-value='[null,2,"Melons"]'>Melons</td>
+<td data-sheets-value="[null,3,null,1.681]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.68</td>
+<td data-sheets-value="[null,3,null,1.941047746371276]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">1.94</td>
+<td data-sheets-value="[null,3,null,90]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>90.00</td>
+<td data-sheets-value="[null,3,null,0.02156719718190307]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0216</td>
+<td data-sheets-value="[null,3,null,320]">320</td>
+<td data-sheets-value="[null,3,null,6.901503098208982]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">6.90</td>
+</tr><tr><td data-sheets-value='[null,2,"Okra"]'>Okra</td>
+<td data-sheets-value="[null,3,null,2.55]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>2.55</td>
+<td data-sheets-value="[null,3,null,2.9444805194805195]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">2.94</td>
+<td data-sheets-value="[null,3,null,60]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>60.00</td>
+<td data-sheets-value="[null,3,null,0.049074675324675326]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0491</td>
+<td data-sheets-value="[null,3,null,330]">330</td>
+<td data-sheets-value="[null,3,null,16.194642857142856]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">16.19</td>
+</tr><tr><td data-sheets-value='[null,2,"Onion"]'>Onion</td>
+<td data-sheets-value="[null,3,null,4.315]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>4.32</td>
+<td data-sheets-value="[null,3,null,4.982522918258214]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">4.98</td>
+<td data-sheets-value="[null,3,null,110]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>110.00</td>
+<td data-sheets-value="[null,3,null,0.04529566289325649]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0453</td>
+<td data-sheets-value="[null,3,null,400]">400</td>
+<td data-sheets-value="[null,3,null,18.118265157302595]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">18.12</td>
+</tr><tr><td data-sheets-value='[null,2,"Peas"]'>Peas</td>
+<td data-sheets-value="[null,3,null,0.448]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>0.45</td>
+<td data-sheets-value="[null,3,null,0.5173048128342246]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">0.52</td>
+<td data-sheets-value="[null,3,null,70]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>70.00</td>
+<td data-sheets-value="[null,3,null,0.0073900687547746365]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0074</td>
+<td data-sheets-value="[null,3,null,810]">810</td>
+<td data-sheets-value="[null,3,null,5.985955691367455]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">5.99</td>
+</tr><tr><td data-sheets-value='[null,2,"Potato"]'>Potato</td>
+<td data-sheets-value="[null,3,null,1.915]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.92</td>
+<td data-sheets-value="[null,3,null,2.2112471352177234]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">2.21</td>
+<td data-sheets-value="[null,3,null,110]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>110.00</td>
+<td data-sheets-value="[null,3,null,0.020102246683797485]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0201</td>
+<td data-sheets-value="[null,3,null,770]">770</td>
+<td data-sheets-value="[null,3,null,15.478729946524064]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">15.48</td>
+</tr><tr><td data-sheets-value='[null,2,"Pumpkin"]'>Pumpkin</td>
+<td data-sheets-value="[null,3,null,4.483]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>4.48</td>
+<td data-sheets-value="[null,3,null,5.176512223071047]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">5.18</td>
+<td data-sheets-value="[null,3,null,110]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>110.00</td>
+<td data-sheets-value="[null,3,null,0.047059202027918606]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0471</td>
+<td data-sheets-value="[null,3,null,260]">260</td>
+<td data-sheets-value="[null,3,null,12.235392527258838]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">12.24</td>
+</tr><tr><td data-sheets-value='[null,2,"Radish"]'>Radish</td>
+<td data-sheets-value="[null,3,null,0.841]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>0.84</td>
+<td data-sheets-value="[null,3,null,0.9711012223071046]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">0.97</td>
+<td data-sheets-value="[null,3,null,60]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>60.00</td>
+<td data-sheets-value="[null,3,null,0.016185020371785076]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0162</td>
+<td data-sheets-value="[null,3,null,160]">160</td>
+<td data-sheets-value="[null,3,null,2.589603259485612]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">2.59</td>
+</tr><tr><td data-sheets-value='[null,2,"Spinach"]'>Spinach</td>
+<td data-sheets-value="[null,3,null,1.401]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.40</td>
+<td data-sheets-value="[null,3,null,1.6177322383498856]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">1.62</td>
+<td data-sheets-value="[null,3,null,55]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>55.00</td>
+<td data-sheets-value="[null,3,null,0.029413313424543373]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0294</td>
+<td data-sheets-value="[null,3,null,230]">230</td>
+<td data-sheets-value="[null,3,null,6.765062087644976]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">6.77</td>
+</tr><tr><td data-sheets-value='[null,2,"Squash"]'>Squash</td>
+<td data-sheets-value="[null,3,null,3.923]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>3.92</td>
+<td data-sheets-value="[null,3,null,4.529881207028266]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">4.53</td>
+<td data-sheets-value="[null,3,null,90]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>90.00</td>
+<td data-sheets-value="[null,3,null,0.05033201341142518]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0503</td>
+<td data-sheets-value="[null,3,null,450]">450</td>
+<td data-sheets-value="[null,3,null,22.649406035141332]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">22.65</td>
+</tr><tr><td data-sheets-value='[null,2,"Strawberries"]'>Strawberries</td>
+<td data-sheets-value="[null,3,null,2.477]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>2.48</td>
+<td data-sheets-value="[null,3,null,2.860187547746371]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">2.86</td>
+<td data-sheets-value="[null,3,null,360]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>360.00</td>
+<td data-sheets-value="[null,3,null,0.007944965410406587]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0079</td>
+<td data-sheets-value="[null,3,null,330]">330</td>
+<td data-sheets-value="[null,3,null,2.621838585434174]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">2.62</td>
+</tr><tr><td data-sheets-value='[null,2,"Tomato"]'>Tomato</td>
+<td data-sheets-value="[null,3,null,1.233]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.23</td>
+<td data-sheets-value="[null,3,null,1.4237429335370513]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">1.42</td>
+<td data-sheets-value="[null,3,null,85]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>85.00</td>
+<td data-sheets-value="[null,3,null,0.01674991686514178]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0167</td>
+<td data-sheets-value="[null,3,null,180]">180</td>
+<td data-sheets-value="[null,3,null,3.0149850357255206]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">3.01</td>
+</tr><tr><td data-sheets-value='[null,2,"Turnip"]'>Turnip</td>
+<td data-sheets-value="[null,3,null,4.483]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>4.48</td>
+<td data-sheets-value="[null,3,null,5.176512223071047]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">5.18</td>
+<td data-sheets-value="[null,3,null,60]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>60.00</td>
+<td data-sheets-value="[null,3,null,0.08627520371785077]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0863</td>
+<td data-sheets-value="[null,3,null,280]">280</td>
+<td data-sheets-value="[null,3,null,24.157057040998218]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">24.16</td>
+</tr><tr><td data-sheets-value='[null,2,"Zucchini"]'>Zucchini</td>
+<td data-sheets-value="[null,3,null,3.363]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>3.36</td>
+<td data-sheets-value="[null,3,null,3.883250190985485]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">3.88</td>
+<td data-sheets-value="[null,3,null,90]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>90.00</td>
+<td data-sheets-value="[null,3,null,0.04314722434428317]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0431</td>
+<td data-sheets-value="[null,3,null,170]">170</td>
+<td data-sheets-value="[null,3,null,7.335028138528139]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">7.34</td>
+</tr></tbody></table><p>From here, we found out how many calories/day could be produced with a FarmBot Genesis (4.5 m&sup2; in size) and a FarmBot Genesis XL (18 m&sup2;). We calculated these values twice: once by using an average caloric yield of all 33&nbsp;crops to represent&nbsp;growing&nbsp;them all using an equal amount of area; and once by using an average of the best 10 performing crops as ranked by the calories/m&sup2;/day benchmark. The results are in the table below:</p>
+<table dir="ltr" border="1" cellspacing="0" cellpadding="0"><colgroup><col width="113"><col width="124"><col width="130"><col width="144"></colgroup><tbody><tr><td></td>
+<td data-sheets-value='[null,2,"Calories/m^2/Day"]'><strong>Calories/m&sup2;/Day</strong></td>
+<td data-sheets-value='[null,2,"Calories/day with FarmBot Genesis"]'><strong>Calories/day with FarmBot Genesis</strong></td>
+<td data-sheets-value='[null,2,"Calories/day with FarmBot Genesis XL"]'><strong>Calories/day with FarmBot Genesis XL</strong></td>
+</tr><tr><td data-sheets-value='[null,2,"All crops average"]'><strong>All crops average</strong></td>
+<td data-sheets-value="[null,3,null,9.738465641280548]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=AVERAGE(R[-34]C[0]:R[-2]C[0])">9.74</td>
+<td data-sheets-value="[null,3,null,43.82309538576247]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*4.5">44</td>
+<td data-sheets-value="[null,3,null,175.29238154304988]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*18">175</td>
+</tr><tr><td data-sheets-value='[null,2,"Best 10 average"]'><strong>Best 10 average</strong></td>
+<td data-sheets-value="[null,3,null,18.205206786863506]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=AVERAGE(R[-32]C[0],R[-26]C[0],R[-22]C[0],R[-18]C[0],R[-14]C[0],R[-13]C[0],R[-11]C[0],R[-7]C[0],R[-4]C[0],R[-10]C[0])">18.21</td>
+<td data-sheets-value="[null,3,null,81.92343054088578]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*4.5">82</td>
+<td data-sheets-value="[null,3,null,327.6937221635431]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*18">328</td>
+</tr></tbody></table><p>As you know, 328 calories/day with a Genesis XL growing the best 10 performing crops is not very many calories. Most people eat at least 2,000 calories/day. By this analysis, one would need a huge FarmBot to grow all of their caloric needs. We calculated just how big in the table below, revealing&nbsp;a minimum size of&nbsp;110 square meters (the size of a small house) in order to provide all 2,000 calories/day.</p>
+<table dir="ltr" border="1" width="723" cellspacing="0" cellpadding="0"><colgroup><col width="113"><col width="124"><col width="130"><col width="144"></colgroup><tbody><tr><td></td>
+<td data-sheets-value='[null,2,"Calories/m^2/Day"]'><strong>Calories/m&sup2;/Day</strong></td>
+<td data-sheets-value='[null,2,"Size of FarmBot needed for a 2,000 calorie diet (m^2)"]'><strong>Size of FarmBot needed for a 2,000 calorie diet (m&sup2;)</strong></td>
+<td data-sheets-value='[null,2,"Size of FarmBot needed for a 2,500 calorie diet (m^2)"]'><strong>Size of FarmBot needed for a 2,500 calorie diet (m&sup2;)</strong></td>
+</tr><tr><td data-sheets-value='[null,2,"All crops average"]'><strong>All crops average</strong></td>
+<td data-sheets-value="[null,3,null,10.45038357046032]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=AVERAGE(R[-34]C[0]:R[-2]C[0])">9.74</td>
+<td data-sheets-value="[null,3,null,191.38053512727703]" data-sheets-numberformat='[null,2,"#,##0",1]' data-sheets-formula="=2000/R[0]C[-1]">205</td>
+<td data-sheets-value="[null,3,null,239.2256689090963]" data-sheets-numberformat='[null,2,"#,##0",1]' data-sheets-formula="=2500/R[0]C[-2]">257</td>
+</tr><tr><td data-sheets-value='[null,2,"Best 10 average"]'><strong>Best 10 average</strong></td>
+<td data-sheets-value="[null,3,null,12.741421696754736]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=AVERAGE(R[-32]C[0],R[-26]C[0],R[-22]C[0],R[-18]C[0],R[-14]C[0],R[-13]C[0],R[-11]C[0],R[-7]C[0],R[-4]C[0],R[-10]C[0])">18.21</td>
+<td data-sheets-value="[null,3,null,156.96835467814424]" data-sheets-numberformat='[null,2,"#,##0",1]' data-sheets-formula="=2000/R[0]C[-1]">110</td>
+<td data-sheets-value="[null,3,null,196.21044334768033]" data-sheets-numberformat='[null,2,"#,##0",1]' data-sheets-formula="=2500/R[0]C[-2]">137</td>
+</tr></tbody></table><h2>Cups, not Calories</h2>
+<p>But this isn&rsquo;t a very useful calculation because most people don&rsquo;t get 100% of their calories from vegetables. Not even close to it, actually. Most people also eat grains, dairy, meats, oils, fruits, etc &ndash; all of which are much more calorie dense than veggies. According to <a href="http://www.choosemyplate.gov/" rel="noreferrer" target="_blank">My Plate</a>&nbsp;(previously the food pyramid), we&rsquo;re supposed to eat about 3 <em>cups</em>&nbsp;of veggies a day, and there is no mention of calories of veggies at all.</p>
+<p>This means that the question we are asking and answering should instead be:&nbsp;<em>&ldquo;How big of a FarmBot would I need to grow the recommended cups/day of veggies I need?&rdquo;&nbsp;</em>Let&rsquo;s see how this changes things.</p>
+<p>If you chose to eat 3 cups of black beans every day, that would be over 1,500 calories, and&nbsp;require about 250 square meters to grow. This is a huge amount of area needed to satisfy our 3 cups goal. If you chose to eat 3 cups of arugula every day (a crop with similar calorie/kg value to black beans), that would be less than 20 calories, and only require about 3 square meters to grow. This is a much smaller amount of area needed because our new goal is cups, not calories. So while both crops perform similarly according to the calorie benchmark, they perform extremely different under&nbsp;the cups benchmark.</p>
+<h2>Promising Results</h2>
+<p>Looking back out our table of 33 crops, with new columns for cups/m&sup2;/day, and FarmBot is looking quite a bit more feasible for satisfying our needs.</p>
+<table dir="ltr" border="1" width="1147" cellspacing="0" cellpadding="0"><colgroup><col width="140"><col width="113"><col width="155"><col width="94"><col width="88"><col width="106"><col width="101"></colgroup><tbody><tr><td data-sheets-value='[null,2,"Crop"]'><strong>Crop</strong></td>
+<td data-sheets-value='[null,2,"kg/m^2/harvest (cubic packing)"]'><strong>kg/m&sup2;/harvest (cubic packing)</strong></td>
+<td data-sheets-value='[null,2,"kg/m^2/harvest (hexagonal packing)"]'><strong>kg/m&sup2;/harvest (hexagonal packing)</strong></td>
+<td data-sheets-value='[null,2,"Days/harvest"]'><strong>Days/harvest</strong></td>
+<td data-sheets-value='[null,2,"kg/m^2/day"]'><strong>kg/m&sup2;/day</strong></td>
+<td data-sheets-value='[null,2,"cups/kg"]' data-sheets-numberformat='[null,2,"#,##0.00",1]'><strong>cups/kg</strong></td>
+<td data-sheets-value='[null,2,"cups/m^2/day"]'><strong>cups/m&sup2;/day</strong></td>
+</tr><tr><td data-sheets-value='[null,2,"Artichoke"]'>Artichoke</td>
+<td data-sheets-value="[null,3,null,1.233]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.23</td>
+<td data-sheets-value="[null,3,null,1.4237429335370513]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">1.42</td>
+<td data-sheets-value="[null,3,null,120]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>120.00</td>
+<td data-sheets-value="[null,3,null,0.011864524446142093]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0119</td>
+<td data-sheets-value="[null,3,null,7.462686567164178]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>7.46</td>
+<td data-sheets-value="[null,3,null,0.08854122721001562]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.09</td>
+</tr><tr><td data-sheets-value='[null,2,"Arugula"]'>Arugula</td>
+<td data-sheets-value="[null,3,null,0.785]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>0.79</td>
+<td data-sheets-value="[null,3,null,0.9064381207028267]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">0.91</td>
+<td data-sheets-value="[null,3,null,35]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>35.00</td>
+<td data-sheets-value="[null,3,null,0.025898232020080764]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0259</td>
+<td data-sheets-value="[null,3,null,50]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>50.00</td>
+<td data-sheets-value="[null,3,null,1.2949116010040382]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">1.29</td>
+</tr><tr><td data-sheets-value='[null,2,"Asparagus"]'>Asparagus</td>
+<td data-sheets-value="[null,3,null,0.493]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>0.49</td>
+<td data-sheets-value="[null,3,null,0.5692662337662338]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">0.57</td>
+<td data-sheets-value="[null,3,null,360]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>360.00</td>
+<td data-sheets-value="[null,3,null,0.0015812950937950938]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0016</td>
+<td data-sheets-value="[null,3,null,7.462686567164178]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>7.46</td>
+<td data-sheets-value="[null,3,null,0.011800709655187267]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.01</td>
+</tr><tr><td data-sheets-value='[null,2,"Beets"]'>Beets</td>
+<td data-sheets-value="[null,3,null,1.569]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.57</td>
+<td data-sheets-value="[null,3,null,1.8117215431627196]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">1.81</td>
+<td data-sheets-value="[null,3,null,60]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>60.00</td>
+<td data-sheets-value="[null,3,null,0.030195359052711992]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0302</td>
+<td data-sheets-value="[null,3,null,7.352941176470588]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>7.35</td>
+<td data-sheets-value="[null,3,null,0.22202469891699994]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.22</td>
+</tr><tr><td data-sheets-value='[null,2,"Bell Pepper"]'>Bell Pepper</td>
+<td data-sheets-value="[null,3,null,0.773]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>0.77</td>
+<td data-sheets-value="[null,3,null,0.8925817417876243]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">0.89</td>
+<td data-sheets-value="[null,3,null,90]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>90.00</td>
+<td data-sheets-value="[null,3,null,0.009917574908751382]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0099</td>
+<td data-sheets-value="[null,3,null,8.333333333333334]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>8.33</td>
+<td data-sheets-value="[null,3,null,0.08264645757292818]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.08</td>
+</tr><tr><td data-sheets-value='[null,2,"Black Beans"]'>Black Beans</td>
+<td data-sheets-value="[null,3,null,0.157]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>0.16</td>
+<td data-sheets-value="[null,3,null,0.18128762414056535]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">0.18</td>
+<td data-sheets-value="[null,3,null,85]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>85.00</td>
+<td data-sheets-value="[null,3,null,0.0021327955781242983]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0021</td>
+<td data-sheets-value="[null,3,null,5.434782608695652]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>5.43</td>
+<td data-sheets-value="[null,3,null,0.011591280315892925]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.01</td>
+</tr><tr><td data-sheets-value='[null,2,"Broccoli"]'>Broccoli</td>
+<td data-sheets-value="[null,3,null,1.177]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.18</td>
+<td data-sheets-value="[null,3,null,1.3590798319327733]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">1.36</td>
+<td data-sheets-value="[null,3,null,65]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>65.00</td>
+<td data-sheets-value="[null,3,null,0.020908920491273436]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0209</td>
+<td data-sheets-value="[null,3,null,10.989010989010989]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>10.99</td>
+<td data-sheets-value="[null,3,null,0.22976835704696083]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.23</td>
+</tr><tr><td data-sheets-value='[null,2,"Brussel Sprouts"]'>Brussel Sprouts</td>
+<td data-sheets-value="[null,3,null,1.793]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.79</td>
+<td data-sheets-value="[null,3,null,2.070373949579832]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">2.07</td>
+<td data-sheets-value="[null,3,null,110]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>110.00</td>
+<td data-sheets-value="[null,3,null,0.018821581359816656]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0188</td>
+<td data-sheets-value="[null,3,null,11.363636363636365]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>11.36</td>
+<td data-sheets-value="[null,3,null,0.21388160636155293]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.21</td>
+</tr><tr><td data-sheets-value='[null,2,"Cabbage"]'>Cabbage</td>
+<td data-sheets-value="[null,3,null,3.53]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>3.53</td>
+<td data-sheets-value="[null,3,null,4.076084797555386]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">4.08</td>
+<td data-sheets-value="[null,3,null,90]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>90.00</td>
+<td data-sheets-value="[null,3,null,0.04528983108394873]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0453</td>
+<td data-sheets-value="[null,3,null,14.285714285714285]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>14.29</td>
+<td data-sheets-value="[null,3,null,0.6469975869135532]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.65</td>
+</tr><tr><td data-sheets-value='[null,2,"Carrots"]'>Carrots</td>
+<td data-sheets-value="[null,3,null,3.363]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>3.36</td>
+<td data-sheets-value="[null,3,null,3.883250190985485]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">3.88</td>
+<td data-sheets-value="[null,3,null,70]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>70.00</td>
+<td data-sheets-value="[null,3,null,0.05547500272836407]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0555</td>
+<td data-sheets-value="[null,3,null,8.695652173913043]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>8.70</td>
+<td data-sheets-value="[null,3,null,0.48239132807273105]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.48</td>
+</tr><tr><td data-sheets-value='[null,2,"Cauliflower"]'>Cauliflower</td>
+<td data-sheets-value="[null,3,null,1.345]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.35</td>
+<td data-sheets-value="[null,3,null,1.5530691367456073]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">1.55</td>
+<td data-sheets-value="[null,3,null,80]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>80.00</td>
+<td data-sheets-value="[null,3,null,0.01941336420932009]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0194</td>
+<td data-sheets-value="[null,3,null,9.345794392523365]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>9.35</td>
+<td data-sheets-value="[null,3,null,0.18143331036747748]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.18</td>
+</tr><tr><td data-sheets-value='[null,2,"Celery"]'>Celery</td>
+<td data-sheets-value="[null,3,null,3.587]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>3.59</td>
+<td data-sheets-value="[null,3,null,4.141902597402598]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">4.14</td>
+<td data-sheets-value="[null,3,null,180]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>180.00</td>
+<td data-sheets-value="[null,3,null,0.02301056998556999]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0230</td>
+<td data-sheets-value="[null,3,null,9.900990099009901]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>9.90</td>
+<td data-sheets-value="[null,3,null,0.22782742559970284]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.23</td>
+</tr><tr><td data-sheets-value='[null,2,"Chard"]'>Chard</td>
+<td data-sheets-value="[null,3,null,1.681]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.68</td>
+<td data-sheets-value="[null,3,null,1.941047746371276]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">1.94</td>
+<td data-sheets-value="[null,3,null,50]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>50.00</td>
+<td data-sheets-value="[null,3,null,0.03882095492742552]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0388</td>
+<td data-sheets-value="[null,3,null,27.77777777777778]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>27.78</td>
+<td data-sheets-value="[null,3,null,1.0783598590951535]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">1.08</td>
+</tr><tr><td data-sheets-value='[null,2,"Collards"]'>Collards</td>
+<td data-sheets-value="[null,3,null,1.824]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.82</td>
+<td data-sheets-value="[null,3,null,2.1061695951107717]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">2.11</td>
+<td data-sheets-value="[null,3,null,40]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>40.00</td>
+<td data-sheets-value="[null,3,null,0.05265423987776929]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0527</td>
+<td data-sheets-value="[null,3,null,27.77777777777778]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>27.78</td>
+<td data-sheets-value="[null,3,null,1.4626177743824804]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">1.46</td>
+</tr><tr><td data-sheets-value='[null,2,"Cucumber"]'>Cucumber</td>
+<td data-sheets-value="[null,3,null,1.962]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.96</td>
+<td data-sheets-value="[null,3,null,2.2655179526355997]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">2.27</td>
+<td data-sheets-value="[null,3,null,60]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>60.00</td>
+<td data-sheets-value="[null,3,null,0.03775863254392666]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0378</td>
+<td data-sheets-value="[null,3,null,9.615384615384615]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>9.62</td>
+<td data-sheets-value="[null,3,null,0.36306377446083327]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.36</td>
+</tr><tr><td data-sheets-value='[null,2,"Eggplant"]'>Eggplant</td>
+<td data-sheets-value="[null,3,null,2.186]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>2.19</td>
+<td data-sheets-value="[null,3,null,2.5241703590527123]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">2.52</td>
+<td data-sheets-value="[null,3,null,90]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>90.00</td>
+<td data-sheets-value="[null,3,null,0.028046337322807913]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0280</td>
+<td data-sheets-value="[null,3,null,12.195121951219512]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>12.20</td>
+<td data-sheets-value="[null,3,null,0.3420285039366819]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.34</td>
+</tr><tr><td data-sheets-value='[null,2,"Garlic"]'>Garlic</td>
+<td data-sheets-value="[null,3,null,0.482]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>0.48</td>
+<td data-sheets-value="[null,3,null,0.5565645530939649]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">0.56</td>
+<td data-sheets-value="[null,3,null,90]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>90.00</td>
+<td data-sheets-value="[null,3,null,0.006184050589932944]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0062</td>
+<td data-sheets-value="[null,3,null,7.352941176470588]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>7.35</td>
+<td data-sheets-value="[null,3,null,0.04547096022009517]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.05</td>
+</tr><tr><td data-sheets-value='[null,2,"Kale"]'>Kale</td>
+<td data-sheets-value="[null,3,null,1.824]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.82</td>
+<td data-sheets-value="[null,3,null,2.1061695951107717]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">2.11</td>
+<td data-sheets-value="[null,3,null,50]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>50.00</td>
+<td data-sheets-value="[null,3,null,0.04212339190221544]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0421</td>
+<td data-sheets-value="[null,3,null,14.925373134328357]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>14.93</td>
+<td data-sheets-value="[null,3,null,0.6287073418241109]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.63</td>
+</tr><tr><td data-sheets-value='[null,2,"Kohlrabi"]'>Kohlrabi</td>
+<td data-sheets-value="[null,3,null,1.625]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.63</td>
+<td data-sheets-value="[null,3,null,1.8763846447669976]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">1.88</td>
+<td data-sheets-value="[null,3,null,65]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>65.00</td>
+<td data-sheets-value="[null,3,null,0.028867456073338425]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0289</td>
+<td data-sheets-value="[null,3,null,7.4074074074074066]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>7.41</td>
+<td data-sheets-value="[null,3,null,0.213833007950655]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.21</td>
+</tr><tr><td data-sheets-value='[null,2,"Lettuce"]'>Lettuce</td>
+<td data-sheets-value="[null,3,null,3.026]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>3.03</td>
+<td data-sheets-value="[null,3,null,3.494116883116883]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">3.49</td>
+<td data-sheets-value="[null,3,null,55]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>55.00</td>
+<td data-sheets-value="[null,3,null,0.06352939787485243]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0635</td>
+<td data-sheets-value="[null,3,null,27.77777777777778]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>27.78</td>
+<td data-sheets-value="[null,3,null,1.7647054965236786]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">1.76</td>
+</tr><tr><td data-sheets-value='[null,2,"Melons"]'>Melons</td>
+<td data-sheets-value="[null,3,null,1.681]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.68</td>
+<td data-sheets-value="[null,3,null,1.941047746371276]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">1.94</td>
+<td data-sheets-value="[null,3,null,90]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>90.00</td>
+<td data-sheets-value="[null,3,null,0.02156719718190307]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0216</td>
+<td data-sheets-value="[null,3,null,5.88235294117647]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>5.88</td>
+<td data-sheets-value="[null,3,null,0.1268658657759004]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.13</td>
+</tr><tr><td data-sheets-value='[null,2,"Okra"]'>Okra</td>
+<td data-sheets-value="[null,3,null,2.55]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>2.55</td>
+<td data-sheets-value="[null,3,null,2.9444805194805195]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">2.94</td>
+<td data-sheets-value="[null,3,null,60]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>60.00</td>
+<td data-sheets-value="[null,3,null,0.049074675324675326]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0491</td>
+<td data-sheets-value="[null,3,null,10]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>10.00</td>
+<td data-sheets-value="[null,3,null,0.49074675324675326]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.49</td>
+</tr><tr><td data-sheets-value='[null,2,"Onion"]'>Onion</td>
+<td data-sheets-value="[null,3,null,4.315]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>4.32</td>
+<td data-sheets-value="[null,3,null,4.982522918258214]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">4.98</td>
+<td data-sheets-value="[null,3,null,110]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>110.00</td>
+<td data-sheets-value="[null,3,null,0.04529566289325649]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0453</td>
+<td data-sheets-value="[null,3,null,6.25]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>6.25</td>
+<td data-sheets-value="[null,3,null,0.28309789308285305]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.28</td>
+</tr><tr><td data-sheets-value='[null,2,"Peas"]'>Peas</td>
+<td data-sheets-value="[null,3,null,0.448]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>0.45</td>
+<td data-sheets-value="[null,3,null,0.5173048128342246]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">0.52</td>
+<td data-sheets-value="[null,3,null,70]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>70.00</td>
+<td data-sheets-value="[null,3,null,0.0073900687547746365]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0074</td>
+<td data-sheets-value="[null,3,null,6.8965517241379315]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>6.90</td>
+<td data-sheets-value="[null,3,null,0.05096599141223888]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.05</td>
+</tr><tr><td data-sheets-value='[null,2,"Potato"]'>Potato</td>
+<td data-sheets-value="[null,3,null,1.915]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.92</td>
+<td data-sheets-value="[null,3,null,2.2112471352177234]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">2.21</td>
+<td data-sheets-value="[null,3,null,110]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>110.00</td>
+<td data-sheets-value="[null,3,null,0.020102246683797485]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0201</td>
+<td data-sheets-value="[null,3,null,6.666666666666667]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>6.67</td>
+<td data-sheets-value="[null,3,null,0.13401497789198324]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.13</td>
+</tr><tr><td data-sheets-value='[null,2,"Pumpkin"]'>Pumpkin</td>
+<td data-sheets-value="[null,3,null,4.483]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>4.48</td>
+<td data-sheets-value="[null,3,null,5.176512223071047]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">5.18</td>
+<td data-sheets-value="[null,3,null,110]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>110.00</td>
+<td data-sheets-value="[null,3,null,0.047059202027918606]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0471</td>
+<td data-sheets-value="[null,3,null,8.620689655172413]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>8.62</td>
+<td data-sheets-value="[null,3,null,0.40568277610274656]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.41</td>
+</tr><tr><td data-sheets-value='[null,2,"Radish"]'>Radish</td>
+<td data-sheets-value="[null,3,null,0.841]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>0.84</td>
+<td data-sheets-value="[null,3,null,0.9711012223071046]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">0.97</td>
+<td data-sheets-value="[null,3,null,60]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>60.00</td>
+<td data-sheets-value="[null,3,null,0.016185020371785076]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0162</td>
+<td data-sheets-value="[null,3,null,8.620689655172413]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>8.62</td>
+<td data-sheets-value="[null,3,null,0.13952603768780236]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.14</td>
+</tr><tr><td data-sheets-value='[null,2,"Spinach"]'>Spinach</td>
+<td data-sheets-value="[null,3,null,1.401]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.40</td>
+<td data-sheets-value="[null,3,null,1.6177322383498856]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">1.62</td>
+<td data-sheets-value="[null,3,null,55]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>55.00</td>
+<td data-sheets-value="[null,3,null,0.029413313424543373]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0294</td>
+<td data-sheets-value="[null,3,null,33.333333333333336]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>33.33</td>
+<td data-sheets-value="[null,3,null,0.9804437808181125]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.98</td>
+</tr><tr><td data-sheets-value='[null,2,"Squash"]'>Squash</td>
+<td data-sheets-value="[null,3,null,3.923]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>3.92</td>
+<td data-sheets-value="[null,3,null,4.529881207028266]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">4.53</td>
+<td data-sheets-value="[null,3,null,90]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>90.00</td>
+<td data-sheets-value="[null,3,null,0.05033201341142518]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0503</td>
+<td data-sheets-value="[null,3,null,8.064516129032258]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>8.06</td>
+<td data-sheets-value="[null,3,null,0.4059033339631063]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.41</td>
+</tr><tr><td data-sheets-value='[null,2,"Strawberries"]'>Strawberries</td>
+<td data-sheets-value="[null,3,null,2.477]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>2.48</td>
+<td data-sheets-value="[null,3,null,2.860187547746371]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">2.86</td>
+<td data-sheets-value="[null,3,null,360]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>360.00</td>
+<td data-sheets-value="[null,3,null,0.007944965410406587]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0079</td>
+<td data-sheets-value="[null,3,null,6.944444444444445]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>6.94</td>
+<td data-sheets-value="[null,3,null,0.0551733709056013]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.06</td>
+</tr><tr><td data-sheets-value='[null,2,"Tomato"]'>Tomato</td>
+<td data-sheets-value="[null,3,null,1.233]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>1.23</td>
+<td data-sheets-value="[null,3,null,1.4237429335370513]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">1.42</td>
+<td data-sheets-value="[null,3,null,85]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>85.00</td>
+<td data-sheets-value="[null,3,null,0.01674991686514178]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0167</td>
+<td data-sheets-value="[null,3,null,5.555555555555555]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>5.56</td>
+<td data-sheets-value="[null,3,null,0.09305509369523211]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.09</td>
+</tr><tr><td data-sheets-value='[null,2,"Turnip"]'>Turnip</td>
+<td data-sheets-value="[null,3,null,4.483]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>4.48</td>
+<td data-sheets-value="[null,3,null,5.176512223071047]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">5.18</td>
+<td data-sheets-value="[null,3,null,60]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>60.00</td>
+<td data-sheets-value="[null,3,null,0.08627520371785077]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0863</td>
+<td data-sheets-value="[null,3,null,7.692307692307692]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>7.69</td>
+<td data-sheets-value="[null,3,null,0.6636554132142367]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.66</td>
+</tr><tr><td data-sheets-value='[null,2,"Zucchini"]'>Zucchini</td>
+<td data-sheets-value="[null,3,null,3.363]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>3.36</td>
+<td data-sheets-value="[null,3,null,3.883250190985485]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*0.9069/0.7854">3.88</td>
+<td data-sheets-value="[null,3,null,90]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>90.00</td>
+<td data-sheets-value="[null,3,null,0.04314722434428317]" data-sheets-numberformat='[null,2,"#,##0.0000",1]' data-sheets-formula="=R[0]C[-2]/R[0]C[-1]">0.0431</td>
+<td data-sheets-value="[null,3,null,8.064516129032258]" data-sheets-numberformat='[null,2,"#,##0.00",1]'>8.06</td>
+<td data-sheets-value="[null,3,null,0.3479614866474449]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*R[0]C[-1]">0.35</td>
+</tr></tbody></table><p>Using the average yield for our 33 crops, and an assumption that they will all be grown in equal quantities, one only needs about 7 square meters of space to grow the daily recommended veggies for one person. If one decides&nbsp;to grow only the top 10 performers (by the cups/m&sup2;/day benchmark), then they will only need <strong>3 square meters to grow all of their daily veggies</strong>.</p>
+<p><strong>This indicates that FarmBot Genesis could&nbsp;produce all of the veggies needed for one person every day. Meanwhile, a Genesis XL could&nbsp;produce enough veggies for a family of four every day.&nbsp;</strong>See the table below for the numbers:</p>
+<table dir="ltr" border="1" cellspacing="0" cellpadding="0"><colgroup><col width="106"><col width="101"><col width="100"><col width="100"></colgroup><tbody><tr><td></td>
+<td data-sheets-value='[null,2,"cups/m^2/day"]'><strong>cups/m&sup2;/day</strong></td>
+<td data-sheets-value='[null,2,"cups/day with FarmBot Genesis"]'><strong>cups/day with FarmBot Genesis</strong></td>
+<td data-sheets-value='[null,2,"cups/day with FarmBot Genesis XL"]'><strong>cups/day with FarmBot Genesis XL</strong></td>
+</tr><tr><td data-sheets-value='[null,2,"All crops average"]'><strong>All crops average</strong></td>
+<td data-sheets-value="[null,3,null,0.4172634873295378]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=AVERAGE(R[-34]C[0]:R[-2]C[0])">0.42</td>
+<td data-sheets-value="[null,3,null,1.87768569298292]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*4.5">1.88</td>
+<td data-sheets-value="[null,3,null,7.51074277193168]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*18">7.51</td>
+</tr><tr><td data-sheets-value='[null,2,"Best 10 average"]'><strong>Best 10 average</strong></td>
+<td data-sheets-value="[null,3,null,1.0012384007802353]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=AVERAGE(R[-34]C[0],R[-22]C[0],R[-23]C[0],R[-16]C[0],R[-27]C[0],R[-18]C[0],R[-8]C[0],R[-4]C[0],R[-14]C[0])">1.00</td>
+<td data-sheets-value="[null,3,null,4.5055728035110585]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-1]*4.5">4.51</td>
+<td data-sheets-value="[null,3,null,18.022291214044234]" data-sheets-numberformat='[null,2,"#,##0.00",1]' data-sheets-formula="=R[0]C[-2]*18">18.02</td>
+</tr></tbody></table><p>We think that this data is quite promising for the FarmBot Project because it shows the capabilities&nbsp;of FarmBot in a clear and transparent light. Your FarmBot (unless it is very large) will <em>not</em> be able to produce all of your <em>calories</em>. However, it <em>will</em> be able to produce enough&nbsp;<em>cups</em> of vegetables to satisfy your daily needs.</p>
+<p>What do you think of our analysis? We&rsquo;d love to hear your feedback and ideas in the comments.</p>
+<h2>Resources used</h2>
+<p>Caloric density data from the USDA:<br><a href="http://ndb.nal.usda.gov/ndb/foods" rel="noreferrer" target="_blank">http://ndb.nal.usda.gov/ndb/foods</a></p>
+<p>Average yield data from the following sources:<br><a href="http://www.johnnyseeds.com/assets/information/vegetablecharts.pdf" rel="noreferrer" target="_blank">http://www.johnnyseeds.com/assets/information/vegetablecharts.pdf</a><br><a href="http://wolframalpha.com" rel="noreferrer" target="_blank">Wolfram|Alpha Knowledgebase, 2015</a><br><a href="http://www.gardensofeden.org/04%20Crop%20Yield%20Verification.htm" rel="noreferrer" target="_blank">http://www.gardensofeden.org/04%20Crop%20Yield%20Verification.htm</a><br><a href="http://www.lsuagcenter.com/en/lawn_garden/home_gardening/vegetables/Expected+Vegetable+Garden+Yields.htm" rel="noreferrer" target="_blank">http://www.lsuagcenter.com/en/lawn_garden/home_gardening/vegetables/Expected+Vegetable+Garden+Yields.htm</a><br><a href="http://aggie-horticulture.tamu.edu/vegetable/files/2011/10/swisschard.pdf" rel="noreferrer" target="_blank">http://aggie-horticulture.tamu.edu/vegetable/files/2011/10/swisschard.pdf</a><br><a href="http://anrcatalog.ucanr.edu/pdf/7221.pdf" rel="noreferrer" target="_blank">http://anrcatalog.ucanr.edu/pdf/7221.pdf</a><br><a href="http://edgecombe.ces.ncsu.edu/files/library/33/production%20data%20table%20edit%5B1%5D.pdf" rel="noreferrer" target="_blank">http://edgecombe.ces.ncsu.edu/files/library/33/production%20data%20table%20edit[1].pdf</a></p>
+<p>Days to harvest data from the following sources:<br><a href="http://www.ipm.iastate.edu/ipm/hortnews/2004/7-23-2004/vegguide.html" rel="noreferrer" target="_blank">http://www.ipm.iastate.edu/ipm/hortnews/2004/7-23-2004/vegguide.html</a><br><a href="http://www.harvesttotable.com/2010/06/vegetable_harvest_times/" rel="noreferrer" target="_blank">http://www.harvesttotable.com/2010/06/vegetable_harvest_times/</a></p>
+<p>Recommended daily vegetable intake&nbsp;value from My Plate:<br><a href="http://www.choosemyplate.gov/vegetables" rel="noreferrer" target="_blank">http://www.choosemyplate.gov/vegetables</a></p></body></html>
+]]></content>
+	<updated>2015-10-15T06:49:09+00:00</updated>
+	<author><name>Rory Aronson</name></author>
+	<source>
+		<id>http://farmbot.io</id>
+		<link rel="self" href="http://farmbot.io"/>
+		<updated>2015-10-15T06:49:09+00:00</updated>
+		<title>FarmBot.io</title></source>
+
+	<category term="blog"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-25:/15040</id>
@@ -1293,32 +1847,6 @@ The only bad thing about fall.
 		<link rel="self" href="http://www.viedemerde.fr"/>
 		<updated>2015-10-19T20:15:27+00:00</updated>
 		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-20:/13965</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131520453168" rel="alternate" type="text/html"/>
-	<title type="html">catsbeaversandducks:
-
-By Sad Animal Facts</title>
-	<summary type="html"><![CDATA[          catsbeaversandducks:
-
-By Sad Animal Facts
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/95cf9a026aa1241581809fc8e77309dc/tumblr_nwhgui2Ukm1qh66wqo9_500.png"><br><br><img src="http://40.media.tumblr.com/b1a2b1d0e51eda15b43d806f1c7640bb/tumblr_nwhgui2Ukm1qh66wqo10_500.png"><br><br><img src="http://41.media.tumblr.com/ee84fb4c7145be683e04b292eece0a35/tumblr_nwhgui2Ukm1qh66wqo1_500.png"><br><br><img src="http://41.media.tumblr.com/2596e5ffbafa32c8590160318c7606b5/tumblr_nwhgui2Ukm1qh66wqo2_500.png"><br><br><img src="http://41.media.tumblr.com/c746ee9c479f99c452701cd2b70ff25e/tumblr_nwhgui2Ukm1qh66wqo3_500.png"><br><br><img src="http://40.media.tumblr.com/188da47d672ab41139d1e34714696952/tumblr_nwhgui2Ukm1qh66wqo4_500.png"><br><br><img src="http://36.media.tumblr.com/98279df58241aaa878af80214294cc4a/tumblr_nwhgui2Ukm1qh66wqo5_500.png"><br><br><img src="http://40.media.tumblr.com/f0989cf3cde64254dd301ba94ccb0baa/tumblr_nwhgui2Ukm1qh66wqo8_500.png"><br><br><img src="http://41.media.tumblr.com/a7480077bd0c8b11a2b8a6815c1df493/tumblr_nwhgui2Ukm1qh66wqo7_500.png"><br><br><img src="http://36.media.tumblr.com/a4ba1996b862174dccb066b8870bf0b3/tumblr_nwhgui2Ukm1qh66wqo6_500.png"><br><br><p><a href="http://catsbeaversandducks.tumblr.com/post/131506780156" target="_blank" rel="noreferrer">catsbeaversandducks</a>:</p>
-<blockquote>
-<p>By <a href="https://instagram.com/sadanimalfacts/" target="_blank" rel="noreferrer">Sad Animal Facts</a></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-19T23:52:41+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-19T23:52:41+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
