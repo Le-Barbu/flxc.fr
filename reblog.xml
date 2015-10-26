@@ -4,11 +4,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-18T15:27:58+00:00</updated>
+<updated>2015-10-19T02:29:57+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-25:/15085</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/131909872508" rel="alternate" type="text/html"/>
+	<title type="html">4gifs:
+
+“I told ya there was a pool under the gym floor!”...</title>
+	<summary type="html"><![CDATA[4gifs:
+
+“I told ya there was a pool under the gym floor!” [video]
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://33.media.tumblr.com/b498fe2418e5cea733c231050b5d3a5c/tumblr_nwspvn7f6k1tlb56zo1_500.gif"><br><br><p><a href="http://4gifs.tumblr.com/post/131906837204" target="_blank" rel="noreferrer">4gifs</a>:</p>
+<blockquote>
+<p>&ldquo;I told ya there was a pool under the gym floor!&rdquo; [<a href="http://www.tastefullyoffensive.com/2015/10/whale-makes-huge-splash-in-school.html" target="_blank" rel="noreferrer">video</a>]<br></p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-10-25T22:39:05+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-25T22:39:05+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-26:/15093</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/131916339083" rel="alternate" type="text/html"/>
+	<title type="html">by Extra Fabulous</title>
+	<summary type="html"><![CDATA[by Extra Fabulous]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/2298a50690141f5d47d3ad61fb40fecb/tumblr_nwsvkbFBAS1rlys9ro1_500.jpg"><br><br><p>by <a href="http://extrafabulouscomics.tumblr.com/post/131914189979" target="_blank" rel="noreferrer">Extra Fabulous</a></p></body></html>
+]]></content>
+	<updated>2015-10-26T00:26:53+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-26T00:26:53+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-25:/15075</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/131903603568" rel="alternate" type="text/html"/>
+	<title type="html">doodleforfood:
+
+So my printer broke today.
+Site | Store |...</title>
+	<summary type="html"><![CDATA[  doodleforfood:
+
+So my printer broke today.
+Site | Store | Facebook
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/5c8a6b2f414b7b3fbeb8141d7ea35e51/tumblr_nwsmv8cBla1rhkrwho1_500.png"><br><br><img src="http://40.media.tumblr.com/4644c15dcfc7d305cacfa7e9f77a32ea/tumblr_nwsmv8cBla1rhkrwho2_500.png"><br><br><p><a href="http://doodleforfood.tumblr.com/post/131902466968" target="_blank" rel="noreferrer">doodleforfood</a>:</p>
+<blockquote>
+<p>So my printer broke today.</p>
+<p><b><a href="http://www.doodleforfood.com" target="_blank" rel="noreferrer">Site </a></b>| <b><a href="http://www.doodleforfood.storenvy.com" target="_blank" rel="noreferrer">Store</a> </b>| <b><a href="http://www.facebook.com/doodleforfood" target="_blank" rel="noreferrer">Facebook</a></b></p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-10-25T21:00:28+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-25T21:00:28+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-25:/15057</id>
@@ -1239,74 +1312,6 @@ By Sad Animal Facts
 
 	<category term="lists"/>
 
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-19:/13857</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131490070568" rel="alternate" type="text/html"/>
-	<title type="html">(photo by jaker2343)</title>
-	<summary type="html"><![CDATA[(photo by jaker2343)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/4646d6b768216bc1f1dada16a39ca6e0/tumblr_nwh1q8VPIo1qewacoo1_500.jpg"><br><br><p>(photo by <a href="https://www.reddit.com/user/jaker2343" target="_blank" rel="noreferrer">jaker2343</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-19T14:32:32+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-19T14:32:32+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-18:/13717</id>
-	<link href="http://mememaster.tumblr.com/post/131426015689" rel="alternate" type="text/html"/>
-	<title type="html">taliabobalia:
-
-my ascent into adulthood</title>
-	<summary type="html"><![CDATA[taliabobalia:
-
-my ascent into adulthood
-
-]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://taliabobalia.tumblr.com/post/73605478414" target="_blank" rel="noreferrer">taliabobalia</a>:</p>
-<blockquote>
-<p>my ascent into adulthood</p>
-<p><img alt="image" src="http://31.media.tumblr.com/24bcbccc4a7f5c465b4e2759eb3222fe/tumblr_inline_mzjmi2kUNF1r6ivan.gif"></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-18T16:46:11+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-18T16:46:11+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-18:/13687</id>
-	<link href="http://www.youtube.com/watch?v=yKLWW_j4a_E" rel="alternate" type="text/html"/>
-	<title type="html">Break The Internet - Nicolas Hulot</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-10-18T15:27:58+00:00</updated>
-	<author><name>Golden Moustache</name></author>
-	<source>
-		<id>http://www.youtube.com/channel/UCJruTcTs7Gn2Tk7YC-ENeHQ</id>
-		<link rel="self" href="http://www.youtube.com/channel/UCJruTcTs7Gn2Tk7YC-ENeHQ"/>
-		<updated>2015-10-18T15:27:58+00:00</updated>
-		<title>Golden Moustache</title></source>
-
-
-	<link rel="enclosure" 
-		type="application/x-shockwave-flash" 
-		length="1"
-		href="https://www.youtube.com/v/yKLWW_j4a_E?version=3"/>
 
 </entry>
 
