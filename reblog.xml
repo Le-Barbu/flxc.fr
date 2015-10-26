@@ -4,11 +4,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-19T20:15:27+00:00</updated>
+<updated>2015-10-20T17:50:39+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-26:/15188</id>
+	<link href="http://www.youtube.com/watch?v=yKpPXGb1-w0" rel="alternate" type="text/html"/>
+	<title type="html">Climatosceptiques : la science, le doute et le déni #DATAGUEULE 49</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-26T11:10:56+00:00</updated>
+	<author><name>Data Gueule</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCm5wThREh298TkK8hCT9HuA</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCm5wThREh298TkK8hCT9HuA"/>
+		<updated>2015-10-26T11:10:56+00:00</updated>
+		<title>Data Gueule</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/yKpPXGb1-w0?version=3"/>
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-26:/15171</id>
@@ -1829,24 +1851,6 @@ The only bad thing about fall.
 	<category term="twitter"/>
 
 	<category term="lists"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-20:/13930</id>
-	<link href="http://www.viedemerde.fr/sante/8630737" rel="alternate" type="text/html"/>
-	<title type="html">FarmGirlintheTrain a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, alors que j'étais en train de faire une crise d'asthme dans le train après avoir couru ...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, alors que j'&eacute;tais en train de faire une crise d'asthme dans le train apr&egrave;s avoir couru pour ne pas le rater, une dame vient me voir et me dit : "Excusez-moi mais pourriez-vous faire moins de bruit ? J'ai l'impression d'&ecirc;tre dans une ferme." VDM</p></body></html>
-]]></content>
-	<updated>2015-10-19T20:15:27+00:00</updated>
-	<author><name>FarmGirlintheTrain</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-10-19T20:15:27+00:00</updated>
-		<title>Vie de merde</title></source>
 
 
 </entry>
