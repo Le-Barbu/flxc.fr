@@ -4,11 +4,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-21T16:32:14+00:00</updated>
+<updated>2015-10-22T05:26:18+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-27:/15413</id>
+	<link href="http://www.viedemerde.fr/sexe/8633832" rel="alternate" type="text/html"/>
+	<title type="html">jehaislesclowns a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, ma copine m'avoue ses fantasmes secrets. Je ne sais pas ce qui est le pire, entre le fa...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, ma copine m'avoue ses fantasmes secrets. Je ne sais pas ce qui est le pire, entre le fait qu'elle veuille &ecirc;tre divertie par un clown pendant l'acte, et le fait qu'elle aimerait que ce soit mon fr&egrave;re de 14 ans qui fasse le clown. VDM</p></body></html>
+]]></content>
+	<updated>2015-10-27T10:15:25+00:00</updated>
+	<author><name>jehaislesclowns</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-10-27T10:15:25+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-27:/15421</id>
+	<link href="http://www.blaguesdemerde.fr/blague/428156/la-russie-est-depuis-toujours-le-pays-des-metaux-u" rel="alternate" type="text/html"/>
+	<title type="html">la-russie-est-depuis-toujours-le-pays-des-metaux-u</title>
+	<summary type="html"><![CDATA[La Russie est depuis toujours le pays des métaux : un homme de fer à sa tête, et tous les autres en ...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>La Russie est depuis toujours le pays des m&eacute;taux : un homme de fer &agrave; sa t&ecirc;te, et tous les autres en taule.</p></body></html>
+]]></content>
+	<updated>2015-10-27T00:00:00+00:00</updated>
+	<author><name>ColucheInfo</name></author>
+	<source>
+		<id>http://www.blaguesdemerde.fr//</id>
+		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
+		<updated>2015-10-27T00:00:00+00:00</updated>
+		<title>blaguesdemerde</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-26:/15281</id>
@@ -1831,46 +1867,6 @@ And some are...</title>
 		type="application/x-shockwave-flash" 
 		length="1"
 		href="https://www.youtube.com/v/5G0_Qlu1NdQ?version=3"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-21:/14212</id>
-	<link href="http://xkcd.com/1593/" rel="alternate" type="text/html"/>
-	<title type="html">Play-By-Play</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://imgs.xkcd.com/comics/play_by_play.png" title="The thrower started hitting the bats too much, so the king of the game told him to leave and brought out another thrower from thrower jail." alt="The thrower started hitting the bats too much, so the king of the game told him to leave and brought out another thrower from thrower jail."></body></html>
-]]></content>
-	<updated>2015-10-21T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://xkcd.com/</id>
-		<link rel="self" href="http://xkcd.com/"/>
-		<updated>2015-10-21T04:00:00+00:00</updated>
-		<title>xkcd.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-21:/14346</id>
-	<link href="http://www.youtube.com/watch?v=o4LMEvxVksM" rel="alternate" type="text/html"/>
-	<title type="html">Breakfast and furious (McFly &amp; Carlito)</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-10-21T16:32:14+00:00</updated>
-	<author><name>Golden Moustache</name></author>
-	<source>
-		<id>http://www.youtube.com/channel/UCJruTcTs7Gn2Tk7YC-ENeHQ</id>
-		<link rel="self" href="http://www.youtube.com/channel/UCJruTcTs7Gn2Tk7YC-ENeHQ"/>
-		<updated>2015-10-21T16:32:14+00:00</updated>
-		<title>Golden Moustache</title></source>
-
-
-	<link rel="enclosure" 
-		type="application/x-shockwave-flash" 
-		length="1"
-		href="https://www.youtube.com/v/o4LMEvxVksM?version=3"/>
 
 </entry>
 
