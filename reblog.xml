@@ -4,11 +4,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-23T05:19:15+00:00</updated>
+<updated>2015-10-22T23:15:34+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-27:/15479</id>
+	<link href="http://danstonchat.com/16920.html" rel="alternate" type="text/html"/>
+	<title type="html">DansTonChat #16920</title>
+	<summary type="html"><![CDATA[Clefaz: Quand je marque bisou, mon autocorrection me propose kebab... (facepalm)Skey: XDClefaz: Je t...]]></summary>
+	<content type="html"><![CDATA[<html><body><span>Clefaz:</span> Quand je marque bisou, mon autocorrection me propose kebab... (facepalm)<br><span>Skey:</span> XD<br><span>Clefaz:</span> Je te jure, tu coup j'ai envoy&eacute; "tu lui fera un kebab de ma part"...<br><span>Clefaz:</span> Elle m'a r&eacute;pondu "&ccedil;a marche!"<br><span>Clefaz:</span> Du coup je sais pas quoi dire :/<br><span>Clefaz:</span> Je me sens assez con, elle me demande la recette ._.</body></html>
+]]></content>
+	<updated>2015-10-27T20:56:59+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://danstonchat.com/</id>
+		<link rel="self" href="http://danstonchat.com/"/>
+		<updated>2015-10-27T20:56:59+00:00</updated>
+		<title>DansTonChat</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-27:/15481</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/132037070533" rel="alternate" type="text/html"/>
+	<title type="html">by Pie Comic</title>
+	<summary type="html"><![CDATA[by Pie Comic]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/266031a95c2f6529e9a0fe77bc672c1e/tumblr_nwv58qtDmQ1qhnegdo1_500.jpg"><br><br><p>by <a href="http://piecomic.tumblr.com/post/132036417228" target="_blank" rel="noreferrer">Pie Comic</a></p></body></html>
+]]></content>
+	<updated>2015-10-27T20:40:57+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-27T20:40:57+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-28:/15493</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/132050406808" rel="alternate" type="text/html"/>
+	<title type="html">4gifs:
+
+Kittykinesis</title>
+	<summary type="html"><![CDATA[4gifs:
+
+Kittykinesis
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/18a519f36c923d99e30b3355efe32737/tumblr_nwwiq0xcpU1tlb56zo1_500.gif"><br><br><p><a href="http://4gifs.tumblr.com/post/132045700509" target="_blank" rel="noreferrer">4gifs</a>:</p>
+<blockquote>
+<p>Kittykinesis</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-10-28T00:27:17+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-28T00:27:17+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-27:/15463</id>
@@ -1823,68 +1885,6 @@ Bah moi non plus.&nbsp;Mais c&rsquo;est beaucoup.&nbsp;Oulooooo. Tu veux qu&rsqu
 		<id>http://tumblr.tastefullyoffensive.com/</id>
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-10-22T23:15:34+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-23:/14609</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131721301055" rel="alternate" type="text/html"/>
-	<title type="html">catsbeaversandducks:
-
-Some Cats Are Very Photogenic
-And some are...</title>
-	<summary type="html"><![CDATA[ https://www.reddit.com/r/funny/comments/r0okn/our_cat_was_so_photogenic_when_he_was_a_kitten/?  htt...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/449e158cac80426b7b55b65c82318865/tumblr_nwncn203VL1qh66wqo1_500.png"><br> https://www.reddit.com/r/funny/comments/r0okn/our_cat_was_so_photogenic_when_he_was_a_kitten/?<br><br><img src="http://41.media.tumblr.com/ef36a7e69953ef05fe81685f0809c0ad/tumblr_nwncn203VL1qh66wqo3_500.jpg"><br> https://www.reddit.com/r/cats/comments/2d3shc/i_guess_my_cat_isnt_very_photogenic/?<br><br><img src="http://41.media.tumblr.com/8564c4d79e8beed481fb5e83b605576a/tumblr_nwncn203VL1qh66wqo2_500.jpg"><br> https://www.reddit.com/r/aww/comments/12mhsh/my_incredibly_photogenic_cat/?<br><br><img src="http://41.media.tumblr.com/6b6cee36d8c06bc35d32abadf95eebf1/tumblr_nwncn203VL1qh66wqo4_500.jpg"><br> https://www.reddit.com/r/aww/comments/v43gw/my_cat_isnt_very_photogenic_like_a_lot_of_the/?<br><br><img src="http://41.media.tumblr.com/092e26dd5ce6173a4f45fa41c55b3923/tumblr_nwncn203VL1qh66wqo6_500.jpg"><br> https://www.reddit.com/r/funny/comments/uzt33/everyone_on_reddit_seems_to_have_photogenic_cats/?<br><br><img src="http://40.media.tumblr.com/b1d0ab1b4f2a909e200184464375fda8/tumblr_nwncn203VL1qh66wqo5_500.jpg"><br> https://www.reddit.com/r/cats/comments/1fwtxf/my_cat_is_always_photogenic_but_this_time_i/?<br><br><img src="http://41.media.tumblr.com/2aa9db9a06dc60ae92a15fa9f999d909/tumblr_nwncn203VL1qh66wqo7_500.jpg"><br> https://www.reddit.com/r/funny/comments/zgdwz/i_asked_my_cat_for_some_karma_but_shes_not_very/?<br><br><img src="http://41.media.tumblr.com/6b5431c0649293899cbe62a5bf6eb65a/tumblr_nwncn203VL1qh66wqo8_500.jpg"><br> https://www.reddit.com/r/funny/comments/23jol2/my_beautiful_cat_so_photogenic/?<br><br><img src="http://36.media.tumblr.com/17b3cac7c010b35d707546e23f6aca1f/tumblr_nwncn203VL1qh66wqo9_500.jpg"><br> https://www.reddit.com/r/cats/comments/128r2l/my_cat_is_always_so_photogenic/?<br><br><img src="http://36.media.tumblr.com/91a9b345fb74101ed007d521fed656a9/tumblr_nwncn203VL1qh66wqo10_500.jpg"><br> https://www.reddit.com/r/funny/comments/1bbysk/may_i_present_to_you_my_photogenic_cat/?<br><br><p><a href="http://catsbeaversandducks.tumblr.com/post/131715498981" target="_blank" rel="noreferrer">catsbeaversandducks</a>:</p>
-<blockquote>
-<p><b>Some Cats Are Very Photogenic</b></p>
-<p>And some are not.</p>
-<p>(All photos via <a href="https://www.reddit.com" target="_blank" rel="noreferrer">Reddit</a>. Please click on each photo for individual credit.)</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-23T02:00:32+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-23T02:00:32+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-23:/14615</id>
-	<link href="http://mememaster.tumblr.com/post/131725716124" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/ca0194a0dc07337f42f12af4bf6bf5f6/tumblr_n5zkhfsnsw1qb76wso1_500.jpg"><br><br></body></html>
-]]></content>
-	<updated>2015-10-23T03:17:24+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-23T03:17:24+00:00</updated>
-		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-23:/14626</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131731796613" rel="alternate" type="text/html"/>
-	<title type="html">by Loading Artist</title>
-	<summary type="html"><![CDATA[      by Loading Artist]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/22994aa6c8e36505b3d22c4cf6372a79/tumblr_nwnqs3oU091qewacoo1_500.jpg"><br><br><img src="http://41.media.tumblr.com/82915b878db84628431180ed01c3c1b2/tumblr_nwnqs3oU091qewacoo2_500.jpg"><br><br><img src="http://40.media.tumblr.com/4b0c9a0c80b5e37a4133390e8edfe973/tumblr_nwnqs3oU091qewacoo3_500.jpg"><br><br><img src="http://36.media.tumblr.com/daa3cc5e1c55d1040f1322b2cbe76dde/tumblr_nwnqs3oU091qewacoo4_500.jpg"><br><br><img src="http://40.media.tumblr.com/4272c94d4f767848b6ee0d2fe0fdbb90/tumblr_nwnqs3oU091qewacoo5_500.jpg"><br><br><img src="http://36.media.tumblr.com/13897cb250267505b180bc3ebef9ad00/tumblr_nwnqs3oU091qewacoo6_500.jpg"><br><br><p>by <a href="http://www.loadingartist.com/comic/face-your-fear/" target="_blank" rel="noreferrer">Loading Artist</a></p></body></html>
-]]></content>
-	<updated>2015-10-23T05:19:15+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-23T05:19:15+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
 
 
