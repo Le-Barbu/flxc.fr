@@ -4,11 +4,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-24T18:00:14+00:00</updated>
+<updated>2015-10-24T15:30:12+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-28:/15680</id>
+	<link href="http://www.youtube.com/watch?v=bf8IwGyENiA" rel="alternate" type="text/html"/>
+	<title type="html">Expérience - Hologramme fait maison ! 500.000</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-28T19:06:51+00:00</updated>
+	<author><name>Dr Nozman</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCWnfDPdZw6A23UtuBpYBbAg</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCWnfDPdZw6A23UtuBpYBbAg"/>
+		<updated>2015-10-28T19:06:51+00:00</updated>
+		<title>Dr Nozman</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/bf8IwGyENiA?version=3"/>
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-28:/15688</id>
@@ -1855,32 +1877,6 @@ charliedzilla:bakrua:tsukidaisy:every person I kn...]]></summary>
 		<id>http://tumblr.tastefullyoffensive.com/</id>
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-10-24T15:30:12+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-25:/14917</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131823727389" rel="alternate" type="text/html"/>
-	<title type="html">gifsboom:
-
-Video: The Slo Mo Guys: Hypnotic Water Spirals</title>
-	<summary type="html"><![CDATA[      gifsboom:
-
-Video: The Slo Mo Guys: Hypnotic Water Spirals
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/09e2dc77b886cc5053185b74ecd8d1f8/tumblr_nwqgswaojo1s02vreo1_500.gif"><br><br><img src="http://33.media.tumblr.com/e44f87127b0265e72899c580a295122d/tumblr_nwqgswaojo1s02vreo2_500.gif"><br><br><img src="http://33.media.tumblr.com/4570087fff166c0960217c8bef50d166/tumblr_nwqgswaojo1s02vreo3_500.gif"><br><br><img src="http://31.media.tumblr.com/fc91801404600112b78fb68defa72d21/tumblr_nwqgswaojo1s02vreo4_500.gif"><br><br><img src="http://33.media.tumblr.com/88a9ad475e6e85b6ab50f350ba0f4f00/tumblr_nwqgswaojo1s02vreo5_500.gif"><br><br><img src="http://31.media.tumblr.com/fbd89195703c833ecb160748feaac863/tumblr_nwqgswaojo1s02vreo6_500.gif"><br><br><p><a href="http://gifsboom.tumblr.com/post/131818976079" target="_blank" rel="noreferrer">gifsboom</a>:</p>
-<blockquote>
-<p>Video:&nbsp;<a href="http://www.tastefullyoffensive.com/2015/10/the-slo-mo-guys-hypnotic-water-spirals.html" target="_blank" rel="noreferrer">The Slo Mo Guys: Hypnotic Water Spirals</a></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-24T18:00:14+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-24T18:00:14+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
 
 
