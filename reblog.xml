@@ -4,11 +4,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-24T23:31:29+00:00</updated>
+<updated>2015-10-24T23:02:04+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-28:/15640</id>
+	<link href="http://www.mediapart.fr/journal/france/281015/affaire-air-cocaine-letrange-agitation-de-certains-parlementaires" rel="alternate" type="text/html"/>
+	<title type="html">Affaire « Air Cocaïne »: l'étrange agitation de certains parlementaires</title>
+	<summary type="html"><![CDATA[
+    
+            
+                    Michel Deléan        
+              
+                    Loui...]]></summary>
+	<content type="html"><![CDATA[<html><body><div>
+    <div>
+            <div>
+                    <a href="http://www.mediapart.fr/biographie/165371" title="Tous les articles de Michel Del&eacute;an" rel="noreferrer" target="_blank">Michel Del&eacute;an</a>        </div>
+              <div>
+                    <a href="http://www.mediapart.fr/biographie/58110" title="Tous les articles de Louise Fessard" rel="noreferrer" target="_blank">Louise Fessard</a>        </div>
+              <div>
+                    <a href="http://www.mediapart.fr/biographie/26883" title="Tous les articles de Marine Turchi" rel="noreferrer" target="_blank">Marine Turchi</a>        </div>
+        </div>
+</div>
+<div>
+    <div>
+            <div>
+                    <div><img src="http://static.mediapart.fr/files/imagecache/770_pixels/media_26883/Capture_decran_2015-10-28_a_17.00.30.png" alt="L&amp;#039;eurod&eacute;put&eacute; FN Aymeric Chauprade et les deux pilotes." title="L&amp;#039;eurod&eacute;put&eacute; FN Aymeric Chauprade et les deux pilotes." width="606" height="609"><span>L'eurod&eacute;put&eacute; FN Aymeric Chauprade et les deux pilotes. <span>&copy; Twitter / a_chauprade</span></span></div><p>Des parlementaires de droite, un eurod&eacute;put&eacute; FN ancien conseiller &laquo;&nbsp;sp&eacute;cial&nbsp;&raquo; de Marine Le&nbsp;Pen, des&nbsp;avocats r&eacute;put&eacute;s proches des r&eacute;seaux Sarkozy.&nbsp;Derri&egrave;re l&rsquo;histoire de la rocambolesque &eacute;vasion de deux pilotes accus&eacute;s de trafic de coca&iuml;ne, l'affaire &laquo;&nbsp;Air Coca&iuml;ne&nbsp;&raquo; est un dossier &eacute;minemment politique.</p>        </div>
+        </div>
+</div>
+<p>C&rsquo;est un dossier qui suscite une agitation bien &eacute;trange de la part d&rsquo;un microcosme&nbsp;d&rsquo;avocats ayant des connexions politiques et de parlementaires situ&eacute;s &agrave; droite de l'&eacute;chiquier, voire &agrave; l'extr</p><div></div><p><a href="http://www.mediapart.fr/journal/france/281015/affaire-air-cocaine-letrange-agitation-de-certains-parlementaires" target="_blank" rel="noreferrer">lire la suite</a></p></body></html>
+]]></content>
+	<updated>2015-10-28T16:33:30+00:00</updated>
+	<author><name>Marine Turchi</name></author>
+	<source>
+		<id>http://www.mediapart.fr</id>
+		<link rel="self" href="http://www.mediapart.fr"/>
+		<updated>2015-10-28T16:33:30+00:00</updated>
+		<title>Mediapart</title></source>
+
+	<category term="france"/>
+
+	<category term="air cocaine"/>
+
+	<category term="alain afflelou"/>
+
+	<category term="avion"/>
+
+	<category term="aymeric chauprade"/>
+
+	<category term="bruno odos"/>
+
+	<category term="nicolas sarkozy"/>
+
+	<category term="pascal fauret"/>
+
+	<category term="pilotes"/>
+
+	<category term="république dominicaine"/>
+
+	<category term="stéphane courbit"/>
+
+	<category term="trafic de drogue"/>
+
+	<category term="article"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-28:/15610</id>
@@ -1826,30 +1891,6 @@ Spidercorg. [video]]]></summary>
 		<id>http://tumblr.tastefullyoffensive.com/</id>
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-10-24T23:02:04+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-25:/14910</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131842611746" rel="alternate" type="text/html"/>
-	<title type="html">extrafabulouscomics:
-
-scary halloween comic</title>
-	<summary type="html"><![CDATA[extrafabulouscomics:
-
-scary halloween comic]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/0f3196f3610d5c7cfdedb757c441e423/tumblr_nwqwodnL1T1rlys9ro1_500.jpg"><br><br><p><a href="http://extrafabulouscomics.tumblr.com/post/131838689234/scary-halloween-comic" target="_blank" rel="noreferrer">extrafabulouscomics</a>:</p>
-
-<blockquote><p>scary halloween comic</p></blockquote></body></html>
-]]></content>
-	<updated>2015-10-24T23:31:29+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-24T23:31:29+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
 
 
