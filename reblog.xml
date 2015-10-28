@@ -4,11 +4,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-22T23:15:34+00:00</updated>
+<updated>2015-10-22T20:30:48+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-28:/15560</id>
+	<link href="http://www.viedemerde.fr/inclassable/8633993" rel="alternate" type="text/html"/>
+	<title type="html">Boodoo94 a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, en Thaïlande, j'ai loué un scooter. Je m'amuse du nombre infini de scooters garés à la ...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, en Tha&iuml;lande, j'ai lou&eacute; un scooter. Je m'amuse du nombre infini de scooters gar&eacute;s &agrave; la suite. Au moment de mettre la b&eacute;quille, un singe saute sur l'engin et, morte de peur, je l&acirc;che le guidon. C'est dr&ocirc;le &agrave; voir, un effet domino de scooters. VDM</p></body></html>
+]]></content>
+	<updated>2015-10-27T16:55:47+00:00</updated>
+	<author><name>Boodoo94</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-10-27T16:55:47+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-28:/15590</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/132064910558" rel="alternate" type="text/html"/>
+	<title type="html">Modern-Day Aladdin (vine by Mo Khan)</title>
+	<summary type="html"><![CDATA[Modern-Day Aladdin (vine by Mo Khan)]]></summary>
+	<content type="html"><![CDATA[<html><body><br><br><p>Modern-Day Aladdin (vine by&nbsp;<a href="https://vine.co/v/eYrl3nI5UZT" target="_blank" rel="noreferrer">Mo Khan</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-28T04:38:26+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-28T04:38:26+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+	<category term="vines"/>
+
+	<category term="aladdin"/>
+
+	<category term="disney"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-27:/15479</id>
@@ -1833,58 +1875,6 @@ Bah moi non plus.&nbsp;Mais c&rsquo;est beaucoup.&nbsp;Oulooooo. Tu veux qu&rsqu
 		<id>http://tumblr.tastefullyoffensive.com/</id>
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-10-22T20:30:48+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-22:/14594</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131708533746" rel="alternate" type="text/html"/>
-	<title type="html">Tough indifference. (comic by Pie Comic)</title>
-	<summary type="html"><![CDATA[Tough indifference. (comic by Pie Comic)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/eef161d1d4fdcd8fa3a486f8eada9570/tumblr_nwmx9tKPfE1qhnegdo1_500.jpg"><br><br><p>Tough indifference. (comic by <a href="http://piecomic.com" target="_blank" rel="noreferrer">Pie Comic</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-22T22:00:40+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-22T22:00:40+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-22:/14598</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131712509649" rel="alternate" type="text/html"/>
-	<title type="html">collegehumor:
-
-
-6 Comics that Perfectly Describe Life with...</title>
-	<summary type="html"><![CDATA[       collegehumor:
-
-
-6 Comics that Perfectly Describe Life with Allergies by @noobtheloser
-
-		Alle...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/ce3d242e679c5d7f330cedfc0d2ddf04/tumblr_nwn4n5ChnX1qasthro1_500.png"><br><br><img src="http://41.media.tumblr.com/d8534670e5a295f11abf4e0ffa5cce0d/tumblr_nwn4n5ChnX1qasthro2_500.jpg"><br><br><img src="http://36.media.tumblr.com/4802450a04a6009eba4af137059730eb/tumblr_nwn4n5ChnX1qasthro3_500.jpg"><br><br><img src="http://40.media.tumblr.com/dabe6c1cd173f7bcda56970e4c100594/tumblr_nwn4n5ChnX1qasthro4_500.jpg"><br><br><img src="http://40.media.tumblr.com/e4123ed1e4deef0c7b8c7acf200f9a16/tumblr_nwn4n5ChnX1qasthro5_500.jpg"><br><br><img src="http://40.media.tumblr.com/14238bb20d0f258e1014fd6242bc01df/tumblr_nwn4n5ChnX1qasthro6_500.jpg"><br><br><img src="http://36.media.tumblr.com/6230f29c590c3778de129d1a15db2e17/tumblr_nwn4n5ChnX1qasthro7_500.jpg"><br><br><p><a href="http://collegehumor.tumblr.com/post/131706316251" target="_blank" rel="noreferrer">collegehumor</a>:</p>
-<blockquote>
-<p></p>
-<p><a href="http://www.collegehumor.com/post/7034470/6-comics-that-perfectly-describe-life-with-allergies" target="_blank" rel="noreferrer">6 Comics that Perfectly Describe Life with Allergies</a>&nbsp;by <a href="http://tmblr.co/mOu_SEPqxfKWbukKkyRfeSQ" target="_blank" rel="noreferrer">@noobtheloser</a><br></p>
-<p>
-		Allergies suck. For more things that suck, check out these links!
-		</p>
-<ul><li><a href="http://www.collegehumor.com/post/7034351/theres-a-monster-at-the-end-of-this-article" target="_blank" rel="noreferrer"><b>There&rsquo;s a Monster at the End of This Article</b></a></li></ul><ul><li><a href="http://www.collegehumor.com/post/7024023/justin-bieber-is-dead-and-you-killed-him-shame-on-you-shame-on-us-all" target="_blank" rel="noreferrer"><b>Justin Bieber is Dead</b></a></li></ul><ul><li><a href="http://www.collegehumor.com/post/7020674/4-comics-for-people-riding-the-everyday-strugglebus" target="_blank" rel="noreferrer"><b>4 Comics for People Riding the Everyday Strugglebus</b></a></li>
-				</ul></blockquote></body></html>
-]]></content>
-	<updated>2015-10-22T23:15:34+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-22T23:15:34+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
 
 
