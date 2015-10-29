@@ -4,11 +4,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-24T23:02:11+00:00</updated>
+<updated>2015-10-25T12:06:37+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-29:/15855</id>
+	<link href="http://theoatmeal.com/quiz/got_character" rel="alternate" type="text/html"/>
+	<title type="html">Quiz: Which Game of Thrones character would you be? Quiz - The Oatmeal</title>
+	<summary type="html"><![CDATA[Moi je serais Hodor.
+
+Et vous ?
+
+:D(Permalink)]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Moi je serais Hodor.<br><br>
+Et vous ?<br><br>
+:D<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?xzg4CQ" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-29T16:49:43+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-10-29T16:49:43+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+	<category term="fb"/>
+
+	<category term="fs"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-29:/15730</id>
@@ -1852,24 +1880,6 @@ well that neighbor feud took an amusing turn.
 		<link rel="self" href="https://www.dailymotion.com/"/>
 		<updated>2015-10-25T12:06:37+00:00</updated>
 		<title>Spi0n</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-25:/14820</id>
-	<link href="http://mememaster.tumblr.com/post/131841045179" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[     ]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/57068ea08919bffeacec27c9ac66fb81/tumblr_n94xvlcSWX1somw7ho1_500.png"><br><br><img src="http://40.media.tumblr.com/789fa0d61207f80fab01143aafe4f0df/tumblr_n94xvlcSWX1somw7ho2_500.png"><br><br><img src="http://41.media.tumblr.com/0e5cde6e316aeff9ede1b69406248e2e/tumblr_n94xvlcSWX1somw7ho3_500.png"><br><br><img src="http://41.media.tumblr.com/2e89cdf7dd710801e69cf231d1a29178/tumblr_n94xvlcSWX1somw7ho5_500.png"><br><br><img src="http://41.media.tumblr.com/5242d4714203be573feddd0af5581a23/tumblr_n94xvlcSWX1somw7ho6_500.png"><br><br></body></html>
-]]></content>
-	<updated>2015-10-24T23:02:11+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-24T23:02:11+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
