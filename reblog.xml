@@ -4,11 +4,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-24T15:30:12+00:00</updated>
+<updated>2015-10-24T14:34:31+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-29:/15803</id>
+	<link href="http://grisebouille.net/gouvernement-buzzfeed/" rel="alternate" type="text/html"/>
+	<title type="html">Gouvernement Buzzfeed | Grise Bouille</title>
+	<summary type="html"><![CDATA[C'est ça. Et c'est drôle. ^^
+
+(via sebsauvage)(Permalink)]]></summary>
+	<content type="html"><![CDATA[<html><body><p>C'est &ccedil;a. Et c'est dr&ocirc;le. ^^<br><br>
+(via sebsauvage)<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?7be7RA" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-29T09:47:18+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-10-29T09:47:18+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+	<category term="fb"/>
+
+	<category term="fs"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-28:/15680</id>
@@ -1860,24 +1885,6 @@ charliedzilla:bakrua:tsukidaisy:every person I kn...]]></summary>
 		<link rel="self" href="http://www.viedemerde.fr"/>
 		<updated>2015-10-24T14:34:31+00:00</updated>
 		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-25:/14920</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131815325318" rel="alternate" type="text/html"/>
-	<title type="html">by Jim Benton</title>
-	<summary type="html"><![CDATA[by Jim Benton]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/9dc7d8701d72db188d79c14f208965c5/tumblr_nwqb87XX2C1qadrooo1_500.png"><br><br><p>by <a href="http://jimbenton.com" target="_blank" rel="noreferrer">Jim Benton</a></p></body></html>
-]]></content>
-	<updated>2015-10-24T15:30:12+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-24T15:30:12+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
