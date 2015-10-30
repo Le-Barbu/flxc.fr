@@ -4,11 +4,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-26T11:10:56+00:00</updated>
+<updated>2015-10-26T14:11:06+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-30:/16331</id>
+	<link href="http://lizclimo.tumblr.com/post/130814084149" rel="alternate" type="text/html"/>
+	<title type="html">lizclimo:
+
+halloween is coming! only four more weeks to pick out...</title>
+	<summary type="html"><![CDATA[lizclimo:
+
+halloween is coming! only four more weeks to pick out a better costume. 
+
+
+A little Rory ...]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/tumblr_mbb12iJN491r5ml59o1_500.jpg"><br><br><p><a href="http://lizclimo.tumblr.com/post/32793227470" rel="noreferrer" target="_blank">lizclimo</a>:</p>
+<blockquote>
+<p>halloween is coming! only four more weeks to pick out a better costume.&nbsp;</p>
+</blockquote>
+
+<p>A little <a href="http://www.hachettebookgroup.com/titles/liz-climo/rory-the-dinosaur-me-and-my-dad/9780316277280/" rel="noreferrer" target="_blank">Rory the Dino</a> FBF</p></body></html>
+]]></content>
+	<updated>2015-10-09T14:22:04+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://lizclimo.tumblr.com/</id>
+		<link rel="self" href="http://lizclimo.tumblr.com/"/>
+		<updated>2015-10-09T14:22:04+00:00</updated>
+		<title>Hi, I'm Liz</title></source>
+
+	<category term="fbf"/>
+
+	<category term="halloween"/>
+
+	<category term="rory the dinosaur"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-30:/16046</id>
+	<link href="https://vine.co/v/OdmBVLebliH" rel="alternate" type="text/html"/>
+	<title type="html">Watch murgaro's Vine, &quot;WTAH THE FUCK&quot;</title>
+	<summary type="html"><![CDATA[Excellent ! :D(Permalink)]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Excellent ! :D<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?g4GTCA" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-30T08:47:11+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-10-30T08:47:11+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+	<category term="fb"/>
+
+	<category term="fs"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-30:/16159</id>
@@ -1303,46 +1361,6 @@ Hooray for teamwork! :Dimage | twitter | facebook | patreon]]></summary>
 		<updated>2015-10-26T14:11:06+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
 
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-26:/15206</id>
-	<link href="http://danstonchat.com/16916.html" rel="alternate" type="text/html"/>
-	<title type="html">DansTonChat #16916</title>
-	<summary type="html"><![CDATA[Pancake : Nan mais, vu les hanches que j&#039;ai, j&#039;aurai aucune difficultée à accoucherPancake...]]></summary>
-	<content type="html"><![CDATA[<html><body><span>Pancake :</span> Nan mais, vu les hanches que j'ai, j'aurai aucune difficult&eacute;e &agrave; accoucher<br><span>Pancake :</span> Enfin si j'&eacute;tais une femme, mais &ccedil;a c'est du d&eacute;tail hein.</body></html>
-]]></content>
-	<updated>2015-10-26T12:47:57+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://danstonchat.com/</id>
-		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-10-26T12:47:57+00:00</updated>
-		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-26:/15188</id>
-	<link href="http://www.youtube.com/watch?v=yKpPXGb1-w0" rel="alternate" type="text/html"/>
-	<title type="html">Climatosceptiques : la science, le doute et le déni #DATAGUEULE 49</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-10-26T11:10:56+00:00</updated>
-	<author><name>Data Gueule</name></author>
-	<source>
-		<id>http://www.youtube.com/channel/UCm5wThREh298TkK8hCT9HuA</id>
-		<link rel="self" href="http://www.youtube.com/channel/UCm5wThREh298TkK8hCT9HuA"/>
-		<updated>2015-10-26T11:10:56+00:00</updated>
-		<title>Data Gueule</title></source>
-
-
-	<link rel="enclosure" 
-		type="application/x-shockwave-flash" 
-		length="1"
-		href="https://www.youtube.com/v/yKpPXGb1-w0?version=3"/>
 
 </entry>
 
