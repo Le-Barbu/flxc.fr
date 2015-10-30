@@ -4,11 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-25T21:00:28+00:00</updated>
+<updated>2015-10-26T00:26:53+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-21:/14277</id>
+	<link href="http://www.dailymotion.com/video/x3ag3rn" rel="alternate" type="text/html"/>
+	<title type="html">Comment faire une sieste en conduisant un camion - vidéo dailymotion</title>
+	<summary type="html"><![CDATA[Comment faire une sieste en conduisant un camion - vidéo dailymotion]]></summary>
+	<content type="html"><![CDATA[<html><body><a href="http://www.dailymotion.com/video/x3ag3rn" rel="noreferrer" target="_blank"><img src="http://s2.dmcdn.net/O_zok/526x297-bVe.jpg"></a><br><a href="http://www.dailymotion.com/video/x3ag3rn" rel="noreferrer" target="_blank">Comment faire une sieste en conduisant un camion - vid&eacute;o dailymotion</a></body></html>
+]]></content>
+	<updated>2015-10-21T11:06:54+00:00</updated>
+	<author><name>Dailymotion Bridge</name></author>
+	<source>
+		<id>https://www.dailymotion.com/</id>
+		<link rel="self" href="https://www.dailymotion.com/"/>
+		<updated>2015-10-21T11:06:54+00:00</updated>
+		<title>Spi0n</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-30:/15996</id>
@@ -458,7 +476,7 @@ Voice: [exasperated] “Ah! Fuck! Oh! I hate t...]]></summary>
 	<content type="html"><![CDATA[<html><body><p>- Papa c'est quoi l'humour noir ?<br><br>- Attends, on va faire un foot et je t'explique !<br><br>- Mais Papa je suis parapl&eacute;gique</p></body></html>
 ]]></content>
 	<updated>2015-10-28T00:00:00+00:00</updated>
-	<author><name></name></author>
+	<author><name>olivedu42</name></author>
 	<source>
 		<id>http://www.blaguesdemerde.fr//</id>
 		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
@@ -621,7 +639,7 @@ Kittykinesis
 	<content type="html"><![CDATA[<html><body><p>Qu'est ce qu'un enfant de coeur vierge ?<br><br>Un enfant qui court plus vite que le cur&eacute; !</p></body></html>
 ]]></content>
 	<updated>2015-10-27T00:00:00+00:00</updated>
-	<author><name></name></author>
+	<author><name>Mr Silvestre</name></author>
 	<source>
 		<id>http://www.blaguesdemerde.fr/</id>
 		<link rel="self" href="http://www.blaguesdemerde.fr/"/>
@@ -927,7 +945,7 @@ M&ecirc;me sans rien installer (rootkits, chevaux de troie, virus, logiciels esp
 	<content type="html"><![CDATA[<html><body><p>La Russie est depuis toujours le pays des m&eacute;taux : un homme de fer &agrave; sa t&ecirc;te, et tous les autres en taule.</p></body></html>
 ]]></content>
 	<updated>2015-10-27T00:00:00+00:00</updated>
-	<author><name></name></author>
+	<author><name>ColucheInfo</name></author>
 	<source>
 		<id>http://www.blaguesdemerde.fr//</id>
 		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
@@ -1837,35 +1855,6 @@ Hooray for teamwork! :Dimage | twitter | facebook | patreon]]></summary>
 		<id>http://tumblr.tastefullyoffensive.com/</id>
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-10-26T00:26:53+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-25:/15075</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131903603568" rel="alternate" type="text/html"/>
-	<title type="html">doodleforfood:
-
-So my printer broke today.
-Site | Store |...</title>
-	<summary type="html"><![CDATA[  doodleforfood:
-
-So my printer broke today.
-Site | Store | Facebook
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/5c8a6b2f414b7b3fbeb8141d7ea35e51/tumblr_nwsmv8cBla1rhkrwho1_500.png"><br><br><img src="http://40.media.tumblr.com/4644c15dcfc7d305cacfa7e9f77a32ea/tumblr_nwsmv8cBla1rhkrwho2_500.png"><br><br><p><a href="http://doodleforfood.tumblr.com/post/131902466968" target="_blank" rel="noreferrer">doodleforfood</a>:</p>
-<blockquote>
-<p>So my printer broke today.</p>
-<p><b><a href="http://www.doodleforfood.com" target="_blank" rel="noreferrer">Site </a></b>| <b><a href="http://www.doodleforfood.storenvy.com" target="_blank" rel="noreferrer">Store</a> </b>| <b><a href="http://www.facebook.com/doodleforfood" target="_blank" rel="noreferrer">Facebook</a></b></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-25T21:00:28+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-25T21:00:28+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
 
 
