@@ -4,11 +4,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-25T14:17:44+00:00</updated>
+<updated>2015-10-25T21:00:28+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-30:/15996</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/132181389576" rel="alternate" type="text/html"/>
+	<title type="html">100 Years of Beauty in 1 Minute: Brazil</title>
+	<summary type="html"><![CDATA[          100 Years of Beauty in 1 Minute: Brazil]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://33.media.tumblr.com/f2d9029764224f5caba6efa7d061ddce/tumblr_nx063aA9XG1squc7do4_400.gif"><br><br><img src="http://33.media.tumblr.com/1d82f8befcd9f49e13c2696b5387b65f/tumblr_nx063aA9XG1squc7do1_400.gif"><br><br><img src="http://33.media.tumblr.com/f4681c81eb1a72cf39993a871ace5c3b/tumblr_nx063aA9XG1squc7do5_400.gif"><br><br><img src="http://38.media.tumblr.com/9b6e7146627a836faa21219b3892424b/tumblr_nx063aA9XG1squc7do6_400.gif"><br><br><img src="http://38.media.tumblr.com/cad5b0fa5d93301b97e3400374d7e65b/tumblr_nx063aA9XG1squc7do2_400.gif"><br><br><img src="http://31.media.tumblr.com/feff84da748882170322ea18d75d032c/tumblr_nx063aA9XG1squc7do7_400.gif"><br><br><img src="http://38.media.tumblr.com/4d5133b92292eb9e17ed2a3f5a2d1608/tumblr_nx063aA9XG1squc7do8_400.gif"><br><br><img src="http://49.media.tumblr.com/9233d5f434569b1c0cb6992a1f4340b7/tumblr_nx063aA9XG1squc7do9_400.gif"><br><br><img src="http://33.media.tumblr.com/2c4568709bd6c91682219e99559c5d32/tumblr_nx063aA9XG1squc7do3_400.gif"><br><br><img src="http://33.media.tumblr.com/0f403815c2be5afb9b2d237975f778da/tumblr_nx063aA9XG1squc7do10_400.gif"><br><br><p><a href="http://www.tastefullyoffensive.com/2015/10/cut-video-returns-with-another.html" target="_blank" rel="noreferrer">100 Years of Beauty in 1 Minute: Brazil</a><br></p></body></html>
+]]></content>
+	<updated>2015-10-30T01:00:18+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-30T01:00:18+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-30:/15999</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/132183400058" rel="alternate" type="text/html"/>
+	<title type="html">Ash Wednesday (photo via kdanson)</title>
+	<summary type="html"><![CDATA[Ash Wednesday (photo via kdanson)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/03ea434dcb6d69815d978154d6cd3ae3/tumblr_nx0f69N5P31qewacoo1_500.jpg"><br><br><p>Ash Wednesday (photo via <a href="https://www.reddit.com/user/kdanson" target="_blank" rel="noreferrer">kdanson</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-30T01:37:21+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-30T01:37:21+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+	<category term="halloween"/>
+
+	<category term="pokemon"/>
+
+	<category term="the addams family"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-26:/15247</id>
+	<link href="http://www.dailymotion.com/video/x3b2t9z" rel="alternate" type="text/html"/>
+	<title type="html">Un papi de 80 ans joue de la guitare électrique - vidéo dailymotion</title>
+	<summary type="html"><![CDATA[Un papi de 80 ans joue de la guitare électrique - vidéo dailymotion]]></summary>
+	<content type="html"><![CDATA[<html><body><a href="http://www.dailymotion.com/video/x3b2t9z" rel="noreferrer" target="_blank"><img src="http://s1.dmcdn.net/PIRKx/526x297-qVV.jpg"></a><br><a href="http://www.dailymotion.com/video/x3b2t9z" rel="noreferrer" target="_blank">Un papi de 80 ans joue de la guitare &eacute;lectrique - vid&eacute;o dailymotion</a></body></html>
+]]></content>
+	<updated>2015-10-26T15:16:15+00:00</updated>
+	<author><name>Dailymotion Bridge</name></author>
+	<source>
+		<id>https://www.dailymotion.com/</id>
+		<link rel="self" href="https://www.dailymotion.com/"/>
+		<updated>2015-10-26T15:16:15+00:00</updated>
+		<title>Spi0n</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-27:/15360</id>
+	<link href="http://www.dailymotion.com/video/x3b6q8g" rel="alternate" type="text/html"/>
+	<title type="html">Toa Mata Band : Le premier groupe de robots LEGO - vidéo Dailymotion</title>
+	<summary type="html"><![CDATA[Toa Mata Band : Le premier groupe de robots LEGO - vidéo Dailymotion]]></summary>
+	<content type="html"><![CDATA[<html><body><a href="http://www.dailymotion.com/video/x3b6q8g" rel="noreferrer" target="_blank"><img src="http://s2.dmcdn.net/PJtGZ/526x297-Cki.jpg"></a><br><a href="http://www.dailymotion.com/video/x3b6q8g" rel="noreferrer" target="_blank">Toa Mata Band : Le premier groupe de robots LEGO - vid&eacute;o Dailymotion</a></body></html>
+]]></content>
+	<updated>2015-10-27T11:27:53+00:00</updated>
+	<author><name>Dailymotion Bridge</name></author>
+	<source>
+		<id>https://www.dailymotion.com/</id>
+		<link rel="self" href="https://www.dailymotion.com/"/>
+		<updated>2015-10-27T11:27:53+00:00</updated>
+		<title>Spi0n</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-27:/15446</id>
@@ -1788,99 +1866,6 @@ Site | Store | Facebook
 		<id>http://tumblr.tastefullyoffensive.com/</id>
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-10-25T21:00:28+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-25:/15057</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131896847554" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[  ]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/869ddacacb5b07d7214e1d4c7db819ba/tumblr_nwjg5hKC6u1t5klpwo1_500.png"><br><br><img src="http://33.media.tumblr.com/d44d3f969c95ac1f46c6ef5c4c1b45dc/tumblr_nwjg5hKC6u1t5klpwo2_400.gif"><br><br></body></html>
-]]></content>
-	<updated>2015-10-25T19:15:19+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-25T19:15:19+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-25:/15047</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131894001720" rel="alternate" type="text/html"/>
-	<title type="html">Snoutlet (via sourpig)</title>
-	<summary type="html"><![CDATA[Snoutlet (via sourpig)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/21d258b5759c9c6ec36f832ee347c013/tumblr_nwsg0byKf81qewacoo1_500.jpg"><br><br><p>Snoutlet (via <a href="https://www.reddit.com/user/SourPig" target="_blank" rel="noreferrer">sourpig</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-25T18:30:16+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-25T18:30:16+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-25:/15018</id>
-	<link href="http://www.youtube.com/watch?v=gUlrl5lOftQ" rel="alternate" type="text/html"/>
-	<title type="html">SURICATE - LES DISSOCIÉS (Bande Annonce)</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2015-10-25T16:57:36+00:00</updated>
-	<author><name>Golden Moustache</name></author>
-	<source>
-		<id>http://www.youtube.com/channel/UCJruTcTs7Gn2Tk7YC-ENeHQ</id>
-		<link rel="self" href="http://www.youtube.com/channel/UCJruTcTs7Gn2Tk7YC-ENeHQ"/>
-		<updated>2015-10-25T16:57:36+00:00</updated>
-		<title>Golden Moustache</title></source>
-
-
-	<link rel="enclosure" 
-		type="application/x-shockwave-flash" 
-		length="1"
-		href="https://www.youtube.com/v/gUlrl5lOftQ?version=3"/>
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-25:/14981</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131879647718" rel="alternate" type="text/html"/>
-	<title type="html">ohcaptainmycaptain1918:
-
-theinturnetexplorer:
-
-well that...</title>
-	<summary type="html"><![CDATA[      ohcaptainmycaptain1918:
-
-theinturnetexplorer:
-
-well that neighbor feud took an amusing turn.
-
-...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/855b7848578f100716220734b93de9e8/tumblr_nwn5kcAi4L1qgthdfo1_500.jpg"><br><br><img src="http://40.media.tumblr.com/2aca3c30e372e964059df1c741a5f9a8/tumblr_nwn5kcAi4L1qgthdfo2_500.jpg"><br><br><img src="http://40.media.tumblr.com/81e4c6de0e573195283e2ecfadd7ccf0/tumblr_nwn5kcAi4L1qgthdfo3_500.jpg"><br><br><img src="http://40.media.tumblr.com/349c90fb1cdfce4ff8e725f0ed683c14/tumblr_nwn5kcAi4L1qgthdfo4_500.jpg"><br><br><img src="http://40.media.tumblr.com/a8c883feb17817984446676428e898ae/tumblr_nwn5kcAi4L1qgthdfo5_500.jpg"><br><br><img src="http://40.media.tumblr.com/cce3ba5744d21b7aa3599d9e5c4fb68b/tumblr_nwn5kcAi4L1qgthdfo6_500.jpg"><br><br><p><a href="http://ohcaptainmycaptain1918.tumblr.com/post/131832938384" target="_blank" rel="noreferrer">ohcaptainmycaptain1918</a>:</p>
-<blockquote>
-<p><a href="http://theinturnetexplorer.tumblr.com/post/131774912016" target="_blank" rel="noreferrer">theinturnetexplorer</a>:</p>
-<blockquote>
-<p>well that neighbor feud took an amusing turn.</p>
-</blockquote>
-<p>Imagine your OTP</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-25T14:17:44+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-25T14:17:44+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
 
 
