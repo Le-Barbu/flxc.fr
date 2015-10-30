@@ -4,11 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-25T11:16:44+00:00</updated>
+<updated>2015-10-25T14:17:44+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-27:/15446</id>
+	<link href="http://www.dailymotion.com/video/x3b7pq9" rel="alternate" type="text/html"/>
+	<title type="html">Chouette albinos - vidéo Dailymotion</title>
+	<summary type="html"><![CDATA[Chouette albinos - vidéo Dailymotion]]></summary>
+	<content type="html"><![CDATA[<html><body><a href="http://www.dailymotion.com/video/x3b7pq9" rel="noreferrer" target="_blank"><img src="http://s1.dmcdn.net/PJ6y8/526x297-akp.jpg"></a><br><a href="http://www.dailymotion.com/video/x3b7pq9" rel="noreferrer" target="_blank">Chouette albinos - vid&eacute;o Dailymotion</a></body></html>
+]]></content>
+	<updated>2015-10-27T15:49:50+00:00</updated>
+	<author><name>Dailymotion Bridge</name></author>
+	<source>
+		<id>https://www.dailymotion.com/</id>
+		<link rel="self" href="https://www.dailymotion.com/"/>
+		<updated>2015-10-27T15:49:50+00:00</updated>
+		<title>Spi0n</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-29:/15894</id>
@@ -1864,24 +1882,6 @@ well that neighbor feud took an amusing turn.
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-10-25T14:17:44+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-25:/15022</id>
-	<link href="http://www.viedemerde.fr/inclassable/8633006" rel="alternate" type="text/html"/>
-	<title type="html">mini-moy a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, changement d'heure, je dois me lever à 5 h du matin pour une compétition sportive. Je v...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, changement d'heure, je dois me lever &agrave; 5 h du matin pour une comp&eacute;tition sportive. Je viens de me r&eacute;veiller : mon radio-r&eacute;veil indique 4 h, ma montre 5 h, et mon portable 6 h. VDM</p></body></html>
-]]></content>
-	<updated>2015-10-25T11:16:44+00:00</updated>
-	<author><name>mini-moy</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-10-25T11:16:44+00:00</updated>
-		<title>Vie de merde</title></source>
 
 
 </entry>
