@@ -4,11 +4,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-26T14:11:06+00:00</updated>
+<updated>2015-10-26T16:00:45+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-30:/16177</id>
+	<link href="http://www.youtube.com/watch?v=JR0yDx5OeBY" rel="alternate" type="text/html"/>
+	<title type="html">Les Paterrnelles - Palmashow</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-10-30T16:15:06+00:00</updated>
+	<author><name>Palmashow</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCoZoRz4-y6r87ptDp4Jk74g</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCoZoRz4-y6r87ptDp4Jk74g"/>
+		<updated>2015-10-30T16:15:06+00:00</updated>
+		<title>Palmashow</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/JR0yDx5OeBY?version=3"/>
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-30:/16331</id>
@@ -1335,30 +1357,6 @@ too much<br></p>
 		<id>http://tumblr.tastefullyoffensive.com/</id>
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-10-26T16:00:45+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-26:/15218</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131951200983" rel="alternate" type="text/html"/>
-	<title type="html">owlturdcomix:
-
-Hooray for teamwork! :Dimage | twitter | facebook...</title>
-	<summary type="html"><![CDATA[     owlturdcomix:
-
-Hooray for teamwork! :Dimage | twitter | facebook | patreon]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/70973d01922427629c98dfd070b50269/tumblr_nwty8vplIM1s667kio1_500.png"><br><br><img src="http://40.media.tumblr.com/5276b29a49331b5cadea72a9c47c2615/tumblr_nwty8vplIM1s667kio2_500.png"><br><br><img src="http://41.media.tumblr.com/a008d76f0241e24b29467700107b2a94/tumblr_nwty8vplIM1s667kio3_500.png"><br><br><img src="http://40.media.tumblr.com/4badb254c78a428f5daa30ee3c37f044/tumblr_nwty8vplIM1s667kio4_500.png"><br><br><img src="http://41.media.tumblr.com/944411c01d5b23bddd8d505075d3a930/tumblr_nwty8vplIM1s667kio5_500.png"><br><br><p><a href="http://owlturd.com/post/131950162249/hooray-for-teamwork-d-image-twitter-facebook" target="_blank" rel="noreferrer">owlturdcomix</a>:</p>
-
-<blockquote><p>Hooray for teamwork! :D</p><p><a href="http://i.imgur.com/rpY66N9.png" target="_blank" rel="noreferrer">i</a><a href="http://i.imgur.com/IVTrxxW.png" target="_blank" rel="noreferrer">m</a><a href="http://i.imgur.com/k0HFLP6.png" target="_blank" rel="noreferrer">age</a><a href="http://i.imgur.com/8yPZ0o9.png" target="_blank" rel="noreferrer"> </a>| <a href="https://twitter.com/shenanigansen" target="_blank" rel="noreferrer">twitter</a> | <a href="https://www.facebook.com/owlturdcomix" target="_blank" rel="noreferrer">facebook</a> | <a href="https://www.patreon.com/owlturd" target="_blank" rel="noreferrer">patreon</a></p></blockquote></body></html>
-]]></content>
-	<updated>2015-10-26T14:11:06+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-26T14:11:06+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
 
 
