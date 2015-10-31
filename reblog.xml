@@ -4,11 +4,361 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-26T16:00:45+00:00</updated>
+<updated>2015-10-27T10:16:34+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-29:/15904</id>
+	<link href="http://grisebouille.net/mon-premier-dessin-anime/" rel="alternate" type="text/html"/>
+	<title type="html">Mon premier dessin animé</title>
+	<summary type="html"><![CDATA[Si vous suivez un peu l&rsquo;actualité du libre et de Framasoft en particulier, vous avez sans dout...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Si vous suivez un peu l&rsquo;actualit&eacute; du libre et de <a href="http://framasoft.org/" rel="noreferrer" target="_blank">Framasoft</a> en particulier, vous avez sans doute entendu parl&eacute; des services lanc&eacute;s &agrave; l&rsquo;occasion de l&rsquo;an 2 de <a href="https://degooglisons-internet.org/" rel="noreferrer" target="_blank">D&eacute;googlisons Internet</a>. Et outre la fameuse carte qui a &eacute;t&eacute; mise &agrave; jour (et anim&eacute;e par les soins de <a href="https://twitter.com/pyg" rel="noreferrer" target="_blank">pyg</a> avec les 2-3 petits sprites que je lui ai fournis), vous avez peut-&ecirc;tre vu ce petit dessin anim&eacute; de ma cr&eacute;ation :</p>
+<div><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video width="1920" height="1080" preload="metadata" controls="controls"><source type="video/webm" src="http://grisebouille.net/wp-content/uploads/2015/10/animation.webm?_=1"></source><a href="http://grisebouille.net/wp-content/uploads/2015/10/animation.webm" rel="noreferrer" target="_blank">http://grisebouille.net/wp-content/uploads/2015/10/animation.webm</a></video></div>
+<p>&Agrave; la base, cette vid&eacute;o &eacute;tait un simple GIF, mais j&rsquo;en &eacute;tais tellement content que j&rsquo;ai pouss&eacute; le concept en ajoutant une bande son et dans un format HD <img src="http://grisebouille.net/wp-includes/images/smilies/simple-smile.png" alt=":)"></p>
+<p>Voici le GIF r&eacute;alis&eacute; &agrave; la base :</p>
+<p><img src="http://grisebouille.net/wp-content/uploads/2015/10/anim_framadrive.gif" alt="anim_framadrive" width="602" height="326"></p>
+<p>C&rsquo;est court, l&rsquo;animation n&rsquo;est pas hyper-d&eacute;taill&eacute;e, mais j&rsquo;en suis tr&egrave;s fier ! Mine de rien, &ccedil;a m&rsquo;a quand m&ecirc;me demand&eacute; 10 heures de boulot tout &ccedil;a&hellip; Et je vous propose aujourd&rsquo;hui de d&eacute;couvrir une sorte de making-of de ce GIF, parce que c&rsquo;est loin d&rsquo;&ecirc;tre si simple que &ccedil;a &agrave; faire.</p>
+<h2>Les outils</h2>
+<p>Bon. Quand <a href="http://pouhiou.com/" rel="noreferrer" target="_blank">Pouhiou</a> m&rsquo;a envoy&eacute; un mail pour me demander s&rsquo;il y avait moyen de faire un petit GIF avec le sc&eacute;nario qu&rsquo;il avait &eacute;crit (avec une date limite assez serr&eacute;e), je me suis pench&eacute; sur les logiciels d&rsquo;animation libre. J&rsquo;ai tout d&rsquo;abord essay&eacute; <a href="https://fr.wikipedia.org/wiki/Synfig" rel="noreferrer" target="_blank">Synfig</a> qui semblait &ecirc;tre le plus pl&eacute;biscit&eacute;. J&rsquo;ai import&eacute; un personnage bricol&eacute; dans Inkscape, j&rsquo;ai essay&eacute; de l&rsquo;animer en fouillant un peu les menus et en regardant des tutos sur Internet. Sans succ&egrave;s (je dois pas &ecirc;tre dou&eacute;). J&rsquo;ai laiss&eacute; tomb&eacute; quand le logiciel m&rsquo;a plant&eacute; entre les mains apr&egrave;s avoir cliqu&eacute; sur un bouton au hasard. J&rsquo;ai vaguement jet&eacute; un &oelig;il du c&ocirc;t&eacute; de <a href="https://en.wikipedia.org/wiki/Pencil2D" rel="noreferrer" target="_blank">Pencil2d</a>, mais &ccedil;a ne m&rsquo;avait pas l&rsquo;air beaucoup plus simple.</p>
+<p>Qu&rsquo;&agrave; cela ne tienne. Quand on est un peu press&eacute;, mieux vaut s&rsquo;en tenir &agrave; des logiciels qu&rsquo;on conna&icirc;t, m&ecirc;me s&rsquo;ils ne sont pas exactement faits pour la t&acirc;che qu&rsquo;on a &agrave; accomplir. En l&rsquo;occurrence, je me suis content&eacute; d&rsquo;utiliser :</p>
+<ul><li>Mon chouchou <a href="https://fr.wikipedia.org/wiki/Inkscape" rel="noreferrer" target="_blank">Inkscape</a> pour faire les dessins, on ne change pas une &eacute;quipe qui gagne (et il est aussi utilisable en ligne de commande, un tr&egrave;s gros atout !)</li>
+<li><a href="https://fr.wikipedia.org/wiki/ImageMagick" rel="noreferrer" target="_blank">ImageMagick</a> pour g&eacute;n&eacute;rer le GIF</li>
+<li>Un peu de <a href="https://fr.wikipedia.org/wiki/Ruby" rel="noreferrer" target="_blank">Ruby</a> pour automatiser un peu le processus</li>
+</ul><p><strong><span>Je pr&eacute;viens d&rsquo;avance que j&rsquo;ai proc&eacute;d&eacute; volontairement de mani&egrave;re <em>quick&rsquo;n&rsquo;dirty</em>. Il est &eacute;vident que tout ce que j&rsquo;ai fait peut-&ecirc;tre r&eacute;alis&eacute; plus efficacement et proprement si on ma&icirc;trise un parser XML, les expressions r&eacute;guli&egrave;res, etc. etc.</span></strong></p>
+<h2>Animons&hellip; &agrave; l&rsquo;ancienne !</h2>
+<p>Puisque je n&rsquo;utilise aucun outil qui facilite l&rsquo;animation (pour calculer automatiquement des images entre deux positions-clefs, par exemple) je fais au plus simple : d&eacute;composer le mouvement image par image et dessiner chaque image s&eacute;par&eacute;ment. J&rsquo;assume du coup le c&ocirc;t&eacute; &laquo; saccad&eacute; &raquo; car je n&rsquo;avais franchement pas le courage de faire du 25 images par seconde <img src="http://grisebouille.net/wp-includes/images/smilies/simple-smile.png" alt=":)"></p>
+<p>Pour la marche du manchot, une boucle de 8 images :</p>
+<div><img src="http://grisebouille.net/wp-content/uploads/2015/10/marche.png" alt="marche" width="800" height="181"><p>La marche de l&rsquo;empereur&hellip; enfin, j&rsquo;me comprends.</p></div>
+<p>Pour animer l&rsquo;uppercut, je me suis inspir&eacute; des <em>sprites</em> d&rsquo;un certain jeu de baston assez connu&hellip;</p>
+<div><img src="http://grisebouille.net/wp-content/uploads/2015/10/punch.png" alt="Shoooooryuken !" width="800" height="196"><p>Shoooooryuken !</p></div>
+<p>Et pour la partie jardinage, j&rsquo;ai fait &agrave; l&rsquo;instinct avec une boucle de deux images quand le manchot grattouille la terre.</p>
+<div><img src="http://grisebouille.net/wp-content/uploads/2015/10/divers.png" alt="Il est grattouille et il est content." width="800" height="198"><p>Il grattouille et il est content.</p></div>
+<p>Reste le soldat qui est beaucoup moins anim&eacute; mais poss&egrave;de son petit nombre d&rsquo;images quand m&ecirc;me. Je dessine le bouclier vide, sachant que le logo sur le bouclier va varier selon les projets.</p>
+<div><img src="http://grisebouille.net/wp-content/uploads/2015/10/soldat.png" alt="Engagez-vous... rengagez-vous qu'ils disaient !" width="799" height="305"><p>Engagez-vous&hellip; rengagez-vous qu&rsquo;ils disaient !</p></div>
+<p>Voil&agrave; ! Les autres &eacute;l&eacute;ments sont fixes (ou pratiquement) :</p>
+<div><img src="http://grisebouille.net/wp-content/uploads/2015/10/reste.png" alt="Je vous &eacute;pargne l'animation du nuage de fum&eacute;e &agrave; la fin..." width="800" height="389"><p>Je vous &eacute;pargne l&rsquo;animation du nuage de fum&eacute;e &agrave; la fin&hellip;</p></div>
+<p>Et enfin, un fond qui est raccordable &agrave; gauche et &agrave; droite pour pouvoir boucler facilement.</p>
+<div><img src="http://grisebouille.net/wp-content/uploads/2015/10/fond.png" alt="fond" width="800" height="258"><p>La fonte des glaciers est r&eacute;elle&hellip; <em>#inconvenientTruth</em></p></div>
+<h2>On assemble&hellip;</h2>
+<p>C&rsquo;est l&agrave; o&ugrave; &ccedil;a devient carr&eacute;ment artisanal (et o&ugrave;, encore une fois, il y a moyen de faire plus simple &ndash; et moins gourmand en espace ! &ndash; si on sait scripter du SVG comme un chef). Je fais un calque (toujours sur <em>Inkscape</em>) par image, en dupliquant les &eacute;l&eacute;ments qui doivent l&rsquo;&ecirc;tre &agrave; chaque fois. Du coup le fichier source devient vite tr&egrave;s gros&hellip;</p>
+<p>On commence par 2 cycles de marche (soit 16 images). C&rsquo;est le fond qui bouge. J&rsquo;ai calcul&eacute; qu&rsquo;&agrave; la fin des deux cycles, mon personnage devait avoir parcouru &agrave; peu pr&egrave;s les 2 tiers du d&eacute;cors qui fait 860 pixels de large. On doit donc parcourir (2/3)*860=537,33 pixels en 16 frames. &Agrave; chaque calque, je duplique le pr&eacute;c&eacute;dent et je s&eacute;lectionne mon fond : <em>Objet/Transformer/D&eacute;placement horizontal</em> de -35,84 pixels.</p>
+<p>Arriv&eacute; &agrave; la derni&egrave;re des 16 frames, le nuage doit &ecirc;tre dans sa position finale. Je le mets, puis je fais l&rsquo;op&eacute;ration inverse (copie du nuage sur les calques pr&eacute;c&eacute;dents et mouvement de 35,84 pixels jusqu&rsquo;&agrave; ce qu&rsquo;il sorte du cadre). Avec toutes ces copies, <em>le fichier fait d&eacute;j&agrave; 11Mio</em> ! Je d&eacute;cide de diviser l&rsquo;animation en plusieurs fichiers pour ne pas exploser la m&eacute;moire de ce pauvre Inkscape&hellip;</p>
+<p>Le deuxi&egrave;me fichier SVG commence aux &eacute;clairs et termine quand le soldat est &eacute;ject&eacute; de l&rsquo;&eacute;cran. Pas grand chose &agrave; dire, pas de formule math&eacute;matique ici, j&rsquo;ai anim&eacute; en essayant/regardant/corrigeant jusqu&rsquo;&agrave; arriver &agrave; un encha&icirc;nement qui me semblait bien. Mine de rien, le deuxi&egrave;me fichier fait d&eacute;j&agrave; 20Mio&hellip; On passe au troisi&egrave;me fichier !</p>
+<p>On commence par recentrer la &laquo; cam&eacute;ra &raquo; sur notre personnage : rien de bien compliqu&eacute;, toute l&rsquo;image bouge en m&ecirc;me temps. On en profite pour lancer l&rsquo;animation du manchot qui grattouille la terre. Rien de bien compliqu&eacute; pour faire appara&icirc;tre l&rsquo;arbre dans une explosion de lumi&egrave;re <img src="http://grisebouille.net/wp-includes/images/smilies/simple-smile.png" alt=":)"></p>
+<p>Mais c&rsquo;est l&agrave; que les choses se corsent : il faut que je termine en bouclant sur le d&eacute;but, il faut donc que la derni&egrave;re image se raccorde avec la premi&egrave;re. J&rsquo;ai d&eacute;j&agrave; pr&eacute;vu un fond raccordable, par contre mon personnage a un peu boug&eacute; &agrave; l&rsquo;arrache avec le combat et le plantage d&rsquo;arbre. Et en plus, horreur et damnation, je me rends compte que mon bel arbre d&eacute;passe sur la partie de l&rsquo;image qui appara&icirc;t sur la premi&egrave;re image !</p>
+<div><img src="http://grisebouille.net/wp-content/uploads/2015/10/probleme.png" alt="L'homme qui avait pens&eacute; &agrave; tout... sauf &agrave; &ccedil;a." width="800" height="295"><p>L&rsquo;homme qui avait pens&eacute; &agrave; tout&hellip; sauf &agrave; &ccedil;a.</p></div>
+<p>Aaaargh ! Trois solutions :</p>
+<ul><li>Tout refaire pour placer l&rsquo;&eacute;clair, l&rsquo;arbre et cie. plus &agrave; gauche (<em>non mais &ccedil;a va pas la t&ecirc;te ?!</em>)</li>
+<li>Recoller le morceau d&rsquo;arbre sur les premi&egrave;res images pour rester coh&eacute;rent (mais du coup ce serait bizarre de le voir d&egrave;s le d&eacute;but)</li>
+<li>Utiliser un habile trucage <img src="http://grisebouille.net/wp-includes/images/smilies/simple-smile.png" alt=":)"></li>
+</ul><p>Et c&rsquo;est la derni&egrave;re solution (la plus feignasse, j&rsquo;assume) que j&rsquo;ai choisie. Et je suis assez content parce que cette petite &laquo; triche &raquo; ne se voit pratiquement pas (sauf si on le sait). Vous l&rsquo;avez vue ? Eh bien c&rsquo;est simple : l&rsquo;arbre bouge <em>plus vite</em> que le fond sur les derni&egrave;res images ! De telle sorte qu&rsquo;il semble naturel qu&rsquo;il soit sorti de l&rsquo;image quand on revient sur la premi&egrave;re image&hellip;</p>
+<p>Bon, n&rsquo;emp&ecirc;che que c&rsquo;est quand m&ecirc;me un peu le bazar, puisque tout doit un peu bouger pour retourner &agrave; la position initiale :</p>
+<ul><li><em>Par rapport au fond</em>, le manchot doit avancer de 327 pixels</li>
+<li>Pour retrouver sa position initiale (sur le bord gauche de l&rsquo;image), le manchot doit <em>reculer</em> de 80 pixel</li>
+<li>Le fond doit reculer de 400 pixels</li>
+<li>L&rsquo;arbre doit reculer de 585 pixels</li>
+</ul><p>Puisque par rapport au fond, le manchot doit avancer de 327 pixels, on peut calculer le nombre de &laquo; pas &raquo; qu&rsquo;il doit faire (= le nombre d&rsquo;images dans la boucle de marche). On se rappelle que manchot faisait 35,84 pixels par pas au d&eacute;but. Pour parcourir 327 pixels, il lui faut donc 9,12 pas (arrondis &agrave; 9). Maintenant qu&rsquo;on conna&icirc;t le nombre d&rsquo;images n&eacute;cessaires et les d&eacute;placements &agrave; faire, il n&rsquo;y a plus qu&rsquo;&agrave; encha&icirc;ner ! Pendant 9 images :</p>
+<ul><li>Le manchot bouge de 8,89 pixels</li>
+<li>Le fond bouge de 44,44 pixels</li>
+<li>L&rsquo;arbre bouge de 65 pixels (sans le probl&egrave;me d&eacute;crit plus haut, il aurait d&ucirc; bouger &agrave; la m&ecirc;me vitesse que le fond, ici il est 46% plus rapide !)</li>
+</ul><p>Et voil&agrave; ! Nous avons maintenant toutes nos images, y&rsquo;a plus qu&rsquo;&agrave; assembler !</p>
+<div><a href="http://grisebouille.net/wp-content/uploads/2015/10/montage.png" rel="noreferrer" target="_blank"><img src="http://grisebouille.net/wp-content/uploads/2015/10/montage-1024x554.png" alt="81 images pour l'animation compl&egrave;te !" width="800"></a><p>81 images pour l&rsquo;animation compl&egrave;te ! (Je passe sur l&rsquo;ajout du logo et les changements de nom sur l&rsquo;arbre.)</p></div>
+<h2>Scriptons</h2>
+<p>On est quand m&ecirc;me &agrave; 3 fichiers SVG qui totalisent 50Mio et 81 calques. Hors de question de se taper les exportations &agrave; la main (surtout que je veux pouvoir facilement tester et changer des choses). Du coup, c&rsquo;est l&rsquo;heure de scripter. J&rsquo;ai choisi le Ruby pour plusieurs raisons :</p>
+<ul><li>D&eacute;j&agrave;, parce que c&rsquo;est ce que j&rsquo;utilise en g&eacute;n&eacute;ral quand je dois scripter (du coup je ma&icirc;trise mieux &ndash; mais pas tant que &ccedil;a vu que je ne scripte pas si souvent)</li>
+<li>C&rsquo;est un langage relativement d&eacute;gueulasse (on peut &eacute;crire &agrave; peu pr&egrave;s n&rsquo;importe quoi) mais qui du coup est simple &agrave; faire fonctionner</li>
+<li>C&rsquo;est rigolo comme langage <img src="http://grisebouille.net/wp-includes/images/smilies/simple-smile.png" alt=":)"></li>
+</ul><p>Tout d&rsquo;abord, comme je l&rsquo;ai dit en introduction, il faut savoir qu&rsquo;Inkscape a un mode ligne de commande, et c&rsquo;est super ! On peut choisir d&rsquo;exporter un fichier en PNG avec la taille que l&rsquo;on veut et en s&eacute;lectionner un objet de la sc&egrave;ne. Et &ccedil;a tombe bien, puisque mes calques sont des objets et qu&rsquo;en s&eacute;lectionnant chaque calque un par un dans l&rsquo;ordre des num&eacute;ros, on obtient toutes les images de l&rsquo;animation dans le bon ordre.</p>
+<p>Et l&agrave;, il y a un hic : pour choisir un objet, Inkscape veut qu&rsquo;on lui donne son ID. Sauf que son ID n&rsquo;a rien &agrave; voir avec le <em>Nom</em> qu&rsquo;on lui a donn&eacute; dans Inkscape. Nom que j&rsquo;avais pris soin d&rsquo;&eacute;crire imgXXX (avec XXX le num&eacute;ro de l&rsquo;image). Groumpf. Qu&rsquo;&agrave; cela ne tienne, en faisant un petit grep, on se rend vite compte que les attributs id et name d&rsquo;un calque sont juste &agrave; c&ocirc;t&eacute;. On commence donc par r&eacute;cup&eacute;rer l&rsquo;ID correspondant &agrave; chaque calque avec un petit hack un peu crade mais qui marche :</p>
+<p><img src="http://grisebouille.net/wp-content/uploads/2015/10/script1.png" alt="get_layer = Hash.new 81.times do |t| # (Je ne detaille pas comment sont definies les variables 'img' et # 'filename' qui contiennent respectivement le nom du calque et le # nom du fichier SVG) cmd = &quot;grep -C 2 &quot; + img + &quot; &quot; + filename + &quot; | grep id&quot; text = `#{cmd}` get_layer[img] = text.split('&quot;')[1] end" width="792" height="191"></p>
+<p>Ensuite, une fois qu&rsquo;on a r&eacute;cup&eacute;r&eacute; les bons ID associ&eacute;s aux bons noms, on peut lancer l&rsquo;exportation des calques vers des PNG avec une b&ecirc;te boucle et un appel &agrave; Inkscape :</p>
+<p><img src="http://grisebouille.net/wp-content/uploads/2015/10/script21.png" alt='get_layer.each do |i,l| frame_name = "frames/" + i + ".png" cmd = "inkscape -C -j -i " + l + " -e " + frame_name + " " + filename system cmd end' width="792" height="97"></p>
+<p>Il ne reste plus qu&rsquo;&agrave; compiler le GIF &agrave; l&rsquo;aide d&rsquo;ImageMagick. La fa&ccedil;on la plus simple de faire est celle-ci :</p>
+<p><img src="http://grisebouille.net/wp-content/uploads/2015/10/script3.png" alt='system "convert -loop 0 -delay 10 frames/*.png animation.gif"' width="792" height="29"></p>
+<p>Mais dans mon cas, je souhaite que certaines frames soient plus longues que d&rsquo;autres (par exemple, celles o&ugrave; le soldat parle). Dans ce cas-l&agrave;, j&rsquo;&eacute;cris la commande ImageMagick frame par frame en pr&eacute;cisant la dur&eacute;e &agrave; chaque fois (notez qu&rsquo;on pourrait ne pr&eacute;ciser la dur&eacute;e par d&eacute;faut qu&rsquo;apr&egrave;s chaque frame qui ne l&rsquo;utilise pas, mais bon, c&rsquo;est le script qui s&rsquo;en charge alors peu importe). J&rsquo;ai oubli&eacute; de le copier/coller, mais la variable delay est &eacute;gale &agrave; 10 bien s&ucirc;r.</p>
+<p><img src="http://grisebouille.net/wp-content/uploads/2015/10/script4.png" alt='cmd = "convert -loop 0 " current = 1 get_layer.each do |i,l| if current == 30 cmd = cmd + "-delay 100 " elsif current == 31 cmd = cmd + "-delay 350 " elsif current == 32 || current == 73 cmd = cmd + "-delay 200 " else cmd = cmd + "-delay " + delay + " " end cmd = cmd + "frames/" + i + ".png " current = current + 1 end cmd = cmd + "animation.gif" system cmd' width="792" height="406"></p>
+<p>ET VOIL&Agrave; !</p>
+<p>Notre GIF est tout pr&ecirc;t, tout beau. Ensuite, il y a encore moyen de r&eacute;duire le poids du GIF en r&eacute;duisant la qualit&eacute; etc. J&rsquo;ai aussi g&eacute;n&eacute;r&eacute; pas mal de variantes avec des changements de couleur (via des scripts aussi), mais je vous passe les d&eacute;tails. J&rsquo;arr&ecirc;te l&agrave; pour le making-of, car si je commence &agrave; vous parler de la vid&eacute;o (et du son), on n&rsquo;est pas rendus <img src="http://grisebouille.net/wp-includes/images/smilies/simple-smile.png" alt=":)"></p>
+<p>Vous pouvez t&eacute;l&eacute;charger <a href="http://grisebouille.net/download/193282/" rel="noreferrer" target="_blank">le script complet</a> (et &eacute;ventuellement les sources ci-dessous, mais m&ecirc;me compress&eacute;, c&rsquo;est gros !). Tout est libre, toujours sous licence CC-By-Sa.</p>
+<p>Faites tourner !</p>
+<p>&nbsp;</p>
+<p><a href="http://grisebouille.net/download/193280/" rel="noreferrer" target="_blank">
+		T&eacute;l&eacute;charger &ldquo;Sources de &laquo;&nbsp;Il &eacute;tait une fois sur la banquise...&nbsp;&raquo;&rdquo;		<small>sources_animation.zip &ndash; T&eacute;l&eacute;charg&eacute; 90 fois &ndash; 13 MB</small>
+	</a></p>
+<a href="http://grisebouille.net/wp-content/plugins/share-on-diaspora/new_window.php?url=http%3A%2F%2Fgrisebouille.net%2Fmon-premier-dessin-anime%2F&amp;title=Mon%20premier%20dessin%20anim%C3%A9" target="_blank" rel="noreferrer"><span><img src="http://grisebouille.net/wp-content/uploads/2015/02/diaspora.jpg" alt=""></span></a></body></html>
+]]></content>
+	<updated>2015-10-07T11:35:52+00:00</updated>
+	<author><name>Gee</name></author>
+	<source>
+		<id>http://grisebouille.net</id>
+		<link rel="self" href="http://grisebouille.net"/>
+		<updated>2015-10-07T11:35:52+00:00</updated>
+		<title>Grise Bouille</title></source>
+
+	<category term="dépêches melba"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-29:/15901</id>
+	<link href="http://grisebouille.net/gouvernement-buzzfeed/" rel="alternate" type="text/html"/>
+	<title type="html">Gouvernement Buzzfeed</title>
+	<summary type="html"><![CDATA[Hier, au hasard de mes pérégrinations sur Twitter, je suis tombé sur cet article hallucinant du très...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Hier, au hasard de mes p&eacute;r&eacute;grinations sur Twitter, je suis tomb&eacute; sur <a href="http://www.gouvernement.fr/top-10-des-mots-d-internet-que-vous-allez-oser-dire-en-francais" rel="noreferrer" target="_blank">cet article</a> hallucinant du tr&egrave;s officiel <a href="http://www.gouvernement.fr/" rel="noreferrer" target="_blank">Gouvernement.fr</a>. Il nous parle des mots fran&ccedil;ais invent&eacute;s pour remplacer le vocabulaire anglophone des nouvelles technologies&hellip; Si vous me suivez depuis longtemps, vous savez que je ne suis g&eacute;n&eacute;ralement pas fan des traductions d&eacute;biles impos&eacute;es par des gens qui n&rsquo;ont qu&rsquo;une vision tr&egrave;s fantasm&eacute;e de l&rsquo;informatique (m&ecirc;me s&rsquo;il y a des exceptions). Mais l&agrave;, non seulement le fond m&rsquo;agace mais alors la <em>forme</em>&hellip;</p>
+<p>S&eacute;rieusement, ce genre de ton et de pr&eacute;sentation est d&eacute;j&agrave; exasp&eacute;rant sur les sites <em>putaclic</em> qui ont fait du Top 10 une ligne &eacute;ditoriale, mais alors sur un site officiel et public de la R&eacute;publique Fran&ccedil;aise&hellip; <em><em>(soupir)</em></em></p>
+<p>J&rsquo;avais loup&eacute; cet article lorsqu&rsquo;il a &eacute;t&eacute; publi&eacute;. Permettez-moi de corriger cela aujourd&rsquo;hui. D&eacute;fouloir incoming (oui, <em>incoming</em>, nah).</p>
+<p><a href="http://grisebouille.net/wp-content/uploads/2015/10/lf_010_gouvernement_buzzfeed2.png" rel="noreferrer" target="_blank"><img src="http://grisebouille.net/wp-content/uploads/2015/10/lf_010_gouvernement_buzzfeed2.png" alt="lf_010_gouvernement_buzzfeed" width="800" height="3975"></a></p>
+<p>&nbsp;</p>
+<p><a href="http://grisebouille.net/download/202024/" rel="noreferrer" target="_blank">
+		T&eacute;l&eacute;charger &ldquo;Gouvernement Buzzfeed&rdquo;		<small>lf_010_gouvernement_buzzfeed.zip &ndash; T&eacute;l&eacute;charg&eacute; 16 fois &ndash; 3 MB</small>
+	</a></p>
+<a href="http://grisebouille.net/wp-content/plugins/share-on-diaspora/new_window.php?url=http%3A%2F%2Fgrisebouille.net%2Fgouvernement-buzzfeed%2F&amp;title=Gouvernement%20Buzzfeed" target="_blank" rel="noreferrer"><span><img src="http://grisebouille.net/wp-content/uploads/2015/02/diaspora.jpg" alt=""></span></a></body></html>
+]]></content>
+	<updated>2015-10-28T12:37:57+00:00</updated>
+	<author><name>Gee</name></author>
+	<source>
+		<id>http://grisebouille.net</id>
+		<link rel="self" href="http://grisebouille.net"/>
+		<updated>2015-10-28T12:37:57+00:00</updated>
+		<title>Grise Bouille</title></source>
+
+	<category term="la fourche"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-30:/16117</id>
+	<link href="http://grisebouille.net/croissance-verte/" rel="alternate" type="text/html"/>
+	<title type="html">Croissance verte</title>
+	<summary type="html"><![CDATA[Ça faisait longtemps, alors voici une petite aquarelle ! Le papier était plus grand que d&rsquo;habi...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>&Ccedil;a faisait longtemps, alors voici une petite aquarelle ! Le papier &eacute;tait plus grand que d&rsquo;habitude, du coup j&rsquo;ai d&ucirc; la scanner en deux fois. Mais gr&acirc;ce &agrave; un peu de recalage avec Gimp, &ccedil;a ne se voit pratiquement pas <img src="http://grisebouille.net/wp-includes/images/smilies/simple-smile.png" alt=":)"></p>
+<p>Et sinon, pas de commentaire particulier &agrave; faire sur le dessin, je pense qu&rsquo;il est suffisamment parlant.</p>
+<p><a href="http://grisebouille.net/wp-content/uploads/2015/10/tad_009_croissance_verte.jpg" rel="noreferrer" target="_blank"><img src="http://grisebouille.net/wp-content/uploads/2015/10/tad_009_croissance_verte.jpg" alt="tad_009_croissance_verte" width="800" height="1079"></a></p>
+<a href="http://grisebouille.net/wp-content/plugins/share-on-diaspora/new_window.php?url=http%3A%2F%2Fgrisebouille.net%2Fcroissance-verte%2F&amp;title=Croissance%20verte" target="_blank" rel="noreferrer"><span><img src="http://grisebouille.net/wp-content/uploads/2015/02/diaspora.jpg" alt=""></span></a></body></html>
+]]></content>
+	<updated>2015-10-30T13:04:11+00:00</updated>
+	<author><name>Gee</name></author>
+	<source>
+		<id>http://grisebouille.net</id>
+		<link rel="self" href="http://grisebouille.net"/>
+		<updated>2015-10-30T13:04:11+00:00</updated>
+		<title>Grise Bouille</title></source>
+
+	<category term="table à dessins"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-30:/16358</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/132237550526" rel="alternate" type="text/html"/>
+	<title type="html">by Gemma Correll</title>
+	<summary type="html"><![CDATA[by Gemma Correll]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/1b8d19ed02d07c06a1f3bde03229882a/tumblr_nx20upqKEx1qhlsrfo1_500.jpg"><br><br><p>by <a href="http://gemmacorrell.tumblr.com/post/132234541848/reposting-for-halloween-from-my-book-the" target="_blank" rel="noreferrer">Gemma Correll</a></p></body></html>
+]]></content>
+	<updated>2015-10-30T23:20:31+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-30T23:20:31+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-31:/16376</id>
+	<link href="http://mememaster.tumblr.com/post/132244211809" rel="alternate" type="text/html"/>
+	<title type="html">zzazu:
+
+boneswolf:
+
+doujinshi:
+
+here in my...</title>
+	<summary type="html"><![CDATA[
+
+    
+
+zzazu:
+
+boneswolf:
+
+doujinshi:
+
+here in my gar͙̟̗̳̲͠a͓̻̬̝ą̭͉̤aA͏̳̞̦ͅA̦̰͚̼͎͎̼A̴a̮͚̝̯͖͙a͡a̟̞̳...]]></summary>
+	<content type="html"><![CDATA[<html><body><video width="400" height="225" poster="http://media.tumblr.com/tumblr_ntnj63gRvu1rpdptu_frame1.jpg" preload="none" data-crt-video data-crt-options='{"duration":90,"hdUrl":"http:\/\/mememaster.tumblr.com\/video_file\/132244211809\/tumblr_ntnj63gRvu1rpdptu","filmstrip":{"url":"http:\/\/33.media.tumblr.com\/previews\/tumblr_ntnj63gRvu1rpdptu_filmstrip.jpg","width":"200","height":"112"}}'><source src="http://mememaster.tumblr.com/video_file/132244211809/tumblr_ntnj63gRvu1rpdptu/480" type="video/mp4"></source></video><br><br><p><a href="http://zzazu.tumblr.com/post/130789319739" target="_blank" rel="noreferrer">zzazu</a>:</p>
+<blockquote>
+<p><a href="http://boneswolf.tumblr.com/post/130773613797" target="_blank" rel="noreferrer">boneswolf</a>:</p>
+<blockquote>
+<p><a href="http://doujinshi.tumblr.com/post/130536405324" target="_blank" rel="noreferrer">doujinshi</a>:</p>
+<blockquote>
+<p>here in my gar&#864;&#857;&#799;&#791;&#819;&#818;a&#851;&#827;&#812;&#797;a&#808;&#813;&#841;&#804;aA&#847;&#837;&#819;&#798;&#806;A&#806;&#816;&#858;&#828;&#846;&#846;&#828;A&#820;a&#814;&#858;&#797;&#815;&#854;&#857;a&#865;a&#799;&#798;&#819;&#815;&#819;&#815;&#816;a&#857;&#853;&#793;&#858;g&#853;&#804;&#792;&#852;e&#837;&#851;&#790; just bought this uh..new lamborghini here</p>
+<p>fun to drive up here in the hollywood hills</p>
+<p>but you know what i like a lot more thanKNOWLEDGE! this uh..new lamborghini here but you know what i like more than my new lamborghini here </p>
+<p>my tedex talk where i talk about this &#7600;&#7497;&#695; &#7595;&#7491;&#7504;&#7495;&#7506;&#691;&#7501;&#688;&#7590;&#7600;&#7590; &#688;&#7497;&#691;&#7497; the &#477;&#613;&#647; the &#477;&#613;&#647; t&#810;&#854;&#827;&#841;h&#840;&#819;&#790;&#810;&#805;&#812;h&#804;&#793;&#814;&#814;&#814;&#845;&#800;h&#826;&#840;h&#813;&#796;&#826;h&#806;&#857;&#825;&#857;&#841;&#792;&#818;hh&#839;&#826;&#790;&#803;&#810;&#806;&#857;h&#865;&#851;&#809;&#852;&#840;&#846;&#813;h&#840;&#796;h&#860;&#825;&#814;&#816;&#809;&#792;&#851;&#826;h&#807;&#828;&#798;&#839;&#828;h&#827;&#812;&#806;&#826;&#811;&#839;h&#814;&#857;&#803;&#799;&#810; in fact i&rsquo;m a lot more proud of the 7 new hollywood hills that i had to get installed to hold 200 new lamborghinis (silence while mouth moves) THE it&rsquo;s like the buffet warren billionare says: the more you earn the more you &#65316;&#65330;&#65321;&#65334;&#65317; &nbsp;&#65333;&#65328; &nbsp;&#65320;&#65317;&#65330;&#65317; &nbsp;&#65321;&#65326; &nbsp;&#65332;&#65320;&#65317; &nbsp;&#65320;&#65327;&#65324;&#65324;&#65337;&#65335;&#65327;&#65327;&#65316; &nbsp;&#65320;&#65321;&#65324;&#65324;&#65331;</p>
+<p>in fact. the real reason why i keep this lamborghini here..is the real reason i keep thisLAMBORGHNI here is that it&rsquo;s a reminder, a reminder that drears still possible because it wasn&rsquo;t that long ago that i was in a little lamborghini, sleepin, on bookshelves in the hollywood hills with only FOURTY Seven billion dollars in my bank account and only FOURTY Seven lamborghinis in my lamborghini account and only FOURTY Seven hills in my hollywood account and only FOURTY Seven tedex talk where i talk about warren buffet in my TEDEXTALK WHERE I TALK ABOUT warren buffet account. but you know what? something happened that changed my life. i bumped into a LAMBORGHINI and another LAMBORGHINI and a few more LAMBORGHINIS. i found 5 lamborghinis. i don&rsquo;t call it money anymore i call it FUEL UNITS. you must have enough fuel units! you must have enough lamborghinis. you must C&#833;&#851;&#803;&#799;&#805;O&#803;&#837;&#800;&#812;&#853;&#800;&#826;N&#866;&#797;S&#851;&#799;&#804;&#839;&#852;&#858;&#793;T&#812;&#841;&#797;&#793;&#792;&#799;R&#811;&#827;U&#812;&#817;C&#1161;&#818;&#805;&#812;&#810;&#796;T&#863;&#790;&#839;&#837;&#791; &#790;&#857;&#805;&#846;A&#866;&#826;&#851;&#814;&#805;&#828;&#796;&#792;DD&#824;&#796;&#806;&#857;&#841;I&#793;&#826;&#840;&#816;T&#789;&#846;&#811;&#826;&#857;&#854;&#854;&#841;I&#832;&#790;O&#846;&#798;N&#860;&#857;&#853;&#826;A&#841;L&#802;&#804;&#857; &#790;&#811;P&#833;&#858;&#828;&#813;&#811;Y&#795;&#813;&#819;&#813;&#790;&#818;&#791;L&#862;&#803;&#819;O&#820;&#845;&#819;&#790;&#799;&#813;&#790;N&#824;&#828;&#853;&#798;&#852;&#791;&#799;&#815;S&#856;&#828;&#810;&#845;&#818;&#810;&#805;. i&rsquo;ll see you on my website, it&rsquo;s a quick video and uh..you&rsquo;ll see there absolutely nOTHING</p>
+<p>&#818;&#796;&#814;&#819;&#809;&#811;</p>
+</blockquote>
+<p>I don&rsquo;t know who this is or why this was made but i&rsquo;m reblogging</p>
+</blockquote>
+<p>That is the most impressive transcript work I have ever seen</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-10-31T01:36:02+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-10-31T01:36:02+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-31:/16374</id>
+	<link href="http://mememaster.tumblr.com/post/132244257439" rel="alternate" type="text/html"/>
+	<title type="html">bitchiel:
+
+justaddtommy:
+
+i think we’re out of ink
+
+have you...</title>
+	<summary type="html"><![CDATA[bitchiel:
+
+justaddtommy:
+
+i think we’re out of ink
+
+have you tried turning it on and off again
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/tumblr_m5enn7zpBy1qgkai1o1_500.jpg"><br><br><p><a href="http://bitchiel.tumblr.com/post/24855787881" target="_blank" rel="noreferrer">bitchiel</a>:</p>
+<blockquote>
+<p><a href="http://justaddtommy.tumblr.com/post/24825811094" target="_blank" rel="noreferrer">justaddtommy</a>:</p>
+<blockquote>
+<p>i think we&rsquo;re out of ink</p>
+</blockquote>
+<p>have you tried turning it on and off again</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-10-31T01:36:59+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-10-31T01:36:59+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-31:/16379</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/132244279743" rel="alternate" type="text/html"/>
+	<title type="html">Jon Snow White (via mankardo)</title>
+	<summary type="html"><![CDATA[Jon Snow White (via mankardo)]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/5b96d0872dbf6726c858cb67e147a086/tumblr_nx29ug9HzX1qewacoo1_500.jpg"><br><br><p>Jon Snow White (via&nbsp;<a href="https://www.reddit.com/user/mankardo" target="_blank" rel="noreferrer">mankardo</a>)</p></body></html>
+]]></content>
+	<updated>2015-10-31T01:37:28+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-10-31T01:37:28+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+	<category term="jon snow"/>
+
+	<category term="game of thrones"/>
+
+	<category term="snow white"/>
+
+	<category term="disney"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-30:/16145</id>
+	<link href="http://www.bouletcorp.com/2015/03/01/le-mythe-de-la-caverne/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=le-mythe-de-la-caverne" rel="alternate" type="text/html"/>
+	<title type="html">Le Mythe de la Caverne</title>
+	<summary type="html"><![CDATA[
+
+
+
+
+
+]]></summary>
+	<content type="html"><![CDATA[<html><body><p><img src="http://www.bouletcorp.com/wp-content/uploads/2015/03/Caverne01.png" title="Je paraphrase un peu Serres. Mais allez l'&eacute;couter, tiens, je l'aime bien, on dirait un vieux sage. J'aime beaucoup l'&eacute;couter parler quand je dessine." alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/03/Caverne02.png" title="Pur&eacute;e ces cours &eacute;taient incroyables. J'avais appris comment calculer en 3D &agrave; la main. Apr&egrave;s, c'&eacute;tait un peu long et peu exploitable en BD, et j'ai &eacute;videmment tout oubli&eacute;, mais &ccedil;a a grav&eacute; dans ma t&ecirc;te quelques principes de base dont je me sers encore. De loin la partie la plus utile de toutes mes ann&eacute;es aux Beaux-Arts." alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/03/Caverne03.png" title="L'Art est mensonge. Ceci n'est pas une pipe. La robe est bleue et noire. La cuill&egrave;re n'existe pas." alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/03/Caverne04.png" title="Ce bonus a moins d'int&eacute;r&ecirc;t si vous ne connaissez pas d&eacute;j&agrave; la parabole" alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/03/Caverne05.png" title="S&eacute;rieux ils sont tellement cons, ces aveugles. Des scientifiques auraient compar&eacute; leurs r&eacute;sultats, et auraient tent&eacute; d'&eacute;tablir une th&eacute;orie globale de l&rsquo;&eacute;l&eacute;phant." alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/03/Caverne06.png" title="Ou alors ils auraient pu demander &agrave; un non-aveugle. Moi je crois que j'aurais fait &ccedil;a si on m'avait parl&eacute; d'un &Eacute;L&Eacute;PHANT. 'Oh tiens si j'allais t&acirc;ter ce monstrueux animal g&eacute;ant dont on m'a caus&eacute;?'. Nope. Je vais d'abord me renseigner un minimum." alt=""></p></body></html>
+]]></content>
+	<updated>2015-03-01T02:04:34+00:00</updated>
+	<author><name>boulet</name></author>
+	<source>
+		<id>http://www.bouletcorp.com</id>
+		<link rel="self" href="http://www.bouletcorp.com"/>
+		<updated>2015-03-01T02:04:34+00:00</updated>
+		<title>bouletcorp</title></source>
+
+	<category term="non classé"/>
+
+	<category term="aveugle"/>
+
+	<category term="caverne"/>
+
+	<category term="dieu"/>
+
+	<category term="éléphant"/>
+
+	<category term="platon"/>
+
+	<category term="trou du cul"/>
+
+	<category term="vérité"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-30:/16143</id>
+	<link href="http://www.bouletcorp.com/2015/03/31/printemps-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=printemps-2" rel="alternate" type="text/html"/>
+	<title type="html">Printemps</title>
+	<summary type="html"><![CDATA[
+
+
+
+
+]]></summary>
+	<content type="html"><![CDATA[<html><body><p><img src="http://www.bouletcorp.com/wp-content/uploads/2015/03/Printemps01.jpg" title="Quand on tape 'Paris photo' sur Google Image, il est quasiment impossible de trouver une image SANS la Tour Eiffel." alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/03/Printemps02.jpg" title="En fait j'avais commenc&eacute; cette note il y a trois ans. J'avais la premi&egrave;re image dans un vieux carnet, mais j'avais pas eu le temps sur le coup. Alors apr&egrave;s, comme c'&eacute;tait l'&eacute;t&eacute; c'&eacute;tait trop tard. Et j'ai fait le m&ecirc;me coup trois ans de suite. Cette fois &ccedil;a tombe juste." alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/03/Printemps03.jpg" title="Honn&ecirc;tement, tous les pr&eacute;textes sont bons pour faire de la bagarre." alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/03/Printemps04.jpg" title="Imaginez une musique un peu 'magical girl' (Vous voyez, Sailor Moon ou Gigi)." alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/03/Printemps05.jpg" title="Je ne comprends m&ecirc;me pas le concept 'D&eacute;sherbant'. Ma seule pr&eacute;sence rend le sol st&eacute;rile plus efficacement qu'une bonbonne de javel." alt=""></p></body></html>
+]]></content>
+	<updated>2015-03-30T23:05:52+00:00</updated>
+	<author><name>boulet</name></author>
+	<source>
+		<id>http://www.bouletcorp.com</id>
+		<link rel="self" href="http://www.bouletcorp.com"/>
+		<updated>2015-03-30T23:05:52+00:00</updated>
+		<title>bouletcorp</title></source>
+
+	<category term="non classé"/>
+
+	<category term="bagarre"/>
+
+	<category term="fleur"/>
+
+	<category term="hiver"/>
+
+	<category term="printemps"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-30:/16177</id>
@@ -1159,205 +1509,6 @@ teamwork at its finest
 	<category term="fb"/>
 
 	<category term="fs"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-27:/15390</id>
-	<link href="http://sebsauvage.net/links/?1MUy9g" rel="alternate" type="text/html"/>
-	<title type="html">A propos de ce malware qui remplace Chrome...</title>
-	<summary type="html"><![CDATA[Pour détourner le fonctionnement normal d'un ordinateur, il y a des tonnes de façon de faire: modifi...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Pour d&eacute;tourner le fonctionnement normal d'un ordinateur, il y a des tonnes de fa&ccedil;on de faire: modification des ex&eacute;cutables (m&eacute;thode la plus commune), modification des scripts de d&eacute;marrage, modification des secteurs de d&eacute;marrage... mais de toutes, je suis tomb&eacute; sur un assez subtile, une &agrave; laquelle on ne pense pas forc&eacute;ment.<br><br>
-Je suis arriv&eacute; un jour sur un ordinateur qui n'affichait pas correctement certains sites web. Certains marchaient bien, d'autres pas du tout, d'autres s'affichaient de fa&ccedil;on &eacute;trange. Apr&egrave;s avoir lanc&eacute; MalwareByte pour un scan complet: Rien. Quelques autres antivirus: Toujours rien de d&eacute;tect&eacute;. &nbsp;Pas de logiciel remplac&eacute;. Le navigateur est r&eacute;cent et &agrave; jour. Pas de plugins/extensions bizarres dans le navigateur. Pas de service ou application &eacute;trange lanc&eacute;e au d&eacute;marrage de l'ordinateur. Pas de fichiers hosts modifi&eacute;. Aucun proxy configur&eacute; dans le navigateur.<br>
-Je me suis gratt&eacute; la t&ecirc;te un moment... et puis l'illumination: Je suis all&eacute; voir dans la config IPv4 du syst&egrave;me: &nbsp;Les serveurs DNS avaient &eacute;t&eacute; d&eacute;tourn&eacute; et configur&eacute;s pour pointer vers des adresses bizarres.<br>
-Il n'y avait pas le moindre malware pr&eacute;sent sur l'ordinateur, pas le *moindre* fichier infect&eacute;, aucun fichier de d&eacute;marrage modifi&eacute;. Mais par cette seule modification de la config DNS, le pirate pouvait faire afficher n'importe quoi &agrave; la place d'un site officiel.<br><br>
-M&ecirc;me sans rien installer (rootkits, chevaux de troie, virus, logiciels espions), il est possible de d&eacute;tourner le comportement d'un ordinateur en alt&eacute;rant tr&egrave;s l&eacute;g&egrave;rement sa configuration. Pensez-y le jour o&ugrave; vous d&eacute;verminez une Fen&ecirc;tre&trade;.<br>(<a href="http://sebsauvage.net/links/?1MUy9g" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-27T08:23:06+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://sebsauvage.net/links/</id>
-		<link rel="self" href="http://sebsauvage.net/links/"/>
-		<updated>2015-10-27T08:23:06+00:00</updated>
-		<title>Liens en vrac de sebsauvage</title></source>
-
-	<category term="security"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-27:/15413</id>
-	<link href="http://www.viedemerde.fr/sexe/8633832" rel="alternate" type="text/html"/>
-	<title type="html">jehaislesclowns a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, ma copine m'avoue ses fantasmes secrets. Je ne sais pas ce qui est le pire, entre le fa...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, ma copine m'avoue ses fantasmes secrets. Je ne sais pas ce qui est le pire, entre le fait qu'elle veuille &ecirc;tre divertie par un clown pendant l'acte, et le fait qu'elle aimerait que ce soit mon fr&egrave;re de 14 ans qui fasse le clown. VDM</p></body></html>
-]]></content>
-	<updated>2015-10-27T10:15:25+00:00</updated>
-	<author><name>jehaislesclowns</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-10-27T10:15:25+00:00</updated>
-		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-27:/15421</id>
-	<link href="http://www.blaguesdemerde.fr/blague/428156/la-russie-est-depuis-toujours-le-pays-des-metaux-u" rel="alternate" type="text/html"/>
-	<title type="html">la-russie-est-depuis-toujours-le-pays-des-metaux-u</title>
-	<summary type="html"><![CDATA[La Russie est depuis toujours le pays des métaux : un homme de fer à sa tête, et tous les autres en ...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>La Russie est depuis toujours le pays des m&eacute;taux : un homme de fer &agrave; sa t&ecirc;te, et tous les autres en taule.</p></body></html>
-]]></content>
-	<updated>2015-10-27T00:00:00+00:00</updated>
-	<author><name>ColucheInfo</name></author>
-	<source>
-		<id>http://www.blaguesdemerde.fr//</id>
-		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
-		<updated>2015-10-27T00:00:00+00:00</updated>
-		<title>blaguesdemerde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-26:/15281</id>
-	<link href="http://danstonchat.com/16917.html" rel="alternate" type="text/html"/>
-	<title type="html">DansTonChat #16917</title>
-	<summary type="html"><![CDATA[&lt;GrandToasteur&gt; je suis en vie&lt;GrandToasteur&gt; pour le moment&lt;GrandToasteur&gt; je me ...]]></summary>
-	<content type="html"><![CDATA[<html><body><span>&lt;GrandToasteur&gt;</span> je suis en vie<br><span>&lt;GrandToasteur&gt;</span> pour le moment<br><span>&lt;GrandToasteur&gt;</span> je me suis fait virer de cours tout &agrave; l'heure<br><span>&lt;GrandToasteur&gt;</span> on parlait du bouquin le suicide de Durkheim et du suicide positif ou n&eacute;gatif (actif ou passif en gros)<br><span>&lt;GrandToasteur&gt;</span> et il nous donnait des exemples<br><span>&lt;GrandToasteur&gt;</span> je lui dit qu'en fait le fait de vivre c'est un tr&egrave;s long suicide passif<br><span>&lt;GrandToasteur&gt;</span> et comme je lui ai pourri son exemple, bah il m'a foutu dehors<br><span>&lt;GrandToasteur&gt;</span> j'ai une vie fascinante en fait<br><span>&lt;Orange&gt;</span> Ouai j'vois &ccedil;a</body></html>
-]]></content>
-	<updated>2015-10-26T19:12:03+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://danstonchat.com/</id>
-		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-10-26T19:12:03+00:00</updated>
-		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-26:/15280</id>
-	<link href="http://danstonchat.com/16918.html" rel="alternate" type="text/html"/>
-	<title type="html">DansTonChat #16918</title>
-	<summary type="html"><![CDATA[&lt;Bhakuren&gt; Nouille mec j&#039;avais 10 ans et dans la cours un connard sort ça, genre harry po...]]></summary>
-	<content type="html"><![CDATA[<html><body><span>&lt;Bhakuren&gt;</span> Nouille mec j'avais 10 ans et dans la cours un connard sort &ccedil;a, genre harry potter c'&eacute;tait ma vie a cet age la<br><span>&lt;Nouille&gt;</span> Bhakuren: Moi j'lui aurais coll&eacute; une tarte<br><span>&lt;Nouille&gt;</span> et j'lui aurais vol&eacute; son go&ucirc;ter en prime<br><span>&lt;Nouille&gt;</span> et sa virginit&eacute;<br><span>&lt;Bhakuren&gt;</span> je l'ai fait<br><span>&lt;Bhakuren&gt;</span> enfin juste la droite hein</body></html>
-]]></content>
-	<updated>2015-10-26T19:12:03+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://danstonchat.com/</id>
-		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-10-26T19:12:03+00:00</updated>
-		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-25:/15015</id>
-	<link href="http://la-bas.org/la-bas-magazine/chroniques/remi-fraisse-un-pouvoir-pousse-au-crime" rel="alternate" type="text/html"/>
-	<title type="html">RÉMI FRAISSE, UN POUVOIR POUSSE AU CRIME</title>
-	<summary type="html"><![CDATA[Daniel MERMET à l'Olympia, le 29 octobre 2014, pour les 20 ans des Ogres de Barback :   Play  
-
-Text...]]></summary>
-	<content type="html"><![CDATA[<html><body><div><div><h5>Daniel MERMET &agrave; l'Olympia, le 29 octobre 2014, pour les 20 ans des Ogres de Barback :</h5></div><div> <div> <div>  </div> </div>
-<div><a href="http://www.youtube.com/watch?v=CGr9C28II_Q" rel="noreferrer" target="_blank">Texte de Daniel Mermet en hommage &agrave; R&eacute;mi Fraisse pour les 20 ans des Ogres de Barback</a>
-<br><i>par <a href="https://www.youtube.com/channel/UC4Bs_nYvZSLYG5NlVsOat9w" rel="noreferrer" target="_blank">Sylvain Cauvin</a></i></div> <div><a href="http://www.youtube.com/watch?v=CGr9C28II_Q" rel="noreferrer" target="_blank">http://www.youtube.com/watch?v=CGr9C28II_Q</a></div>
-</div></div>
-		<div><p><strong>Il y a juste un an, R&eacute;mi Fraisse, 21 ans, &eacute;tait tu&eacute; dans le dos par une grenade offensive lanc&eacute;e par un gendarme sur le site du barrage de Sivens dans le Tarn. Un an apr&egrave;s, la lumi&egrave;re est loin d'&ecirc;tre faite sur ce meurtre. Selon la LDH, <i>&laquo; la survenance d'un drame et la mort d'un homme &eacute;taient dans la logique du dispositif mis en place. &raquo;</i></strong></p> <p>La Ligue des Droits de l'Homme vient de publier un rapport sur les circonstances de la mort de R&eacute;mi Fraisse. Elle d&eacute;nonce le choix <i>&laquo; d&eacute;lib&eacute;r&eacute; &raquo;</i> de <i>&laquo; l'autorit&eacute; politique &raquo;</i> de faire exercer <i>&laquo; par les forces de l'ordre un niveau de violence consid&eacute;rable &raquo;</i> pour &eacute;vacuer les opposants du site. <i>&laquo; D&eacute;ficit d&eacute;mocratique &raquo;</i> dans la d&eacute;cision de construction du barrage, <i>&laquo; gestion catastrophique des op&eacute;rations de maintien de l'ordre &raquo;</i> et <i>&laquo; d&eacute;sinformation organis&eacute;e &raquo;</i>.</p> <p>La commission, compos&eacute;e d'une vingtaine de membres, s'est bas&eacute;e sur l'exploitation d'articles, blogs, vid&eacute;os et l'audition de 34 &laquo; militants zadistes, responsables politiques et associatifs locaux &raquo;, t&eacute;moins <i>&laquo; de l'ensemble ou de certains &eacute;v&eacute;nements &raquo;</i> survenus sur la zone. Le pr&eacute;sident du conseil g&eacute;n&eacute;ral du Tarn, le pr&eacute;fet et le commandant de gendarmerie n'ont pas souhait&eacute; &ecirc;tre entendus, d&eacute;plore-t-elle.</p> <p>Ce rapport de 75 pages est accablant pour les forces de l'ordre. <i>&laquo; Tra&icirc;ner par terre les manifestants sans m&eacute;nagement, les pousser dans les foss&eacute;s ou dans les ronces, leur donner des coups de pieds ou de matraque lorsqu'ils sont bloqu&eacute;s au sol, leur faire des cl&eacute;s de blocage des membres jusqu'&agrave; provoquer des luxations&hellip; Ces pratiques semblent avoir &eacute;t&eacute; fr&eacute;quemment utilis&eacute;es par les forces de l'ordre &agrave; l'encontre des opposants au barrage, quels qu'ils soient : occupants du site, habitants, syndicalistes ou &eacute;lus s'opposant au projet de barrage &raquo;</i>, explique le rapport.</p>
-<h4>&laquo; La survenance d'un drame et la mort d'un homme &eacute;taient dans la logique du dispositif mis en place &raquo;</h4><h5>T&eacute;moignage :</h5> <p><i>&laquo; En arrivant &agrave; la maison des druides, nous d&eacute;couvrons des gendarmes qui avaient rassembl&eacute; les affaires de tous ceux qui occupaient la maison, et y ont mis le feu. Nous les insultons alors de "cerfs-volants" (entendre cerveaux lents), et face &agrave; nos insultes, ceux-ci se pr&eacute;parent pour nous charger mais sans pour autant faire une quelconque sommation. Lorsqu'ils commencent &agrave; avancer, je m'enfuis mais tr&eacute;buche sur une chicane. Je me rel&egrave;ve mais &eacute;tant d&egrave;s lors &agrave; leur port&eacute;e, je suis frapp&eacute;e dans l'omoplate, dans la cuisse gauche. Face &agrave; la duret&eacute; du choc, je tombe. Au sol, ils continuent de me frapper avec une matraque. J'hurle. Ils me font une cl&eacute; de bras et me tra&icirc;nent par les cheveux. Apr&egrave;s m'avoir tra&icirc;n&eacute;e sur plusieurs m&egrave;tres, quelqu'un m'attrape et me met la lumi&egrave;re dans la figure en disant</i> &laquo; alors, c'est qui cette petite merde que vous m'amenez ? &raquo;<i>&hellip; Une fois allong&eacute;e, ils mettent leurs chaussures sur ma nuque et sur mes membres (articulations des bras, des jambes) en m'insultant continuellement de &laquo; petite pute &raquo;, de &laquo; connasse &raquo;, de &laquo; femelle &raquo;... &Agrave; cet instant, tremblante, je me pose sinc&egrave;rement la question de savoir s'ils vont me taper, voire me violer. Ils me fouillent et laissent tout sur place sauf le talkie-walkie que je n'ai jamais retrouv&eacute; depuis... D'autres gendarmes en treillis m'am&egrave;nent alors menott&eacute;e dans le dos&hellip; je suis toujours tremblante et en &eacute;tat de choc. Un gendarme du PSIG de Gaillac me met finalement les menottes devant et me signifie mes droits, m'&eacute;nonce que je suis plac&eacute;e en garde &agrave; vue. &raquo;</i></p> <p>Le rapport ne minimise pas non plus les violences des opposants du site, expliquant n&eacute;anmoins que si <i>&laquo; certains opposants ou pr&eacute;tendus tels, pr&eacute;sents sur le site le 25 octobre &raquo; (20 &agrave; 30 personnes), &eacute;taient venus &laquo; pour en d&eacute;coudre avec les forces de l'ordre &raquo;,</i> ils avaient <i>&laquo; des moyens mat&eacute;riels limit&eacute;s qui, &agrave; l'exception de quelques rares engins incendiaires &raquo;</i>, n'&eacute;taient <i>&laquo; pas de nature &agrave; mettre s&eacute;rieusement en danger les forces de l'ordre &raquo;</i>.</p> <p><i>&laquo; Nous avons vraiment peur que &ccedil;a recommence &raquo;</i>, a dit Beno&icirc;t Hartmann, porte-parole de France Nature Environnement, estimant que les pouvoirs publics, dont le Premier ministre Manuel Valls, <i>&laquo; poussent &agrave; la violence et aux crimes &raquo;</i> &agrave; Notre-Dame-des-Landes. <i>&laquo; Ils sont en train de provoquer les conditions id&eacute;ales d'une violence extr&ecirc;me. &raquo;<br></i></p>
-<h4>LES DEUX ENTERREMENTS </h4>
-<div><strong>&Agrave; la m&eacute;moire de R&eacute;mi Fraisse</strong></div>
-<p><strong>Voil&agrave; deux enterrements, deux enterrements qui tombent nez &agrave; nez, face &agrave; face.</strong></p> <p>Le premier c'est un enterrement tr&egrave;s important. C'est le patron de Total, mort accidentellement.<br>Hommage de la nation unanime, hommage de tous les m&eacute;dias, hommage de la terre enti&egrave;re.</p> <p>Le deuxi&egrave;me enterrement c'est l'enterrement de R&eacute;mi. R&eacute;mi Fraisse, 21 ans, tu&eacute; par une grenade offensive tir&eacute;e par un gendarme lors d'une manif contre le barrage de Sivens.<br>Une grenade tir&eacute;e dans le dos.<br>Hommage beaucoup moins vibrant. <br>Le Premier ministre parle de casseur, on parle de malheureuse bavure, on dit que si l'on veut mourir pour des id&eacute;es, il faut assumer.</p> <p>&Agrave; l'enterrement du patron de Total (on ne l'a pas beaucoup soulign&eacute;), il y avait des oiseaux, des oiseaux endeuill&eacute;s, des mouettes, des go&eacute;lands, tout en noir, le noir de la mar&eacute;e noire, le noir de l'Erika, le naufrage pour lequel TOTAL a &eacute;t&eacute; condamn&eacute;.</p> <p>C'&eacute;taient des oiseaux du parti des oiseaux, le parti des djihadistes verts. Djihadistes verts oui, c'est l'expression de Xavier Beulin de la FNSEA. R&eacute;mi Fraisse &eacute;tait un djihadiste vert, R&eacute;mi Fraisse aimait les oiseaux.</p> <p>Ces deux figures en quelques heures sont devenues les symboles du pr&eacute;sent, deux symboles irr&eacute;conciliables. <br>Et l&agrave; attention camarade, il faut choisir ton camp : l'assassinat ou l'accident.<br>L'oligarchie a choisi, le pouvoir a choisi la magouille, le cynisme, la violence et tout ce qui d&eacute;go&ucirc;te et qui fait gonfler les voix dans les voiles de la Marine.</p> <p>Alors, choisis ton camp camarade. Non, tu ne peux pas choisir les deux. Il n'y a pas d'arrangement, choisis ton camp et cours.</p> <p>Et cours camarade.</p> <p>Les oiseaux noirs te regardent.</p> <p>Le vieux monde est derri&egrave;re toi.</p>
-<div><strong>Daniel Mermet<br>
-27.10.2014</strong></div></div>
-		<div><p><span>
-<a href="http://www.ldh-france.org/wp-content/uploads/2015/10/Rapport-Sivens.pdf" rel="noreferrer" target="_blank"><img src="http://la-bas.org/IMG/jpg/rapport-sivens.jpg" width="250" height="164" alt=""></a></span><a href="http://www.ldh-france.org/wp-content/uploads/2015/10/Rapport-Sivens.pdf" rel="noreferrer" target="_blank"><strong>Le rapport de la commission d'enqu&ecirc;te de la Ligue des Droits de l'Homme sur les conditions ayant conduit &agrave; la mort de R&eacute;mi Fraisse</strong></a>, &agrave; lire aussi sur <a href="http://www.ldh-france.org/" rel="noreferrer" target="_blank">le site de la LDH</a></p></div></body></html>
-]]></content>
-	<updated>2015-10-25T16:53:12+00:00</updated>
-	<author><name>L\'équipe de Là-bas</name></author>
-	<source>
-		<id>http://la-bas.org/</id>
-		<link rel="self" href="http://la-bas.org/"/>
-		<updated>2015-10-25T16:53:12+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-	<category term="video"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-26:/15262</id>
-	<link href="https://media.suumitsu.eu/?file=Nota%20Bene/Pers%C3%A9e%2C%20M%C3%A9duse%20et%20proph%C3%A9tie%20-%20Mythes%20et%20L%C3%A9gendes%201.2.webm" rel="alternate" type="text/html"/>
-	<title type="html">Nota Bene/Persée, Méduse et prophétie - Mythes et Légendes 1.2.webm</title>
-	<summary type="html"><![CDATA[Persée, Méduse et prophétie - Mythes et Légendes 1.2.webm]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Pers&eacute;e, M&eacute;duse et proph&eacute;tie - Mythes et L&eacute;gendes 1.2.webm</p></body></html>
-]]></content>
-	<updated>2015-10-25T23:00:00+00:00</updated>
-	<author><name>Mitsu</name></author>
-	<source>
-		<id>https://media.suumitsu.eu/</id>
-		<link rel="self" href="https://media.suumitsu.eu/"/>
-		<updated>2015-10-25T23:00:00+00:00</updated>
-		<title>Mitsu'Media</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-26:/15276</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131962375808" rel="alternate" type="text/html"/>
-	<title type="html">(via daneZie)</title>
-	<summary type="html"><![CDATA[(via daneZie)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/6f23d5f38a8c84da71125ba42c2bed88/tumblr_nwuacqUqTv1qewacoo1_500.png"><br><br><p>(via <a href="https://twitter.com/danezie/status/424145336148316160" target="_blank" rel="noreferrer">daneZie</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-26T18:07:38+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-26T18:07:38+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-26:/15245</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131956203247" rel="alternate" type="text/html"/>
-	<title type="html">sprezzaturan:
-
-Spent
- most of Sunday at the MOCA and Geffen...</title>
-	<summary type="html"><![CDATA[sprezzaturan:
-
-Spent
- most of Sunday at the MOCA and Geffen contemporary. I’ll admit that a 
-lot of ...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/2a072badb4212f34ee94031d14ca0d70/tumblr_nvtnwrtqYi1rsojgfo2_r1_500.jpg"><br><br><p><a href="http://sprezzaturan.tumblr.com/post/130646937540" target="_blank" rel="noreferrer">sprezzaturan</a>:</p>
-<blockquote>
-<p>Spent
- most of Sunday at the MOCA and Geffen contemporary. I&rsquo;ll admit that a 
-lot of modern art frustrates me, but I appreciate that it makes me think
- about the relationship between artist and audience, artistic intent and
- interpretation, and also artistic obligation. Also maybe I draw cats 
-too much<br></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-26T16:00:45+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-26T16:00:45+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
