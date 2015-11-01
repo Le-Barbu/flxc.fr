@@ -4,11 +4,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-27T20:40:57+00:00</updated>
+<updated>2015-10-27T20:56:59+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-30:/16140</id>
+	<link href="http://www.bouletcorp.com/2015/04/29/pepere-nature/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pepere-nature" rel="alternate" type="text/html"/>
+	<title type="html">Pépère Nature</title>
+	<summary type="html"><![CDATA[
+
+
+
+
+
+
+
+
+
+
+
+
+]]></summary>
+	<content type="html"><![CDATA[<html><body><p><img src="http://www.bouletcorp.com/wp-content/uploads/2015/04/PepereNature01.png" alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/04/PepereNature02.png" alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/04/PepereNature03.png" alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/04/PepereNature041.png" alt=""><br><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/04/PepereNature05.png" alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/04/PepereNature05a.png" alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/04/PepereNature05b.png" alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/04/PepereNature07.png" alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/04/CumberStache.png" alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/04/Tyrion.png" alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/04/arya.png" alt=""><br><img src="http://www.bouletcorp.com/wp-content/uploads/2015/04/PepereNature06.png" alt=""></p></body></html>
+]]></content>
+	<updated>2015-04-28T23:34:56+00:00</updated>
+	<author><name>boulet</name></author>
+	<source>
+		<id>http://www.bouletcorp.com</id>
+		<link rel="self" href="http://www.bouletcorp.com"/>
+		<updated>2015-04-28T23:34:56+00:00</updated>
+		<title>bouletcorp</title></source>
+
+	<category term="non classé"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-30:/16128</id>
@@ -1755,7 +1788,7 @@ Voice: [exasperated] “Ah! Fuck! Oh! I hate t...]]></summary>
 	<content type="html"><![CDATA[<html><body><p>- Papa c'est quoi l'humour noir ?<br><br>- Attends, on va faire un foot et je t'explique !<br><br>- Mais Papa je suis parapl&eacute;gique</p></body></html>
 ]]></content>
 	<updated>2015-10-28T00:00:00+00:00</updated>
-	<author><name></name></author>
+	<author><name>olivedu42</name></author>
 	<source>
 		<id>http://www.blaguesdemerde.fr//</id>
 		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
@@ -1862,24 +1895,6 @@ people: ??? ??????????</p></body></html>
 		<link rel="self" href="http://danstonchat.com/"/>
 		<updated>2015-10-27T20:56:59+00:00</updated>
 		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-27:/15481</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/132037070533" rel="alternate" type="text/html"/>
-	<title type="html">by Pie Comic</title>
-	<summary type="html"><![CDATA[by Pie Comic]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/266031a95c2f6529e9a0fe77bc672c1e/tumblr_nwv58qtDmQ1qhnegdo1_500.jpg"><br><br><p>by <a href="http://piecomic.tumblr.com/post/132036417228" target="_blank" rel="noreferrer">Pie Comic</a></p></body></html>
-]]></content>
-	<updated>2015-10-27T20:40:57+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-27T20:40:57+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
