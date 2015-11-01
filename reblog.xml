@@ -4,11 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-27T02:00:52+00:00</updated>
+<updated>2015-10-26T23:20:27+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-01:/16436</id>
+	<link href="https://media.suumitsu.eu/?file=Docu/Arte%20-%20TED%20Stories%20%20-%20Larry%20Lessig%20-%20La%20r%C3%A9bellion%20du%20professeur%20de%20Harvard.webm" rel="alternate" type="text/html"/>
+	<title type="html">Docu/Arte - TED Stories  - Larry Lessig - La rébellion du professeur de Harvard.webm</title>
+	<summary type="html"><![CDATA[Arte - TED Stories  - Larry Lessig - La rébellion du professeur de Harvard.webm]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Arte - TED Stories  - Larry Lessig - La r&eacute;bellion du professeur de Harvard.webm</p></body></html>
+]]></content>
+	<updated>2015-10-27T12:57:53+00:00</updated>
+	<author><name>Mitsu</name></author>
+	<source>
+		<id>https://media.suumitsu.eu/</id>
+		<link rel="self" href="https://media.suumitsu.eu/"/>
+		<updated>2015-10-27T12:57:53+00:00</updated>
+		<title>Mitsu'Media</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-11-01:/16568</id>
@@ -1782,26 +1800,6 @@ Keep absolutely still!!!…. Its vision is based on movement …
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-10-26T23:20:27+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-27:/15320</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131989924838" rel="alternate" type="text/html"/>
-	<title type="html">(photos via frankreddits)</title>
-	<summary type="html"><![CDATA[  (photos via frankreddits)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/35906a50116660621e716c44cd064973/tumblr_nwuw9gDBNu1qewacoo2_500.png"><br><br><img src="http://41.media.tumblr.com/2a5b428fd4c20011389d088d4d0cd6a6/tumblr_nwuw9gDBNu1qewacoo1_500.png"><br><br><p>(photos via <a href="https://www.reddit.com/user/frankreddits" target="_blank" rel="noreferrer">frankreddits</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-27T02:00:52+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-27T02:00:52+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="halloween"/>
 
 
 </entry>
