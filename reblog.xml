@@ -4,11 +4,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-26T21:15:24+00:00</updated>
+<updated>2015-10-27T00:00:00+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-30:/16152</id>
+	<link href="http://www.bouletcorp.com/2014/11/04/moment-magique/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=moment-magique" rel="alternate" type="text/html"/>
+	<title type="html">Moment Magique</title>
+	<summary type="html"><![CDATA[
+
+
+
+
+
+
+]]></summary>
+	<content type="html"><![CDATA[<html><body><p><img src="http://www.bouletcorp.com/static/HarryPotter/Potter01.png" title="C'est la question con: quand tu poses la question aux gens, ils te disent tous qu'ils seraient Gryffondor. Ou &agrave; la limite Serpentard pour les goths qui font les malins. Moi avec ma chance je suis s&ucirc;r que je serais chez Poufsouffle. Les autres je les vois soit trop m&eacute;chants, soit trop sportifs." alt=""><br><img src="http://www.bouletcorp.com/static/HarryPotter/Potter02.png" title="M&ecirc;me Harry il arrive &agrave; faire des sorts de lumi&egrave;re. Moi je dis, un petit 'lumos' pour &eacute;clairer la pi&egrave;ce et on en parle plus." alt=""><br><img src="http://www.bouletcorp.com/static/HarryPotter/Potter03.png" title="Ou les d&eacute;serts, hein. On manque pas de d&eacute;cors hostiles sur Terre" alt=""><br><img src="http://www.bouletcorp.com/static/HarryPotter/Potter04.png" title="Et aussi je pense que les moldus seraient content de ne plus avoir &agrave; d&eacute;penser des milliards pour ramasser trois cailloux. Remarque, m&ecirc;me sur Terre, il y aurait un ou deux biologistes qui seraient heureux d'&eacute;tudier un peu les licornes et tout le bazard" alt=""><br><img src="http://www.bouletcorp.com/static/HarryPotter/Potter05.png" title="Ce sont quand m&ecirc;me de bons enfoir&eacute;s, les sorciers. Genre eux, &ccedil;a les d&eacute;range pas de piquer des bus, des voitures, des trains et autres trucs moldus pour en faire des trucs magiques, mais les moldus, eux, ils peuvent se brosser." alt=""><br><img src="http://www.bouletcorp.com/static/HarryPotter/Potter06.png" title="Un ascenseur spatial avec un portoloin, voil&agrave; qui serait pratique pour pas cramer plusieurs tonnes de carburant &agrave; chaque fois." alt=""><br><img src="http://www.bouletcorp.com/static/HarryPotter/Potter07.png" title="Pour moi le retourneur de temps, c'&eacute;tait LE truc en trop dans Harry Potter. S&eacute;rieux? Un truc qui reboote l'Univers deux ou trois heures en arri&egrave;re? ET SI ON L'UTILISAIT CONTRE VOLDEMORT? Ha tiens non personne n'en a ne serait-ce que l'id&eacute;e." alt=""></p></body></html>
+]]></content>
+	<updated>2014-11-04T18:15:28+00:00</updated>
+	<author><name>boulet</name></author>
+	<source>
+		<id>http://www.bouletcorp.com</id>
+		<link rel="self" href="http://www.bouletcorp.com"/>
+		<updated>2014-11-04T18:15:28+00:00</updated>
+		<title>bouletcorp</title></source>
+
+	<category term="non classé"/>
+
+	<category term="baguette"/>
+
+	<category term="harry"/>
+
+	<category term="magie"/>
+
+	<category term="potter"/>
+
+	<category term="poudlard"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-01:/16683</id>
+	<link href="http://oglaf.com/lapidary/" rel="alternate" type="text/html"/>
+	<title type="html">lapidary</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><div><p><img src="http://media.oglaf.com/story/ttlapidary.gif"></p><p><a href="http://oglaf.com/lapidary/" rel="noreferrer" target="_blank"><img src="http://media.oglaf.com/archive/arc-lapidary.png" width="400" height="100" border="0" alt="http://oglaf.com/lapidary/"></a></p></div></body></html>
+]]></content>
+	<updated>2015-11-01T16:38:50+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://oglaf.com/latest/</id>
+		<link rel="self" href="http://oglaf.com/latest/"/>
+		<updated>2015-11-01T16:38:50+00:00</updated>
+		<title>Oglaf! -- Comics. Often dirty.</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-11-01:/16604</id>
@@ -1765,50 +1820,6 @@ Kittykinesis
 		<link rel="self" href="http://www.blaguesdemerde.fr/"/>
 		<updated>2015-10-27T00:00:00+00:00</updated>
 		<title>blaguesdemerde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-27:/15328</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131969262881" rel="alternate" type="text/html"/>
-	<title type="html">pdlcomics:
-
-Grow Up, Alan</title>
-	<summary type="html"><![CDATA[pdlcomics:
-
-Grow Up, Alan
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/9d9463ee641cf6d454576cd62c55cbe6/tumblr_nwuedzk5Fc1r9qk1io1_500.png"><br><br><p><a href="http://pdlcomics.tumblr.com/post/131966929120" target="_blank" rel="noreferrer">pdlcomics</a>:</p>
-<blockquote>
-<p><a href="http://poorlydrawnlines.com/comic/grow-up-alan/" target="_blank" rel="noreferrer">Grow Up, Alan</a></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-26T20:15:14+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-26T20:15:14+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-27:/15326</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131972841658" rel="alternate" type="text/html"/>
-	<title type="html">by Gemma Correll</title>
-	<summary type="html"><![CDATA[by Gemma Correll]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://40.media.tumblr.com/813654005bfc8babb52eda596d9b0098/tumblr_nwudk3AQG11qhlsrfo1_500.jpg"><br><br><p>by <a href="http://gemmacorrell.tumblr.com/post/131965947648" target="_blank" rel="noreferrer">Gemma Correll</a></p></body></html>
-]]></content>
-	<updated>2015-10-26T21:15:24+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-26T21:15:24+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
