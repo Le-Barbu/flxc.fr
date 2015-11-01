@@ -4,11 +4,233 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-27T04:19:16+00:00</updated>
+<updated>2015-10-27T02:00:52+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-01:/16568</id>
+	<link href="http://www.viedemerde.fr/inclassable/8635795" rel="alternate" type="text/html"/>
+	<title type="html">Anonyme a une VDM</title>
+	<summary type="html"><![CDATA[Aujourd'hui, après de longues études, passionnée et bien décidée à démocratiser la culture, j'appren...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, apr&egrave;s de longues &eacute;tudes, passionn&eacute;e et bien d&eacute;cid&eacute;e &agrave; d&eacute;mocratiser la culture, j'apprends en s&eacute;minaire de formation au Mus&eacute;e du Louvre que les trois centres d'int&eacute;r&ecirc;t principaux des visiteurs demeurent, depuis toujours, dans l'ordre hi&eacute;rarchique, les toilettes, la Joconde, la sortie. VDM</p></body></html>
+]]></content>
+	<updated>2015-10-31T18:34:38+00:00</updated>
+	<author><name>Anonyme</name></author>
+	<source>
+		<id>http://www.viedemerde.fr</id>
+		<link rel="self" href="http://www.viedemerde.fr"/>
+		<updated>2015-10-31T18:34:38+00:00</updated>
+		<title>Vie de merde</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-30:/16118</id>
+	<link href="http://unodieuxconnard.com/2015/10/30/20-contre-attaques-pour-enseignants-a-employer-en-cours/" rel="alternate" type="text/html"/>
+	<title type="html">20 contre-attaques pour enseignants à employer en cours</title>
+	<summary type="html"><![CDATA[&laquo;&nbsp;Fais entrer, Diego !&laquo;&nbsp;
+D&rsquo;un geste élégant, l&rsquo;aimable serviteur o...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>&laquo;&nbsp;<em>Fais entrer, Diego !</em>&laquo;&nbsp;</p>
+<p>D&rsquo;un geste &eacute;l&eacute;gant, l&rsquo;aimable serviteur ouvre la porte de mon bureau pour laisser entrer un homme aux traits tir&eacute;s&nbsp;qui tire nerveusement sur les plis d&rsquo;un costume gris qui a connu des jours meilleurs. Il fait quelque pas timides vers moi avant de se laisser tomber sur&nbsp;la chaise que je lui propose dans un soupir o&ugrave; se m&ecirc;lent fatigue et d&eacute;sespoir. Je ne prononce mot et le contemple se tamponner le front de quelques coups de mouchoir, d&eacute;posant sans le vouloir de la poussi&egrave;re de craie dans la sueur, et formant ainsi une p&acirc;te blanche dans les plis de son visage concern&eacute;.</p>
+<p>&laquo;&nbsp;<em>Monsieur Connard, bonjour je&hellip; je vous remercie de me recevoir.</em><br><em>&ndash; Je vous en prie Monsieur le recteur. Mon serviteur m&rsquo;a dit que votre voix paniqu&eacute;e au t&eacute;l&eacute;phone lui avait confirm&eacute; l&rsquo;urgence que vous attachiez &agrave; votre requ&ecirc;te.</em>&laquo;&nbsp;</p>
+<p>L&rsquo;homme se tourne nerveusement vers Diego, dans un coin de la pi&egrave;ce, qui pr&eacute;pare des rafra&icirc;chissements, avant que je ne rappelle l&rsquo;attention de mon invit&eacute; &agrave; moi d&rsquo;un tapotement sur le coin de mon bureau.</p>
+<p>&laquo;&nbsp;<em>Ah ! s&rsquo;exclame-t-il &nbsp;avant de se reprendre d&rsquo;un toussotement. Pardonnez-moi, je suis un peu tendu ces derniers temps.</em><br><em>&ndash; C&rsquo;est votre droit. Mais si vous me parliez du motif de votre visite ? Nous savons vous et moi que je n&rsquo;enseigne plus depuis longtemps.</em><br><em>&ndash; &Eacute;coutez Odieux, je peux vous appeler Odieux ?</em><br><em>&ndash; Non.</em><br><em>&ndash; Bon, Monsieur Connard, je ne vais pas y aller par quatre chemins. Nous sommes face &agrave; une situation de crise. Nous avons rassembl&eacute; les dossiers de nos meilleurs hommes, crois&eacute; toutes nos donn&eacute;es, et votre profil est ressorti. &Agrave; chaque fois.</em><br><em>&ndash; Je ne suis plus l&rsquo;un de vos hommes, Monsieur le recteur. C&rsquo;&eacute;tait dans une autre vie.</em>&laquo;&nbsp;</p>
+<p>Je me l&egrave;ve et lui tourne le dos, le regard&nbsp;plong&eacute; vers&nbsp;le soleil qui monte lentement entre les tours de la cath&eacute;drale locale, dont les ombres en dentelle noire s&rsquo;&eacute;tendent sur la ville.</p>
+<p>&laquo;&nbsp;<em>Vous savez que c&rsquo;est une photo agrandie que vous regardez ?</em><br><em>&ndash;&nbsp;H&eacute; ho,&nbsp;si&nbsp;vous croyez que c&rsquo;est facile d&rsquo;installer des fen&ecirc;tres dans un bunker ! Et puis si c&rsquo;est pour faire des commentaires putassiers, vous pouvez sortir : c&rsquo;est mon boulot et je pr&ecirc;te pas.</em><br><em>&ndash; Pardon ! se r&eacute;crie l&rsquo;homme. Ecoutez Monsieur Connard,&nbsp;venons-en au fait : l&rsquo;heure est grave. De jeunes youtubeurs ont d&eacute;sormais plus d&rsquo;influence sur les &eacute;l&egrave;ves fran&ccedil;ais que n&rsquo;importe quel enseignant. Et ils font passer des messages&hellip; h&eacute; bien&hellip; qui s&egrave;ment le chaos dans les classes. Je crois que nous avons perdu le contr&ocirc;le. C&rsquo;est&hellip; c&rsquo;est un cas de </em>Broken Arrow<em>.</em>&laquo;&nbsp;</p>
+<p>Il laisse flotter ces derniers mots dans la pi&egrave;ce, se demandant s&rsquo;il vient de donner un excellent argument ou un anglicisme qui lui vaudra d&rsquo;&ecirc;tre ross&eacute; &agrave; coups de pelle dans les minutes qui suivent.</p>
+<p>&laquo;&nbsp;<em>Ce n&rsquo;est pas mon probl&egrave;me, Monsieur le recteur, dis-je enfin tout en continuant &agrave; &eacute;tudier la surcharge gothique flamboyante de la cath&eacute;drale en photo.</em><br><em>&ndash; Vous ne comprenez pas ? Nous envoyons au feu des g&eacute;n&eacute;rations d&rsquo;enseignants &agrave; peine form&eacute;s, qui se font laminer par des &eacute;l&egrave;ves qui se radicalisent sur Youtube ! C&rsquo;est un massacre ! Un second Verdun ! Nous ne tenons que par le nombre et l&rsquo;opini&acirc;tret&eacute; de certains &eacute;l&eacute;ments, mais les poches de r&eacute;sistance c&egrave;dent l&rsquo;une apr&egrave;s l&rsquo;autre ! Nous avons besoin de votre savoir-faire ! Comme la fois o&ugrave; vous avez r&eacute;ussi &agrave; faire passer la mort d&rsquo;un &eacute;l&egrave;ve pour un suicide, alors qu&rsquo;on l&rsquo;a retrouv&eacute; avec son classeur de g&eacute;ographie coinc&eacute; dans la trach&eacute;e !&nbsp;</em><br><em>&ndash; Je ne vois pas de quoi vous parlez. Il a m&ecirc;me laiss&eacute; une lettre expliquant sa mort.</em><br><em>&ndash; &laquo;&nbsp;</em>Je suis trop con pour vivre et j&rsquo;ai manqu&eacute; de respect &agrave; mon professeur d&rsquo;Histoire bien aim&eacute;<em>&nbsp;&raquo; n&rsquo;&eacute;tait pas cr&eacute;dible, et encore moins en &eacute;tant bien orthographi&eacute; ! </em><br><em>&ndash; &nbsp;Vous ne pouvez rien prouver.</em><br><em>&ndash; C&rsquo;est pour cela que l&rsquo;on vous admire ! Et cette &eacute;l&egrave;ve hyperactive devenue douce comme un agneau du jour au lendemain ?</em><br><em>&ndash; Saviez-vous qu&rsquo;&agrave; partir d&rsquo;un pacemaker et d&rsquo;un t&eacute;l&eacute;phone bluetooth, on peut faire un excellent&nbsp;d&eacute;fibrillateur&nbsp;&agrave; distance ?</em><br><em>&ndash; La fois o&ugrave; vous avez r&eacute;ussi &agrave; abattre&nbsp;sept &eacute;l&egrave;ves sans que leurs propres parents ne le remarquent !</em><br><em>&ndash; Tant qu&rsquo;on n&rsquo;a pas retrouv&eacute; les corps, vous ne pouvez pas dire qu&rsquo;ils sont morts. Et leurs parents sont tr&egrave;s heureux avec ces chihuahuas : c&rsquo;est un peu con, &ccedil;a grogne et &ccedil;a fait du bruit sans raison, &ccedil;a n&rsquo;a strictement aucun go&ucirc;t et &ccedil;a a toujours une odeur suspecte ; je pense qu&rsquo;ils ne remarqueront pas qu&rsquo;il y a eu interversion avant leurs 18 ans, au moment de passer le permis. Et encore.</em><br><em>&ndash; Monsieur Connard, je sais que vous avez raccroch&eacute;, mais vous devez revenir pour une derni&egrave;re mission !</em>&laquo;&nbsp;</p>
+<p>Sa voix est suppliante, et enfin, il m&rsquo;explique le fond du probl&egrave;me.</p>
+<p>&laquo;&nbsp;<em>Nous avons par exemple un jeune youtubeur qui vient de proposer 20 conneries &agrave; faire en cours !&nbsp;Il a &eacute;t&eacute; vu plus d&rsquo;un million de fois sur le web fran&ccedil;ais ! Aidez-nous Monsieur Connard, vous &ecirc;tes notre seul espoir !</em>&laquo;&nbsp;</p>
+<p>Il ach&egrave;ve sa phrase dans un sanglot, et lorsque je me retourne, il me regarde de ses grands yeux humides. Voyant que &ccedil;a ne prend pas, il tire lentement une photo de chaton malheureux de son veston dans le but de m&rsquo;amadouer, avant de la ranger en voyant la haine dans mes yeux. Finalement, il sort son ch&eacute;quier dans un soupir, et enfin, nous parlons.</p>
+<p>_________________________________________</p>
+<div data-shortcode="caption"><a href="https://odieuxconnard.files.wordpress.com/2015/10/classroom-1.jpg" rel="noreferrer" target="_blank"><img title="La classe Parent d'&eacute;l&egrave;ve est cheat&eacute;e." src="https://odieuxconnard.files.wordpress.com/2015/10/classroom-1.jpg?w=632&amp;h=473" alt="classroom-1" width="632" height="473"></a><p>La fameuse carte &laquo;&nbsp;Classroom&nbsp;&raquo; du prochain Battlefield intitul&eacute; &laquo;&nbsp;Hard Teaching&nbsp;&raquo;</p></div>
+<p>Car en effet, figurez-vous qu&rsquo;il existe bel et bien sur Youtube une vid&eacute;o d&rsquo;un coll&eacute;gien/lyc&eacute;en avec pr&egrave;s d&rsquo;un demi-million d&rsquo;abonn&eacute;s expliquant &laquo;&nbsp;<strong>20 conneries &agrave; faire en cours</strong>&nbsp;&raquo; et vue pr&egrave;s d&rsquo;un million de fois (ce qui rapport&eacute; au nombre de coll&eacute;giens et lyc&eacute;ens en France, fait quand m&ecirc;me une jolie part), &nbsp;avec du lol, du xptdr et autres lolilol qui feront la joie des hu&icirc;tres du net. Quantit&eacute; d&rsquo;enseignants m&rsquo;ont donc &eacute;crit pour me demander de s&eacute;vir, afin de&nbsp;proposer de quoi contrer d&rsquo;&eacute;ventuels petits malins soucieux de suivre ces consignes, et de rappeler que si ces petits &ecirc;tres ont l&rsquo;avantage du nombre,&nbsp;le v&eacute;ritable enseignant a celui de la cruaut&eacute;.</p>
+<p>Je ne mets pas le lien de la vid&eacute;o (voulez-vous vraiment financer&nbsp;le Biactol de l&rsquo;auteur ?), mais nul doute qu&rsquo;avec le titre, mon lectorat saura la retrouver s&rsquo;il veut vraiment souffrir.</p>
+<p>Allons-y donc dans la bonne humeur.</p>
+<h2>Connerie num&eacute;ro 1 : &laquo;&nbsp;<strong>Manger&nbsp;votre cahier</strong>&laquo;&nbsp;</h2>
+<p>Et l&rsquo;auteur de dire que hihihi, c&rsquo;est nul, mais fallait bien commencer par un truc.</p>
+<p>Je vous avoue que &ccedil;a doit &ecirc;tre une forme d&rsquo;humour qui me d&eacute;passe. Car si en toutes choses, il est l&eacute;gitime de commencer avec un truc pourri, je crois qu&rsquo;il va y avoir de grosses d&eacute;convenues lorsque le filou d&eacute;couvrira le concept de &laquo;&nbsp;<em>pr&eacute;liminaires</em>&laquo;&nbsp;. Enfin bon, sur le reste, reconnaissons que c&rsquo;est assez honn&ecirc;te ; quel agent de l&rsquo;&Eacute;ducation Nationale n&rsquo;a jamais r&ecirc;v&eacute; de faire manger son cahier &agrave; Cynthia de seconde B pour &eacute;viter de devoir entendre une fois de plus son rire ressemblant &agrave; celui d&rsquo;une otarie qu&rsquo;on &eacute;lectrocute ? L&rsquo;id&eacute;e n&rsquo;est pas mauvaise. Sauf que ce n&rsquo;est pas une &laquo;&nbsp;<em>connerie</em>&nbsp;&raquo; en soi, plut&ocirc;t une potentielle voie de salut.</p>
+<p>Passons donc cette introduction de qualit&eacute;.</p>
+<h2>Connerie num&eacute;ro 2&nbsp;: &laquo;&nbsp;<strong>Acheter une carte d&rsquo;anniversaire et coller le m&eacute;canisme musical dans son carnet de correspondance</strong>&laquo;&nbsp;</h2>
+<p>Ainsi, l&rsquo;enseignant malheureux, lorsqu&rsquo;il ouvrira ledit document pour sanctionner Jean-K&eacute;vin entendra soudain <em>Joyeux Anniversaire</em>&nbsp;et g&ecirc;n&eacute;, devra aussit&ocirc;t refermer le cahier sous les rires de l&rsquo;ensemble de sa classe.</p>
+<p>Bien. Comment proc&eacute;der ?</p>
+<p>Attention, cette technique n&eacute;cessite un peu de souplesse et un bon &oelig;il. Tout d&rsquo;abord, restez sto&iuml;que : il ne faut pas donner l&rsquo;avantage &agrave; la horde face &agrave; vous. Vous pouvez donc par exemple consulter le carnet d&rsquo;une main tout en faisant cr&eacute;piter un taser dans l&rsquo;autre, histoire de rappeler qui est le patron. R&eacute;digez ce que vous aviez &agrave; r&eacute;diger dans le carnet, comme par exemple &laquo;&nbsp;<em>Madame, Monsieur, l&rsquo;intellect de votre enfant me rappelle un peu Einstein, surtout sa p&eacute;riode morte.</em>&nbsp;&raquo; (logiquement, ils mettront un peu de temps &agrave; la comprendre), puis r&eacute;cup&eacute;rez le m&eacute;canisme musical. Vous n&rsquo;avez plus qu&rsquo;&agrave; profiter de la faille des jeunes gens : ils portent des jeans au niveau des chevilles et n&rsquo;ont donc peu ou prou aucune protection rectale. Gr&acirc;ce &agrave; votre entra&icirc;nement de ninja, vous n&rsquo;avez donc plus qu&rsquo;&agrave; glisser dans cette forteresse aux portes ouvertes le fameux m&eacute;canisme, avant de contempler le r&eacute;sultat :</p>
+<p>A &ndash; L&rsquo;enfant va courir aux toilettes tenter d&rsquo;expulser l&rsquo;objet, qui se mettra donc &agrave; jouer <em>Joyeux Anniversaire</em>&nbsp;&agrave; chaque fois qu&rsquo;il ouvrira ses chakras pour pousser&nbsp;(une m&eacute;taphore de l&rsquo;accouchement &agrave; discuter en cours pour les plus philosophes d&rsquo;entre vous)</p>
+<p>B &ndash; L&rsquo;enfant ira chez le proctologue le plus proche, qui lui aussi s&rsquo;&eacute;merveillera d&rsquo;entendre ses doigts &ecirc;tre accueillis par un vibrant orchestre lorsqu&rsquo;il partiront en exp&eacute;dition sp&eacute;l&eacute;o.</p>
+<p>Nul doute que les autres, terrifi&eacute;s, ne vous feront plus une blague de l&rsquo;ann&eacute;e.</p>
+<p>Si jamais vous pensez qu&rsquo;ils risquent d&rsquo;oublier la sanction, ayez votre propre m&eacute;canisme musical dans le grand livre o&ugrave; vous notez toutes les sanctions. Le mien jouait <em>Deutschland &uuml;ber alles</em>&nbsp;&agrave; chaque fois que je faisais mine de l&rsquo;entrouvrir.</p>
+<h2>Connerie num&eacute;ro 3&nbsp;: &laquo;&nbsp;<strong>Poser une question ultra-personnelle au prof</strong>&laquo;&nbsp;</h2>
+<p>De pr&eacute;f&eacute;rence, bien &eacute;videmment, une question portant sur un sujet intime pour aussi bien faire rougir l&rsquo;enseignant qu&rsquo;&eacute;clater de rire tous ses petits camarades qui en sont au stade o&ugrave; toute &eacute;vocation de zizi les plonge dans des ab&icirc;mes d&rsquo;hilarit&eacute;. Une nouvelle fois, levez simplement un sourcil (ou &eacute;ventuellement un fusil si vous enseignez au Texas), puis jouez le p&eacute;dagogue niais qui va r&eacute;pondre parce que toutes les questions sont l&eacute;gitimes et que cela int&eacute;resse la classe.&nbsp;Allez vous placer &agrave; c&ocirc;t&eacute; de l&rsquo;&eacute;l&egrave;ve et proposez-lui de sortir son smartphone pour faire une recherche sur un terme qu&rsquo;il vient d&rsquo;employer (comme &laquo;&nbsp;bukkake&nbsp;&raquo;). Puis empruntez-lui le t&eacute;l&eacute;phone au motif de lire la d&eacute;finition et d&rsquo;en discuter ensemble.</p>
+<p>En fait, fouillez l&rsquo;historique internet du bambin tout en baratinant. Cela fait, rendez-lui, puis &eacute;voquez d&rsquo;un ton badin le fait que vous venez d&rsquo;inspecter ses favoris : alors, c&rsquo;est quoi ce site grosratonslaveurscochons.com ?</p>
+<p>Logiquement, non seulement le coupable devrait changer de couleur, mais conscient que vous avez encore bien des choses &agrave; balancer sur son historique web, il deviendra d&eacute;sormais votre esclave, pr&ecirc;t &agrave; tout pour que vous ne parliez pas de ses visites r&eacute;p&eacute;t&eacute;es sur micropenis.fr &nbsp;ou forum.scatophages.org. Pour le restant de l&rsquo;ann&eacute;e, il vous servira tout en pleurant et g&eacute;missant de douleur morale, mais il vous servira. Et fera un excellent exemple pour les autres.</p>
+<p>Ho, et attendez-vous &agrave; voir sa moyenne monter en fl&egrave;che : il ne voudrait surtout pas vous d&eacute;cevoir.</p>
+<div data-shortcode="caption"><a href="https://odieuxconnard.files.wordpress.com/2015/10/girl-with-question-marks.jpg" rel="noreferrer" target="_blank"><img title="Attention &agrave; ne pas tout m&eacute;langer : du genre qui a tu&eacute; Rick Hunter, Qu'est-ce qu'il y conna&icirc;t &agrave; la crise &eacute;conomique actuelle, et Pourriez-vous m'expliquer les femmes." src="https://odieuxconnard.files.wordpress.com/2015/10/girl-with-question-marks.jpg?w=383&amp;h=270" alt="girl-with-question-marks" width="383" height="270"></a><p>Alors qu&rsquo;en plus, c&rsquo;est plus rigolo de poser des questions fascinantes comme &laquo;&nbsp;Qui a tu&eacute; Kennedy ?&nbsp;&raquo; &laquo;&nbsp;Pourriez-vous m&rsquo;expliquer toute la crise &eacute;conomique actuelle ?&nbsp;&raquo; ou &laquo;&nbsp;Qu&rsquo;est-ce qu&rsquo;il y connait aux femmes, Rick Hunter ?&nbsp;&raquo;</p></div>
+<h2>Connerie num&eacute;ro 4&nbsp;: &laquo;&nbsp;<strong>D&egrave;s que le prof commence &agrave; parler, toute la classe applaudit</strong>&laquo;&nbsp;</h2>
+<p>Sortez votre int&eacute;grale de Zola.</p>
+<p>Commencez &agrave; lire &agrave; voix haute.</p>
+<p>Quand vous n&rsquo;entendez plus que le bruit de moignons qui s&rsquo;entrechoquent et des g&eacute;missements, c&rsquo;est bon.</p>
+<h2>Connerie num&eacute;ro 5&nbsp;: <strong>&laquo;&nbsp;R&eacute;p&eacute;ter tout ce que le prof dit&nbsp;&raquo;</strong></h2>
+<p>L&agrave;-dessus, vous jouez sur du velours.</p>
+<p>Si les &eacute;l&egrave;ves &eacute;taient vraiment capables de r&eacute;p&eacute;ter ce que vous dites, ils n&rsquo;auraient pas ces notes.</p>
+<h2>Connerie num&eacute;ro 6&nbsp;: <strong>&laquo;&nbsp;Amener un oreiller en cours pour dormir&nbsp;&raquo;</strong></h2>
+<p>Aucun probl&egrave;me, jeune &eacute;l&egrave;ve aux paupi&egrave;res aussi lourdes que l&rsquo;humour.</p>
+<p>Faites cours, et&nbsp;&agrave; voix basse, pour aider le charmant bambin &agrave; s&rsquo;endormir. C&rsquo;est chose faite et notre gagnant est au pays des r&ecirc;ves ? Parfait. Proposez &agrave; votre classe de prendre une pause en sortant aussi doucement que possible pour ne pas r&eacute;veiller leur camarade. Pr&eacute;textez d&rsquo;aller aux toilettes, puis sortez-en&nbsp;discr&egrave;tement&nbsp;et revenez dans votre classe &agrave; l&rsquo;abri des regards. Rentrez,&nbsp;enfilez les gants que vous utilisez pour gifler les &eacute;l&egrave;ves acn&eacute;iques sans vous salir, puis &eacute;touffez le petit rabouin dans son oreiller (il a apport&eacute; une arme du crime silencieuse, c&rsquo;est sympa). Remettez ses membres flasques en position, retournez aux toilettes, puis assurez-vous que l&rsquo;on vous voit sortir (par exemple, en chantant &agrave; tue-t&ecirc;te&nbsp;le prologue&nbsp;d&rsquo;<em>Euridice</em> de votre plus belle voix d&rsquo;artiste lyrique).</p>
+<p>Puis reprenez la classe.</p>
+<p>Logiquement, il n&rsquo;y a qu&rsquo;&agrave; la fin du cours que ses camarades devraient remarquer que leur bon ami farceur est tout bleu, voire tout mort. Un accident, bien &eacute;videmment, puisque vous &eacute;tiez aux toilettes &agrave; l&rsquo;heure du crime, m&ecirc;me que vous avez d&eacute;rang&eacute; le cours de Mlle Beugnon avec votre chant d&rsquo;op&eacute;ra. Tous ses &eacute;l&egrave;ves, et ceux des douze classes alentours t&eacute;moigneront en votre faveur. Et ne vous inqui&eacute;tez pas si on retrouve votre ADN un peu partout sur les lieux du crime ou des empreintes de pas suspectes : c&rsquo;est votre classe, c&rsquo;est normal, non ?</p>
+<h2>Connerie num&eacute;ro 7&nbsp;: <strong>&laquo;&nbsp;Quand quelqu&rsquo;un dit &laquo;&nbsp;Autruche&nbsp;&raquo;, toute la classe se cache sous la table&nbsp;&raquo;</strong></h2>
+<p>Attendez le moment o&ugrave; ils vont s&rsquo;apercevoir qu&rsquo;ils sont en train de frotter leurs nouvelles coupes de cheveux &agrave; la mode &agrave; treize g&eacute;n&eacute;rations de chewing-gums et de crottes de nez.</p>
+<p>Sinon, vous pouvez gueuler en retour &laquo;&nbsp;<em>Petite Souris !</em>&nbsp;&raquo; (<a href="http://unodieuxconnard.com/2011/05/06/enfant-battu-ne-la-ramene-plus/" rel="noreferrer" target="_blank">Souvenez-vous</a>) pour que votre habituel Kagoul-Kommando d&eacute;fonce la porte, puis les &eacute;l&egrave;ves &agrave; coups de batte (et comme ce sont des battes polies, elles font des bisous sur les deux joues) avant de dispara&icirc;tre myst&eacute;rieusement. Logiquement, les &eacute;l&egrave;ves devraient &ndash; pour une fois &ndash; avoir appris leur le&ccedil;on, et d&eacute;sormais conditionn&eacute;s, ils ne pourront plus jamais voir d&rsquo;Autruche ou en entendre parler sans se mettre &agrave; hurler et/ou convulser en g&eacute;missant. Du Pavlov, mais en plus rigolo.</p>
+<h2>Connerie num&eacute;ro 8&nbsp;: <strong>&laquo;&nbsp;Quand vous &ecirc;tes en retard, sortez des excuses pourrites (sic)&nbsp;&raquo;</strong></h2>
+<p>Mais ? N&rsquo;est-ce pas le cas depuis la nuit des temps ? Est-ce que Gr&uuml;lk, en retard &agrave; la caverne pour le cours de chasse au mammouth ne disait pas d&eacute;j&agrave; au professeur N&iuml;krol &laquo;&nbsp;<em>Nan mais en fait, c&rsquo;est parce que j&rsquo;&eacute;tais &agrave; l&rsquo;heure, mais en fait, y avait du feuillage devant le soleil, alors j&rsquo;ai pas vu le temps passer, et puis en plus, la lance que je devais pr&eacute;parer, un tigre &agrave; dents de sabre l&rsquo;a mang&eacute;e.</em>&nbsp;&raquo; ?</p>
+<p>Alors que les bonnes vieilles excuses, du genre la SNCF fonctionnent &agrave; merveilleuse. Et puis il faut &ecirc;tre compr&eacute;hensif.</p>
+<p><em>&laquo;&nbsp;Vous &ecirc;tes en retard !</em><br><em>&ndash;&nbsp;J&rsquo;ai rat&eacute; mon train.</em><br><em>&ndash; Ce n&rsquo;est pas grave, entrez quand m&ecirc;me et posez vos affaires, Anne Franck.&nbsp;&raquo;</em></p>
+<p>Ah !</p>
+<div data-shortcode="caption"><a href="https://odieuxconnard.files.wordpress.com/2015/10/hypnosis-spiral-ri.jpg" rel="noreferrer" target="_blank"><img title="... attendez ! Achetez mon livre aussi. Merde, restons capitalistes. Voil&agrave; : 3 !" src="https://odieuxconnard.files.wordpress.com/2015/10/hypnosis-spiral-ri.jpg?w=470&amp;h=470" alt="hypnosis spiral ri" width="470" height="470"></a><p>Vous n&rsquo;entendez que ma voix , vos paupi&egrave;res sont lourdes, vous n&rsquo;avez pas lu la blague pr&eacute;c&eacute;dente, je vais compter jusqu&rsquo;&agrave; trois et &agrave; votre r&eacute;veil, vous ne vous en souviendrez plus. 1&hellip; 2&hellip;</p></div>
+<h2>Connerie num&eacute;ro 9&nbsp;: <strong>&laquo;&nbsp;Toute la classe b&eacute;gaye&nbsp;&raquo;</strong></h2>
+<p>Hochez la t&ecirc;te.</p>
+<p>&laquo;&nbsp;<em>Je vois. Puisque vous ne pouvez pas parler, on va &ecirc;tre oblig&eacute;s de faire une interro &eacute;crite alors</em>&laquo;&nbsp;.</p>
+<p>Regardez bien, vous n&rsquo;aurez jamais vu autant de gu&eacute;risons miraculeuses en moins de quinze secondes.</p>
+<p>Attendez-vous &agrave; avoir les p&eacute;lerins de Lourdes &agrave; la porte dans la foul&eacute;e, voire le pape. Pr&eacute;parez donc quelques bibelots &agrave; leur vendre, et appr&ecirc;tez-vous &agrave; toucher une paire d&rsquo;&eacute;crouelles.</p>
+<h2>Connerie num&eacute;ro 10&nbsp;: <strong>&laquo;&nbsp;Quand vous parlez au prof, faites une pause de 4 secondes entre chaque mot&nbsp;&raquo;</strong></h2>
+<p>Variante peu inspir&eacute;e de l&rsquo;id&eacute;e pr&eacute;c&eacute;dente, &agrave; d&eacute;faut d&rsquo;employer la m&ecirc;me technique, on peut jouer &agrave; combler les trous.</p>
+<p>Du genre quand l&rsquo;&eacute;l&egrave;ve dit &laquo;&nbsp;<em>Je&hellip; ne&hellip; parlais&hellip; pas&hellip;</em> &nbsp;&raquo; alors que vous venez de l&rsquo;interpeller en plein ricanement avec son voisin, faites-vous plaisir.</p>
+<p><em>&laquo;&nbsp;Je&hellip;</em><br><em>&ndash; &hellip; suis un &eacute;tron qui parle.</em><br><em>&ndash; Ne&hellip;&nbsp;</em><br><em>&ndash; &hellip; me rappelez pas que je ressemble &agrave; l&rsquo;union honteuse d&rsquo;un rat-taupe et d&rsquo;un Bogdanov.</em><br><em>&ndash; Parlais&hellip;</em><br><em>&ndash; &hellip;-moi de vous, professeur, vous &ecirc;tes si brillant contrairement &agrave; moi, sombre amas&nbsp;de pus ambulant.</em><br><em>&ndash; Pas.&nbsp;&raquo;</em></p>
+<p>&Eacute;ventuellement,&nbsp;si vous n&rsquo;&ecirc;tes pas inspir&eacute;, racontez n&rsquo;importe quoi et terminez par &laquo;&nbsp;<em>Kamoulox</em>&laquo;&nbsp;.</p>
+<h2>Connerie num&eacute;ro 11 : <strong>&laquo;&nbsp;Essayez de manger votre oreille&nbsp;&raquo;</strong></h2>
+<p>J&rsquo;aimerais tellement avoir le sens de l&rsquo;humour pour comprendre cette blague.</p>
+<h2>Connerie num&eacute;ro 12 : <strong>&laquo;&nbsp;Mettez de la colle ou de la merde sur l&rsquo;interrupteur de la classe&nbsp;&raquo;</strong></h2>
+<p>Ainsi, &laquo;&nbsp;un prof ou un gland de la classe&nbsp;&raquo; (je cite) appuiera et sera bien emb&ecirc;t&eacute;.</p>
+<p>Bon, d&eacute;j&agrave;, je m&rsquo;&eacute;tonne que d&rsquo;apr&egrave;s l&rsquo;auteur, seuls des profs ou des glands utilisent les interrupteurs. Comment font les d&rsquo;jeun&rsquo;z trop kool&rsquo;z for skool&rsquo;z ? Ont-ils&nbsp;la vision nocturne ? Jettent-ils&nbsp;des &eacute;clairs pour allumer les ampoules &agrave; distance ? Seraient-ils&nbsp;donc des avatars&nbsp;de Raiden &agrave; la peau grasse ? Comme tout cela est myst&eacute;rieux.</p>
+<p>En tout cas, si jamais il y a une substance suspecte sur un quelconque interrupteur, approchez votre doigt. Le premier qui pouffe est l&rsquo;auteur du crime. Il n&rsquo;y&nbsp;a donc plus qu&rsquo;&agrave; frotter son visage contre l&rsquo;interrupteur, provoquant en plus au passage un fameux clignotement des n&eacute;ons qui donnera une ambiance disco et festive &agrave; votre salle de classe, donnant un c&ocirc;t&eacute; agr&eacute;able &agrave; ce petit moment rythm&eacute; par les hurlements hyst&eacute;riques du coupable dont la joue sert d&rsquo;&eacute;ponge &agrave; caca.</p>
+<p>Un peu plus que d&rsquo;habitude, du moins.</p>
+<h2>Connerie num&eacute;ro 13 : <strong>&laquo;&nbsp;Mettez un chewing-gum dans la serrure de la classe pour la bloquer&nbsp;&raquo;</strong></h2>
+<p>Sapotache !</p>
+<p>Apr&egrave;s avoir d&ucirc; changer de salle suite &agrave; cet odieux acte terroriste (sauf si comme moi, vous ouvrez les portes &agrave; coups de pied), c&rsquo;est le moment de vous souvenir de votre ami, l&rsquo;&eacute;l&egrave;ve dont vous aviez &eacute;pi&eacute; l&rsquo;historique internet. Vous vous souvenez ? Bien ! Puisqu&rsquo;il est devenu votre esclave, envoyez-le accomplir votre sombre besogne, &agrave; savoir vous donner des noms. Une fois le coupable identifi&eacute;, c&rsquo;est le moment tant attendu : la Revanche. Avec un R, comme Repr&eacute;sailles.</p>
+<p>Prenons Alb&eacute;rich-P&eacute;pin. Voici quelques jours qu&rsquo;il a sabot&eacute; une salle de classe, faisant de lui le boute-en-train populaire que l&rsquo;on invite &agrave; toutes les boums, ou quelconque nom donn&eacute; &agrave; des f&ecirc;tes arros&eacute;es au champomy. Apr&egrave;s avoir salu&eacute; son fan-club d&rsquo;un vigoureux coup de casquette &agrave; la fin d&rsquo;une dure journ&eacute;e, il enfourche son scooter quand il d&eacute;couvre que la cl&eacute; ne rentre pas dans le contact. Comment ? Que&hellip; D&rsquo;une main tremblante, Alb&eacute;rich-P&eacute;pin passe le doigt sur la serrure, et y penche un &oelig;il empli de terreur : quelqu&rsquo;un a mis du chewing-gum dans le bousin ! La m&ecirc;me saveur que celui qu&rsquo;il avait lui-m&ecirc;me utilis&eacute;.</p>
+<p>Quelqu&rsquo;un sait. Mais qui ? &Ccedil;a ne peut pas &ecirc;tre un professeur ! Ils sont bien trop ringards et b&ecirc;tes pour penser &agrave; cela ! C&rsquo;est forc&eacute;ment un autre &eacute;l&egrave;ve.</p>
+<p>Depuis la fen&ecirc;tre de votre classe, observez Alb&eacute;rich-P&eacute;pin inspecter nerveusement les alentours. Bient&ocirc;t, il accusera un camarade, et toute l&rsquo;union sacr&eacute;e derri&egrave;re le farceur qu&rsquo;il est &eacute;clatera en camps, rancunes et parano&iuml;a, que vous savourerez tout en m&acirc;chant ce Malabar fraise qu&rsquo;il vous reste.</p>
+<h2>Connerie num&eacute;ro 14 : <strong>&laquo;&nbsp;Venez avec des gants de cuisine et une pince &agrave; linge sur le nez&nbsp;&raquo;</strong></h2>
+<p>C&rsquo;est pas pour voter au second tour, d&rsquo;habitude, &ccedil;a ?</p>
+<div data-shortcode="caption"><a href="https://odieuxconnard.files.wordpress.com/2015/10/dead-delegates_2039061i.jpg" rel="noreferrer" target="_blank"><img title="Le meilleur moment pour enseigner en paix." src="https://odieuxconnard.files.wordpress.com/2015/10/dead-delegates_2039061i.jpg?w=595&amp;h=396" alt="dead-delegates_2039061i" width="595" height="396"></a><p>Alors qu&rsquo;ici, nous voyons la tenue r&eacute;glementaire pour enseigner &agrave; une classe qui sort de deux heures de sport.</p></div>
+<h2>Connerie num&eacute;ro 15 : <strong>&laquo;&nbsp;Mettez du blanco au bout de la craie du prof&nbsp;&raquo;</strong></h2>
+<p>C&rsquo;est le moment d&rsquo;&ecirc;tre un peu cr&eacute;atif.</p>
+<p>On a malmen&eacute; votre craie ? Elle&nbsp;fait des bruits &eacute;tranges et n&rsquo;&eacute;crit plus quoi que ce soit ? Au bout, elle est un peu molle, signe qu&rsquo;une couche p&acirc;teuse de blanco y a &eacute;t&eacute; d&eacute;pos&eacute;e ? Rappelez-vous votre entra&icirc;nement. Prenez une grande inspiration, rep&eacute;rez celui qui rigole le plus fort ou que tout le monde regarde quand vous vous retournez &nbsp;&agrave; la recherche de l&rsquo;auteur de ce m&eacute;fait, puis lancez la craie tr&egrave;s fort droit vers son front, c&ocirc;t&eacute; blanco en avant.</p>
+<p>Si vous avez tir&eacute; comme un sniper, elle devrait s&rsquo;y coller :</p>
+<p>Bravo, vous venez de &laquo;&nbsp;<em>faire licorne</em>&nbsp;&raquo; comme on dit chez la confr&eacute;rie des tireurs d&rsquo;&eacute;lite de craies.</p>
+<p>Vous gagnerez non seulement le respect &eacute;ternel de tous vos &eacute;l&egrave;ves, mais vous aurez en plus le loisir d&rsquo;admirer une cr&eacute;ature aussi rare que majestueuse dans votre salle de classe (bien que dans les l&eacute;gendes, les licornes vous traitent relativement peu de &laquo;&nbsp;<em>gros b&acirc;tard</em>&laquo;&nbsp;, mais qu&rsquo;est-ce qu&rsquo;elles y connaissent aux union l&eacute;gitimes, les licornes ?). Un peu de magie, &ccedil;a d&eacute;tend tout le monde.</p>
+<h2>Connerie num&eacute;ro 16 : <strong>&laquo;&nbsp;Faites des prouts avec votre bras&nbsp;&raquo;</strong></h2>
+<p>Un million de vues.</p>
+<p>UN MILLION DE VUES.</p>
+<p>Tout cela est fort myst&eacute;rieux.</p>
+<h2>Connerie num&eacute;ro 17 : <strong>&laquo;&nbsp;Confirmez tout ce que dit le prof en disant &laquo;&nbsp;Ah oui oui !&nbsp;&raquo;&nbsp;&raquo;</strong></h2>
+<p>Prenez votre t&eacute;l&eacute;phone, enregistrez discr&egrave;tement et&nbsp;laissez-vous aller &agrave; un discours trop obscur pour ces m&eacute;cr&eacute;ants.</p>
+<p><em>&laquo;&nbsp;Certains ici connaissent s&ucirc;rement&nbsp;As Sukhnah.</em><br><em>&ndash; Ah oui !</em><br><em>&ndash; Et souhaitent probablement y prendre contact&nbsp;avec des locaux.</em><br><em>&ndash; Ah oui oui !</em><br><em>&ndash; Avec bien &eacute;videmment, en vue un renversement de l&rsquo;Ouest dont les principes moraux sont vigoureusement contest&eacute;s par les personnes pr&eacute;c&eacute;demment cit&eacute;es.</em><br><em>&ndash; Oui, oui !</em><br><em>&ndash; Et j&rsquo;imagine en sus, pour proc&eacute;der &agrave; des actions du type de celle du 3 d&eacute;cembre 1996.</em><br><em>&ndash; Oui ! Ah oui, tout &agrave; fait !&nbsp;&raquo;</em></p>
+<p>Logiquement,&nbsp;si le GIGN, le RAID, le GIPN et BFM TV n&rsquo;ont pas encore explos&eacute; les fen&ecirc;tres pour descendre en rappel dans votre salle de classe, l&rsquo;enregistrement de votre t&eacute;l&eacute;phone devrait vous permettre d&rsquo;envoyer le farceur se faire tabasser &agrave; coups de bottin pour un moment pour apologie du terrorisme et&nbsp;volont&eacute; de s&rsquo;y associer.</p>
+<h2>Connerie num&eacute;ro 18 : <strong>&laquo;&nbsp;Faire un clin d&rsquo;&oelig;il d&egrave;s que le ou la prof vous regarde&nbsp;&raquo;</strong></h2>
+<p>Re-tabassage &agrave; coups de bottin pour harc&egrave;lement sexuel.</p>
+<h2>Connerie num&eacute;ro 19 : <strong>&laquo;&nbsp;Appelez le prof, et quand il vous r&eacute;pond, dites &laquo;&nbsp;Non, rien&nbsp;&raquo;&nbsp;&raquo;</strong></h2>
+<p>Notez que du point de vue du fond, &ccedil;a ne vous changera pas de d&rsquo;habitude.</p>
+<p>Du coup, rappelez au gourgandin qu&rsquo;il doit lever le doigt pour s&rsquo;exprimer. Ce qu&rsquo;il s&rsquo;empressera de faire.&nbsp;Et comme vous ne lui r&eacute;pondrez pas, bravo : vous avez d&eacute;sormais un superbe porte-manteau. Mettez-y vos affaires en cuir : la peau de jeune graisse naturellement tout ce qu&rsquo;elle touche, c&rsquo;est excellent pour l&rsquo;entretien.</p>
+<h2>Connerie num&eacute;ro 20&nbsp;: <strong>&laquo;&nbsp;Regardez tous au m&ecirc;me endroit fixement pour que le prof cherche&nbsp;&raquo;</strong></h2>
+<p>L&agrave; encore, ce plan a une sacr&eacute;e faille :</p>
+<p>Si les &eacute;l&egrave;ves pouvaient garder fixement leur attention sur la m&ecirc;me chose, &ccedil;a fait longtemps qu&rsquo;on aurait r&eacute;ussi &agrave; leur apprendre un truc.</p>
+<p>D&eacute;sol&eacute;, ce ne sera pas pour cette fois.</p>
+<div data-shortcode="caption"><a href="https://odieuxconnard.files.wordpress.com/2015/10/teacher-with-high-school-student.jpg" rel="noreferrer" target="_blank"><img title="Du coup, m&ecirc;me stranguler marche moins bien : leur cerveau est naturellement sous-oxyg&eacute;n&eacute;." src="https://odieuxconnard.files.wordpress.com/2015/10/teacher-with-high-school-student.jpg?w=470&amp;h=313" alt="teacher-with-high-school-student" width="470" height="313"></a><p>La capacit&eacute; d&rsquo;attention de l&rsquo;&eacute;l&egrave;ve est proverbialement basse. Ici, un classique : &laquo;&nbsp;Alors tu vois, tu as oubli&eacute; ta probl&eacute;matique dans l&rsquo;introduction. &ndash; Ah oui mais M&rsquo;sieur c&rsquo;est vrai que vous sortez avec la prof d&rsquo;Espagnol ? &ndash; Ecoute, Gilberte, concentrons-nous sur ta probl&eacute;matique et&hellip; &ndash; Holala, z&rsquo;avez vu ? Y pleut. &ndash; Gilberte, s&rsquo;il-te-pla&icirc;t, ton intro est&hellip; &ndash; M&rsquo;sieur vous venez avec nous &agrave; la sortie au mus&eacute;e ?&nbsp;&raquo; Les enseignants sauront.</p></div>
+<p>_________________________________________</p>
+<p>&laquo;&nbsp;<em>Voil&agrave; Monsieur le recteur. D&eacute;sormais, si un quelconque enseignant a un souci avec des suiveurs de ce genre de conseils, ils sont arm&eacute;s.</em>&laquo;&nbsp;</p>
+<p>Le recteur mordit dans sa l&egrave;vre pour tenter de retenir sa col&egrave;re, mais malgr&eacute; tous ses efforts, explosa.</p>
+<p>&laquo;&nbsp;<em>&Ccedil;a suffit ! C&rsquo;est une mascarade ! On m&rsquo;avait dit que vous &eacute;tiez le meilleur, qu&rsquo;est-ce que c&rsquo;est que ces conseils ? Personne n&rsquo;oserait les appliquer.</em><br><em>&ndash; Pourtant, je l&rsquo;ai fait. Et me voici.</em><br><em>&ndash; Non ! hurla-t-il de plus belle. &Ccedil;a ne prend pas, vous mentez !</em>&laquo;&nbsp;</p>
+<p>&laquo;&nbsp;<em>Ah oui ?</em>&nbsp;&raquo; dis-je calmement en faisant un signe &agrave; Diego &laquo;&nbsp;<em>Fais donc venir Amandine.</em>&laquo;&nbsp;</p>
+<p>Quelques instants plus tard, une jeune femme, l&rsquo;air contrari&eacute;e, entra dans la pi&egrave;ce en roulant des yeux.</p>
+<p>&laquo;&nbsp;<em>Que puis-je pour Monseigneur? d&eacute;clama-t-elle d&rsquo;un ton contraint.</em><br><em>&ndash; Monsieur le recteur, voici Amandine. Amandine, Monsieur le recteur. Amandine &eacute;tait l&rsquo;une de mes &eacute;l&egrave;ves par le pass&eacute;. Elle a voulu &ecirc;tre la plus fourbe, elle a perdu. &Agrave; pr&eacute;sent elle me sert.</em>&laquo;&nbsp;</p>
+<p>Le recteur, dont le visage jusqu&rsquo;alors cramoisi s&rsquo;&eacute;claircissait doucement, poussa un petit grognement.</p>
+<p>&laquo;&nbsp;<em>H&eacute; bien, &ccedil;a ne prouve rien ! Qui me dit que ce n&rsquo;est pas l&rsquo;une de vos stagiaires ? Qu&rsquo;elle n&rsquo;est pas ici de son&nbsp;propre gr&eacute; ?</em><br><em>&ndash; Une notion int&eacute;ressante et discutable dans le cas de mes stagiaires, mais l&agrave; n&rsquo;est pas le sujet. Monsieur le recteur. je vous l&rsquo;affirme, Amandine fut l&rsquo;une de mes &eacute;l&egrave;ves. Pour son malheur.</em><br><em>&ndash; Je n&rsquo;en crois pas un mot !<br>
+&ndash; Alors laissez-moi le prouver.</em>&laquo;&nbsp;</p>
+<p>Je lui souris doucement et me tournais vers Amandine. D&rsquo;un geste, je fis tomber un stylo du bureau, et ordonnais : &laquo;&nbsp;<em>Pouvez-vous ramasser ceci, Amandine ?</em>&laquo;&nbsp;</p>
+<p>La jeune femme fit quelques pas nerveux, jeta un regard m&eacute;chant tant au recteur qu&rsquo;&agrave; moi-m&ecirc;me, puis enfin, s&rsquo;accroupit pour r&eacute;cup&eacute;rer le stylo.</p>
+<p>Un frisson glac&eacute; parcourut le recteur lorsque les premi&egrave;res notes de <em>Joyeux Anniversaire</em> mont&egrave;rent dans la pi&egrave;ce.</p><br><a rel="noreferrer" href="http://feeds.wordpress.com/1.0/gocomments/odieuxconnard.wordpress.com/4679/" target="_blank"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/odieuxconnard.wordpress.com/4679/"></a> <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=unodieuxconnard.com&amp;blog=8336322&amp;post=4679&amp;subd=odieuxconnard&amp;ref=&amp;feed=1" width="1" height="1"></body></html>
+]]></content>
+	<updated>2015-10-30T13:46:32+00:00</updated>
+	<author><name>Un odieux connard</name></author>
+	<source>
+		<id>http://unodieuxconnard.com</id>
+		<link rel="self" href="http://unodieuxconnard.com"/>
+		<updated>2015-10-30T13:46:32+00:00</updated>
+		<title>Le blog d'un odieux connard</title></source>
+
+	<category term="société"/>
+
+	<category term="blaireaux"/>
+
+	<category term="classe"/>
+
+	<category term="conneries"/>
+
+	<category term="conseils"/>
+
+	<category term="contre-attaque"/>
+
+	<category term="education"/>
+
+	<category term="eleves"/>
+
+	<category term="enseignant"/>
+
+	<category term="fourberie"/>
+
+	<category term="million"/>
+
+	<category term="rabouin"/>
+
+	<category term="scapin"/>
+
+	<category term="strangulation"/>
+
+	<category term="vues"/>
+
+	<category term="youtube"/>
+
+
+	<link rel="enclosure" 
+		type="" 
+		length="1"
+		href="http://odieuxconnard.files.wordpress.com/2015/10/classroom-1.jpg?w=150"/>
+
+	<link rel="enclosure" 
+		type="" 
+		length="1"
+		href="http://2.gravatar.com/avatar/ee3c02264a44019dab805203e6df5df3?s=96&amp;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&amp;r=G"/>
+
+	<link rel="enclosure" 
+		type="" 
+		length="1"
+		href="https://odieuxconnard.files.wordpress.com/2015/10/classroom-1.jpg"/>
+
+	<link rel="enclosure" 
+		type="" 
+		length="1"
+		href="https://odieuxconnard.files.wordpress.com/2015/10/girl-with-question-marks.jpg"/>
+
+	<link rel="enclosure" 
+		type="" 
+		length="1"
+		href="https://odieuxconnard.files.wordpress.com/2015/10/hypnosis-spiral-ri.jpg"/>
+
+	<link rel="enclosure" 
+		type="" 
+		length="1"
+		href="https://odieuxconnard.files.wordpress.com/2015/10/dead-delegates_2039061i.jpg"/>
+
+	<link rel="enclosure" 
+		type="" 
+		length="1"
+		href="https://odieuxconnard.files.wordpress.com/2015/10/teacher-with-high-school-student.jpg"/>
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-30:/16150</id>
@@ -1580,50 +1802,6 @@ Keep absolutely still!!!…. Its vision is based on movement …
 		<title>Tastefully Offensive on Tumblr</title></source>
 
 	<category term="halloween"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-27:/15317</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/131999259656" rel="alternate" type="text/html"/>
-	<title type="html">Photo</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://31.media.tumblr.com/0ab2d17736d43381502115a6a289bba4/tumblr_nwuohx1HWw1tlb56zo1_400.gif"><br><br></body></html>
-]]></content>
-	<updated>2015-10-27T04:40:12+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-27T04:40:12+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-27:/15351</id>
-	<link href="http://mememaster.tumblr.com/post/131998159499" rel="alternate" type="text/html"/>
-	<title type="html">justbrosthings:
-
-teamwork at its finest</title>
-	<summary type="html"><![CDATA[justbrosthings:
-
-teamwork at its finest
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/b019b433b259a8437b3183c9461b3a77/tumblr_npwbhyQnLl1rvgvy0o1_500.jpg"><br><br><p><a href="http://justbrosthings.tumblr.com/post/121442543744" target="_blank" rel="noreferrer">justbrosthings</a>:</p>
-<blockquote>
-<p>teamwork at its finest</p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-27T04:19:16+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-27T04:19:16+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
