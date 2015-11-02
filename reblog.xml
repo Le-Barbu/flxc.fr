@@ -4,11 +4,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-27T20:56:59+00:00</updated>
+<updated>2015-10-28T04:53:14+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-01:/16708</id>
+	<link href="http://danstonchat.com/16934.html" rel="alternate" type="text/html"/>
+	<title type="html">DansTonChat #16934</title>
+	<summary type="html"><![CDATA[Nerfpoulet: plop ! Alors cette note d&#039;ihm ?Trinity: 10 \0/ !!Nerfpoulet: wtf ? Ta pas fait que ...]]></summary>
+	<content type="html"><![CDATA[<html><body><span>Nerfpoulet:</span> plop ! Alors cette note d'ihm ?<br><span>Trinity:</span> 10 \0/ !!<br><span>Nerfpoulet:</span> wtf ? Ta pas fait que l'exo 1 ?<br><span>Trinity:</span> bah si mais je cite "vous avez de l'imagination !"<br><span>Nerfpoulet:</span> ?<br><span>Trinity:</span> bah je crois qu'il a aim&eacute; le nom de mes labels :D<br><span>Nerfpoulet:</span> je r&eacute;it&egrave;re : ?<br><span>Trinity:</span> label rouge, label etLaBete et label profdihm<br><span>Nerfpoulet:</span> pourquoi j'y ai jamais pens&eacute; ! -_-'</body></html>
+]]></content>
+	<updated>2015-11-01T19:35:50+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://danstonchat.com/</id>
+		<link rel="self" href="http://danstonchat.com/"/>
+		<updated>2015-11-01T19:35:50+00:00</updated>
+		<title>DansTonChat</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-02:/16737</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/132377558900" rel="alternate" type="text/html"/>
+	<title type="html">by Classic Randy</title>
+	<summary type="html"><![CDATA[   by Classic Randy]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/7a73d970c62ed493cc7420c9d95b727b/tumblr_nx5y5e8vWl1uxle3jo2_500.jpg"><br><br><img src="http://41.media.tumblr.com/37390abe334944d1a63ad05fdf19c61c/tumblr_nx5y5e8vWl1uxle3jo3_500.jpg"><br><br><img src="http://38.media.tumblr.com/b845422a5987890d72b1327a2026ed46/tumblr_nx5y5e8vWl1uxle3jo1_500.gif"><br><br><p>by <a href="http://classicrandy.tumblr.com/post/132373009598" target="_blank" rel="noreferrer">Classic Randy</a></p></body></html>
+]]></content>
+	<updated>2015-11-02T02:30:29+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-11-02T02:30:29+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-02:/16807</id>
+	<link href="http://www.youtube.com/watch?v=v4Z9sjVmj7c" rel="alternate" type="text/html"/>
+	<title type="html">Climat : le thermomètre et le philosophe</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2015-11-02T11:36:03+00:00</updated>
+	<author><name>Data Gueule</name></author>
+	<source>
+		<id>http://www.youtube.com/channel/UCm5wThREh298TkK8hCT9HuA</id>
+		<link rel="self" href="http://www.youtube.com/channel/UCm5wThREh298TkK8hCT9HuA"/>
+		<updated>2015-11-02T11:36:03+00:00</updated>
+		<title>Data Gueule</title></source>
+
+
+	<link rel="enclosure" 
+		type="application/x-shockwave-flash" 
+		length="1"
+		href="https://www.youtube.com/v/v4Z9sjVmj7c?version=3"/>
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-30:/16140</id>
@@ -1835,66 +1893,6 @@ people: ??? ??????????</p></body></html>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-10-28T04:53:14+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-28:/15560</id>
-	<link href="http://www.viedemerde.fr/inclassable/8633993" rel="alternate" type="text/html"/>
-	<title type="html">Boodoo94 a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, en Thaïlande, j'ai loué un scooter. Je m'amuse du nombre infini de scooters garés à la ...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, en Tha&iuml;lande, j'ai lou&eacute; un scooter. Je m'amuse du nombre infini de scooters gar&eacute;s &agrave; la suite. Au moment de mettre la b&eacute;quille, un singe saute sur l'engin et, morte de peur, je l&acirc;che le guidon. C'est dr&ocirc;le &agrave; voir, un effet domino de scooters. VDM</p></body></html>
-]]></content>
-	<updated>2015-10-27T16:55:47+00:00</updated>
-	<author><name>Boodoo94</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-10-27T16:55:47+00:00</updated>
-		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-28:/15590</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/132064910558" rel="alternate" type="text/html"/>
-	<title type="html">Modern-Day Aladdin (vine by Mo Khan)</title>
-	<summary type="html"><![CDATA[Modern-Day Aladdin (vine by Mo Khan)]]></summary>
-	<content type="html"><![CDATA[<html><body><br><br><p>Modern-Day Aladdin (vine by&nbsp;<a href="https://vine.co/v/eYrl3nI5UZT" target="_blank" rel="noreferrer">Mo Khan</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-28T04:38:26+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-28T04:38:26+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="vines"/>
-
-	<category term="aladdin"/>
-
-	<category term="disney"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-27:/15479</id>
-	<link href="http://danstonchat.com/16920.html" rel="alternate" type="text/html"/>
-	<title type="html">DansTonChat #16920</title>
-	<summary type="html"><![CDATA[Clefaz: Quand je marque bisou, mon autocorrection me propose kebab... (facepalm)Skey: XDClefaz: Je t...]]></summary>
-	<content type="html"><![CDATA[<html><body><span>Clefaz:</span> Quand je marque bisou, mon autocorrection me propose kebab... (facepalm)<br><span>Skey:</span> XD<br><span>Clefaz:</span> Je te jure, tu coup j'ai envoy&eacute; "tu lui fera un kebab de ma part"...<br><span>Clefaz:</span> Elle m'a r&eacute;pondu "&ccedil;a marche!"<br><span>Clefaz:</span> Du coup je sais pas quoi dire :/<br><span>Clefaz:</span> Je me sens assez con, elle me demande la recette ._.</body></html>
-]]></content>
-	<updated>2015-10-27T20:56:59+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://danstonchat.com/</id>
-		<link rel="self" href="http://danstonchat.com/"/>
-		<updated>2015-10-27T20:56:59+00:00</updated>
-		<title>DansTonChat</title></source>
 
 
 </entry>
