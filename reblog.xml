@@ -4,11 +4,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-29T04:12:44+00:00</updated>
+<updated>2015-10-29T18:15:24+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-29:/15906</id>
+	<link href="http://grisebouille.net/le-cancer/" rel="alternate" type="text/html"/>
+	<title type="html">Le cancer</title>
+	<summary type="html"><![CDATA[Petit dessin d&rsquo;humeur&#8230; Réalisé à l&rsquo;encre et au crayon de papier, pour changer un p...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Petit dessin d&rsquo;humeur&hellip; R&eacute;alis&eacute; &agrave; l&rsquo;encre et au crayon de papier, pour changer un peu. Je sais je sais, il manque des valeurs num&eacute;riques sur les axes et le palier en haut est beaaauuuucoup trop large par rapport &agrave; la r&eacute;alit&eacute; (mais fallait bien que je trouve la place pour faire la chaise longue).</p>
+<p><a href="http://grisebouille.net/wp-content/uploads/2015/09/tad_008_le_cancer.jpg" rel="noreferrer" target="_blank"><img src="http://grisebouille.net/wp-content/uploads/2015/09/tad_008_le_cancer.jpg" alt="tad_008_le_cancer" width="800" height="1230"></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<a href="http://grisebouille.net/wp-content/plugins/share-on-diaspora/new_window.php?url=http%3A%2F%2Fgrisebouille.net%2Fle-cancer%2F&amp;title=Le%20cancer" target="_blank" rel="noreferrer"><span><img src="http://grisebouille.net/wp-content/uploads/2015/02/diaspora.jpg" alt=""></span></a></body></html>
+]]></content>
+	<updated>2015-09-28T11:49:32+00:00</updated>
+	<author><name>Gee</name></author>
+	<source>
+		<id>http://grisebouille.net</id>
+		<link rel="self" href="http://grisebouille.net"/>
+		<updated>2015-09-28T11:49:32+00:00</updated>
+		<title>Grise Bouille</title></source>
+
+	<category term="la fourche"/>
+
+	<category term="table à dessins"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-10-29:/15905</id>
+	<link href="http://grisebouille.net/aux-confins-de-lespace/" rel="alternate" type="text/html"/>
+	<title type="html">Aux confins de l’espace</title>
+	<summary type="html"><![CDATA[Parce qu&rsquo;il n&rsquo;y a pas de raison que cette section ne serve qu&rsquo;à vulgariser de la s...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Parce qu&rsquo;il n&rsquo;y a pas de raison que <a href="http://grisebouille.net/category/tu-sais-quoi/" rel="noreferrer" target="_blank">cette section</a> ne serve qu&rsquo;&agrave; vulgariser de la science, int&eacute;ressons-nous aujourd&rsquo;hui &agrave; la langue&hellip; et m&ecirc;me plus particuli&egrave;rement &agrave; l&rsquo;&eacute;criture. Tout ce que vous n&rsquo;avez jamais voulu savoir sur l&rsquo;<em>espace</em> (et que vous n&rsquo;avez jamais demand&eacute; d&rsquo;ailleurs). De rien.</p>
+<p><em>Et merci &agrave; <a href="https://twitter.com/peupleLa" rel="noreferrer" target="_blank">peupleLa</a> pour ses conseils avis&eacute;s sur le sujet !</em></p>
+<p><a href="http://grisebouille.net/wp-content/uploads/2015/10/tsq_007_aux_confins_de_l_espace.png" rel="noreferrer" target="_blank"><img src="http://grisebouille.net/wp-content/uploads/2015/10/tsq_007_aux_confins_de_l_espace.png" alt="tsq_007_aux_confins_de_l_espace" width="800" height="5862"></a></p>
+<p>&nbsp;</p>
+<p><a href="http://grisebouille.net/download/186502/" rel="noreferrer" target="_blank">
+		T&eacute;l&eacute;charger &ldquo;Aux confins de l'espace&rdquo;		<small>tsq_007_aux_confins_de_l_espace.zip &ndash; T&eacute;l&eacute;charg&eacute; 30 fois &ndash; 573 kB</small>
+	</a></p>
+<a href="http://grisebouille.net/wp-content/plugins/share-on-diaspora/new_window.php?url=http%3A%2F%2Fgrisebouille.net%2Faux-confins-de-lespace%2F&amp;title=Aux%20confins%20de%20l%26rsquo%3Bespace" target="_blank" rel="noreferrer"><span><img src="http://grisebouille.net/wp-content/uploads/2015/02/diaspora.jpg" alt=""></span></a></body></html>
+]]></content>
+	<updated>2015-10-02T12:10:52+00:00</updated>
+	<author><name>Gee</name></author>
+	<source>
+		<id>http://grisebouille.net</id>
+		<link rel="self" href="http://grisebouille.net"/>
+		<updated>2015-10-02T12:10:52+00:00</updated>
+		<title>Grise Bouille</title></source>
+
+	<category term="tu sais quoi ?"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-10-26:/15133</id>
@@ -1806,59 +1863,6 @@ Video: Sticker Causes Kitten’s Brain to Malfunction
 		<title>Tastefully Offensive on Tumblr</title></source>
 
 	<category term="dad jokes"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-29:/15855</id>
-	<link href="http://theoatmeal.com/quiz/got_character" rel="alternate" type="text/html"/>
-	<title type="html">Quiz: Which Game of Thrones character would you be? Quiz - The Oatmeal</title>
-	<summary type="html"><![CDATA[Moi je serais Hodor.
-
-Et vous ?
-
-:D(Permalink)]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Moi je serais Hodor.<br><br>
-Et vous ?<br><br>
-:D<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?xzg4CQ" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-29T16:49:43+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.mypersonnaldata.eu/shaarli/</id>
-		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
-		<updated>2015-10-29T16:49:43+00:00</updated>
-		<title>Les liens de Kevin Merigot</title></source>
-
-	<category term="fb"/>
-
-	<category term="fs"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-29:/15730</id>
-	<link href="http://mememaster.tumblr.com/post/132128349294" rel="alternate" type="text/html"/>
-	<title type="html">anarcho-queer:
-
-Just your daily reminder that capitalism is e...</title>
-	<summary type="html"><![CDATA[anarcho-queer:
-
-Just your daily reminder that capitalism is e e e E E E E E V V V V V I I I I L L L ...]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/de721ed60b3915ffb78f164a0e070647/tumblr_n3ujdmNWTp1r4vpxio1_500.jpg"><br><br><p><a href="http://anarcho-queer.tumblr.com/post/82356179136" target="_blank" rel="noreferrer">anarcho-queer</a>:</p>
-<blockquote>
-<p>Just your daily reminder that capitalism is e e&nbsp;<sup>e&nbsp;<sup>E&nbsp;<sup>E&nbsp;<sup>E&nbsp;</sup>E&nbsp;</sup>E&nbsp;</sup>V&nbsp;</sup>V&nbsp;<sub>V&nbsp;<sub>V&nbsp;<sub>V&nbsp;<sub>I&nbsp;</sub></sub>I&nbsp;<sub>I&nbsp;</sub>I&nbsp;<sup>L&nbsp;<sup>L&nbsp;<sup>L&nbsp;<sup>L&nbsp;</sup>L&nbsp;</sup>L&nbsp;</sup>L&nbsp;<sup>L&nbsp;<sub>L <br></sub></sup></sup></sub></sub></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-29T04:12:44+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-29T04:12:44+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
