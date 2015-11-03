@@ -4,11 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-29T15:02:49+00:00</updated>
+<updated>2015-10-29T07:28:24+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-01:/16504</id>
+	<link href="http://play.dogmazic.net/albums.php?action=show&amp;album=9140" rel="alternate" type="text/html"/>
+	<title type="html">Solo Tracks</title>
+	<summary type="html"><![CDATA[Kläh Foo Tëah - Solo Tracks]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Kl&auml;h Foo T&euml;ah - Solo Tracks</p></body></html>
+]]></content>
+	<updated>2015-10-31T13:16:22+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://play.dogmazic.net</id>
+		<link rel="self" href="http://play.dogmazic.net"/>
+		<updated>2015-10-31T13:16:22+00:00</updated>
+		<title>Dogmazic - Nouveaux albums</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-11-03:/17021</id>
@@ -1865,26 +1883,6 @@ Voice: [exasperated] “Ah! Fuck! Oh! I hate t...]]></summary>
 	<category term="privacy"/>
 
 	<category term="politics"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-29:/15829</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/132150354483" rel="alternate" type="text/html"/>
-	<title type="html">by Buttersafe</title>
-	<summary type="html"><![CDATA[  by Buttersafe]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/6429866850aca357cc015f9de325bf87/tumblr_nwzlspyx4M1qewacoo1_500.jpg"><br><br><img src="http://36.media.tumblr.com/83d1426b90c06e45cfe41f9b1607657f/tumblr_nwzlspyx4M1qewacoo2_500.jpg"><br><br><p>by <a href="http://buttersafe.com/2015/10/29/halloween-treats/" target="_blank" rel="noreferrer">Buttersafe</a></p></body></html>
-]]></content>
-	<updated>2015-10-29T15:02:49+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-29T15:02:49+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="halloween"/>
 
 
 </entry>
