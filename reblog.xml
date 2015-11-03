@@ -4,11 +4,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-29T07:28:24+00:00</updated>
+<updated>2015-10-29T04:15:44+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-03:/17054</id>
+	<link href="http://play.dogmazic.net/" rel="alternate" type="text/html"/>
+	<title type="html">GHB</title>
+	<summary type="html"><![CDATA[Demo]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Demo</p></body></html>
+]]></content>
+	<updated>2015-05-14T09:48:12+00:00</updated>
+	<author><name>Kläh Foo Tëah</name></author>
+	<source>
+		<id>http://play.dogmazic.net/artists.php?action=show&amp;artist=6533</id>
+		<link rel="self" href="http://play.dogmazic.net/artists.php?action=show&amp;artist=6533"/>
+		<updated>2015-05-14T09:48:12+00:00</updated>
+		<title>Kläh Foo Tëah Podcast</title></source>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="13230631"
+		href="http://play.dogmazic.net/play/index.php?type=song&amp;oid=54173&amp;uid=-1&amp;name=Kl%C3%A4h%20Foo%20T%C3%ABah%20-%20GHB.mp3"/>
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-11-01:/16504</id>
@@ -1861,28 +1884,6 @@ Voice: [exasperated] “Ah! Fuck! Oh! I hate t...]]></summary>
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-10-29T04:15:44+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-29:/15798</id>
-	<link href="https://www.laquadrature.net/fr/surveillance-France-%C3%A9coute-monde" rel="alternate" type="text/html"/>
-	<title type="html">Loi Surveillance : la France à l'écoute du monde ! (enfin...) | La Quadrature du Net</title>
-	<summary type="html"><![CDATA[ಠ_ಠ(Permalink)]]></summary>
-	<content type="html"><![CDATA[<html><body><p>&#3232;_&#3232;<br>(<a href="http://sebsauvage.net/links/?plNwgQ" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-29T07:28:24+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://sebsauvage.net/links/</id>
-		<link rel="self" href="http://sebsauvage.net/links/"/>
-		<updated>2015-10-29T07:28:24+00:00</updated>
-		<title>Liens en vrac de sebsauvage</title></source>
-
-	<category term="privacy"/>
-
-	<category term="politics"/>
 
 
 </entry>
