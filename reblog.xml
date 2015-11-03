@@ -4,11 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-28T04:53:14+00:00</updated>
+<updated>2015-10-28T08:42:50+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-03:/16880</id>
+	<link href="http://xkcd.com/1598/" rel="alternate" type="text/html"/>
+	<title type="html">Salvage</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://imgs.xkcd.com/comics/salvage.png" title='My hobby: Taking advantage of the rice myth by posting articles on "how to save your wet phone" which are actually just elaborate recipes for rice pilaf.' alt='My hobby: Taking advantage of the rice myth by posting articles on "how to save your wet phone" which are actually just elaborate recipes for rice pilaf.'></body></html>
+]]></content>
+	<updated>2015-11-02T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://xkcd.com/</id>
+		<link rel="self" href="http://xkcd.com/"/>
+		<updated>2015-11-02T05:00:00+00:00</updated>
+		<title>xkcd.com</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-11-01:/16708</id>
@@ -1870,29 +1888,6 @@ Voice: [exasperated] “Ah! Fuck! Oh! I hate t...]]></summary>
 		<link rel="self" href="http://www.viedemerde.fr"/>
 		<updated>2015-10-28T08:42:50+00:00</updated>
 		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-28:/15545</id>
-	<link href="http://mememaster.tumblr.com/post/132065621444" rel="alternate" type="text/html"/>
-	<title type="html">me: my job sucks</title>
-	<summary type="html"><![CDATA[me: my job sucks
-people: why don't you do what you enjoy
-me: capitalism has determined that what I e...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>me: my job sucks<br>
-people: why don't you do what you enjoy<br>
-me: capitalism has determined that what I enjoy has no value<br>
-people: ??? ??????????</p></body></html>
-]]></content>
-	<updated>2015-10-28T04:53:14+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-28T04:53:14+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
