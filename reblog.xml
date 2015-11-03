@@ -4,11 +4,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-29T09:47:18+00:00</updated>
+<updated>2015-10-29T15:02:49+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-03:/17021</id>
+	<link href="http://tumblr.tastefullyoffensive.com/post/132480547451" rel="alternate" type="text/html"/>
+	<title type="html">Lanny: “Why I can’t get anything done…”Bird:...</title>
+	<summary type="html"><![CDATA[Lanny: “Why I can’t get anything done…”Bird: “Peek-a-boo.”]]></summary>
+	<content type="html"><![CDATA[<html><body><br><br><p><a href="https://vine.co/v/eYTxxmxDT9l" target="_blank" rel="noreferrer">Lanny</a>:&nbsp;&ldquo;Why I can&rsquo;t get anything done&hellip;&rdquo;<br><br>Bird: &ldquo;Peek-a-boo.&rdquo;<br></p></body></html>
+]]></content>
+	<updated>2015-11-03T17:20:16+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://tumblr.tastefullyoffensive.com/</id>
+		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
+		<updated>2015-11-03T17:20:16+00:00</updated>
+		<title>Tastefully Offensive on Tumblr</title></source>
+
+	<category term="vine"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-11-03:/16964</id>
@@ -1865,31 +1885,6 @@ Voice: [exasperated] “Ah! Fuck! Oh! I hate t...]]></summary>
 		<title>Tastefully Offensive on Tumblr</title></source>
 
 	<category term="halloween"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-29:/15803</id>
-	<link href="http://grisebouille.net/gouvernement-buzzfeed/" rel="alternate" type="text/html"/>
-	<title type="html">Gouvernement Buzzfeed | Grise Bouille</title>
-	<summary type="html"><![CDATA[C'est ça. Et c'est drôle. ^^
-
-(via sebsauvage)(Permalink)]]></summary>
-	<content type="html"><![CDATA[<html><body><p>C'est &ccedil;a. Et c'est dr&ocirc;le. ^^<br><br>
-(via sebsauvage)<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?7be7RA" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-29T09:47:18+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.mypersonnaldata.eu/shaarli/</id>
-		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
-		<updated>2015-10-29T09:47:18+00:00</updated>
-		<title>Les liens de Kevin Merigot</title></source>
-
-	<category term="fb"/>
-
-	<category term="fs"/>
 
 
 </entry>
