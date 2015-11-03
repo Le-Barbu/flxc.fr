@@ -4,11 +4,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-28T08:42:50+00:00</updated>
+<updated>2015-10-28T00:00:00+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-03:/16940</id>
+	<link href="http://mememaster.tumblr.com/post/132449778974" rel="alternate" type="text/html"/>
+	<title type="html">yeezusplease:
+
+cleffairie:
+
+fedswatching:
+
+duke-of-errl:
+
+fuks:
+
+...</title>
+	<summary type="html"><![CDATA[
+
+    
+
+yeezusplease:
+
+cleffairie:
+
+fedswatching:
+
+duke-of-errl:
+
+fuks:
+
+!!
+
+well that was unexpecte...]]></summary>
+	<content type="html"><![CDATA[<html><body><video width="400" height="711" poster="http://media.tumblr.com/tumblr_npubgoCDix1qcecwv_frame1.jpg" preload="none" data-crt-video data-crt-options='{"duration":30,"hdUrl":false,"filmstrip":{"url":"http:\/\/38.media.tumblr.com\/previews\/tumblr_npubgoCDix1qcecwv_filmstrip.jpg","width":"200","height":"357"}}'><source src="http://mememaster.tumblr.com/video_file/132449778974/tumblr_npubgoCDix1qcecwv/480" type="video/mp4"></source></video><br><br><p><a href="http://yeezusplease.tumblr.com/post/121363529692" target="_blank" rel="noreferrer">yeezusplease</a>:</p>
+<blockquote>
+<p><a href="http://cleffairie.tumblr.com/post/121363044138" target="_blank" rel="noreferrer">cleffairie</a>:</p>
+<blockquote>
+<p><a href="http://fedswatching.tumblr.com/post/121362171930" target="_blank" rel="noreferrer">fedswatching</a>:</p>
+<blockquote>
+<p><a href="http://duke-of-errl.tumblr.com/post/121360910491" target="_blank" rel="noreferrer">duke-of-errl</a>:</p>
+<blockquote>
+<p><a href="http://fuks.tumblr.com/post/121358637028" target="_blank" rel="noreferrer">fuks</a>:</p>
+<blockquote>
+<p>!!</p>
+</blockquote>
+<p>well that was unexpected</p>
+</blockquote>
+<p>YOOOOOO</p>
+</blockquote>
+<p>I LOVE THIS SO MUCH</p>
+</blockquote>
+<p>This White Boy Just Ended Racism</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-11-03T03:39:04+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-11-03T03:39:04+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-11-03:/16880</id>
@@ -1870,24 +1933,6 @@ Voice: [exasperated] “Ah! Fuck! Oh! I hate t...]]></summary>
 		<link rel="self" href="http://www.blaguesdemerde.fr//"/>
 		<updated>2015-10-28T00:00:00+00:00</updated>
 		<title>blaguesdemerde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-28:/15636</id>
-	<link href="http://www.viedemerde.fr/travail/8634313" rel="alternate" type="text/html"/>
-	<title type="html">NO84 a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, resto avec un client et son épouse. Celle-ci me dit être restauratrice au Musée du Louv...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, resto avec un client et son &eacute;pouse. Celle-ci me dit &ecirc;tre restauratrice au Mus&eacute;e du Louvre. Impressionn&eacute;e, Je lui demande alors si elle s'occupe de restaurer les momies ou les tableaux. "Je sers des frites et des bi&egrave;res au snack &agrave; l'int&eacute;rieur du mus&eacute;e." VDM</p></body></html>
-]]></content>
-	<updated>2015-10-28T08:42:50+00:00</updated>
-	<author><name>NO84</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-10-28T08:42:50+00:00</updated>
-		<title>Vie de merde</title></source>
 
 
 </entry>
