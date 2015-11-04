@@ -4,11 +4,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-30T01:00:18+00:00</updated>
+<updated>2015-10-21T11:06:54+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-04:/17190</id>
+	<link href="http://mememaster.tumblr.com/post/132533500959" rel="alternate" type="text/html"/>
+	<title type="html">thebestoftumbling:
+
+simple math</title>
+	<summary type="html"><![CDATA[thebestoftumbling:
+
+simple math
+]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/302cb05a4649a4487c1b78e8d8458ff1/tumblr_nvzbqbgmgz1se3pgko1_500.jpg"><br><br><p><a href="http://thebestoftumbling.tumblr.com/post/130847040360" target="_blank" rel="noreferrer">thebestoftumbling</a>:</p>
+<blockquote>
+<p>simple math</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-11-04T12:38:59+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-11-04T12:38:59+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-11-04:/17150</id>
@@ -1898,24 +1924,6 @@ Video: Sticker Causes Kitten’s Brain to Malfunction
 		<link rel="self" href="https://www.dailymotion.com/"/>
 		<updated>2015-10-21T11:06:54+00:00</updated>
 		<title>Spi0n</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-30:/15996</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/132181389576" rel="alternate" type="text/html"/>
-	<title type="html">100 Years of Beauty in 1 Minute: Brazil</title>
-	<summary type="html"><![CDATA[          100 Years of Beauty in 1 Minute: Brazil]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://33.media.tumblr.com/f2d9029764224f5caba6efa7d061ddce/tumblr_nx063aA9XG1squc7do4_400.gif"><br><br><img src="http://33.media.tumblr.com/1d82f8befcd9f49e13c2696b5387b65f/tumblr_nx063aA9XG1squc7do1_400.gif"><br><br><img src="http://33.media.tumblr.com/f4681c81eb1a72cf39993a871ace5c3b/tumblr_nx063aA9XG1squc7do5_400.gif"><br><br><img src="http://38.media.tumblr.com/9b6e7146627a836faa21219b3892424b/tumblr_nx063aA9XG1squc7do6_400.gif"><br><br><img src="http://38.media.tumblr.com/cad5b0fa5d93301b97e3400374d7e65b/tumblr_nx063aA9XG1squc7do2_400.gif"><br><br><img src="http://31.media.tumblr.com/feff84da748882170322ea18d75d032c/tumblr_nx063aA9XG1squc7do7_400.gif"><br><br><img src="http://38.media.tumblr.com/4d5133b92292eb9e17ed2a3f5a2d1608/tumblr_nx063aA9XG1squc7do8_400.gif"><br><br><img src="http://49.media.tumblr.com/9233d5f434569b1c0cb6992a1f4340b7/tumblr_nx063aA9XG1squc7do9_400.gif"><br><br><img src="http://33.media.tumblr.com/2c4568709bd6c91682219e99559c5d32/tumblr_nx063aA9XG1squc7do3_400.gif"><br><br><img src="http://33.media.tumblr.com/0f403815c2be5afb9b2d237975f778da/tumblr_nx063aA9XG1squc7do10_400.gif"><br><br><p><a href="http://www.tastefullyoffensive.com/2015/10/cut-video-returns-with-another.html" target="_blank" rel="noreferrer">100 Years of Beauty in 1 Minute: Brazil</a><br></p></body></html>
-]]></content>
-	<updated>2015-10-30T01:00:18+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-30T01:00:18+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
