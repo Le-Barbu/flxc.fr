@@ -4,11 +4,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-30T01:37:21+00:00</updated>
+<updated>2015-10-30T01:00:18+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-04:/17150</id>
+	<link href="http://xkcd.com/1599/" rel="alternate" type="text/html"/>
+	<title type="html">Water Delivery</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="http://imgs.xkcd.com/comics/water_delivery.png" title="When I was a kid, I asked my parents why our houses didn't have toothpaste pipes in addition to water ones. I'm strangely pleased to see Amazon thinking the same way." alt="When I was a kid, I asked my parents why our houses didn't have toothpaste pipes in addition to water ones. I'm strangely pleased to see Amazon thinking the same way."></body></html>
+]]></content>
+	<updated>2015-11-04T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://xkcd.com/</id>
+		<link rel="self" href="http://xkcd.com/"/>
+		<updated>2015-11-04T05:00:00+00:00</updated>
+		<title>xkcd.com</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-11-04:/17090</id>
@@ -107,7 +125,7 @@ When you not the baby daddy but you take care of the kids anyway 
 	<link href="https://instagram.com/p/7eBS0-Aupi/" rel="alternate" type="text/html"/>
 	<title type="html">#tbt to my favorite childhood activity #clouds #drawing #comic</title>
 	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="https://scontent.cdninstagram.com/hphotos-xpt1/t51.2885-15/e35/11910178_164140307256081_1668104086_n.jpg"></body></html>
+	<content type="html"><![CDATA[<html><body><img src="http://scontent.cdninstagram.com/hphotos-xpt1/t51.2885-15/e35/11910178_164140307256081_1668104086_n.jpg"></body></html>
 ]]></content>
 	<updated>2015-09-10T23:47:48+00:00</updated>
 	<author><name>Instagram Bridge</name></author>
@@ -125,7 +143,7 @@ When you not the baby daddy but you take care of the kids anyway 
 	<link href="https://instagram.com/p/9lkbtjAuge/" rel="alternate" type="text/html"/>
 	<title type="html">right after this #show is over #drawing #cartoon #picame</title>
 	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="https://scontent.cdninstagram.com/hphotos-xap1/t51.2885-15/e35/11910473_496949747154217_7813252_n.jpg"></body></html>
+	<content type="html"><![CDATA[<html><body><img src="http://scontent.cdninstagram.com/hphotos-xap1/t51.2885-15/e35/11910473_496949747154217_7813252_n.jpg"></body></html>
 ]]></content>
 	<updated>2015-11-02T15:12:19+00:00</updated>
 	<author><name>Instagram Bridge</name></author>
@@ -1898,30 +1916,6 @@ Video: Sticker Causes Kitten’s Brain to Malfunction
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-10-30T01:00:18+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-30:/15999</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/132183400058" rel="alternate" type="text/html"/>
-	<title type="html">Ash Wednesday (photo via kdanson)</title>
-	<summary type="html"><![CDATA[Ash Wednesday (photo via kdanson)]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/03ea434dcb6d69815d978154d6cd3ae3/tumblr_nx0f69N5P31qewacoo1_500.jpg"><br><br><p>Ash Wednesday (photo via <a href="https://www.reddit.com/user/kdanson" target="_blank" rel="noreferrer">kdanson</a>)</p></body></html>
-]]></content>
-	<updated>2015-10-30T01:37:21+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-30T01:37:21+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="halloween"/>
-
-	<category term="pokemon"/>
-
-	<category term="the addams family"/>
 
 
 </entry>
