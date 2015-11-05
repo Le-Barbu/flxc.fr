@@ -4,11 +4,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-30T16:41:55+00:00</updated>
+<updated>2015-10-30T11:52:41+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-05:/17357</id>
+	<link href="http://www.humanite.fr/ces-milliards-lombre-des-paradis-fiscaux-588597" rel="alternate" type="text/html"/>
+	<title type="html">Infographie. Ces milliards à l’ombre des paradis fiscaux | L'Humanité</title>
+	<summary type="html"><![CDATA[Le fisc va-t-il aller à la recherche des ces milliards ?
+
+Bien sûr que non.
+
+C'est tellement plus si...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Le fisc va-t-il aller &agrave; la recherche des ces milliards ?<br><br>
+Bien s&ucirc;r que non.<br><br>
+C'est tellement plus simple de ponctionner ill&eacute;galement un journal d'utilit&eacute; publique.<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?hpAEFg" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-11-05T09:07:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-11-05T09:07:01+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+	<category term="fb"/>
+
+	<category term="fs"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-05:/17356</id>
+	<link href="https://fr.ulule.com/arretsurimages/" rel="alternate" type="text/html"/>
+	<title type="html">Soutenez @rrêt sur images, @si vous le rendra - Ulule</title>
+	<summary type="html"><![CDATA[Arrêt sur images aussi est victime du fisc...
+
+Décidément, c'est une offensive contre les médias ind...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Arr&ecirc;t sur images aussi est victime du fisc...<br><br>
+D&eacute;cid&eacute;ment, c'est une offensive contre les m&eacute;dias ind&eacute;pendants et d'utilit&eacute; publique qui s'op&egrave;re, gr&acirc;ce &agrave; la taxe la plus injuste cr&eacute;&eacute;e : la TVA.<br><br>
+Donc aidez Mediapart, aidez Arr&ecirc;t sur images...<br><br>
+Alors qu'on n'a pas de pognon quoi, merde.<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?C-7byw" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-11-05T09:46:21+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-11-05T09:46:21+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+	<category term="fb"/>
+
+	<category term="fs"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-05:/17332</id>
+	<link href="http://www.explosm.net/comics/4100/" rel="alternate" type="text/html"/>
+	<title type="html">Comic for 2015.11.05</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[<html><body><img src="//files.explosm.net/comics/Dave/Agent7_Thumbnails_728x410.png"></body></html>
+]]></content>
+	<updated>2015-11-05T06:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.explosm.net/rss.php</id>
+		<link rel="self" href="http://www.explosm.net/rss.php"/>
+		<updated>2015-11-05T06:00:00+00:00</updated>
+		<title>Explosm.net</title></source>
+
+	<category term="comics"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-11-04:/17094</id>
@@ -1860,93 +1935,6 @@ image | twitter | facebook | patreon
 		<link rel="self" href="http://www.viedemerde.fr"/>
 		<updated>2015-10-30T11:52:41+00:00</updated>
 		<title>Vie de merde</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-30:/16028</id>
-	<link href="http://la-bas.org/la-bas-magazine/entretiens/la-france-est-une-societe-coloniale" rel="alternate" type="text/html"/>
-	<title type="html">« La France est une société coloniale »</title>
-	<summary type="html"><![CDATA[   Play  
-
-« La France est une société coloniale » (14'26)
-par Là-bas si j'y suis https://vimeo.com/...]]></summary>
-	<content type="html"><![CDATA[<html><body><div><div> <div> <div>  </div> </div>
-<div><a href="https://vimeo.com/144089184" rel="noreferrer" target="_blank">&laquo; La France est une soci&eacute;t&eacute; coloniale &raquo; (14'26)</a>
-<br><i>par <a href="http://vimeo.com/labas" rel="noreferrer" target="_blank">L&agrave;-bas si j'y suis</a></i></div> <div><a href="https://vimeo.com/144089184" rel="noreferrer" target="_blank">https://vimeo.com/144089184</a></div>
-</div><h5><a href="http://la-bas.org/les-emissions-258/les-emissions/2015-16/la-dignite-en-marche" rel="noreferrer" target="_blank">Extrait de notre &eacute;mission L&Agrave;-BAS Hebdo #26 &laquo; LA DIGNIT&Eacute; EN MARCHE &raquo;, &agrave; &eacute;couter en int&eacute;gralit&eacute; en cliquant ici.</a></h5> <p>Avec, entre autres, autour de Daniel MERMET :</p> <p><img src="http://la-bas.org/local/cache-vignettes/L8xH11/puce-32883.gif" width="8" height="11" alt="-"><strong>Amal BENTOUNSI</strong>, initiatrice de la Marche de la Dignit&eacute; et contre le Racisme et fondatrice du <a href="http://la-bas.org/Urgence%20Notre%20Police%20Assassine" rel="noreferrer" target="_blank">Collectif &laquo; Urgence Notre Police Assassine &raquo;</a></p> <p><img src="http://la-bas.org/local/cache-vignettes/L8xH11/puce-32883.gif" width="8" height="11" alt="-"><strong>Nacira GU&Eacute;NIF-SOUILAMAS</strong>, sociologue, professeure &agrave; l'Universit&eacute; Paris VIII</p> <p><img src="http://la-bas.org/local/cache-vignettes/L8xH11/puce-32883.gif" width="8" height="11" alt="-"><strong>Ismahane CHOUDER</strong>, pr&eacute;sidente du <a href="http://www.cfpe2004.fr/" rel="noreferrer" target="_blank">Collectif des F&eacute;ministes pour l'&Eacute;galit&eacute;</a> et co-auteure du livre <i>Les filles voil&eacute;es parlent</i> (La Fabrique, 2008)</p> <p><img src="http://la-bas.org/local/cache-vignettes/L8xH11/puce-32883.gif" width="8" height="11" alt="-"><strong>Omar SLAOUTI</strong>, professeur de physique-chimie &agrave; Argenteuil, membre du <a href="http://collectif-ali-ziri.over-blog.com/" rel="noreferrer" target="_blank">Collectif "V&eacute;rit&eacute; et justice pour Ali Ziri"</a></p>
-<p><strong>Merci</strong> &agrave; Hossein et &agrave; l'&eacute;quipe du <a href="http://lelieudit.com/" rel="noreferrer" target="_blank">Lieu-Dit</a>.</p> <p><strong>Programmation musicale :</strong><br><img src="http://la-bas.org/local/cache-vignettes/L8xH11/puce-32883.gif" width="8" height="11" alt="-"><i>Lettre &agrave; la R&eacute;publique</i>, par <strong>Kery JAMES</strong></p>
-<div>Animation : <strong>Daniel MERMET</strong><br>
-R&eacute;alisation : <strong>Jonathan DUONG</strong><br>
-Image : <strong>Jeanne LORRAIN</strong><br>
-Son : <strong>J&eacute;r&ocirc;me CH&Eacute;LIUS</strong><br>
-Pr&eacute;paration : <strong>Gr&eacute;gory SALOMONOVITCH</strong></div></div>
-		<div><p><span>
-<img src="http://la-bas.org/IMG/jpg/marche_2.jpg" width="150" height="218" alt=""></span></p>
-<h3><strong>Mobilisation :</strong></h3> <p><img src="http://la-bas.org/squelettes-dist/puce.gif" width="8" height="11" alt="-"> Ce samedi 31 octobre, rendez-vous au m&eacute;tro Barb&egrave;s &agrave; Paris &agrave; 14h pour la Marche de la Dignit&eacute; et contre le racisme</p></div></body></html>
-]]></content>
-	<updated>2015-10-30T07:48:20+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://la-bas.org/</id>
-		<link rel="self" href="http://la-bas.org/"/>
-		<updated>2015-10-30T07:48:20+00:00</updated>
-		<title>Là-bas si j'y suis</title></source>
-
-	<category term="islam en france"/>
-
-	<category term="paris et banlieue"/>
-
-	<category term="video"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-30:/16184</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/132216290675" rel="alternate" type="text/html"/>
-	<title type="html">gifsboom:
-
-Video: Sticker Causes Kitten’s Brain to Malfunction</title>
-	<summary type="html"><![CDATA[    gifsboom:
-
-Video: Sticker Causes Kitten’s Brain to Malfunction
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://38.media.tumblr.com/a17fbf676c9254b9a26b0c0362daba4b/tumblr_nx19sm1ESZ1s02vreo1_250.gif"><br><br><img src="http://33.media.tumblr.com/9b2b175cc5a61c6be0a218d67944c5d1/tumblr_nx19sm1ESZ1s02vreo2_250.gif"><br><br><img src="http://38.media.tumblr.com/c3f1839746031a26435ff955fcb85953/tumblr_nx19sm1ESZ1s02vreo3_250.gif"><br><br><img src="http://31.media.tumblr.com/e5ff00d7cc09d55207d47e29e5aad58b/tumblr_nx19sm1ESZ1s02vreo4_250.gif"><br><br><p><a href="http://gifsboom.tumblr.com/post/132207435469" target="_blank" rel="noreferrer">gifsboom</a>:</p>
-<blockquote>
-<p>Video:&nbsp;<a href="http://www.tastefullyoffensive.com/2015/10/sticker-causes-kitten-to-malfunction.html" target="_blank" rel="noreferrer">Sticker Causes Kitten&rsquo;s Brain to Malfunction</a></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-30T16:15:30+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-30T16:15:30+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-	<category term="quail cat"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-30:/16199</id>
-	<link href="http://mememaster.tumblr.com/post/132217479209" rel="alternate" type="text/html"/>
-	<title type="html">fuglyselfie:“how would your friends describe you?”</title>
-	<summary type="html"><![CDATA[fuglyselfie:“how would your friends describe you?”
-]]></summary>
-	<content type="html"><![CDATA[<html><body><p><a href="http://fuglyselfie.tumblr.com/post/131907669799" target="_blank" rel="noreferrer">fuglyselfie</a>:</p><blockquote><p>&ldquo;how would your friends describe you?&rdquo;<br></p>
-<figure><img src="http://36.media.tumblr.com/ed81a490a9f03119fdbf048fe4442421/tumblr_inline_nwsqlu7skK1r49tzv_540.jpg"></figure></blockquote></body></html>
-]]></content>
-	<updated>2015-10-30T16:41:55+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://mememaster.tumblr.com/</id>
-		<link rel="self" href="http://mememaster.tumblr.com/"/>
-		<updated>2015-10-30T16:41:55+00:00</updated>
-		<title>Comedy Blog</title></source>
 
 
 </entry>
