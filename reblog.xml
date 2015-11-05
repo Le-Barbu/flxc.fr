@@ -4,11 +4,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-30T15:01:28+00:00</updated>
+<updated>2015-10-30T16:41:55+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-04:/17094</id>
+	<link href="http://mememaster.tumblr.com/post/132515935184" rel="alternate" type="text/html"/>
+	<title type="html">moisemorancy:
+
+biohazerd:
+
+NONONONONONNONONON THIS ONE IS THE...</title>
+	<summary type="html"><![CDATA[moisemorancy:
+
+biohazerd:
+
+NONONONONONNONONON THIS ONE IS THE BEST THIS ONE IS THE BESTTTTTTTTTT
+
+��...]]></summary>
+	<content type="html"><![CDATA[<html><body><br><br><p><a href="http://moisemorancy.tumblr.com/post/131741458340" target="_blank" rel="noreferrer">moisemorancy</a>:</p>
+<blockquote>
+<p><a href="http://biohazerd.tumblr.com/post/131730032562" target="_blank" rel="noreferrer">biohazerd</a>:</p>
+<blockquote>
+<p>NONONONONONNONONON THIS ONE IS THE BEST THIS ONE IS THE BESTTTTTTTTTT</p>
+</blockquote>
+<p>&#65533;&#65533;&#65533;</p>
+</blockquote></body></html>
+]]></content>
+	<updated>2015-11-04T03:54:16+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://mememaster.tumblr.com/</id>
+		<link rel="self" href="http://mememaster.tumblr.com/"/>
+		<updated>2015-11-04T03:54:16+00:00</updated>
+		<title>Comedy Blog</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-11-04:/17228</id>
@@ -1912,24 +1947,6 @@ Video: Sticker Causes Kitten’s Brain to Malfunction
 		<link rel="self" href="http://mememaster.tumblr.com/"/>
 		<updated>2015-10-30T16:41:55+00:00</updated>
 		<title>Comedy Blog</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-30:/16238</id>
-	<link href="http://www.viedemerde.fr/sexe/8635331" rel="alternate" type="text/html"/>
-	<title type="html">Anonyme a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, dans l'école où j'enseigne, une CP est allée chercher des noises à une CM2. Celle-ci lu...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, dans l'&eacute;cole o&ugrave; j'enseigne, une CP est all&eacute;e chercher des noises &agrave; une CM2. Celle-ci lui a hurl&eacute; : "Tu sais quoi, ton papa il a mis sa bite toute dure dans la chatte toute mouill&eacute;e de ta maman pour te fabriquer, et il aurait jamais d&ucirc; parce que t'es compl&egrave;tement rat&eacute;e !" VDM</p></body></html>
-]]></content>
-	<updated>2015-10-30T15:01:28+00:00</updated>
-	<author><name>Anonyme</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-10-30T15:01:28+00:00</updated>
-		<title>Vie de merde</title></source>
 
 
 </entry>
