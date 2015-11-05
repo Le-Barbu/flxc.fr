@@ -4,11 +4,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-30T11:52:41+00:00</updated>
+<updated>2015-10-30T15:15:30+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-05:/17359</id>
+	<link href="http://www.mediapart.fr/journal/france/051115/le-mauvais-coup-du-fisc-contre-mediapart" rel="alternate" type="text/html"/>
+	<title type="html">Le mauvais coup du fisc contre Mediapart - Page 1 | Mediapart</title>
+	<summary type="html"><![CDATA[Le fisc veut couler Mediapart en lui appliquant une TVA qu'il n'a pas à appliquer. Or, vous le savez...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Le fisc veut couler Mediapart en lui appliquant une TVA qu'il n'a pas &agrave; appliquer. Or, vous le savez, le recours devant le tribunal administratif n'est pas suspensif, et Mediapart doit donc payer 4,1 millions d'euros en attendant que l'affaire soit jug&eacute;e.<br><br>
+Et donc Mediapart a besoin d'aide. Pour &ccedil;a, vous pouvez :<br><br>
+- vous abonner : <a href="http://www.mediapart.fr/offre-speciale/testez_nous?xtatc=INT-182" rel="noreferrer" target="_blank">http://www.mediapart.fr/offre-speciale/testez_nous?xtatc=INT-182</a><br>
+- faire un don : <a href="https://www.jaimelinfo.fr/mediapart/" rel="noreferrer" target="_blank">https://www.jaimelinfo.fr/mediapart/</a><br>
+- en parler autour de vous pour que les gens s'abonnent ou fassent un don<br><br>
+Parce que c'est important.<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?G-pJdw" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-11-05T08:57:11+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-11-05T08:57:11+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+	<category term="fb"/>
+
+	<category term="fs"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-05:/17383</id>
+	<link href="http://liens.howtommy.net/?NVhsEQ" rel="alternate" type="text/html"/>
+	<title type="html">Myinstants! The largest instant button website! - HowTommy | Liens et actu en vrac</title>
+	<summary type="html"><![CDATA[Non.
+
+Non non non, pas ce soir. :p(Permalink)]]></summary>
+	<content type="html"><![CDATA[<html><body><p>Non.<br><br>
+Non non non, pas ce soir. :p<br>(<a href="http://www.mypersonnaldata.eu/shaarli/?WQPTbQ" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-11-05T18:06:31+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.mypersonnaldata.eu/shaarli/</id>
+		<link rel="self" href="http://www.mypersonnaldata.eu/shaarli/"/>
+		<updated>2015-11-05T18:06:31+00:00</updated>
+		<title>Les liens de Kevin Merigot</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-11-05:/17357</id>
@@ -303,7 +351,7 @@ When you not the baby daddy but you take care of the kids anyway 
 	<link href="https://instagram.com/p/7eBS0-Aupi/" rel="alternate" type="text/html"/>
 	<title type="html">#tbt to my favorite childhood activity #clouds #drawing #comic</title>
 	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="https://scontent.cdninstagram.com/hphotos-xpt1/t51.2885-15/e35/11910178_164140307256081_1668104086_n.jpg"></body></html>
+	<content type="html"><![CDATA[<html><body><img src="https://scontent.cdninstagram.com/hphotos-xfp1/t51.2885-15/e35/11910178_164140307256081_1668104086_n.jpg"></body></html>
 ]]></content>
 	<updated>2015-09-10T23:47:48+00:00</updated>
 	<author><name>Instagram Bridge</name></author>
@@ -1899,42 +1947,6 @@ image | twitter | facebook | patreon
 		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
 		<updated>2015-10-30T15:15:30+00:00</updated>
 		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-30:/16169</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/132214925017" rel="alternate" type="text/html"/>
-	<title type="html">by Wrong Hands</title>
-	<summary type="html"><![CDATA[by Wrong Hands]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://36.media.tumblr.com/3233a5b022090046d2371257588b47bc/tumblr_nx1al1YlN31rorxt1o1_500.jpg"><br><br><p>by <a href="http://wronghands1.tumblr.com/post/132208009460" target="_blank" rel="noreferrer">Wrong Hands</a></p></body></html>
-]]></content>
-	<updated>2015-10-30T15:45:29+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-30T15:45:29+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-30:/16178</id>
-	<link href="http://www.viedemerde.fr/enfants/8635262" rel="alternate" type="text/html"/>
-	<title type="html">Un lecteur a une VDM</title>
-	<summary type="html"><![CDATA[Aujourd'hui, dans le métro, absorbé dans la lecture de mon roman, je ne remarque pas le gamin qui me...]]></summary>
-	<content type="html"><![CDATA[<html><body><p>Aujourd'hui, dans le m&eacute;tro, absorb&eacute; dans la lecture de mon roman, je ne remarque pas le gamin qui me fait des coucous. Sa m&egrave;re est venue me faire la morale devant tout le wagon, car : "C'est &agrave; cause de gens comme vous qu'on ne peut plus &eacute;duquer ses enfants et en faire des gens civilis&eacute;s." VDM</p></body></html>
-]]></content>
-	<updated>2015-10-30T11:52:41+00:00</updated>
-	<author><name>Un lecteur</name></author>
-	<source>
-		<id>http://www.viedemerde.fr</id>
-		<link rel="self" href="http://www.viedemerde.fr"/>
-		<updated>2015-10-30T11:52:41+00:00</updated>
-		<title>Vie de merde</title></source>
 
 
 </entry>
