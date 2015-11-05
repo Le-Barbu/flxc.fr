@@ -4,11 +4,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-21T11:06:54+00:00</updated>
+<updated>2015-10-30T21:06:30+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-04:/17132</id>
+	<link href="http://tools.aldarone.fr/share/?Kgidug" rel="alternate" type="text/html"/>
+	<title type="html">« Twitter a donc bien trouvé un moyen de se débarrasser des homophobes ! » - Nef on Twitter - Les petits liens d'Alda</title>
+	<summary type="html"><![CDATA[LOL &nbsp; :-D
+Je crois que je vais suivre #masculinitysofragile rien que pour le fun. Ils semblent ...]]></summary>
+	<content type="html"><![CDATA[<html><body><p>LOL &nbsp; :-D<br>
+Je crois que je vais suivre #masculinitysofragile rien que pour le fun. Ils semblent tellement en ins&eacute;curit&eacute; par rapport &agrave; leur masculinit&eacute;.<br>(<a href="http://sebsauvage.net/links/?EBKqwQ" rel="noreferrer" target="_blank">Permalink</a>)</p></body></html>
+]]></content>
+	<updated>2015-11-04T08:30:33+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://sebsauvage.net/links/</id>
+		<link rel="self" href="http://sebsauvage.net/links/"/>
+		<updated>2015-11-04T08:30:33+00:00</updated>
+		<title>Liens en vrac de sebsauvage</title></source>
+
+	<category term="lgbt"/>
+
+	<category term="society"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-11-04:/17190</id>
@@ -1906,24 +1930,6 @@ Video: Sticker Causes Kitten’s Brain to Malfunction
 		<link rel="self" href="http://danstonchat.com/"/>
 		<updated>2015-10-30T21:06:30+00:00</updated>
 		<title>DansTonChat</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-21:/14277</id>
-	<link href="http://www.dailymotion.com/video/x3ag3rn" rel="alternate" type="text/html"/>
-	<title type="html">Comment faire une sieste en conduisant un camion - vidéo dailymotion</title>
-	<summary type="html"><![CDATA[Comment faire une sieste en conduisant un camion - vidéo dailymotion]]></summary>
-	<content type="html"><![CDATA[<html><body><a href="http://www.dailymotion.com/video/x3ag3rn" rel="noreferrer" target="_blank"><img src="http://s2.dmcdn.net/O_zok/526x297-bVe.jpg"></a><br><a href="http://www.dailymotion.com/video/x3ag3rn" rel="noreferrer" target="_blank">Comment faire une sieste en conduisant un camion - vid&eacute;o dailymotion</a></body></html>
-]]></content>
-	<updated>2015-10-21T11:06:54+00:00</updated>
-	<author><name>Dailymotion Bridge</name></author>
-	<source>
-		<id>https://www.dailymotion.com/</id>
-		<link rel="self" href="https://www.dailymotion.com/"/>
-		<updated>2015-10-21T11:06:54+00:00</updated>
-		<title>Spi0n</title></source>
 
 
 </entry>
