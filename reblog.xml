@@ -4,11 +4,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Published articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/15.7</generator>
-<updated>2015-10-30T15:15:30+00:00</updated>
+<updated>2015-10-30T08:47:11+00:00</updated>
 <id>http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d</id>
 <link href="http://flxc.fr/rss/public.php?op=rss&amp;id=-2&amp;key=n5jffk55be28157af8d" rel="self"/>
 
 <link href="http://flxc.fr/rss" rel="alternate"/>
+
+<entry>
+	<id>tag:flxc.fr,2015-11-06:/17398</id>
+	<link href="http://www.luc-damas.fr/humeurs/starcraft-ii-blizzard-development-center/" rel="alternate" type="text/html"/>
+	<title type="html">Starcraft II : Blizzard Development Center</title>
+	<summary type="html"><![CDATA[
+]]></summary>
+	<content type="html"><![CDATA[<html><body><p><img src="http://www.luc-damas.fr/humeurs/images/blizzard-sc2.jpg" alt="blizzard-sc2" width="700" height="1117"></p>
+<img src="http://feeds.feedburner.com/~r/lucdamas/humeurs/~4/vplLbEdruBE" height="1" width="1" alt=""></body></html>
+]]></content>
+	<updated>2015-11-05T19:41:58+00:00</updated>
+	<author><name>Luc</name></author>
+	<source>
+		<id>http://www.luc-damas.fr/humeurs</id>
+		<link rel="self" href="http://www.luc-damas.fr/humeurs"/>
+		<updated>2015-11-05T19:41:58+00:00</updated>
+		<title>Humeurs illustrées</title></source>
+
+	<category term="informatique"/>
+
+	<category term="sport"/>
+
+	<category term="abus"/>
+
+	<category term="code"/>
+
+	<category term="consommation"/>
+
+	<category term="développement"/>
+
+	<category term="jeux vidéo"/>
+
+	<category term="lag"/>
+
+	<category term="starcraft"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:flxc.fr,2015-11-05:/17359</id>
@@ -1918,35 +1956,6 @@ A little Rory ...]]></summary>
 	<category term="fb"/>
 
 	<category term="fs"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:flxc.fr,2015-10-30:/16159</id>
-	<link href="http://tumblr.tastefullyoffensive.com/post/132213590911" rel="alternate" type="text/html"/>
-	<title type="html">owlturdcomix:
-
-Joke’s on me.
-image | twitter | facebook |...</title>
-	<summary type="html"><![CDATA[     owlturdcomix:
-
-Joke’s on me.
-image | twitter | facebook | patreon
-]]></summary>
-	<content type="html"><![CDATA[<html><body><img src="http://41.media.tumblr.com/313769ca1adb0749a08e445a44721c1c/tumblr_nx1al8jdXc1s667kio1_500.png"><br><br><img src="http://40.media.tumblr.com/d1bbc7bb4c143385731c12f9dbd93190/tumblr_nx1al8jdXc1s667kio2_500.png"><br><br><img src="http://40.media.tumblr.com/1a6f4a498a5a612fb3a15ff184712863/tumblr_nx1al8jdXc1s667kio3_500.png"><br><br><img src="http://41.media.tumblr.com/b134ea2f90c1042c25ca6edea5471088/tumblr_nx1al8jdXc1s667kio4_500.png"><br><br><img src="http://40.media.tumblr.com/e2dd9d8239397e420c9b76dfca89d40c/tumblr_nx1al8jdXc1s667kio5_500.png"><br><br><p><a href="http://owlturdcomix.tumblr.com/post/132208015119" target="_blank" rel="noreferrer">owlturdcomix</a>:</p>
-<blockquote>
-<p>Joke&rsquo;s on me.</p>
-<p><a href="http://i.imgur.com/rpY66N9.png" target="_blank" rel="noreferrer">i</a><a href="http://i.imgur.com/IVTrxxW.png" target="_blank" rel="noreferrer">m</a><a href="http://i.imgur.com/9BZfnMP.png" target="_blank" rel="noreferrer">age</a><a href="http://i.imgur.com/8yPZ0o9.png" target="_blank" rel="noreferrer"> </a>| <a href="https://twitter.com/shenanigansen" target="_blank" rel="noreferrer">twitter</a> | <a href="https://www.facebook.com/owlturdcomix" target="_blank" rel="noreferrer">facebook</a> | <a href="https://www.patreon.com/owlturd" target="_blank" rel="noreferrer">patreon</a></p>
-</blockquote></body></html>
-]]></content>
-	<updated>2015-10-30T15:15:30+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://tumblr.tastefullyoffensive.com/</id>
-		<link rel="self" href="http://tumblr.tastefullyoffensive.com/"/>
-		<updated>2015-10-30T15:15:30+00:00</updated>
-		<title>Tastefully Offensive on Tumblr</title></source>
 
 
 </entry>
