@@ -6,6 +6,20 @@
    <language>fr</language>
       <item>
       <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
+      <link>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/index.html</link>
+      <guid>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/index.html</guid>
+      <pubdate>2015-11-12 23:49:08.000000000</pubdate>
+      <description></description>
+      </item>
+      <item>
+      <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
+      <link>http://le-barbu.github.io/vidéos/index.html</link>
+      <guid>http://le-barbu.github.io/vidéos/index.html</guid>
+      <pubdate>2015-11-12 23:48:54.000000000</pubdate>
+      <description></description>
+      </item>
+      <item>
+      <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
       <link>http://le-barbu.github.io/license.html</link>
       <guid>http://le-barbu.github.io/license.html</guid>
       <pubdate>2015-11-12 10:15:30.000000000</pubdate>
