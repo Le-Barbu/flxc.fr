@@ -6,6 +6,27 @@
    <language>fr</language>
       <item>
       <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
+      <link>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/brdl_1.html</link>
+      <guid>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/brdl_1.html</guid>
+      <pubdate>2015-11-13 00:29:31.000000000</pubdate>
+      <description>BRDL#1 ------ L'Alcool - Superman - Photographie - Dentifrice [https://www.youtube.com/watch?v=P12fXanHFWQ](https://www.youtube.com/watch?v=P12fXanHFWQ)</description>
+      </item>
+      <item>
+      <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
+      <link>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/brdl_2.html</link>
+      <guid>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/brdl_2.html</guid>
+      <pubdate>2015-11-13 00:30:57.000000000</pubdate>
+      <description>BRDL#2 ------ Son - Mafia - Fusion - Escalier [https://www.youtube.com/watch?v=ohVBfn3o3mg](https://www.youtube.com/watch?v=ohVBfn3o3mg)</description>
+      </item>
+      <item>
+      <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
+      <link>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/brdl_3.html</link>
+      <guid>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/brdl_3.html</guid>
+      <pubdate>2015-11-13 00:32:03.000000000</pubdate>
+      <description>BRDL#3 ------ Si siri - Encore Si siri - Kéblo [https://www.youtube.com/watch?v=BMdHg9WNIoE](https://www.youtube.com/watch?v=BMdHg9WNIoE)</description>
+      </item>
+      <item>
+      <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
       <link>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/brdl_0.html</link>
       <guid>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/brdl_0.html</guid>
       <pubdate>2015-11-13 00:13:28.000000000</pubdate>
@@ -24,20 +45,6 @@
       <guid>http://le-barbu.github.io/vidéos/index.html</guid>
       <pubdate>2015-11-12 23:53:33.000000000</pubdate>
       <description>Vidéos ------</description>
-      </item>
-      <item>
-      <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
-      <link>http://le-barbu.github.io/license.html</link>
-      <guid>http://le-barbu.github.io/license.html</guid>
-      <pubdate>2015-11-12 10:15:30.000000000</pubdate>
-      <description>L'intégralité de ce blog et de son contenu est copyleft <a href="http://creativecommons.org/licenses/by-sa/3.0/fr/" target="_blank">cc by-sa</a>.</description>
-      </item>
-      <item>
-      <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
-      <link>http://le-barbu.github.io/rss.html</link>
-      <guid>http://le-barbu.github.io/rss.html</guid>
-      <pubdate>2015-11-12 10:22:01.000000000</pubdate>
-      <description>À utiliser avec [un lecteur de flux](http://lzone.de/liferea/install.htm) - ah oui celui-là est surtout pour GNU/Linux, il y en a d'autres à trouver ailleurs. La [liste des actualités](/feed.xml) de ce site. Mes [reblog](/reblog.xml)s. Une serie de plein de choses du net. Du drôle, du bête et de l'intéressant.</description>
       </item>
 </channel>
 </rss>
