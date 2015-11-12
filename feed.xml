@@ -6,6 +6,13 @@
    <language>fr</language>
       <item>
       <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
+      <link>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/brdl#0.html</link>
+      <guid>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/brdl#0.html</guid>
+      <pubdate>2015-11-12 23:50:26.000000000</pubdate>
+      <description>BRDL#0 ------ [https://www.youtube.com/watch?v=g8iBI6Xyz3Y](https://www.youtube.com/watch?v=g8iBI6Xyz3Y)</description>
+      </item>
+      <item>
+      <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
       <link>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/index.html</link>
       <guid>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/index.html</guid>
       <pubdate>2015-11-12 23:49:08.000000000</pubdate>
