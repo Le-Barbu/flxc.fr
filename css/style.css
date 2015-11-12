@@ -1,45 +1,3 @@
-html {
-  margin           : 0px auto 0px auto;
-  padding          : 0;
-  background-color : #373B47;
-  color            : #F4DFCA;
-  cursor           : default;
-  font-family      : Helvetica, Cantarell, sans-serif;
-}
-
-body {
-  width            : 800px;
-  margin           : auto;
-}
-
-header#title {
-  cursor         : default;
-  font-size      : 32px;
-  padding        : 16px;
-  padding-bottom : 48px;
-}
-
-header#title,
-header#title a {
-  color          : #EBC789;
-}
-
-header#title #quotes:before {
-  content: open-quote;
-}
-
-header#title #quotes:after {
-  content: close-quote;
-}
-
-header#title #quotes {
-  position : relative;
-  top : 16px;
-  color: #F4DFCA;
-  left : -64px;
-  font-style : italic;
-  font-size : 10px;
-}
 
 .category  {
   font-style : italic;
@@ -89,33 +47,7 @@ h3, h4 {
     margin  : 0;
 }
 
-a:focus {
-    outline: 0;
-}
 
-a,
-button,
-.menu,
-nav.sidebar .menu:hover .menu-label+.menu-dropdown a,
-input[type="submit"] {
-  color           : #CAB45E;
-  text-decoration : none;
-  -webkit-transition: all 400ms ease;
-     -moz-transition: all 400ms ease;
-      -ms-transition: all 400ms ease;
-       -o-transition: all 400ms ease;
-          transition: all 400ms ease;
-}
-
-a:hover,
-a.active,
-button:hover,
-.menu:hover,
-nav.sidebar a.selected,
-nav.sidebar .menu:hover .menu-label+.menu-dropdown a:hover,
-input[type="submit"]:hover {
-  color  : #F4DFCA;
-}
 
 input {
   background-color : #373B47;
@@ -147,13 +79,6 @@ input[type="checkbox"] {
   border : solid 1px #CAB45E;
 }
 
-.underlined {
-  border-bottom: #F4DFCA dotted 1px;
-}
-
-.highlight {
-  color: #F4DFCA;
-}
 
 nav.sidebar {
   position    : absolute;
@@ -286,14 +211,6 @@ nav .counter {
     padding-right : 2px;
 }
 
-#content {
-  position       : relative;
-  left           : 180px;
-  border-left    : 3px solid #A6A962;
-  padding        : 16px;
-  width          : 620px;
-  min-height     : 500px;
-}
 
 article {
   cursor  : default;
@@ -304,10 +221,6 @@ article {
   border-top    : 1px dashed #A6A962;
 }
 
-footer {
-  text-align : center;
-  font-size  : x-small;
-}
 
 .permalink {
   font-size : x-small;

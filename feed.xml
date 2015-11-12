@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   <title>Félix</title>
+   <description>less is more</description>
+   <language>fr</language>
+      <item>
+      <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
+      <link>http://le-barbu.github.io/license.html</link>
+      <guid>http://le-barbu.github.io/license.html</guid>
+      <pubdate>2015-11-12 10:15:30.000000000</pubdate>
+      <description>L'intégralité de ce blog et de son contenu est copyleft <a href="http://creativecommons.org/licenses/by-sa/3.0/fr/" target="_blank">cc by-sa</a>.</description>
+      </item>
+      <item>
+      <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
+      <link>http://le-barbu.github.io/rss.html</link>
+      <guid>http://le-barbu.github.io/rss.html</guid>
+      <pubdate>2015-11-12 10:22:01.000000000</pubdate>
+      <description>À utiliser avec [un lecteur de flux](http://lzone.de/liferea/install.htm) - ah oui celui-là est surtout pour GNU/Linux, il y en a d'autres à trouver ailleurs. La [liste des actualités](/feed.xml) de ce site. Mes [reblog](/reblog.xml)s. Une serie de plein de choses du net. Du drôle, du bête et de l'intéressant.</description>
+      </item>
+</channel>
+</rss>

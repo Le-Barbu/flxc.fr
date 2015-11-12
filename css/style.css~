@@ -58,8 +58,8 @@ article a img {
 
 article a img:hover {
     opacity: 1;
-    outline: 2px solid #CAB45E;
-    outline-offset: -2px;
+    outline: 3px solid #CAB45E;
+    outline-offset: -3px;
 }
 
 article .description {
