@@ -15,7 +15,7 @@
       <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
       <link>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/index.html</link>
       <guid>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/index.html</guid>
-      <pubdate>2015-11-12 23:53:10.000000000</pubdate>
+      <pubdate>2015-11-13 00:20:29.000000000</pubdate>
       <description>Le BRDL du Barbu ----------------</description>
       </item>
       <item>
