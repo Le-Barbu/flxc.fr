@@ -6,10 +6,10 @@
    <language>fr</language>
       <item>
       <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
-      <link>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/brdl_1.html</link>
-      <guid>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/brdl_1.html</guid>
-      <pubdate>2015-11-13 00:29:31.000000000</pubdate>
-      <description>BRDL#1 ------ L'Alcool - Superman - Photographie - Dentifrice [https://www.youtube.com/watch?v=P12fXanHFWQ](https://www.youtube.com/watch?v=P12fXanHFWQ)</description>
+      <link>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/brdl_0.html</link>
+      <guid>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/brdl_0.html</guid>
+      <pubdate>2015-11-13 00:13:28.000000000</pubdate>
+      <description>BRDL#0 ------ [https://www.youtube.com/watch?v=g8iBI6Xyz3Y](https://www.youtube.com/watch?v=g8iBI6Xyz3Y)</description>
       </item>
       <item>
       <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
@@ -27,13 +27,6 @@
       </item>
       <item>
       <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
-      <link>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/brdl_0.html</link>
-      <guid>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/brdl_0.html</guid>
-      <pubdate>2015-11-13 00:13:28.000000000</pubdate>
-      <description>BRDL#0 ------ [https://www.youtube.com/watch?v=g8iBI6Xyz3Y](https://www.youtube.com/watch?v=g8iBI6Xyz3Y)</description>
-      </item>
-      <item>
-      <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
       <link>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/index.html</link>
       <guid>http://le-barbu.github.io/vidéos/le_brdl_du_barbu/index.html</guid>
       <pubdate>2015-11-13 00:20:29.000000000</pubdate>
@@ -45,6 +38,13 @@
       <guid>http://le-barbu.github.io/vidéos/index.html</guid>
       <pubdate>2015-11-12 23:53:33.000000000</pubdate>
       <description>Vidéos ------</description>
+      </item>
+      <item>
+      <title>$(basename $line | sed -e "s,$EXT$,,g")</title>
+      <link>http://le-barbu.github.io/license.html</link>
+      <guid>http://le-barbu.github.io/license.html</guid>
+      <pubdate>2015-11-12 10:15:30.000000000</pubdate>
+      <description>L'intégralité de ce blog et de son contenu est copyleft <a href="http://creativecommons.org/licenses/by-sa/3.0/fr/" target="_blank">cc by-sa</a>.</description>
       </item>
 </channel>
 </rss>
